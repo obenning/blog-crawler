@@ -242,8 +242,16 @@
     <div class="container">
         <div class="ai-info">
             <h3>📚 Für KI-Nutzung optimiert</h3>
-            <p>Diese Seite nutzt <code>raw.githubusercontent.com</code> URLs, die von KIs wie Claude geladen werden können. 
-            Klicke auf "Raw-Link für KI" um einen Artikel-Link zu erhalten, den du direkt in deine KI einfügen kannst.</p>
+            <p>Diese Seite nutzt <code>raw.githubusercontent.com</code> URLs, die von KIs wie Claude geladen werden können.</p>
+            <div style="margin-top: 1rem; display: flex; gap: 1rem; flex-wrap: wrap;">
+                <button onclick="window.open('https://raw.githubusercontent.com/obenning/blog-crawler/main/blog_content/ALL_ARTICLES_COMBINED.md', '_blank')" 
+                        style="padding: 0.75rem 1.5rem; background: #2196f3; color: white; border: none; border-radius: 6px; cursor: pointer; font-size: 1rem; display: flex; align-items: center; gap: 0.5rem;">
+                    📚 Alle Artikel als ein Dokument
+                </button>
+                <span style="color: #666; align-self: center; font-size: 0.9rem;">
+                    Perfekt um den gesamten Blog-Fundus an deine KI zu geben!
+                </span>
+            </div>
         </div>
 
         <div class="search-box">
@@ -372,14 +380,15 @@
                 );
             }
 
-            // Text-Suche
+            // Text-Suche (inkl. Volltext!)
             if (searchTerm) {
                 const terms = searchTerm.split(/\s+/).filter(t => t.length > 0);
                 results = results.filter(article => {
                     const searchableText = [
                         article.title,
                         article.author,
-                        article.excerpt
+                        article.excerpt,
+                        article.full_text || ''  // Volltext-Suche!
                     ].join(' ').toLowerCase();
 
                     return terms.every(term => searchableText.includes(term));
@@ -404,7 +413,17 @@
 
             articlesDiv.innerHTML = articles.map(article => {
                 const highlightedTitle = highlightText(article.title, searchTerm);
-                const highlightedExcerpt = highlightText(article.excerpt, searchTerm);
+                
+                // Finde relevanten Kontext im Volltext wenn Suchbegriff vorhanden
+                let displayExcerpt = article.excerpt;
+                if (searchTerm && article.full_text) {
+                    const context = extractContext(article.full_text, searchTerm, 200);
+                    if (context) {
+                        displayExcerpt = context;
+                    }
+                }
+                
+                const highlightedExcerpt = highlightText(displayExcerpt, searchTerm);
 
                 return `
                     <div class="article-card">
@@ -429,6 +448,35 @@
         }
 
         // ===== HILFSFUNKTIONEN =====
+        function extractContext(text, searchTerm, contextLength = 200) {
+            if (!text || !searchTerm) return null;
+            
+            const terms = searchTerm.toLowerCase().split(/\s+/).filter(t => t.length > 0);
+            const lowerText = text.toLowerCase();
+            
+            // Finde erste Position eines Suchbegriffs
+            let bestPos = -1;
+            for (const term of terms) {
+                const pos = lowerText.indexOf(term);
+                if (pos !== -1 && (bestPos === -1 || pos < bestPos)) {
+                    bestPos = pos;
+                }
+            }
+            
+            if (bestPos === -1) return null;
+            
+            // Extrahiere Kontext um die Fundstelle
+            const start = Math.max(0, bestPos - contextLength / 2);
+            const end = Math.min(text.length, bestPos + contextLength / 2);
+            
+            let context = text.substring(start, end);
+            
+            // Füge ... hinzu wenn abgeschnitten
+            if (start > 0) context = '...' + context;
+            if (end < text.length) context = context + '...';
+            
+            return context;
+        }
         function highlightText(text, searchTerm) {
             if (!searchTerm) return escapeHtml(text);
 
