@@ -1,0 +1,536 @@
+<!DOCTYPE html>
+<html lang="de">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Kerberos Blog-Suche</title>
+    <style>
+        * {
+            margin: 0;
+            padding: 0;
+            box-sizing: border-box;
+        }
+        
+        body {
+            font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Oxygen, Ubuntu, Cantarell, sans-serif;
+            background: #f5f5f5;
+            padding: 20px;
+            line-height: 1.6;
+        }
+        
+        .container {
+            max-width: 1200px;
+            margin: 0 auto;
+            background: white;
+            padding: 30px;
+            border-radius: 8px;
+            box-shadow: 0 2px 8px rgba(0,0,0,0.1);
+        }
+        
+        .header {
+            text-align: center;
+            margin-bottom: 30px;
+            padding-bottom: 20px;
+            border-bottom: 2px solid #e0e0e0;
+        }
+        
+        .header h1 {
+            color: #2c3e50;
+            margin-bottom: 10px;
+        }
+        
+        .header p {
+            color: #7f8c8d;
+        }
+        
+        .search-box {
+            margin-bottom: 30px;
+        }
+        
+        .search-input {
+            width: 100%;
+            padding: 15px 20px;
+            font-size: 16px;
+            border: 2px solid #e0e0e0;
+            border-radius: 8px;
+            transition: border-color 0.3s;
+        }
+        
+        .search-input:focus {
+            outline: none;
+            border-color: #3498db;
+        }
+        
+        .filters {
+            display: flex;
+            gap: 10px;
+            margin-bottom: 20px;
+            flex-wrap: wrap;
+        }
+        
+        .filter-btn {
+            padding: 8px 16px;
+            border: 1px solid #e0e0e0;
+            background: white;
+            border-radius: 20px;
+            cursor: pointer;
+            transition: all 0.3s;
+            font-size: 14px;
+        }
+        
+        .filter-btn:hover {
+            background: #f0f0f0;
+        }
+        
+        .filter-btn.active {
+            background: #3498db;
+            color: white;
+            border-color: #3498db;
+        }
+        
+        .stats {
+            margin-bottom: 20px;
+            padding: 10px;
+            background: #f8f9fa;
+            border-radius: 4px;
+            font-size: 14px;
+            color: #666;
+        }
+        
+        .results {
+            margin-top: 20px;
+        }
+        
+        .article-card {
+            background: white;
+            border: 1px solid #e0e0e0;
+            border-radius: 8px;
+            padding: 20px;
+            margin-bottom: 15px;
+            transition: box-shadow 0.3s, transform 0.2s;
+            cursor: pointer;
+        }
+        
+        .article-card:hover {
+            box-shadow: 0 4px 12px rgba(0,0,0,0.1);
+            transform: translateY(-2px);
+        }
+        
+        .article-title {
+            font-size: 20px;
+            font-weight: 600;
+            color: #2c3e50;
+            margin-bottom: 8px;
+        }
+        
+        .article-title a {
+            color: #2c3e50;
+            text-decoration: none;
+        }
+        
+        .article-title a:hover {
+            color: #3498db;
+        }
+        
+        .article-meta {
+            font-size: 13px;
+            color: #7f8c8d;
+            margin-bottom: 10px;
+        }
+        
+        .article-meta span {
+            margin-right: 15px;
+        }
+        
+        .article-excerpt {
+            color: #555;
+            margin-bottom: 10px;
+            line-height: 1.5;
+        }
+        
+        .article-preview {
+            background: #f8f9fa;
+            padding: 10px;
+            border-left: 3px solid #3498db;
+            font-size: 14px;
+            color: #666;
+            font-style: italic;
+            margin-top: 10px;
+        }
+        
+        .highlight {
+            background-color: #fff3cd;
+            font-weight: 600;
+            padding: 2px 4px;
+            border-radius: 2px;
+        }
+        
+        .article-links {
+            margin-top: 10px;
+            display: flex;
+            gap: 10px;
+        }
+        
+        .btn {
+            padding: 6px 12px;
+            border-radius: 4px;
+            text-decoration: none;
+            font-size: 13px;
+            transition: all 0.3s;
+        }
+        
+        .btn-primary {
+            background: #3498db;
+            color: white;
+        }
+        
+        .btn-primary:hover {
+            background: #2980b9;
+        }
+        
+        .btn-secondary {
+            background: #95a5a6;
+            color: white;
+        }
+        
+        .btn-secondary:hover {
+            background: #7f8c8d;
+        }
+        
+        .loading {
+            text-align: center;
+            padding: 40px;
+            color: #7f8c8d;
+        }
+        
+        .no-results {
+            text-align: center;
+            padding: 40px;
+            color: #7f8c8d;
+        }
+        
+        .error {
+            background: #fee;
+            color: #c33;
+            padding: 15px;
+            border-radius: 4px;
+            margin-bottom: 20px;
+        }
+        
+        @media (max-width: 768px) {
+            body {
+                padding: 10px;
+            }
+            
+            .container {
+                padding: 15px;
+            }
+            
+            .article-title {
+                font-size: 18px;
+            }
+        }
+    </style>
+</head>
+<body>
+    <div class="container">
+        <div class="header">
+            <h1>🔍 Kerberos Blog-Suche</h1>
+            <p>Durchsuche alle Blog-Artikel mit Vorschau</p>
+        </div>
+        
+        <div class="search-box">
+            <input 
+                type="text" 
+                class="search-input" 
+                id="searchInput" 
+                placeholder="Suche nach Thema, Autor, Stichwort..."
+                autocomplete="off"
+            >
+        </div>
+        
+        <div class="filters" id="filters"></div>
+        
+        <div class="stats" id="stats">
+            Lade Artikel...
+        </div>
+        
+        <div class="results" id="results">
+            <div class="loading">Lade Blog-Artikel...</div>
+        </div>
+    </div>
+
+    <script>
+        let allArticles = [];
+        let currentFilter = 'all';
+        
+        // GitHub Repository Daten
+        const GITHUB_USER = 'obenning';
+        const GITHUB_REPO = 'blog-crawler';
+        const GITHUB_BRANCH = 'main';
+        const BLOG_FOLDER = 'blog_content';
+        
+        // Lade alle Artikel beim Start
+        async function loadArticles() {
+            try {
+                // Hole Liste aller Markdown-Dateien
+                const response = await fetch(
+                    `https://api.github.com/repos/${GITHUB_USER}/${GITHUB_REPO}/contents/${BLOG_FOLDER}?ref=${GITHUB_BRANCH}`
+                );
+                
+                if (!response.ok) {
+                    throw new Error('Fehler beim Laden der Artikel');
+                }
+                
+                const files = await response.json();
+                const mdFiles = files.filter(f => f.name.endsWith('.md'));
+                
+                // Lade Inhalt jedes Artikels
+                const articles = await Promise.all(
+                    mdFiles.map(async (file) => {
+                        const contentResponse = await fetch(file.download_url);
+                        const content = await contentResponse.text();
+                        return parseArticle(content, file.name);
+                    })
+                );
+                
+                allArticles = articles.filter(a => a !== null);
+                displayResults(allArticles);
+                updateStats(allArticles);
+                createFilters(allArticles);
+                
+            } catch (error) {
+                console.error('Fehler:', error);
+                document.getElementById('results').innerHTML = `
+                    <div class="error">
+                        ❌ Fehler beim Laden der Artikel. Bitte später erneut versuchen.
+                        <br><small>${error.message}</small>
+                    </div>
+                `;
+            }
+        }
+        
+        // Parse Markdown-Artikel
+        function parseArticle(content, filename) {
+            try {
+                // Extrahiere Frontmatter
+                const frontmatterMatch = content.match(/^---\n([\s\S]*?)\n---/);
+                if (!frontmatterMatch) return null;
+                
+                const frontmatter = {};
+                frontmatterMatch[1].split('\n').forEach(line => {
+                    const match = line.match(/^(.+?):\s*"?(.+?)"?$/);
+                    if (match) {
+                        frontmatter[match[1].trim()] = match[2].trim().replace(/^"|"$/g, '');
+                    }
+                });
+                
+                // Extrahiere Content (ohne Frontmatter)
+                const mainContent = content.split('---').slice(2).join('---').trim();
+                
+                // Erstelle Excerpt (erste 300 Zeichen des Contents)
+                const cleanContent = mainContent
+                    .replace(/^#+\s+.*/gm, '') // Remove headers
+                    .replace(/\[([^\]]+)\]\([^\)]+\)/g, '$1') // Remove links but keep text
+                    .replace(/\*\*/g, '') // Remove bold
+                    .replace(/\*/g, '') // Remove italic
+                    .trim();
+                
+                const excerpt = cleanContent.substring(0, 300) + '...';
+                
+                return {
+                    title: frontmatter.title || 'Ohne Titel',
+                    author: frontmatter.author || 'Unbekannt',
+                    date: frontmatter.date || '',
+                    url: frontmatter.url || '',
+                    excerpt: frontmatter.excerpt || excerpt,
+                    content: mainContent,
+                    filename: filename
+                };
+            } catch (error) {
+                console.error('Fehler beim Parsen:', filename, error);
+                return null;
+            }
+        }
+        
+        // Suche in Artikeln
+        function searchArticles(query) {
+            if (!query.trim()) {
+                return allArticles;
+            }
+            
+            const terms = query.toLowerCase().split(' ').filter(t => t.length > 2);
+            
+            return allArticles.filter(article => {
+                const searchText = `
+                    ${article.title} 
+                    ${article.author} 
+                    ${article.excerpt} 
+                    ${article.content}
+                `.toLowerCase();
+                
+                return terms.every(term => searchText.includes(term));
+            }).map(article => {
+                // Finde Kontext für Highlight
+                const context = findContext(article.content, terms[0]);
+                return { ...article, context };
+            });
+        }
+        
+        // Finde Kontext um Suchbegriff
+        function findContext(text, term, contextLength = 150) {
+            const lowerText = text.toLowerCase();
+            const index = lowerText.indexOf(term.toLowerCase());
+            
+            if (index === -1) return '';
+            
+            const start = Math.max(0, index - contextLength);
+            const end = Math.min(text.length, index + term.length + contextLength);
+            
+            let context = text.substring(start, end);
+            if (start > 0) context = '...' + context;
+            if (end < text.length) context = context + '...';
+            
+            return context;
+        }
+        
+        // Highlighte Suchbegriffe
+        function highlightText(text, query) {
+            if (!query) return text;
+            
+            const terms = query.split(' ').filter(t => t.length > 2);
+            let highlighted = text;
+            
+            terms.forEach(term => {
+                const regex = new RegExp(`(${term})`, 'gi');
+                highlighted = highlighted.replace(regex, '<span class="highlight">$1</span>');
+            });
+            
+            return highlighted;
+        }
+        
+        // Zeige Ergebnisse
+        function displayResults(articles) {
+            const resultsDiv = document.getElementById('results');
+            const query = document.getElementById('searchInput').value;
+            
+            if (articles.length === 0) {
+                resultsDiv.innerHTML = `
+                    <div class="no-results">
+                        😔 Keine Artikel gefunden
+                        ${query ? `für "${query}"` : ''}
+                    </div>
+                `;
+                return;
+            }
+            
+            resultsDiv.innerHTML = articles.map(article => `
+                <div class="article-card" onclick="window.open('${article.url}', '_blank')">
+                    <div class="article-title">
+                        <a href="${article.url}" target="_blank" onclick="event.stopPropagation()">
+                            ${highlightText(article.title, query)}
+                        </a>
+                    </div>
+                    <div class="article-meta">
+                        ${article.author ? `<span>👤 ${article.author}</span>` : ''}
+                        ${article.date ? `<span>📅 ${article.date}</span>` : ''}
+                    </div>
+                    <div class="article-excerpt">
+                        ${highlightText(article.excerpt, query)}
+                    </div>
+                    ${article.context ? `
+                        <div class="article-preview">
+                            ${highlightText(article.context, query)}
+                        </div>
+                    ` : ''}
+                    <div class="article-links">
+                        <a href="${article.url}" target="_blank" class="btn btn-primary" onclick="event.stopPropagation()">
+                            📖 Original lesen
+                        </a>
+                        <a href="https://github.com/${GITHUB_USER}/${GITHUB_REPO}/blob/${GITHUB_BRANCH}/${BLOG_FOLDER}/${article.filename}" 
+                           target="_blank" class="btn btn-secondary" onclick="event.stopPropagation()">
+                            📄 Markdown
+                        </a>
+                    </div>
+                </div>
+            `).join('');
+        }
+        
+        // Aktualisiere Statistiken
+        function updateStats(articles) {
+            const query = document.getElementById('searchInput').value;
+            const statsDiv = document.getElementById('stats');
+            
+            const totalArticles = allArticles.length;
+            const shownArticles = articles.length;
+            
+            if (query) {
+                statsDiv.innerHTML = `
+                    📊 ${shownArticles} von ${totalArticles} Artikeln gefunden für "${query}"
+                `;
+            } else {
+                statsDiv.innerHTML = `
+                    📊 ${totalArticles} Artikel verfügbar
+                `;
+            }
+        }
+        
+        // Erstelle Filter-Buttons
+        function createFilters(articles) {
+            const authors = [...new Set(articles.map(a => a.author).filter(Boolean))];
+            const filtersDiv = document.getElementById('filters');
+            
+            filtersDiv.innerHTML = `
+                <button class="filter-btn active" onclick="filterByAuthor('all')">Alle</button>
+                ${authors.slice(0, 5).map(author => `
+                    <button class="filter-btn" onclick="filterByAuthor('${author}')">${author}</button>
+                `).join('')}
+            `;
+        }
+        
+        // Filter nach Autor
+        function filterByAuthor(author) {
+            currentFilter = author;
+            
+            // Update Button-Status
+            document.querySelectorAll('.filter-btn').forEach(btn => {
+                btn.classList.remove('active');
+            });
+            event.target.classList.add('active');
+            
+            // Filter und zeige
+            let filtered = allArticles;
+            if (author !== 'all') {
+                filtered = allArticles.filter(a => a.author === author);
+            }
+            
+            const query = document.getElementById('searchInput').value;
+            if (query) {
+                filtered = searchArticles(query).filter(a => 
+                    author === 'all' || a.author === author
+                );
+            }
+            
+            displayResults(filtered);
+            updateStats(filtered);
+        }
+        
+        // Event Listener für Suche
+        document.getElementById('searchInput').addEventListener('input', (e) => {
+            const query = e.target.value;
+            let results = searchArticles(query);
+            
+            // Wende aktuellen Filter an
+            if (currentFilter !== 'all') {
+                results = results.filter(a => a.author === currentFilter);
+            }
+            
+            displayResults(results);
+            updateStats(results);
+        });
+        
+        // Lade Artikel beim Start
+        loadArticles();
+    </script>
+</body>
+</html>
