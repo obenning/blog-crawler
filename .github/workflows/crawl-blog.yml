@@ -1,58 +1,64 @@
-name: Crawl Blog Content
+name: Crawl Kerberos Compliance Blog
 
 on:
   schedule:
-    # Läuft jeden Tag um 2:00 Uhr UTC
+    # Täglich um 2:00 UTC (3:00 deutsche Zeit)
     - cron: '0 2 * * *'
-  
-  # Ermöglicht manuelles Triggern
-  workflow_dispatch:
-  
-  # Läuft bei jedem Push (nur für Testing, später auskommentieren)
-  push:
-    branches: [ main ]
+  workflow_dispatch:  # Erlaubt manuelles Triggern
 
 jobs:
   crawl:
     runs-on: ubuntu-latest
-    
+    permissions:
+      contents: write
+
     steps:
-    - name: Checkout Repository
-      uses: actions/checkout@v4
-      
-    - name: Setup Python
-      uses: actions/setup-python@v5
-      with:
-        python-version: '3.11'
-        cache: 'pip'
-    
-    - name: Install Dependencies
-      run: |
-        pip install -r requirements.txt
-    
-    - name: Run Blog Crawler
-      run: |
-        python blog_crawler.py
-    
-    - name: Check for Changes
-      id: git-check
-      run: |
-        git diff --exit-code || echo "changed=true" >> $GITHUB_OUTPUT
-    
-    - name: Commit and Push Changes
-      if: steps.git-check.outputs.changed == 'true'
-      run: |
-        git config --local user.email "github-actions[bot]@users.noreply.github.com"
-        git config --local user.name "github-actions[bot]"
-        git add blog_content/
-        git commit -m "🤖 Auto-update: Blog content crawled on $(date -u '+%Y-%m-%d %H:%M:%S UTC')"
-        git push
-      env:
-        GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
-    
-    - name: Upload Artifact
-      uses: actions/upload-artifact@v4
-      with:
-        name: blog-content
-        path: blog_content/
-        retention-days: 30
+      - name: Checkout repository
+        uses: actions/checkout@v4
+
+      - name: Set up Python
+        uses: actions/setup-python@v4
+        with:
+          python-version: '3.11'
+
+      - name: Install dependencies
+        run: |
+          pip install -r requirements.txt
+
+      - name: Run blog crawler
+        run: |
+          python blog_crawler.py
+          echo "✅ Blog crawler completed"
+
+      - name: Generate KI-friendly index
+        run: |
+          python generate_index.py
+          echo "✅ Articles index generated"
+
+      - name: Generate combined articles document
+        run: |
+          python combine_all_articles.py
+          echo "✅ Combined articles document generated"
+
+      - name: Check for changes
+        id: check_changes
+        run: |
+          git diff --exit-code blog_content/ || echo "changes=true" >> $GITHUB_OUTPUT
+
+      - name: Commit and push if changed
+        if: steps.check_changes.outputs.changes == 'true'
+        run: |
+          git config --local user.email "action@github.com"
+          git config --local user.name "GitHub Action"
+          git add blog_content/
+          git commit -m "🤖 Auto-update: Blog articles, index, and combined document ($(date +'%Y-%m-%d'))"
+          git push
+
+      - name: Summary
+        run: |
+          echo "### 📊 Crawl Summary" >> $GITHUB_STEP_SUMMARY
+          echo "" >> $GITHUB_STEP_SUMMARY
+          echo "- 📝 Articles crawled: $(ls -1 blog_content/*.md 2>/dev/null | wc -l)" >> $GITHUB_STEP_SUMMARY
+          echo "- 📅 Date: $(date +'%Y-%m-%d %H:%M:%S UTC')" >> $GITHUB_STEP_SUMMARY
+          echo "- ✅ Index generated: blog_content/articles_index.json" >> $GITHUB_STEP_SUMMARY
+          echo "- ✅ Combined document: blog_content/ALL_ARTICLES_COMBINED.md" >> $GITHUB_STEP_SUMMARY
