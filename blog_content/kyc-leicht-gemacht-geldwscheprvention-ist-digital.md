@@ -4,7 +4,7 @@ author: ""
 date: ""
 url: "https://www.kerberos-compliance.com/wissen/blog/kyc-leicht-gemacht-geldwscheprvention-ist-digital"
 excerpt: ""
-crawled_at: "2026-01-05T12:57:13.232441"
+crawled_at: "2026-01-05T13:37:40.414201"
 ---
 
 # KYC leicht gemacht: Geldwäscheprävention ist digital
