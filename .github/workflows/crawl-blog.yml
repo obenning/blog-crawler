@@ -1,0 +1,58 @@
+name: Crawl Blog Content
+
+on:
+  schedule:
+    # Läuft jeden Tag um 2:00 Uhr UTC
+    - cron: '0 2 * * *'
+  
+  # Ermöglicht manuelles Triggern
+  workflow_dispatch:
+  
+  # Läuft bei jedem Push (nur für Testing, später auskommentieren)
+  push:
+    branches: [ main ]
+
+jobs:
+  crawl:
+    runs-on: ubuntu-latest
+    
+    steps:
+    - name: Checkout Repository
+      uses: actions/checkout@v4
+      
+    - name: Setup Python
+      uses: actions/setup-python@v5
+      with:
+        python-version: '3.11'
+        cache: 'pip'
+    
+    - name: Install Dependencies
+      run: |
+        pip install -r requirements.txt
+    
+    - name: Run Blog Crawler
+      run: |
+        python blog_crawler.py
+    
+    - name: Check for Changes
+      id: git-check
+      run: |
+        git diff --exit-code || echo "changed=true" >> $GITHUB_OUTPUT
+    
+    - name: Commit and Push Changes
+      if: steps.git-check.outputs.changed == 'true'
+      run: |
+        git config --local user.email "github-actions[bot]@users.noreply.github.com"
+        git config --local user.name "github-actions[bot]"
+        git add blog_content/
+        git commit -m "🤖 Auto-update: Blog content crawled on $(date -u '+%Y-%m-%d %H:%M:%S UTC')"
+        git push
+      env:
+        GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+    
+    - name: Upload Artifact
+      uses: actions/upload-artifact@v4
+      with:
+        name: blog-content
+        path: blog_content/
+        retention-days: 30
