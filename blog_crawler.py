@@ -94,7 +94,7 @@ class SquarespaceBlogCrawler:
         return all_urls
     
     def extract_blog_content(self, soup, url):
-        """Extrahiere den Inhalt eines einzelnen Blog-Posts"""
+        """Extrahiere den Inhalt eines einzelnen Blog-Posts - Verbesserte Version"""
         article_data = {
             'url': url,
             'title': '',
@@ -105,12 +105,26 @@ class SquarespaceBlogCrawler:
             'crawled_at': datetime.now().isoformat()
         }
         
-        # Titel
-        title_elem = soup.find('h1', class_='blog-title')
-        if not title_elem:
-            # Alternative Suche
-            title_elem = soup.find('h1')
+        # Titel - erweiterte Suche
+        title_elem = None
+        title_selectors = [
+            soup.find('h1', class_='blog-title'),
+            soup.find('h1', class_='entry-title'),
+            soup.find('h1', class_='post-title'),
+            soup.find('header', class_='entry-header'),
+            soup.find('h1')
+        ]
+        
+        for elem in title_selectors:
+            if elem:
+                title_elem = elem
+                break
+        
         if title_elem:
+            # Wenn header, suche h1 darin
+            if title_elem.name == 'header':
+                h1 = title_elem.find('h1')
+                title_elem = h1 if h1 else title_elem
             article_data['title'] = title_elem.get_text(strip=True)
         
         # Autor und Datum aus Meta-Section
@@ -129,27 +143,72 @@ class SquarespaceBlogCrawler:
         if excerpt_elem:
             article_data['excerpt'] = excerpt_elem.get_text(strip=True)
         
-        # Hauptinhalt - suche nach verschiedenen möglichen Content-Containern
+        # Hauptinhalt - ROBUSTE STRATEGIE
+        content = None
+        
+        # Strategie 1: Suche nach bekannten Content-Containern
         content_selectors = [
-            {'class': 'blog-item-content'},
-            {'class': 'entry-content'},
-            {'class': 'sqs-block-content'},
-            {'class': 'blog-content'},
+            soup.find('div', class_='blog-item-content'),
+            soup.find('div', class_='entry-content'),
+            soup.find('div', class_='post-content'),
+            soup.find('div', class_='blog-content'),
+            soup.find('article', class_='entry'),
+            soup.find('article', class_='blog-item'),
         ]
         
-        content = None
         for selector in content_selectors:
-            content = soup.find('div', selector)
-            if content:
+            if selector:
+                content = selector
                 break
         
-        # Fallback: Suche nach main content area
+        # Strategie 2: Wenn nichts gefunden, suche nach article Tag
         if not content:
-            content = soup.find('article')
+            article = soup.find('article')
+            if article:
+                content = article
+        
+        # Strategie 3: Suche nach dem größten Content-Block mit Text
+        if not content or len(content.get_text(strip=True)) < 100:
+            # Finde alle divs mit substantiellem Text
+            all_divs = soup.find_all(['div', 'section', 'article'])
+            best_div = None
+            max_text_length = 0
+            
+            for div in all_divs:
+                # Ignoriere Navigation, Header, Footer
+                classes = div.get('class', [])
+                if any(x in str(classes).lower() for x in ['nav', 'header', 'footer', 'sidebar', 'menu']):
+                    continue
+                
+                text = div.get_text(strip=True)
+                # Suche nach Div mit viel Text UND Paragraphen
+                paragraphs = div.find_all('p', recursive=False) or div.find_all('p')
+                if len(text) > max_text_length and len(paragraphs) > 0:
+                    max_text_length = len(text)
+                    best_div = div
+            
+            if best_div and max_text_length > 200:
+                content = best_div
+        
+        # Strategie 4: Letzter Ausweg - suche nach main Tag oder body
+        if not content or len(content.get_text(strip=True)) < 100:
+            main = soup.find('main')
+            if main:
+                content = main
         
         if content:
+            # Entferne Navigation, Sidebar, etc.
+            for unwanted in content.find_all(['nav', 'aside', 'footer', 'header']):
+                unwanted.decompose()
+            
+            # Entferne auch bekannte Squarespace-Elemente die nicht zum Content gehören
+            for class_name in ['blog-meta-section', 'blog-title', 'blog-author', 
+                              'blog-date', 'blog-list-pagination', 'blog-more-link']:
+                for elem in content.find_all(class_=class_name):
+                    elem.decompose()
+            
             # Entferne Skripte und Styles
-            for element in content.find_all(['script', 'style', 'nav']):
+            for element in content.find_all(['script', 'style']):
                 element.decompose()
             
             # Extrahiere Text und formatiere
@@ -158,30 +217,108 @@ class SquarespaceBlogCrawler:
         return article_data
     
     def clean_content(self, content_element):
-        """Bereinige und formatiere den Content"""
-        # Konvertiere zu Text mit Strukturierung
+        """Bereinige und formatiere den Content mit Links - Verbesserte Version"""
         lines = []
         
-        for element in content_element.descendants:
-            if element.name in ['h1', 'h2', 'h3', 'h4', 'h5', 'h6']:
+        def extract_text_with_links(element):
+            """Extrahiere Text aus einem Element und behalte Links"""
+            if element.name is None:
+                # Text node
+                text = str(element).strip()
+                return text if text else ''
+            
+            if element.name == 'a':
+                # Link als Markdown
                 text = element.get_text(strip=True)
+                href = element.get('href')
+                if href and text:
+                    # Konvertiere zu absoluter URL
+                    absolute_url = urljoin(self.base_url, href)
+                    return f"[{text}]({absolute_url})"
+                return text
+            
+            # Für andere Elemente: sammle Text von allen Kindern
+            parts = []
+            for child in element.children:
+                part = extract_text_with_links(child)
+                if part:
+                    parts.append(part)
+            
+            return ' '.join(parts)
+        
+        def process_element(elem, depth=0):
+            """Verarbeite ein Element rekursiv"""
+            # Prüfe ob es ein echtes Element ist (kein Text-Knoten)
+            if not elem or not hasattr(elem, 'name') or elem.name is None:
+                return
+            
+            # Ignoriere bestimmte Elemente
+            if elem.name in ['script', 'style', 'nav', 'aside']:
+                return
+            
+            # Überschriften
+            if elem.name in ['h1', 'h2', 'h3', 'h4', 'h5', 'h6']:
+                text = extract_text_with_links(elem)
                 if text:
-                    level = int(element.name[1])
+                    level = int(elem.name[1])
                     lines.append('\n' + '#' * level + ' ' + text + '\n')
-            elif element.name == 'p':
-                text = element.get_text(strip=True)
-                if text:
+            
+            # Paragraphen
+            elif elem.name == 'p':
+                text = extract_text_with_links(elem)
+                if text and len(text) > 1:  # Mindestens 1 Zeichen
                     lines.append(text + '\n')
-            elif element.name == 'li':
-                text = element.get_text(strip=True)
-                if text:
-                    lines.append('- ' + text)
-            elif element.name == 'blockquote':
-                text = element.get_text(strip=True)
+            
+            # Listen
+            elif elem.name in ['ul', 'ol']:
+                for li in elem.find_all('li', recursive=False):
+                    text = extract_text_with_links(li)
+                    if text:
+                        lines.append('- ' + text)
+            
+            # Blockquotes
+            elif elem.name == 'blockquote':
+                text = extract_text_with_links(elem)
                 if text:
                     lines.append('> ' + text + '\n')
+            
+            # Squarespace Content Blocks
+            elif elem.name in ['div', 'section', 'article', 'main']:
+                # Prüfe ob Squarespace Block
+                elem_classes = elem.get('class', []) if hasattr(elem, 'get') else []
+                is_sqs_block = 'sqs-block' in elem_classes
+                
+                if is_sqs_block:
+                    # Verarbeite Kinder rekursiv
+                    for child in elem.children:
+                        if hasattr(child, 'name') and child.name:
+                            process_element(child, depth + 1)
+                else:
+                    # Container-Elemente: Prüfe direkten Content
+                    direct_children = [c for c in elem.children if hasattr(c, 'name') and c.name]
+                    
+                    # Wenn nur Container-Elemente als Kinder, dann rekursiv
+                    if direct_children and all(c.name in ['div', 'section', 'article'] for c in direct_children):
+                        for child in elem.children:
+                            if hasattr(child, 'name') and child.name:
+                                process_element(child, depth + 1)
+                    else:
+                        # Verarbeite alle Kinder
+                        for child in elem.children:
+                            if hasattr(child, 'name') and child.name:
+                                process_element(child, depth + 1)
         
-        return '\n'.join(lines)
+        # Starte Verarbeitung
+        process_element(content_element)
+        
+        # Nachbearbeitung: Entferne übermäßige Leerzeilen
+        result = '\n'.join(lines)
+        
+        # Reduziere mehrfache Leerzeilen auf maximal 2
+        while '\n\n\n' in result:
+            result = result.replace('\n\n\n', '\n\n')
+        
+        return result.strip()
     
     def sanitize_filename(self, title, url):
         """Erstelle einen sicheren Dateinamen"""
