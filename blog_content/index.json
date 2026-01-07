@@ -1,8 +1,8 @@
 {
-  "crawled_at": "2026-01-06T03:45:47.729500",
+  "crawled_at": "2026-01-07T03:46:02.712619",
   "base_url": "https://www.kerberos-compliance.com/wissen/blog",
-  "total_articles": 116,
-  "successful": 116,
+  "total_articles": 117,
+  "successful": 117,
   "failed": 0,
   "articles": [
     {
@@ -501,6 +501,13 @@
       "author": "",
       "date": "",
       "url": "https://www.kerberos-compliance.com/wissen/blog/eu-hochrisikolaender-liste-aktualisierung-der-delegierten-verordnung-eu-20251184"
+    },
+    {
+      "filename": "geldwschepraevention-2026-diese-fristen-und-neuerungen-muessen-verpflichtete-kennen.md",
+      "title": "Geldwäscheprävention 2026: Diese Fristen und Neuerungen müssen Verpflichtete kennen",
+      "author": "",
+      "date": "",
+      "url": "https://www.kerberos-compliance.com/wissen/blog/geldwschepraevention-2026-diese-fristen-und-neuerungen-muessen-verpflichtete-kennen"
     },
     {
       "filename": "praeventionsmassnahmen-gegen-geldwaesche-und-terrorismusfinanzierung-risikoanalyse-und-unterscheidun.md",
