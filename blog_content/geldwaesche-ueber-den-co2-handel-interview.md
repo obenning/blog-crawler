@@ -4,7 +4,7 @@ author: ""
 date: ""
 url: "https://www.kerberos-compliance.com/wissen/blog/geldwaesche-ueber-den-co2-handel-interview"
 excerpt: ""
-crawled_at: "2026-01-07T03:44:10.709085"
+crawled_at: "2026-01-08T03:44:30.825829"
 ---
 
 # Geldwäsche über den CO2-Handel - Interview
