@@ -1,8 +1,8 @@
 # 📚 Kerberos Compliance Blog - Alle Artikel
 
-**Generiert:** 08.01.2026 03:46
+**Generiert:** 09.01.2026 03:46
 **Anzahl Artikel:** 118
-**Gesamtwortanzahl:** 93,495
+**Gesamtwortanzahl:** 93,528
 
 ---
 
@@ -313,7 +313,7 @@ Die drei Tage können nur abgekürzt werden, wenn eine Staatsanwaltschaft oder d
 
 # Blog Content Archive
 
-Automatisch gecrawlt am: 2026-01-08 03:46:38
+Automatisch gecrawlt am: 2026-01-09 03:46:53
 
 **Statistik:**
 - Gesamt Artikel: 117
@@ -1645,7 +1645,7 @@ Vielen Dank.
 
 **Autor:**   
 **Datum:**   
-**Wortanzahl:** 676  
+**Wortanzahl:** 687  
 **Original:** https://www.kerberos-compliance.com/wissen/blog/compliance-fort-bildungsangebote-fuer-2025  
 
 ---
@@ -1688,9 +1688,9 @@ Als Verpflichtete nach dem Geldwäschegesetz besteht für Sie und Ihre Mitarbeit
 
 Die neue EU-Geldwäscheverordnung bringt ab Juli 2027 massive Änderungen für alle Verpflichteten. Erfahren Sie, welche neuen Branchen betroffen sind (Fußballklubs, Crowdfunding, Krypto), was die 10.000€ Bargeldobergrenze bedeutet und wie Sie sich auf die direkte EU-Harmonisierung ohne nationale Umsetzungsspielräume vorbereiten. Konkrete Handlungsschritte und Zeitpläne inklusive.
 
-Unser praxisorientiertes 90-Minuten-Webinar vermittelt Ihnen fundiertes Fachwissen zur Geschäftspartnerprüfungen (KYC) im Immobiliensektor und hilft Ihnen, Ihre gesetzlichen Verpflichtungen rechtssicher zu erfüllen. Die Teilnahme wird mit 1 1/2 Stunden auf Ihre MaBV-Weiterbildungspflicht angerechnet (§ 15b MaBV).
+24.000 Verdachtsmeldungen, 4,3 Mrd. € Volumen – laut Uni Trier Studie 2025 stecken bis zu 30% schmutziges Geld in deutschen Immobilien. Lernen Sie Red Flags bei Transaktionen zu erkennen, Beneficial Ownership korrekt zu ermitteln und Verdachtsmeldungen rechtssicher zu erstellen. Praxistipps für Makler, Notare und Immobilienverwalter.
 
-Unser praxisorientiertes 90-Minuten-Webinar vermittelt Ihnen fundiertes Fachwissen zur Geldwäscheprävention im Immobiliensektor und hilft Ihnen, Ihre gesetzlichen Verpflichtungen rechtssicher zu erfüllen. Die Teilnahme wird mit 1 1/2 Stunden auf Ihre MaBV-Weiterbildungspflicht angerechnet (§ 15b MaBV).
+Unser praxisorientiertes 90-Minuten-Webinar vermittelt Ihnen fundiertes Fachwissen zur Geschäftspartnerprüfungen (KYC) im Immobiliensektor und hilft Ihnen, Ihre gesetzlichen Verpflichtungen rechtssicher zu erfüllen. Die Teilnahme wird mit 1 1/2 Stunden auf Ihre MaBV-Weiterbildungspflicht angerechnet (§ 15b MaBV).
 
 Weitere Webinare kommen im Laufe der Zeit dazu. Folgen Sie uns auf [LinkedIn](https://www.linkedin.com/company/kerberos-compliance) , Abonnieren Sie unseren [Newsletter](https://www.kerberos-compliance.com/wissen/newsletter-anmeldung) oder besuchen Sie unsere Website um über unser aktuelles Angebot informiert zu bleiben.
 
@@ -3571,7 +3571,7 @@ Otis Benning Senior Associate Marketing
 
 **Autor:**   
 **Datum:**   
-**Wortanzahl:** 1,042  
+**Wortanzahl:** 1,053  
 **Original:** https://www.kerberos-compliance.com/wissen/blog/fiu-jahresbericht-es-gibt-sie-noch-die-guten-nachrichten-oder  
 
 ---
@@ -3652,9 +3652,9 @@ Alle aktuellen Webinar-Angebote finden Sie hier: [Unsere Veranstaltungen](https:
 
 Die neue EU-Geldwäscheverordnung bringt ab Juli 2027 massive Änderungen für alle Verpflichteten. Erfahren Sie, welche neuen Branchen betroffen sind (Fußballklubs, Crowdfunding, Krypto), was die 10.000€ Bargeldobergrenze bedeutet und wie Sie sich auf die direkte EU-Harmonisierung ohne nationale Umsetzungsspielräume vorbereiten. Konkrete Handlungsschritte und Zeitpläne inklusive.
 
-Unser praxisorientiertes 90-Minuten-Webinar vermittelt Ihnen fundiertes Fachwissen zur Geschäftspartnerprüfungen (KYC) im Immobiliensektor und hilft Ihnen, Ihre gesetzlichen Verpflichtungen rechtssicher zu erfüllen. Die Teilnahme wird mit 1 1/2 Stunden auf Ihre MaBV-Weiterbildungspflicht angerechnet (§ 15b MaBV).
+24.000 Verdachtsmeldungen, 4,3 Mrd. € Volumen – laut Uni Trier Studie 2025 stecken bis zu 30% schmutziges Geld in deutschen Immobilien. Lernen Sie Red Flags bei Transaktionen zu erkennen, Beneficial Ownership korrekt zu ermitteln und Verdachtsmeldungen rechtssicher zu erstellen. Praxistipps für Makler, Notare und Immobilienverwalter.
 
-Unser praxisorientiertes 90-Minuten-Webinar vermittelt Ihnen fundiertes Fachwissen zur Geldwäscheprävention im Immobiliensektor und hilft Ihnen, Ihre gesetzlichen Verpflichtungen rechtssicher zu erfüllen. Die Teilnahme wird mit 1 1/2 Stunden auf Ihre MaBV-Weiterbildungspflicht angerechnet (§ 15b MaBV).
+Unser praxisorientiertes 90-Minuten-Webinar vermittelt Ihnen fundiertes Fachwissen zur Geschäftspartnerprüfungen (KYC) im Immobiliensektor und hilft Ihnen, Ihre gesetzlichen Verpflichtungen rechtssicher zu erfüllen. Die Teilnahme wird mit 1 1/2 Stunden auf Ihre MaBV-Weiterbildungspflicht angerechnet (§ 15b MaBV).
 
 ---
 
@@ -3802,7 +3802,7 @@ Otis Benning Senior Associate Marketing
 
 **Autor:**   
 **Datum:**   
-**Wortanzahl:** 987  
+**Wortanzahl:** 998  
 **Original:** https://www.kerberos-compliance.com/wissen/blog/geldwaesche-im-deutschen-immobiliensektor-bleibt-milliardenproblem  
 
 ---
@@ -3819,9 +3819,9 @@ Veröffentlicht: 2025-06-20
 
 Die neue EU-Geldwäscheverordnung bringt ab Juli 2027 massive Änderungen für alle Verpflichteten. Erfahren Sie, welche neuen Branchen betroffen sind (Fußballklubs, Crowdfunding, Krypto), was die 10.000€ Bargeldobergrenze bedeutet und wie Sie sich auf die direkte EU-Harmonisierung ohne nationale Umsetzungsspielräume vorbereiten. Konkrete Handlungsschritte und Zeitpläne inklusive.
 
-Unser praxisorientiertes 90-Minuten-Webinar vermittelt Ihnen fundiertes Fachwissen zur Geschäftspartnerprüfungen (KYC) im Immobiliensektor und hilft Ihnen, Ihre gesetzlichen Verpflichtungen rechtssicher zu erfüllen. Die Teilnahme wird mit 1 1/2 Stunden auf Ihre MaBV-Weiterbildungspflicht angerechnet (§ 15b MaBV).
+24.000 Verdachtsmeldungen, 4,3 Mrd. € Volumen – laut Uni Trier Studie 2025 stecken bis zu 30% schmutziges Geld in deutschen Immobilien. Lernen Sie Red Flags bei Transaktionen zu erkennen, Beneficial Ownership korrekt zu ermitteln und Verdachtsmeldungen rechtssicher zu erstellen. Praxistipps für Makler, Notare und Immobilienverwalter.
 
-Unser praxisorientiertes 90-Minuten-Webinar vermittelt Ihnen fundiertes Fachwissen zur Geldwäscheprävention im Immobiliensektor und hilft Ihnen, Ihre gesetzlichen Verpflichtungen rechtssicher zu erfüllen. Die Teilnahme wird mit 1 1/2 Stunden auf Ihre MaBV-Weiterbildungspflicht angerechnet (§ 15b MaBV).
+Unser praxisorientiertes 90-Minuten-Webinar vermittelt Ihnen fundiertes Fachwissen zur Geschäftspartnerprüfungen (KYC) im Immobiliensektor und hilft Ihnen, Ihre gesetzlichen Verpflichtungen rechtssicher zu erfüllen. Die Teilnahme wird mit 1 1/2 Stunden auf Ihre MaBV-Weiterbildungspflicht angerechnet (§ 15b MaBV).
 
 Die Geldwäsche in Deutschland erreicht ein geschätztes Volumen von bis zu 100 Milliarden Euro jährlich und stellt damit eine der große Bedrohungen für die Marktintegrität dar. Trotz verschärfter Gesetze und verstärkter Kontrollen seit 2023 bleiben auch im Immobiliensektor erhebliche Schwachstellen bestehen, die umfassende Reformen erfordern. Die Branche steht vor der Herausforderung, zwischen beruflichen Vertraulichkeitspflichten und präventiven Meldepflichten zu navigieren, während sie gleichzeitig mit komplexen internationalen Eigentümerstrukturen und unzureichenden technologischen Lösungen konfrontiert ist. Die geplante Harmonisierung der EU-Vorschriften bis 2027 versprechen eine grundlegende Neuausrichtung der deutschen Anti-Geldwäsche-Strategie.
 

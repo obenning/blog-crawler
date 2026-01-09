@@ -4,7 +4,7 @@ author: ""
 date: ""
 url: "https://www.kerberos-compliance.com/wissen/blog/fiu-jahresbericht-es-gibt-sie-noch-die-guten-nachrichten-oder"
 excerpt: ""
-crawled_at: "2026-01-08T03:45:14.271896"
+crawled_at: "2026-01-09T03:45:33.374640"
 ---
 
 # FIU Jahresbericht 2023: Es gibt sie noch, die guten Nachrichten – oder?
@@ -83,6 +83,6 @@ Alle aktuellen Webinar-Angebote finden Sie hier: [Unsere Veranstaltungen](https:
 
 Die neue EU-Geldwäscheverordnung bringt ab Juli 2027 massive Änderungen für alle Verpflichteten. Erfahren Sie, welche neuen Branchen betroffen sind (Fußballklubs, Crowdfunding, Krypto), was die 10.000€ Bargeldobergrenze bedeutet und wie Sie sich auf die direkte EU-Harmonisierung ohne nationale Umsetzungsspielräume vorbereiten. Konkrete Handlungsschritte und Zeitpläne inklusive.
 
-Unser praxisorientiertes 90-Minuten-Webinar vermittelt Ihnen fundiertes Fachwissen zur Geschäftspartnerprüfungen (KYC) im Immobiliensektor und hilft Ihnen, Ihre gesetzlichen Verpflichtungen rechtssicher zu erfüllen. Die Teilnahme wird mit 1 1/2 Stunden auf Ihre MaBV-Weiterbildungspflicht angerechnet (§ 15b MaBV).
+24.000 Verdachtsmeldungen, 4,3 Mrd. € Volumen – laut Uni Trier Studie 2025 stecken bis zu 30% schmutziges Geld in deutschen Immobilien. Lernen Sie Red Flags bei Transaktionen zu erkennen, Beneficial Ownership korrekt zu ermitteln und Verdachtsmeldungen rechtssicher zu erstellen. Praxistipps für Makler, Notare und Immobilienverwalter.
 
-Unser praxisorientiertes 90-Minuten-Webinar vermittelt Ihnen fundiertes Fachwissen zur Geldwäscheprävention im Immobiliensektor und hilft Ihnen, Ihre gesetzlichen Verpflichtungen rechtssicher zu erfüllen. Die Teilnahme wird mit 1 1/2 Stunden auf Ihre MaBV-Weiterbildungspflicht angerechnet (§ 15b MaBV).
+Unser praxisorientiertes 90-Minuten-Webinar vermittelt Ihnen fundiertes Fachwissen zur Geschäftspartnerprüfungen (KYC) im Immobiliensektor und hilft Ihnen, Ihre gesetzlichen Verpflichtungen rechtssicher zu erfüllen. Die Teilnahme wird mit 1 1/2 Stunden auf Ihre MaBV-Weiterbildungspflicht angerechnet (§ 15b MaBV).
