@@ -4,7 +4,7 @@ author: ""
 date: ""
 url: "https://www.kerberos-compliance.com/wissen/blog/kycaml-api"
 excerpt: ""
-crawled_at: "2026-01-11T03:55:11.320773"
+crawled_at: "2026-01-12T03:54:56.127883"
 ---
 
 # KYC/AML API: Ergebnisberichte in Sekunden
