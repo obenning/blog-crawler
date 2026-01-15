@@ -4,7 +4,7 @@ author: ""
 date: ""
 url: "https://www.kerberos-compliance.com/wissen/blog/wie-steht-es-um-die-bekmpfung-von-geldwsche-in-deutschland-und-warum"
 excerpt: ""
-crawled_at: "2026-01-14T03:54:00.179696"
+crawled_at: "2026-01-15T03:47:52.988940"
 ---
 
 # Wie steht es um die Bekämpfung von Geldwäsche in Deutschland? Und warum?

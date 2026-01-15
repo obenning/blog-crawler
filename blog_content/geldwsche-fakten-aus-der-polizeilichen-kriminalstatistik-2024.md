@@ -4,7 +4,7 @@ author: ""
 date: ""
 url: "https://www.kerberos-compliance.com/wissen/blog/geldwsche-fakten-aus-der-polizeilichen-kriminalstatistik-2024"
 excerpt: ""
-crawled_at: "2026-01-14T03:53:44.647254"
+crawled_at: "2026-01-15T03:47:37.261783"
 ---
 
 # Geldwäsche-Fakten aus der Polizeilichen Kriminalstatistik 2024

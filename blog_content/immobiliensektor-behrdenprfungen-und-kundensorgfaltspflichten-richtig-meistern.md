@@ -4,7 +4,7 @@ author: ""
 date: ""
 url: "https://www.kerberos-compliance.com/wissen/blog/immobiliensektor-behrdenprfungen-und-kundensorgfaltspflichten-richtig-meistern"
 excerpt: ""
-crawled_at: "2026-01-14T03:52:56.823805"
+crawled_at: "2026-01-15T03:46:50.489696"
 ---
 
 # Immobiliensektor: Behördenprüfungen und Kundensorgfaltspflichten richtig meistern

@@ -4,7 +4,7 @@ author: ""
 date: ""
 url: "https://www.kerberos-compliance.com/wissen/blog/mica-der-neue-eu-regulierungsrahmen-fr-kryptowerte"
 excerpt: ""
-crawled_at: "2026-01-14T03:53:11.242805"
+crawled_at: "2026-01-15T03:47:04.667709"
 ---
 
 # MiCA: Der neue EU-Regulierungsrahmen für Kryptowerte

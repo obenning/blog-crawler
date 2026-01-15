@@ -4,7 +4,7 @@ author: ""
 date: ""
 url: "https://www.kerberos-compliance.com/wissen/blog/fatf-follow-up-report-aktueller-stand-der-geldwsche-bekmpfung-in-deutschland"
 excerpt: ""
-crawled_at: "2026-01-14T03:53:58.835623"
+crawled_at: "2026-01-15T03:47:51.695618"
 ---
 
 # FATF Follow-Up Report: Aktueller Stand der Geldwäsche-Bekämpfung in Deutschland

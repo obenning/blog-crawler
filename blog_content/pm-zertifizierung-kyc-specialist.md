@@ -4,7 +4,7 @@ author: ""
 date: ""
 url: "https://www.kerberos-compliance.com/wissen/blog/pm-zertifizierung-kyc-specialist"
 excerpt: ""
-crawled_at: "2026-01-14T03:53:48.555395"
+crawled_at: "2026-01-15T03:47:41.110704"
 ---
 
 # DEKRA-Zertifizierung zum KYC-Specialist: Anti-Geldwäsche-Experten teilen in neuer Weiterbildung Praxiswissen
