@@ -4,7 +4,7 @@ author: ""
 date: ""
 url: "https://www.kerberos-compliance.com/wissen/blog/pressekonferenz-fiu-stellt-jahresbericht-2024-vor"
 excerpt: ""
-crawled_at: "2026-01-17T03:28:12.436041"
+crawled_at: "2026-01-18T03:50:48.930128"
 ---
 
 # Pressekonferenz: FIU stellt Jahresbericht 2024 vor
