@@ -4,7 +4,7 @@ author: ""
 date: ""
 url: "https://www.kerberos-compliance.com/wissen/blog/wiederwiederkehrende-pflichten-zur-geldwaschepravention"
 excerpt: ""
-crawled_at: "2026-01-18T03:52:14.183896"
+crawled_at: "2026-01-19T03:57:20.147143"
 ---
 
 # Wiederkehrende Pflichten zur Geldwäscheprävention
