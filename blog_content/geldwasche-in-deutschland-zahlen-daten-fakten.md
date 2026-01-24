@@ -4,7 +4,7 @@ author: ""
 date: ""
 url: "https://www.kerberos-compliance.com/wissen/blog/geldwasche-in-deutschland-zahlen-daten-fakten"
 excerpt: ""
-crawled_at: "2026-01-23T03:49:52.238845"
+crawled_at: "2026-01-24T03:43:20.126007"
 ---
 
 # Geldwäsche in Deutschland – Zahlen, Daten, Fakten
