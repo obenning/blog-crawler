@@ -4,7 +4,7 @@ author: ""
 date: ""
 url: "https://www.kerberos-compliance.com/wissen/blog/die-aufsicht-wird-nicht-locker-lassen-interview"
 excerpt: ""
-crawled_at: "2026-01-24T03:40:59.973538"
+crawled_at: "2026-01-25T03:58:39.184526"
 ---
 
 # “Die Aufsicht wird nicht lockerer werden, im Gegenteil”
