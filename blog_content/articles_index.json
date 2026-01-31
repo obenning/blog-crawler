@@ -1,6 +1,6 @@
 {
-  "generated": "2026-01-30T04:16:22.576685",
-  "total_articles": 117,
+  "generated": "2026-01-31T04:12:08.231023",
+  "total_articles": 118,
   "articles": [
     {
       "filename": "21-jahriger-sohn-von-clanchef-abou-chaker-ersteigert-villen-fur-uber-7-millionen-euro.md",
@@ -371,6 +371,16 @@
       "excerpt": "# EU-Hochrisikoländer-Liste: Aktualisierung der Delegierten Verordnung (EU) 2025/1184\n\n**Autor:**   \n**Datum:**   \n**URL:** https://www.kerberos-compliance.com/wissen/blog/eu-hochrisikolaender-liste-a...",
       "raw_url": "https://raw.githubusercontent.com/obenning/blog-crawler/main/blog_content/eu-hochrisikolaender-liste-aktualisierung-der-delegierten-verordnung-eu-20251184.md",
       "word_count": 595
+    },
+    {
+      "filename": "eu-listet-russland-als-hochrisikoland.md",
+      "title": "Compliance-Experte Frank Lässig über neue Geldwäsche-Pflichten, verstärkte Sorgfaltspflichten und warum die Praxis sich kaum ändert",
+      "author": "",
+      "date": "",
+      "url": "https://www.kerberos-compliance.com/wissen/blog/eu-listet-russland-als-hochrisikoland",
+      "excerpt": "# Compliance-Experte Frank Lässig über neue Geldwäsche-Pflichten, verstärkte Sorgfaltspflichten und warum die Praxis sich kaum ändert\n\n**Autor:**   \n**Datum:**   \n**URL:** https://www.kerberos-complia...",
+      "raw_url": "https://raw.githubusercontent.com/obenning/blog-crawler/main/blog_content/eu-listet-russland-als-hochrisikoland.md",
+      "word_count": 1043
     },
     {
       "filename": "eu-plne-fr-anti-geldwsche-richtlinie-diese-punkte-mssen-in-nationales-recht-berfhrt-werden.md",
