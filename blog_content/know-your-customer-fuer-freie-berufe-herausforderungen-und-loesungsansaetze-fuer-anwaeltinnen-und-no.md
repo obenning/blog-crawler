@@ -4,7 +4,7 @@ author: ""
 date: ""
 url: "https://www.kerberos-compliance.com/wissen/blog/know-your-customer-fuer-freie-berufe-herausforderungen-und-loesungsansaetze-fuer-anwaeltinnen-und-notarinnen"
 excerpt: ""
-crawled_at: "2026-02-01T04:34:54.159231"
+crawled_at: "2026-02-02T04:30:13.479327"
 ---
 
 # "Know Your Customer" für freie Berufe: Herausforderungen und Lösungsansätze für Anwält:innen und Notar:innen

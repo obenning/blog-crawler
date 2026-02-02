@@ -4,7 +4,7 @@ author: ""
 date: ""
 url: "https://www.kerberos-compliance.com/wissen/blog/die-veraenderte-dna-der-finanzkriminalitaet-ein-blick-in-den-europol-bericht-2025"
 excerpt: ""
-crawled_at: "2026-02-01T04:34:56.407016"
+crawled_at: "2026-02-02T04:30:15.962128"
 ---
 
 # Die veränderte DNA der Finanzkriminalität - Ein Blick in den EUROPOL-Bericht 2025
