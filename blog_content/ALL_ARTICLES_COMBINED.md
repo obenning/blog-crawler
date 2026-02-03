@@ -1,8 +1,8 @@
 # 📚 Kerberos Compliance Blog - Alle Artikel
 
-**Generiert:** 02.02.2026 04:31
+**Generiert:** 03.02.2026 04:23
 **Anzahl Artikel:** 119
-**Gesamtwortanzahl:** 94,634
+**Gesamtwortanzahl:** 94,642
 
 ---
 
@@ -314,7 +314,7 @@ Die drei Tage können nur abgekürzt werden, wenn eine Staatsanwaltschaft oder d
 
 # Blog Content Archive
 
-Automatisch gecrawlt am: 2026-02-02 04:31:42
+Automatisch gecrawlt am: 2026-02-03 04:23:07
 
 **Statistik:**
 - Gesamt Artikel: 118
@@ -3069,7 +3069,7 @@ Mischa Wolf Manager Compliance Analytics
 
 **Autor:**   
 **Datum:**   
-**Wortanzahl:** 1,043  
+**Wortanzahl:** 1,045  
 **Original:** https://www.kerberos-compliance.com/wissen/blog/eu-listet-russland-als-hochrisikoland  
 
 ---
@@ -3130,7 +3130,7 @@ Viertens: Zustimmung der Leitungsebene. Der Verantwortliche auf Leitungsebene mu
 
 Gilt das auch für russische Staatsbürger, die in der EU leben?
 
-Diese Frage wird häufig gestellt. Die Antwort lautet: Nein. Entscheidend ist ausschließlich der Wohnort beziehungsweise Wohnsitz des Unternehmens oder der natürlichen Person. Lebt jemand in der EU oder Deutschland, spielt der russische Pass – abgesehen von Sanktionen – im Geldwäschekontext keine Rolle.
+Diese Frage wird häufig gestellt. Die Antwort lautet: Nein.  Entscheidend ist ausschließlich der Geschäfts- oder Wohnsitz des Unternehmens oder der natürlichen Person. Ist jemand in der EU oder Deutschland ansässig, spielt etwa ein russische Pass – abgesehen von Sanktionen – im Geldwäschekontext keine Rolle.
 
 § 15 und die EU-Länderliste beziehen sich nicht auf Nationalitäten, sondern auf den Wohnort. Dieser muss geprüft werden, nicht die Nationalität. Dies ist auch eine Frage der Diskriminierungsvermeidung. Personen einer bestimmten Nationalität sollen nicht pauschal unter Verdacht gestellt werden, wenn sie nicht im betreffenden Land wohnen.
 
@@ -5181,7 +5181,7 @@ Die Einrichtung interner Meldestellen können Sie auslagern. Hierfür steht Ihne
 
 **Autor:**   
 **Datum:**   
-**Wortanzahl:** 1,376  
+**Wortanzahl:** 1,382  
 **Original:** https://www.kerberos-compliance.com/wissen/blog/how-to-goaml-amp-geldwaescheverdachtsmeldungen  
 
 ---
@@ -5196,7 +5196,7 @@ Die Einrichtung interner Meldestellen können Sie auslagern. Hierfür steht Ihne
 
 Veröffentlicht: 2025-10-23
 
-Lena Pütz und Dr. Anna Bolz erklärten in unserem Webinar am 23. Oktober 2025 wie Kunst- und Antiquitätenhändler goAML effizient nutzen und rechtssichere Verdachtsmeldungen erstellen. Von der Registrierung bis zur neuen GwG-Meldeverordnung: Die wichtigsten Erkenntnisse im Überblick.
+Lena Pütz und Dr. Anna Bolz erklärten in unserem Webinar am 23. Oktober 2025 wie Kunst- und Antiquitätenhändler goAML effizient nutzen und rechtssichere Verdachtsmeldungen erstellen. Von der Registrierung bis zur neuen GwG-Meldeverordnung: Die wichtigsten Erkenntnisse im Überblick - auch für Verpflichtete anderer Branchen.
 
 ## Webinaraufzeichnung mit Lena Pütz und Dr. Anna Bolz
 

@@ -1,5 +1,5 @@
 {
-  "generated": "2026-02-02T04:31:42.509302",
+  "generated": "2026-02-03T04:23:07.353489",
   "total_articles": 118,
   "articles": [
     {
@@ -380,7 +380,7 @@
       "url": "https://www.kerberos-compliance.com/wissen/blog/eu-listet-russland-als-hochrisikoland",
       "excerpt": "# Compliance-Experte Frank Lässig über neue Geldwäsche-Pflichten, verstärkte Sorgfaltspflichten und warum die Praxis sich kaum ändert\n\n**Autor:**   \n**Datum:**   \n**URL:** https://www.kerberos-complia...",
       "raw_url": "https://raw.githubusercontent.com/obenning/blog-crawler/main/blog_content/eu-listet-russland-als-hochrisikoland.md",
-      "word_count": 1043
+      "word_count": 1045
     },
     {
       "filename": "eu-plne-fr-anti-geldwsche-richtlinie-diese-punkte-mssen-in-nationales-recht-berfhrt-werden.md",
@@ -650,7 +650,7 @@
       "url": "https://www.kerberos-compliance.com/wissen/blog/how-to-goaml-amp-geldwaescheverdachtsmeldungen",
       "excerpt": "# How to: goAML & Geldwäscheverdachtsmeldungen – Webinar-Zusammenfassung\n\n**Autor:**   \n**Datum:**   \n**URL:** https://www.kerberos-compliance.com/wissen/blog/how-to-goaml-amp-geldwaescheverdachtsmeld...",
       "raw_url": "https://raw.githubusercontent.com/obenning/blog-crawler/main/blog_content/how-to-goaml-amp-geldwaescheverdachtsmeldungen.md",
-      "word_count": 1376
+      "word_count": 1382
     },
     {
       "filename": "how-to-goaml-geldwasche-verdachtsmeldungen.md",

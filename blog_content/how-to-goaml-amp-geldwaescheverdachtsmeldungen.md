@@ -4,7 +4,7 @@ author: ""
 date: ""
 url: "https://www.kerberos-compliance.com/wissen/blog/how-to-goaml-amp-geldwaescheverdachtsmeldungen"
 excerpt: ""
-crawled_at: "2026-02-02T04:29:32.130003"
+crawled_at: "2026-02-03T04:21:02.373997"
 ---
 
 # How to: goAML & Geldwäscheverdachtsmeldungen – Webinar-Zusammenfassung
@@ -17,7 +17,7 @@ crawled_at: "2026-02-02T04:29:32.130003"
 
 Veröffentlicht: 2025-10-23
 
-Lena Pütz und Dr. Anna Bolz erklärten in unserem Webinar am 23. Oktober 2025 wie Kunst- und Antiquitätenhändler goAML effizient nutzen und rechtssichere Verdachtsmeldungen erstellen. Von der Registrierung bis zur neuen GwG-Meldeverordnung: Die wichtigsten Erkenntnisse im Überblick.
+Lena Pütz und Dr. Anna Bolz erklärten in unserem Webinar am 23. Oktober 2025 wie Kunst- und Antiquitätenhändler goAML effizient nutzen und rechtssichere Verdachtsmeldungen erstellen. Von der Registrierung bis zur neuen GwG-Meldeverordnung: Die wichtigsten Erkenntnisse im Überblick - auch für Verpflichtete anderer Branchen.
 
 ## Webinaraufzeichnung mit Lena Pütz und Dr. Anna Bolz
 

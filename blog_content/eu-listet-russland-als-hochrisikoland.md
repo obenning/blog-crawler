@@ -4,7 +4,7 @@ author: ""
 date: ""
 url: "https://www.kerberos-compliance.com/wissen/blog/eu-listet-russland-als-hochrisikoland"
 excerpt: ""
-crawled_at: "2026-02-02T04:29:16.747501"
+crawled_at: "2026-02-03T04:20:46.522397"
 ---
 
 # Compliance-Experte Frank Lässig über neue Geldwäsche-Pflichten, verstärkte Sorgfaltspflichten und warum die Praxis sich kaum ändert
@@ -63,7 +63,7 @@ Viertens: Zustimmung der Leitungsebene. Der Verantwortliche auf Leitungsebene mu
 
 Gilt das auch für russische Staatsbürger, die in der EU leben?
 
-Diese Frage wird häufig gestellt. Die Antwort lautet: Nein. Entscheidend ist ausschließlich der Wohnort beziehungsweise Wohnsitz des Unternehmens oder der natürlichen Person. Lebt jemand in der EU oder Deutschland, spielt der russische Pass – abgesehen von Sanktionen – im Geldwäschekontext keine Rolle.
+Diese Frage wird häufig gestellt. Die Antwort lautet: Nein.  Entscheidend ist ausschließlich der Geschäfts- oder Wohnsitz des Unternehmens oder der natürlichen Person. Ist jemand in der EU oder Deutschland ansässig, spielt etwa ein russische Pass – abgesehen von Sanktionen – im Geldwäschekontext keine Rolle.
 
 § 15 und die EU-Länderliste beziehen sich nicht auf Nationalitäten, sondern auf den Wohnort. Dieser muss geprüft werden, nicht die Nationalität. Dies ist auch eine Frage der Diskriminierungsvermeidung. Personen einer bestimmten Nationalität sollen nicht pauschal unter Verdacht gestellt werden, wenn sie nicht im betreffenden Land wohnen.
 
