@@ -4,7 +4,7 @@ author: ""
 date: ""
 url: "https://www.kerberos-compliance.com/wissen/blog/jahresrueckblick-und-jahresausblick-geldwaeschepraevention-2025-2027"
 excerpt: ""
-crawled_at: "2026-02-04T04:14:50.176515"
+crawled_at: "2026-02-05T04:20:37.159167"
 ---
 
 # Jahresrückblick und Jahresausblick - Geldwäscheprävention 2025-2027

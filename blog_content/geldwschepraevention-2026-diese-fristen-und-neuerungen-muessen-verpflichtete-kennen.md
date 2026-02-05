@@ -4,7 +4,7 @@ author: ""
 date: ""
 url: "https://www.kerberos-compliance.com/wissen/blog/geldwschepraevention-2026-diese-fristen-und-neuerungen-muessen-verpflichtete-kennen"
 excerpt: ""
-crawled_at: "2026-02-04T04:14:47.487326"
+crawled_at: "2026-02-05T04:20:34.661805"
 ---
 
 # Geldwäscheprävention 2026: Diese Fristen und Neuerungen müssen Verpflichtete kennen
@@ -27,12 +27,12 @@ Der wohl bedeutendste operative Stichtag für deutsche Verpflichtete: Ab dem 1. 
 
 Das ändert sich konkret:
 
-- Verdachtsmeldungen müssen ausschließlich über das goAML-Portal im XML-Format übermittelt werden
-- Die FIU validiert Meldungen automatisch – unvollständige Pflichtfelder führen zur technischen Ablehnung
+- Verdachtsmeldungen müssen über das goAML-Portal im XML-Format übermittelt oder in die in dem Datenverarbeitungsverfahren jeweils dafür vorgesehenen Felder eingetragen weden
+- Die FIU kann automatisch überprüfen, ob Meldungen in der vorgeschriebenen Form abgegeben worden sind
 - Erweiterte Mindestangaben nach § 3 GwGMeldV werden verpflichtend: internes Aktenzeichen, Angaben zu etwaigen Strafanzeigen, Meldegründe aus dem FIU-Auswahlkatalog sowie umfassende Informationen zu beteiligten Personen und wirtschaftlich Berechtigten
 - Bei Immobilientransaktionen sind zusätzlich Nachweise zum Barzahlungsverbot beizufügen
 - Verstöße können nach § 56 GwG mit Bußgeldern geahndet werden
-Handlungsbedarf: Ihre IT-Systeme und Schnittstellen zur FIU müssen die neuen technischen Anforderungen erfüllen. Schulen Sie Ihre Mitarbeiter:innen rechtzeitig und passen Sie Ihre Dokumentationsvorlagen an. Die seit September 2025 erforderliche 2-Faktor-Authentisierung für goAML Web sollte bereits implementiert sein.
+Handlungsbedarf: Ihre IT-Systeme und Schnittstellen zur FIU müssen die neuen technischen Anforderungen erfüllen. Schulen Sie Ihre Mitarbeiter:innen rechtzeitig und passen Sie Ihre Systeme und Vorlagen gegebenenfalls an.
 
 ### 10. Juli 2026: AMLA veröffentlicht technische Standards
 
@@ -40,7 +40,6 @@ Bis zu diesem Datum muss die EU-Anti-Geldwäschebehörde (AMLA) umfangreiche Reg
 
 - Technische Standards (RTS) zu Customer-Due-Diligence-Mindestanforderungen
 - Leitlinien zur Personalausstattung der Compliance-Funktion
-- Vorlage für das einheitliche Verdachtsmeldungsformat
 - Standards zur direkten Beaufsichtigung durch die AMLA
 Gleichzeitig müssen die EU-Mitgliedstaaten die AMLD6-Bestimmungen zu Registern für wirtschaftliche Eigentümer umgesetzt haben.
 
@@ -112,7 +111,7 @@ Die AMLA-Befugnisse umfassen ab 2028 Vor-Ort-Inspektionen, Informationsanforderu
 
 ## Ihre Handlungsempfehlungen für 2026
 
-- GwGMeldV-Anforderungen implementieren: goAML-Prozesse auf XML-Format umstellen, Mitarbeiter:innen schulen, Dokumentationsvorlagen anpassen
+- GwGMeldV-Anforderungen implementieren: goAML-Prozesse ggf. auf XML-Format umstellen, Mitarbeiter:innen schulen, Dokumentationsvorlagen anpassen
 - Gap-Analyse zu kommenden AMLA-Standards durchführen
 - Prüfen, welche Prozessanpassungen für die ab Juli 2027 geltende EU-AML-Verordnung erforderlich sind
 - Sanktionslistenprüfung automatisieren und in die unternehmensweite Risikoanalyse integrieren
