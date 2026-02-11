@@ -1,8 +1,8 @@
 # 📚 Kerberos Compliance Blog - Alle Artikel
 
-**Generiert:** 10.02.2026 04:38
+**Generiert:** 11.02.2026 04:36
 **Anzahl Artikel:** 119
-**Gesamtwortanzahl:** 94,639
+**Gesamtwortanzahl:** 94,634
 
 ---
 
@@ -314,7 +314,7 @@ Die drei Tage können nur abgekürzt werden, wenn eine Staatsanwaltschaft oder d
 
 # Blog Content Archive
 
-Automatisch gecrawlt am: 2026-02-10 04:38:00
+Automatisch gecrawlt am: 2026-02-11 04:36:47
 
 **Statistik:**
 - Gesamt Artikel: 118
@@ -4590,7 +4590,7 @@ Wie das ZDF im Januar berichtete, dauert die durchschnittliche Endbearbeitung vo
 
 **Autor:**   
 **Datum:**   
-**Wortanzahl:** 1,023  
+**Wortanzahl:** 1,018  
 **Original:** https://www.kerberos-compliance.com/wissen/blog/geldwschepraevention-2026-diese-fristen-und-neuerungen-muessen-verpflichtete-kennen  
 
 ---
@@ -4615,7 +4615,7 @@ Der wohl bedeutendste operative Stichtag für deutsche Verpflichtete: Ab dem 1. 
 
 Das ändert sich konkret:
 
-- Verdachtsmeldungen müssen über das goAML-Portal im XML-Format übermittelt oder in die in dem Datenverarbeitungsverfahren jeweils dafür vorgesehenen Felder eingetragen weden
+- Verdachtsmeldungen müssen über das goAML-Portal im XML-Format oder über das Web-Portal der FIU übermittelt werden
 - Die FIU kann automatisch überprüfen, ob Meldungen in der vorgeschriebenen Form abgegeben worden sind
 - Erweiterte Mindestangaben nach § 3 GwGMeldV werden verpflichtend: internes Aktenzeichen, Angaben zu etwaigen Strafanzeigen, Meldegründe aus dem FIU-Auswahlkatalog sowie umfassende Informationen zu beteiligten Personen und wirtschaftlich Berechtigten
 - Bei Immobilientransaktionen sind zusätzlich Nachweise zum Barzahlungsverbot beizufügen

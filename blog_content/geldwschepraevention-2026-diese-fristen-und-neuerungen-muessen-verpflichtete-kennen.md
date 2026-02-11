@@ -4,7 +4,7 @@ author: ""
 date: ""
 url: "https://www.kerberos-compliance.com/wissen/blog/geldwschepraevention-2026-diese-fristen-und-neuerungen-muessen-verpflichtete-kennen"
 excerpt: ""
-crawled_at: "2026-02-10T04:35:31.544372"
+crawled_at: "2026-02-11T04:34:10.919957"
 ---
 
 # Geldwäscheprävention 2026: Diese Fristen und Neuerungen müssen Verpflichtete kennen
@@ -27,7 +27,7 @@ Der wohl bedeutendste operative Stichtag für deutsche Verpflichtete: Ab dem 1. 
 
 Das ändert sich konkret:
 
-- Verdachtsmeldungen müssen über das goAML-Portal im XML-Format übermittelt oder in die in dem Datenverarbeitungsverfahren jeweils dafür vorgesehenen Felder eingetragen weden
+- Verdachtsmeldungen müssen über das goAML-Portal im XML-Format oder über das Web-Portal der FIU übermittelt werden
 - Die FIU kann automatisch überprüfen, ob Meldungen in der vorgeschriebenen Form abgegeben worden sind
 - Erweiterte Mindestangaben nach § 3 GwGMeldV werden verpflichtend: internes Aktenzeichen, Angaben zu etwaigen Strafanzeigen, Meldegründe aus dem FIU-Auswahlkatalog sowie umfassende Informationen zu beteiligten Personen und wirtschaftlich Berechtigten
 - Bei Immobilientransaktionen sind zusätzlich Nachweise zum Barzahlungsverbot beizufügen
