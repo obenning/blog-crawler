@@ -4,7 +4,7 @@ author: ""
 date: ""
 url: "https://www.kerberos-compliance.com/wissen/blog/compliance-fort-bildungsangebote-fuer-2025"
 excerpt: ""
-crawled_at: "2026-02-19T04:26:29.726109"
+crawled_at: "2026-02-20T04:22:02.858125"
 ---
 
 # Compliance (Fort-)Bildungsangebote für 2025
@@ -43,11 +43,11 @@ Als Verpflichtete nach dem Geldwäschegesetz besteht für Sie und Ihre Mitarbeit
 
 ## Webinare:
 
-Die neue EU-Geldwäscheverordnung bringt ab Juli 2027 massive Änderungen für alle Verpflichteten. Erfahren Sie, welche neuen Branchen betroffen sind (Fußballklubs, Crowdfunding, Krypto), was die 10.000€ Bargeldobergrenze bedeutet und wie Sie sich auf die direkte EU-Harmonisierung ohne nationale Umsetzungsspielräume vorbereiten. Konkrete Handlungsschritte und Zeitpläne inklusive.
-
 In diesem Webinar erhalten Sie einen umfassenden Überblick über aktuelle Geldwäscheherausforderungen in KVGen. Die Compliance und AML-Expert:innen Lisa Patricia Boucarde ( [bourcarde.ventures](http://bourcarde.ventures) ) und Florian Peters (Kerberos Compliance) beleuchten den Stand der EU-AML-Verordnung (AMLR) und neue KYC/eDD-Anforderungen inklusive Aktualisierungspflichten. Besonderer Fokus liegt zudem auf der intensivierten BaFin-Praxis mit zahlreichen Aufsichtsgesprächen.
 
 24.000 Verdachtsmeldungen, 4,3 Mrd. € Volumen – laut Uni Trier Studie 2025 stecken bis zu 30% schmutziges Geld in deutschen Immobilien. Lernen Sie Red Flags bei Transaktionen zu erkennen, Beneficial Ownership korrekt zu ermitteln und Verdachtsmeldungen rechtssicher zu erstellen. Praxistipps für Makler, Notare und Immobilienverwalter.
+
+Unser praxisorientiertes 90-Minuten-Webinar vermittelt Ihnen fundiertes Fachwissen zur Geschäftspartnerprüfungen (KYC) im Immobiliensektor und hilft Ihnen, Ihre gesetzlichen Verpflichtungen rechtssicher zu erfüllen. Die Teilnahme wird mit 1 1/2 Stunden auf Ihre MaBV-Weiterbildungspflicht angerechnet (§ 15b MaBV).
 
 Weitere Webinare kommen im Laufe der Zeit dazu. Folgen Sie uns auf [LinkedIn](https://www.linkedin.com/company/kerberos-compliance) , Abonnieren Sie unseren [Newsletter](https://www.kerberos-compliance.com/wissen/newsletter-anmeldung) oder besuchen Sie unsere Website um über unser aktuelles Angebot informiert zu bleiben.
 

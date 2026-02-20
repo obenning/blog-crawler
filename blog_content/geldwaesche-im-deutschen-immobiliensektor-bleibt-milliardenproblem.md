@@ -4,7 +4,7 @@ author: ""
 date: ""
 url: "https://www.kerberos-compliance.com/wissen/blog/geldwaesche-im-deutschen-immobiliensektor-bleibt-milliardenproblem"
 excerpt: ""
-crawled_at: "2026-02-19T04:25:55.948530"
+crawled_at: "2026-02-20T04:21:29.772458"
 ---
 
 # Geldwäsche im deutschen Immobiliensektor bleibt Milliardenproblem
@@ -17,11 +17,11 @@ crawled_at: "2026-02-19T04:25:55.948530"
 
 Veröffentlicht: 2025-06-20
 
-Die neue EU-Geldwäscheverordnung bringt ab Juli 2027 massive Änderungen für alle Verpflichteten. Erfahren Sie, welche neuen Branchen betroffen sind (Fußballklubs, Crowdfunding, Krypto), was die 10.000€ Bargeldobergrenze bedeutet und wie Sie sich auf die direkte EU-Harmonisierung ohne nationale Umsetzungsspielräume vorbereiten. Konkrete Handlungsschritte und Zeitpläne inklusive.
-
 In diesem Webinar erhalten Sie einen umfassenden Überblick über aktuelle Geldwäscheherausforderungen in KVGen. Die Compliance und AML-Expert:innen Lisa Patricia Boucarde ( [bourcarde.ventures](http://bourcarde.ventures) ) und Florian Peters (Kerberos Compliance) beleuchten den Stand der EU-AML-Verordnung (AMLR) und neue KYC/eDD-Anforderungen inklusive Aktualisierungspflichten. Besonderer Fokus liegt zudem auf der intensivierten BaFin-Praxis mit zahlreichen Aufsichtsgesprächen.
 
 24.000 Verdachtsmeldungen, 4,3 Mrd. € Volumen – laut Uni Trier Studie 2025 stecken bis zu 30% schmutziges Geld in deutschen Immobilien. Lernen Sie Red Flags bei Transaktionen zu erkennen, Beneficial Ownership korrekt zu ermitteln und Verdachtsmeldungen rechtssicher zu erstellen. Praxistipps für Makler, Notare und Immobilienverwalter.
+
+Unser praxisorientiertes 90-Minuten-Webinar vermittelt Ihnen fundiertes Fachwissen zur Geschäftspartnerprüfungen (KYC) im Immobiliensektor und hilft Ihnen, Ihre gesetzlichen Verpflichtungen rechtssicher zu erfüllen. Die Teilnahme wird mit 1 1/2 Stunden auf Ihre MaBV-Weiterbildungspflicht angerechnet (§ 15b MaBV).
 
 Die Geldwäsche in Deutschland erreicht ein geschätztes Volumen von bis zu 100 Milliarden Euro jährlich und stellt damit eine der große Bedrohungen für die Marktintegrität dar. Trotz verschärfter Gesetze und verstärkter Kontrollen seit 2023 bleiben auch im Immobiliensektor erhebliche Schwachstellen bestehen, die umfassende Reformen erfordern. Die Branche steht vor der Herausforderung, zwischen beruflichen Vertraulichkeitspflichten und präventiven Meldepflichten zu navigieren, während sie gleichzeitig mit komplexen internationalen Eigentümerstrukturen und unzureichenden technologischen Lösungen konfrontiert ist. Die geplante Harmonisierung der EU-Vorschriften bis 2027 versprechen eine grundlegende Neuausrichtung der deutschen Anti-Geldwäsche-Strategie.
 
