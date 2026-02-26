@@ -1,6 +1,6 @@
 {
-  "generated": "2026-02-25T04:28:10.525197",
-  "total_articles": 119,
+  "generated": "2026-02-26T04:24:51.917208",
+  "total_articles": 120,
   "articles": [
     {
       "filename": "21-jahriger-sohn-von-clanchef-abou-chaker-ersteigert-villen-fur-uber-7-millionen-euro.md",
@@ -41,6 +41,16 @@
       "excerpt": "# Allgemeinverfügung zur Bestellung von Geldwäschebeauftragten im Güterhandel\n\n**Autor:**   \n**Datum:**   \n**URL:** https://www.kerberos-compliance.com/wissen/blog/allgemeinverfgung-zur-bestellung-von...",
       "raw_url": "https://raw.githubusercontent.com/obenning/blog-crawler/main/blog_content/allgemeinverfgung-zur-bestellung-von-geldwschebeauftragten-im-gterhandel.md",
       "word_count": 271
+    },
+    {
+      "filename": "aml-2026-fuer-kapitalverwaltungsgesellschaften-eu-aml-verordnung-und-bafin-praxis.md",
+      "title": "AML 2026 für Kapitalverwaltungsgesellschaften: EU-AML-Verordnung und BaFin-Praxis",
+      "author": "",
+      "date": "",
+      "url": "https://www.kerberos-compliance.com/wissen/blog/aml-2026-fuer-kapitalverwaltungsgesellschaften-eu-aml-verordnung-und-bafin-praxis",
+      "excerpt": "# AML 2026 für Kapitalverwaltungsgesellschaften: EU-AML-Verordnung und BaFin-Praxis\n\n**Autor:**   \n**Datum:**   \n**URL:** https://www.kerberos-compliance.com/wissen/blog/aml-2026-fuer-kapitalverwaltun...",
+      "raw_url": "https://raw.githubusercontent.com/obenning/blog-crawler/main/blog_content/aml-2026-fuer-kapitalverwaltungsgesellschaften-eu-aml-verordnung-und-bafin-praxis.md",
+      "word_count": 1417
     },
     {
       "filename": "aml-behoerdenpruefungen-bei-sportwetten-vermittlern-so-bereiten-sie-sich-optimal-vor.md",

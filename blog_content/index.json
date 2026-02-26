@@ -1,765 +1,16 @@
 {
-  "crawled_at": "2026-02-25T04:28:10.449955",
+  "crawled_at": "2026-02-26T04:24:51.821909",
   "base_url": "https://www.kerberos-compliance.com/wissen/blog",
-  "total_articles": 119,
-  "successful": 119,
+  "total_articles": 120,
+  "successful": 120,
   "failed": 0,
   "articles": [
-    {
-      "filename": "know-your-customer-kyc-oder-was-passieren-kann-wenn-man-es-nicht-tut.md",
-      "title": "Know Your Customer (KYC) – oder was passieren kann, wenn man es nicht tut",
-      "author": "",
-      "date": "",
-      "url": "https://www.kerberos-compliance.com/wissen/blog/know-your-customer-kyc-oder-was-passieren-kann-wenn-man-es-nicht-tut"
-    },
-    {
-      "filename": "geldwscheprvention-2025-ein-halbes-jahr-zwischen-fortschritten-und-rckschlgen.md",
-      "title": "Geldwäscheprävention 2025: Ein halbes Jahr zwischen Fortschritten und Rückschlägen",
-      "author": "",
-      "date": "",
-      "url": "https://www.kerberos-compliance.com/wissen/blog/geldwscheprvention-2025-ein-halbes-jahr-zwischen-fortschritten-und-rckschlgen"
-    },
-    {
-      "filename": "mica-der-neue-eu-regulierungsrahmen-fr-kryptowerte.md",
-      "title": "MiCA: Der neue EU-Regulierungsrahmen für Kryptowerte",
-      "author": "",
-      "date": "",
-      "url": "https://www.kerberos-compliance.com/wissen/blog/mica-der-neue-eu-regulierungsrahmen-fr-kryptowerte"
-    },
-    {
-      "filename": "bautraeger-und-makler-was-geldwaeschepraevention-fuer-sie-bedeutet.md",
-      "title": "Bauträger/Immobilienentwickler und Makler – Was Geldwäscheprävention für sie bedeutet",
-      "author": "",
-      "date": "",
-      "url": "https://www.kerberos-compliance.com/wissen/blog/bautraeger-und-makler-was-geldwaeschepraevention-fuer-sie-bedeutet"
-    },
-    {
-      "filename": "die-aufsicht-wird-nicht-locker-lassen-interview.md",
-      "title": "“Die Aufsicht wird nicht lockerer werden, im Gegenteil”",
-      "author": "",
-      "date": "",
-      "url": "https://www.kerberos-compliance.com/wissen/blog/die-aufsicht-wird-nicht-locker-lassen-interview"
-    },
-    {
-      "filename": "prufungen-im-nacken-darum-lohnt-sich-pravention.md",
-      "title": "Prüfungen im Nacken - darum lohnt sich Prävention",
-      "author": "",
-      "date": "",
-      "url": "https://www.kerberos-compliance.com/wissen/blog/prufungen-im-nacken-darum-lohnt-sich-pravention"
-    },
-    {
-      "filename": "geldwaeschebeauftragte-schluesselfiguren-im-kampf-gegen-finanzkriminalitaet.md",
-      "title": "Geldwäschebeauftragte: Schlüsselfiguren im Kampf gegen Finanzkriminalität",
-      "author": "",
-      "date": "",
-      "url": "https://www.kerberos-compliance.com/wissen/blog/geldwaeschebeauftragte-schluesselfiguren-im-kampf-gegen-finanzkriminalitaet"
-    },
-    {
-      "filename": "aml-compliance-bei-kvgen.md",
-      "title": "Keine Freigabe, kein Closing.\" - Über die Wichtigkeit von AML-Compliance beim Investoren-Onboarding",
-      "author": "",
-      "date": "",
-      "url": "https://www.kerberos-compliance.com/wissen/blog/aml-compliance-bei-kvgen"
-    },
-    {
-      "filename": "warum-sind-risikoanalysen-nach-dem-geldwaschegesetz-gwg-so-wichtig.md",
-      "title": "Warum sind Risikoanalysen nach dem Geldwäschegesetz (GwG) so wichtig?",
-      "author": "",
-      "date": "",
-      "url": "https://www.kerberos-compliance.com/wissen/blog/warum-sind-risikoanalysen-nach-dem-geldwaschegesetz-gwg-so-wichtig"
-    },
-    {
-      "filename": "burokratie-braucht-burokrat-innen-wie-geldwaschebeauftragte-unternehmen-schutzen.md",
-      "title": "Bürokratie braucht Bürokrat:innen – Wie Geldwäschebeauftragte Unternehmen schützen",
-      "author": "",
-      "date": "",
-      "url": "https://www.kerberos-compliance.com/wissen/blog/burokratie-braucht-burokrat-innen-wie-geldwaschebeauftragte-unternehmen-schutzen"
-    },
-    {
-      "filename": "sanktionen-und-was-sie-bedeuten.md",
-      "title": "Sanktionen und was sie bedeuten",
-      "author": "",
-      "date": "",
-      "url": "https://www.kerberos-compliance.com/wissen/blog/sanktionen-und-was-sie-bedeuten"
-    },
-    {
-      "filename": "jahresrueckblick-und-jahresausblick-geldwaeschepraevention-2025-2027.md",
-      "title": "Jahresrückblick und Jahresausblick - Geldwäscheprävention 2025-2027",
-      "author": "",
-      "date": "",
-      "url": "https://www.kerberos-compliance.com/wissen/blog/jahresrueckblick-und-jahresausblick-geldwaeschepraevention-2025-2027"
-    },
-    {
-      "filename": "how-to-goaml-amp-geldwaescheverdachtsmeldungen.md",
-      "title": "How to: goAML & Geldwäscheverdachtsmeldungen – Webinar-Zusammenfassung",
-      "author": "",
-      "date": "",
-      "url": "https://www.kerberos-compliance.com/wissen/blog/how-to-goaml-amp-geldwaescheverdachtsmeldungen"
-    },
-    {
-      "filename": "pressekonferenz-fiu-stellt-jahresbericht-2024-vor.md",
-      "title": "Pressekonferenz: FIU stellt Jahresbericht 2024 vor",
-      "author": "",
-      "date": "",
-      "url": "https://www.kerberos-compliance.com/wissen/blog/pressekonferenz-fiu-stellt-jahresbericht-2024-vor"
-    },
-    {
-      "filename": "unverzueglichkeit-und-vollstaendigkeit-einer-verdachtsmeldung-gemeinsame-orientierungshilfe-der-bafi.md",
-      "title": "„Unverzüglichkeit“ und „Vollständigkeit“ – Gemeinsame Orientierungshilfe der BaFin und FIU",
-      "author": "",
-      "date": "",
-      "url": "https://www.kerberos-compliance.com/wissen/blog/unverzueglichkeit-und-vollstaendigkeit-einer-verdachtsmeldung-gemeinsame-orientierungshilfe-der-bafin-und-fiu-veroeffentlicht"
-    },
-    {
-      "filename": "die-wahrscheinlichkeit-bei-unachtsamkeiten-erwischt-und-entsprechend-bestraft-zu-werden-steigt-signi.md",
-      "title": "“Wahrscheinlichkeit, bei Unachtsamkeiten bestraft zu werden, steigt.” - Interview mit AML-Experten",
-      "author": "",
-      "date": "",
-      "url": "https://www.kerberos-compliance.com/wissen/blog/die-wahrscheinlichkeit-bei-unachtsamkeiten-erwischt-und-entsprechend-bestraft-zu-werden-steigt-signifikant"
-    },
-    {
-      "filename": "rechnungsversand-per-e-mail-neue-rechtslage-nach-olg-urteil.md",
-      "title": "Rechnungsversand per E-Mail: Neue Rechtslage nach OLG-Urteil",
-      "author": "",
-      "date": "",
-      "url": "https://www.kerberos-compliance.com/wissen/blog/rechnungsversand-per-e-mail-neue-rechtslage-nach-olg-urteil"
-    },
-    {
-      "filename": "eu-aml-vor-neue-kyc-pruefpflichten-fuer-kapitalverwaltungsgesellschaften.md",
-      "title": "EU AML VO: Neue KYC-Prüfpflichten für Kapitalverwaltungsgesellschaften – Was Sie jetzt wissen müssen",
-      "author": "",
-      "date": "",
-      "url": "https://www.kerberos-compliance.com/wissen/blog/eu-aml-vor-neue-kyc-pruefpflichten-fuer-kapitalverwaltungsgesellschaften"
-    },
-    {
-      "filename": "know-your-customer-fuer-freie-berufe-herausforderungen-und-loesungsansaetze-fuer-anwaeltinnen-und-no.md",
-      "title": "Know Your Customer\" für freie Berufe: Herausforderungen und Lösungsansätze für Anwält:innen und Notar:innen",
-      "author": "",
-      "date": "",
-      "url": "https://www.kerberos-compliance.com/wissen/blog/know-your-customer-fuer-freie-berufe-herausforderungen-und-loesungsansaetze-fuer-anwaeltinnen-und-notarinnen"
-    },
-    {
-      "filename": "immobiliensektor-behrdenprfungen-und-kundensorgfaltspflichten-richtig-meistern.md",
-      "title": "Immobiliensektor: Behördenprüfungen und Kundensorgfaltspflichten richtig meistern",
-      "author": "",
-      "date": "",
-      "url": "https://www.kerberos-compliance.com/wissen/blog/immobiliensektor-behrdenprfungen-und-kundensorgfaltspflichten-richtig-meistern"
-    },
-    {
-      "filename": "bussgelder-behoerden-und-ein-neues-register-das-finanzkriminalitaetsbekaempfungsgesetz.md",
-      "title": "Bußgelder, Behörden und ein neues Register – das Finanzkriminalitätsbekämpfungsgesetz",
-      "author": "",
-      "date": "",
-      "url": "https://www.kerberos-compliance.com/wissen/blog/bussgelder-behoerden-und-ein-neues-register-das-finanzkriminalitaetsbekaempfungsgesetz"
-    },
-    {
-      "filename": "kampf-gegen-geldwsche-goldesel-auf-dem-weg-zum-goldstandard.md",
-      "title": "Kampf gegen Geldwäsche: „Goldesel“ auf dem Weg zum „Goldstandard“?",
-      "author": "",
-      "date": "",
-      "url": "https://www.kerberos-compliance.com/wissen/blog/kampf-gegen-geldwsche-goldesel-auf-dem-weg-zum-goldstandard"
-    },
-    {
-      "filename": "mlro-strategien-fuer-deutsche-finanzdienstleister-ceo-leitfaden-2025.md",
-      "title": "MLRO-Strategien für deutsche Finanzdienstleister: CEO-Leitfaden 2025",
-      "author": "",
-      "date": "",
-      "url": "https://www.kerberos-compliance.com/wissen/blog/mlro-strategien-fuer-deutsche-finanzdienstleister-ceo-leitfaden-2025"
-    },
-    {
-      "filename": "russland-sanktionen.md",
-      "title": "Russland-Sanktionen - 5 Tipps zur Risikoreduzierung",
-      "author": "",
-      "date": "",
-      "url": "https://www.kerberos-compliance.com/wissen/blog/russland-sanktionen"
-    },
-    {
-      "filename": "erfahrungsbericht-ich-bin-zertifizierte-geldwschebeauftragte-geworden.md",
-      "title": "Erfahrungsbericht: Ich bin zertifizierte Geldwäschebeauftragte (geworden)",
-      "author": "",
-      "date": "",
-      "url": "https://www.kerberos-compliance.com/wissen/blog/erfahrungsbericht-ich-bin-zertifizierte-geldwschebeauftragte-geworden"
-    },
-    {
-      "filename": "neue-gwg-meldeverordnung-standardisierung-von-verdachtsmeldungen-ab-oktober-2025.md",
-      "title": "Neue GwG-Meldeverordnung: Standardisierung von Verdachtsmeldungen ab Oktober 2025",
-      "author": "",
-      "date": "",
-      "url": "https://www.kerberos-compliance.com/wissen/blog/neue-gwg-meldeverordnung-standardisierung-von-verdachtsmeldungen-ab-oktober-2025"
-    },
-    {
-      "filename": "how-to-goaml-geldwasche-verdachtsmeldungen.md",
-      "title": "How to: goAML & Geldwäsche Verdachtsmeldungen",
-      "author": "",
-      "date": "",
-      "url": "https://www.kerberos-compliance.com/wissen/blog/how-to-goaml-geldwasche-verdachtsmeldungen"
-    },
-    {
-      "filename": "geldwasche-in-deutschland-zahlen-daten-fakten.md",
-      "title": "Geldwäsche in Deutschland – Zahlen, Daten, Fakten",
-      "author": "",
-      "date": "",
-      "url": "https://www.kerberos-compliance.com/wissen/blog/geldwasche-in-deutschland-zahlen-daten-fakten"
-    },
-    {
-      "filename": "das-recht-auf-loeschung-nach-der-dsgvo-praxisleitfaden-fuer-unternehmen.md",
-      "title": "Das Recht auf Löschung nach der DSGVO: Praxisleitfaden für Unternehmen",
-      "author": "",
-      "date": "",
-      "url": "https://www.kerberos-compliance.com/wissen/blog/das-recht-auf-loeschung-nach-der-dsgvo-praxisleitfaden-fuer-unternehmen"
-    },
-    {
-      "filename": "geldwaescheprvaention-eine-strategische-notwendigkeit-fuer-moderne-unternehmen.md",
-      "title": "Geldwäscheprävention: Eine strategische Notwendigkeit für moderne Unternehmen",
-      "author": "",
-      "date": "",
-      "url": "https://www.kerberos-compliance.com/wissen/blog/geldwaescheprvaention-eine-strategische-notwendigkeit-fuer-moderne-unternehmen"
-    },
-    {
-      "filename": "fatf-update-oktober-2025.md",
-      "title": "FATF-Update Oktober 2025: Vier Länder von der Grauen Liste gestrichen",
-      "author": "",
-      "date": "",
-      "url": "https://www.kerberos-compliance.com/wissen/blog/fatf-update-oktober-2025"
-    },
-    {
-      "filename": "compliance-fort-bildungsangebote-fuer-2025.md",
-      "title": "Compliance (Fort-)Bildungsangebote für 2025",
-      "author": "",
-      "date": "",
-      "url": "https://www.kerberos-compliance.com/wissen/blog/compliance-fort-bildungsangebote-fuer-2025"
-    },
     {
       "filename": "kyc-bei-kapitalverwaltungsgesellschaften-effektive-geldwaeschepraevention-im-fokus.md",
       "title": "KYC bei Kapitalverwaltungsgesellschaften: Effektive Geldwäscheprävention im Fokus",
       "author": "",
       "date": "",
       "url": "https://www.kerberos-compliance.com/wissen/blog/kyc-bei-kapitalverwaltungsgesellschaften-effektive-geldwaeschepraevention-im-fokus"
-    },
-    {
-      "filename": "verste-gegen-das-geldwschegesetz-bugelder-und-prfungen-von-2017-2022.md",
-      "title": "Verstöße gegen das Geldwäschegesetz - Bußgelder und Prüfungen von 2017-2022",
-      "author": "",
-      "date": "",
-      "url": "https://www.kerberos-compliance.com/wissen/blog/verste-gegen-das-geldwschegesetz-bugelder-und-prfungen-von-2017-2022"
-    },
-    {
-      "filename": "portrait-daniel-thelesklaf.md",
-      "title": "Portrait: Daniel Thelesklaf, zukünftiger Leiter der Financial Intelligence Unit (FIU) in Deutschland",
-      "author": "",
-      "date": "",
-      "url": "https://www.kerberos-compliance.com/wissen/blog/portrait-daniel-thelesklaf"
-    },
-    {
-      "filename": "eu-listet-russland-als-hochrisikoland.md",
-      "title": "Compliance-Experte Frank Lässig über neue Geldwäsche-Pflichten, verstärkte Sorgfaltspflichten und warum die Praxis sich kaum ändert",
-      "author": "",
-      "date": "",
-      "url": "https://www.kerberos-compliance.com/wissen/blog/eu-listet-russland-als-hochrisikoland"
-    },
-    {
-      "filename": "interview-die-moderne-rolle-des-geldwschebeauftragten.md",
-      "title": "Die Realität ist deutlich komplexer als die Theorie. \" - Interview mit einem Geldwäschebeauftragten",
-      "author": "",
-      "date": "",
-      "url": "https://www.kerberos-compliance.com/wissen/blog/interview-die-moderne-rolle-des-geldwschebeauftragten"
-    },
-    {
-      "filename": "21-jahriger-sohn-von-clanchef-abou-chaker-ersteigert-villen-fur-uber-7-millionen-euro.md",
-      "title": "21-jähriger Sohn von Clanchef Abou-Chaker ersteigert Villen für über 7 Millionen Euro",
-      "author": "",
-      "date": "",
-      "url": "https://www.kerberos-compliance.com/wissen/blog/21-jahriger-sohn-von-clanchef-abou-chaker-ersteigert-villen-fur-uber-7-millionen-euro"
-    },
-    {
-      "filename": "geldwaesche-treibt-immobilienpreise-neue-studie-belegt-oekonomische-folgen.md",
-      "title": "Geldwäsche treibt Immobilienpreise: Neue Studie belegt ökonomische Folgen",
-      "author": "",
-      "date": "",
-      "url": "https://www.kerberos-compliance.com/wissen/blog/geldwaesche-treibt-immobilienpreise-neue-studie-belegt-oekonomische-folgen"
-    },
-    {
-      "filename": "neues-datenschutzabkommen-zwischen-der-eu-und-den-usa-beschlossen.md",
-      "title": "Neues Datenschutzabkommen zwischen der EU und den USA beschlossen",
-      "author": "",
-      "date": "",
-      "url": "https://www.kerberos-compliance.com/wissen/blog/neues-datenschutzabkommen-zwischen-der-eu-und-den-usa-beschlossen"
-    },
-    {
-      "filename": "zwischen-innovation-und-risiko-kryptowaehrungen-im-fokus-des-geldwaeschebeauftragten.md",
-      "title": "Zwischen Innovation und Risiko - Kryptowährungen im Fokus des Geldwäschebeauftragten",
-      "author": "",
-      "date": "",
-      "url": "https://www.kerberos-compliance.com/wissen/blog/zwischen-innovation-und-risiko-kryptowaehrungen-im-fokus-des-geldwaeschebeauftragten"
-    },
-    {
-      "filename": "allgemeinverfgung-zur-bestellung-von-geldwschebeauftragten-im-gterhandel.md",
-      "title": "Allgemeinverfügung zur Bestellung von Geldwäschebeauftragten im Güterhandel",
-      "author": "",
-      "date": "",
-      "url": "https://www.kerberos-compliance.com/wissen/blog/allgemeinverfgung-zur-bestellung-von-geldwschebeauftragten-im-gterhandel"
-    },
-    {
-      "filename": "blog-post-title-three-lnhdx.md",
-      "title": "Wie Sie die Wirtschaft retten (müssen) und Christian Lindner glücklich machen",
-      "author": "",
-      "date": "",
-      "url": "https://www.kerberos-compliance.com/wissen/blog/blog-post-title-three-lnhdx"
-    },
-    {
-      "filename": "eu-einigt-sich-auf-anti-geldwsche-verordnung-und-richtlinie-bindende-nderungen.md",
-      "title": "EU Pläne für Anti-Geldwäsche Verordnung - diese Änderungen werden europaweit bindend",
-      "author": "",
-      "date": "",
-      "url": "https://www.kerberos-compliance.com/wissen/blog/eu-einigt-sich-auf-anti-geldwsche-verordnung-und-richtlinie-bindende-nderungen"
-    },
-    {
-      "filename": "fatf-follow-up-report-aktueller-stand-der-geldwsche-bekmpfung-in-deutschland.md",
-      "title": "FATF Follow-Up Report: Aktueller Stand der Geldwäsche-Bekämpfung in Deutschland",
-      "author": "",
-      "date": "",
-      "url": "https://www.kerberos-compliance.com/wissen/blog/fatf-follow-up-report-aktueller-stand-der-geldwsche-bekmpfung-in-deutschland"
-    },
-    {
-      "filename": "final-countdown-manahmen-die-sie-bis-ende-2024-aktualisieren-sollten.md",
-      "title": "Final Countdown: Maßnahmen, die Sie bis Ende 2024 aktualisieren sollten",
-      "author": "",
-      "date": "",
-      "url": "https://www.kerberos-compliance.com/wissen/blog/final-countdown-manahmen-die-sie-bis-ende-2024-aktualisieren-sollten"
-    },
-    {
-      "filename": "geldwaschebeauftragte-leisten-einen-direkten-beitrag-zur-sicherheit-des-finanzsystems.md",
-      "title": "Geldwäschebeauftragte leisten einen direkten Beitrag zur Sicherheit des Finanzsystems",
-      "author": "",
-      "date": "",
-      "url": "https://www.kerberos-compliance.com/wissen/blog/geldwaschebeauftragte-leisten-einen-direkten-beitrag-zur-sicherheit-des-finanzsystems"
-    },
-    {
-      "filename": "pm-zertifizierung-kyc-specialist.md",
-      "title": "DEKRA-Zertifizierung zum KYC-Specialist: Anti-Geldwäsche-Experten teilen in neuer Weiterbildung Praxiswissen",
-      "author": "",
-      "date": "",
-      "url": "https://www.kerberos-compliance.com/wissen/blog/pm-zertifizierung-kyc-specialist"
-    },
-    {
-      "filename": "vom-krisenherd-zum-vertrauensturbo-umgang-mit-datenschutzbeschwerden.md",
-      "title": "Vom Krisenherd zum Vertrauensturbo: Umgang mit Datenschutzbeschwerden",
-      "author": "",
-      "date": "",
-      "url": "https://www.kerberos-compliance.com/wissen/blog/vom-krisenherd-zum-vertrauensturbo-umgang-mit-datenschutzbeschwerden"
-    },
-    {
-      "filename": "operation-chargeback-wenn-compliance-systeme-versagen.md",
-      "title": "Operation Chargeback: Wenn Compliance-Systeme versagen – Eine Analyse des AML-Experten Frank Lässig",
-      "author": "",
-      "date": "",
-      "url": "https://www.kerberos-compliance.com/wissen/blog/operation-chargeback-wenn-compliance-systeme-versagen"
-    },
-    {
-      "filename": "transparenzregistereintragung-1415-unternehmen-am-pranger.md",
-      "title": "Transparenzregistereintragung: 1.415 Unternehmen am Pranger",
-      "author": "",
-      "date": "",
-      "url": "https://www.kerberos-compliance.com/wissen/blog/transparenzregistereintragung-1415-unternehmen-am-pranger"
-    },
-    {
-      "filename": "geldwaesche-im-deutschen-immobiliensektor-bleibt-milliardenproblem.md",
-      "title": "Geldwäsche im deutschen Immobiliensektor bleibt Milliardenproblem",
-      "author": "",
-      "date": "",
-      "url": "https://www.kerberos-compliance.com/wissen/blog/geldwaesche-im-deutschen-immobiliensektor-bleibt-milliardenproblem"
-    },
-    {
-      "filename": "eu-aml-verordnung-ab-juli-2027-was-verpflichtete-jetzt-wissen-muessen.md",
-      "title": "EU-AML-Verordnung ab Juli 2027: Was Verpflichtete jetzt wissen müssen",
-      "author": "",
-      "date": "",
-      "url": "https://www.kerberos-compliance.com/wissen/blog/eu-aml-verordnung-ab-juli-2027-was-verpflichtete-jetzt-wissen-muessen"
-    },
-    {
-      "filename": "make-or-buy-geldwaeschebeauftragte-fuer-kvgen-effizient-organisieren.md",
-      "title": "Make-or-Buy: Geldwäschebeauftragte für KVGen effizient organisieren",
-      "author": "",
-      "date": "",
-      "url": "https://www.kerberos-compliance.com/wissen/blog/make-or-buy-geldwaeschebeauftragte-fuer-kvgen-effizient-organisieren"
-    },
-    {
-      "filename": "starkung-ihrer-cyber-abwehr.md",
-      "title": "Stärkung Ihrer Cyber-Abwehr",
-      "author": "",
-      "date": "",
-      "url": "https://www.kerberos-compliance.com/wissen/blog/starkung-ihrer-cyber-abwehr"
-    },
-    {
-      "filename": "hinweisgebersysteme-nach-dem-hinweisgeberschutzgesetz-hinschg.md",
-      "title": "Hinweisgebersysteme nach dem Hinweisgeberschutzgesetz (HinSchG)",
-      "author": "",
-      "date": "",
-      "url": "https://www.kerberos-compliance.com/wissen/blog/hinweisgebersysteme-nach-dem-hinweisgeberschutzgesetz-hinschg"
-    },
-    {
-      "filename": "fakt-ist-dass-geldwscher-auch-freie-berufe-ausnutzen.md",
-      "title": "“Fakt ist, dass Geldwäscher auch Freie Berufe ausnutzen”",
-      "author": "",
-      "date": "",
-      "url": "https://www.kerberos-compliance.com/wissen/blog/fakt-ist-dass-geldwscher-auch-freie-berufe-ausnutzen"
-    },
-    {
-      "filename": "verschaerfte-meldepflichten-bei-immobilientransaktionen-die-wichtigsten-aenderungen-der-gwgmeldv-imm.md",
-      "title": "Verschärfte Meldepflichten bei Immobilientransaktionen - die wichtigsten Änderungen der GwGMeldV-Immobilien 2025",
-      "author": "",
-      "date": "",
-      "url": "https://www.kerberos-compliance.com/wissen/blog/verschaerfte-meldepflichten-bei-immobilientransaktionen-die-wichtigsten-aenderungen-der-gwgmeldv-immobilien-2025"
-    },
-    {
-      "filename": "das-eu-aml-paket-neue-herausforderungen-fuer-die-geldwaeschepraevention.md",
-      "title": "Das EU-AML-Paket: Neue Herausforderungen für die Geldwäscheprävention",
-      "author": "",
-      "date": "",
-      "url": "https://www.kerberos-compliance.com/wissen/blog/das-eu-aml-paket-neue-herausforderungen-fuer-die-geldwaeschepraevention"
-    },
-    {
-      "filename": "neue-auslegungs-und-anwendungshinweise-der-bafin.md",
-      "title": "Neue Auslegungs- und Anwendungshinweise der BaFin",
-      "author": "",
-      "date": "",
-      "url": "https://www.kerberos-compliance.com/wissen/blog/neue-auslegungs-und-anwendungshinweise-der-bafin"
-    },
-    {
-      "filename": "geldwasche-im-profisport-interview-mit-bvgb-vorstandin-lena-olschewski.md",
-      "title": "Geldwäsche im Profisport - Interview mit Vorstandsvorsitzenden des Bundesverbands der Geldwäschebeauftragten e.V. Lena Olschewski",
-      "author": "",
-      "date": "",
-      "url": "https://www.kerberos-compliance.com/wissen/blog/geldwasche-im-profisport-interview-mit-bvgb-vorstandin-lena-olschewski"
-    },
-    {
-      "filename": "hinweisgebersysteme-einrichtung-interner-meldestellen.md",
-      "title": "Übergangsregelungen: Hinweisgebersysteme  - Einrichtung interner Meldestellen",
-      "author": "",
-      "date": "",
-      "url": "https://www.kerberos-compliance.com/wissen/blog/hinweisgebersysteme-einrichtung-interner-meldestellen"
-    },
-    {
-      "filename": "pflicht-zur-registrierung-im-meldeportal-goaml.md",
-      "title": "Übergangsregelungen: Pflicht zur Registrierung im Meldeportal goAML",
-      "author": "",
-      "date": "",
-      "url": "https://www.kerberos-compliance.com/wissen/blog/pflicht-zur-registrierung-im-meldeportal-goaml"
-    },
-    {
-      "filename": "das-verdachtsmeldewesen-ist-kein-buerokratie-marathon-sondern-ein-fruehwarnsystem.md",
-      "title": "Das Verdachtsmeldewesen ist kein Bürokratie-Marathon, sondern ein Frühwarnsystem",
-      "author": "",
-      "date": "",
-      "url": "https://www.kerberos-compliance.com/wissen/blog/das-verdachtsmeldewesen-ist-kein-buerokratie-marathon-sondern-ein-fruehwarnsystem"
-    },
-    {
-      "filename": "neue-auslegungs-und-anwendungshinweise-zum-geldwaeschegesetz-fuer-die-anwaltschaft.md",
-      "title": "Neue Auslegungs- und Anwendungshinweise zum Geldwäschegesetz für die Anwaltschaft",
-      "author": "",
-      "date": "",
-      "url": "https://www.kerberos-compliance.com/wissen/blog/neue-auslegungs-und-anwendungshinweise-zum-geldwaeschegesetz-fuer-die-anwaltschaft"
-    },
-    {
-      "filename": "geldwaesche-ueber-den-co2-handel-interview.md",
-      "title": "Geldwäsche über den CO2-Handel - Interview",
-      "author": "",
-      "date": "",
-      "url": "https://www.kerberos-compliance.com/wissen/blog/geldwaesche-ueber-den-co2-handel-interview"
-    },
-    {
-      "filename": "geldaewsche-in-deutschland-oktober-2025.md",
-      "title": "Geldwäsche in Deutschland: Ein Monat zeigt alle Facetten",
-      "author": "",
-      "date": "",
-      "url": "https://www.kerberos-compliance.com/wissen/blog/geldaewsche-in-deutschland-oktober-2025"
-    },
-    {
-      "filename": "entwrfe-fr-eu-anti-geldwsche-verordnung-und-richtlinie-verffentlicht.md",
-      "title": "Entwürfe für EU-Anti-Geldwäsche-Verordnung und -Richtlinie veröffentlicht",
-      "author": "",
-      "date": "",
-      "url": "https://www.kerberos-compliance.com/wissen/blog/entwrfe-fr-eu-anti-geldwsche-verordnung-und-richtlinie-verffentlicht"
-    },
-    {
-      "filename": "aktuelle-fatf-listen-aenderungen-und-neuerungen-im-februar-2025.md",
-      "title": "Aktuelle FATF-Listen: Änderungen und Neuerungen im Februar 2025",
-      "author": "",
-      "date": "",
-      "url": "https://www.kerberos-compliance.com/wissen/blog/aktuelle-fatf-listen-aenderungen-und-neuerungen-im-februar-2025"
-    },
-    {
-      "filename": "kryptowerte-im-fokus-die-neuen-bafin-auslegungshinweise-zum-geldwaeschegesetz.md",
-      "title": "Kryptowerte im Fokus: Die neuen BaFin-Auslegungshinweise zum Geldwäschegesetz",
-      "author": "",
-      "date": "",
-      "url": "https://www.kerberos-compliance.com/wissen/blog/kryptowerte-im-fokus-die-neuen-bafin-auslegungshinweise-zum-geldwaeschegesetz"
-    },
-    {
-      "filename": "betroffenenrecht-auf-auskunft-vermeiden-sie-bussgelder-abmahnungen-und-schadensersatz-forderungen.md",
-      "title": "Betroffenenrecht auf Auskunft: Vermeiden Sie Bußgelder, Abmahnungen und Schadensersatz-Forderungen!",
-      "author": "",
-      "date": "",
-      "url": "https://www.kerberos-compliance.com/wissen/blog/betroffenenrecht-auf-auskunft-vermeiden-sie-bussgelder-abmahnungen-und-schadensersatz-forderungen"
-    },
-    {
-      "filename": "das-muessen-rechtsanwaelte-und-kanzleien-zur-ihren-pflichten-nach-dem-geldwaeschegesetz-wissen.md",
-      "title": "Das müssen Rechtsanwälte und Kanzleien zur Ihren Pflichten nach dem Geldwäschegesetz wissen.",
-      "author": "",
-      "date": "",
-      "url": "https://www.kerberos-compliance.com/wissen/blog/das-muessen-rechtsanwaelte-und-kanzleien-zur-ihren-pflichten-nach-dem-geldwaeschegesetz-wissen"
-    },
-    {
-      "filename": "eu-hochrisikolaender-liste-aktualisierung-der-delegierten-verordnung-eu-20251184.md",
-      "title": "EU-Hochrisikoländer-Liste: Aktualisierung der Delegierten Verordnung (EU) 2025/1184",
-      "author": "",
-      "date": "",
-      "url": "https://www.kerberos-compliance.com/wissen/blog/eu-hochrisikolaender-liste-aktualisierung-der-delegierten-verordnung-eu-20251184"
-    },
-    {
-      "filename": "geldwschepraevention-2026-diese-fristen-und-neuerungen-muessen-verpflichtete-kennen.md",
-      "title": "Geldwäscheprävention 2026: Diese Fristen und Neuerungen müssen Verpflichtete kennen",
-      "author": "",
-      "date": "",
-      "url": "https://www.kerberos-compliance.com/wissen/blog/geldwschepraevention-2026-diese-fristen-und-neuerungen-muessen-verpflichtete-kennen"
-    },
-    {
-      "filename": "praeventionsmassnahmen-gegen-geldwaesche-und-terrorismusfinanzierung-risikoanalyse-und-unterscheidun.md",
-      "title": "Präventionsmaßnahmen gegen Geldwäsche und Terrorismusfinanzierung",
-      "author": "",
-      "date": "",
-      "url": "https://www.kerberos-compliance.com/wissen/blog/praeventionsmassnahmen-gegen-geldwaesche-und-terrorismusfinanzierung-risikoanalyse-und-unterscheidungsmerkmale"
-    },
-    {
-      "filename": "die-veraenderte-dna-der-finanzkriminalitaet-ein-blick-in-den-europol-bericht-2025.md",
-      "title": "Die veränderte DNA der Finanzkriminalität - Ein Blick in den EUROPOL-Bericht 2025",
-      "author": "",
-      "date": "",
-      "url": "https://www.kerberos-compliance.com/wissen/blog/die-veraenderte-dna-der-finanzkriminalitaet-ein-blick-in-den-europol-bericht-2025"
-    },
-    {
-      "filename": "weihnachtsgruesse-von-christian-tsambikakis-geschaeftsfuehrer.md",
-      "title": "Weihnachtsgrüße von Christian Tsambikakis - Geschäftsführer",
-      "author": "",
-      "date": "",
-      "url": "https://www.kerberos-compliance.com/wissen/blog/weihnachtsgruesse-von-christian-tsambikakis-geschaeftsfuehrer"
-    },
-    {
-      "filename": "machen-sie-ki-zu-ihrem-wettbewerbsvorteil-ki-schulungen-bei-kerberos.md",
-      "title": "Machen Sie KI zu Ihrem Wettbewerbsvorteil – KI-Schulungen bei Kerberos",
-      "author": "",
-      "date": "",
-      "url": "https://www.kerberos-compliance.com/wissen/blog/machen-sie-ki-zu-ihrem-wettbewerbsvorteil-ki-schulungen-bei-kerberos"
-    },
-    {
-      "filename": "eu-aml-verordnung-2027-so-begleitet-kerberos-compliance-ihre-vorbereitung.md",
-      "title": "EU-AML-Verordnung 2027: So begleitet Kerberos Compliance Ihre Vorbereitung",
-      "author": "",
-      "date": "",
-      "url": "https://www.kerberos-compliance.com/wissen/blog/eu-aml-verordnung-2027-so-begleitet-kerberos-compliance-ihre-vorbereitung"
-    },
-    {
-      "filename": "kyc-leicht-gemacht-geldwscheprvention-ist-digital.md",
-      "title": "KYC leicht gemacht: Geldwäscheprävention ist digital",
-      "author": "",
-      "date": "",
-      "url": "https://www.kerberos-compliance.com/wissen/blog/kyc-leicht-gemacht-geldwscheprvention-ist-digital"
-    },
-    {
-      "filename": "europaweite-pruefaktion-2025-das-recht-auf-loeschung-im-fokus-der-datenschutzbehoerden.md",
-      "title": "Europaweite Prüfaktion 2025: Das Recht auf Löschung im Fokus der Datenschutzbehörden",
-      "author": "",
-      "date": "",
-      "url": "https://www.kerberos-compliance.com/wissen/blog/europaweite-pruefaktion-2025-das-recht-auf-loeschung-im-fokus-der-datenschutzbehoerden"
-    },
-    {
-      "filename": "bafin-aufsichtsgesprche-bei-kvgen-so-bereiten-sie-sich-optimal-vor.md",
-      "title": "BaFin-Aufsichtsgespräche bei KVGen: So bereiten Sie sich optimal vor",
-      "author": "",
-      "date": "",
-      "url": "https://www.kerberos-compliance.com/wissen/blog/bafin-aufsichtsgesprche-bei-kvgen-so-bereiten-sie-sich-optimal-vor"
-    },
-    {
-      "filename": "best-practices-fuer-geldwaeschebeauftragte-im-finance-sektor.md",
-      "title": "Best Practices für Geldwäschebeauftragte im Finance-Sektor",
-      "author": "",
-      "date": "",
-      "url": "https://www.kerberos-compliance.com/wissen/blog/best-practices-fuer-geldwaeschebeauftragte-im-finance-sektor"
-    },
-    {
-      "filename": "compliance-ausblick-mit-kerberos-geschaftsfuhrer-christian-tsambikakis.md",
-      "title": "Compliance Ausblick mit Kerberos Geschäftsführer Christian Tsambikakis",
-      "author": "",
-      "date": "",
-      "url": "https://www.kerberos-compliance.com/wissen/blog/compliance-ausblick-mit-kerberos-geschaftsfuhrer-christian-tsambikakis"
-    },
-    {
-      "filename": "geschaeftspartnerpruefungen-der-schluessel-zu-sicheren-und-vertrauenswuerdigen-geschaeftsbeziehungen.md",
-      "title": "Geschäftspartnerprüfungen: Der Schlüssel zu sicheren und vertrauenswürdigen Geschäftsbeziehungen",
-      "author": "",
-      "date": "",
-      "url": "https://www.kerberos-compliance.com/wissen/blog/geschaeftspartnerpruefungen-der-schluessel-zu-sicheren-und-vertrauenswuerdigen-geschaeftsbeziehungen"
-    },
-    {
-      "filename": "mafianeindanke-mitglied-eva-bloechl-im-interview.md",
-      "title": "“Ich habe das Gefühl, dass nicht ankommt, das reale Gefahren bestehen.” Interview mit mafianeindanke-Mitglied Eva Blöchl",
-      "author": "",
-      "date": "",
-      "url": "https://www.kerberos-compliance.com/wissen/blog/mafianeindanke-mitglied-eva-bloechl-im-interview"
-    },
-    {
-      "filename": "der-blinde-fleck-der-geldwaschepravention.md",
-      "title": "Der blinde Fleck der Geldwäscheprävention.",
-      "author": "",
-      "date": "",
-      "url": "https://www.kerberos-compliance.com/wissen/blog/der-blinde-fleck-der-geldwaschepravention"
-    },
-    {
-      "filename": "fiu-jahresbericht-es-gibt-sie-noch-die-guten-nachrichten-oder.md",
-      "title": "FIU Jahresbericht 2023: Es gibt sie noch, die guten Nachrichten – oder?",
-      "author": "",
-      "date": "",
-      "url": "https://www.kerberos-compliance.com/wissen/blog/fiu-jahresbericht-es-gibt-sie-noch-die-guten-nachrichten-oder"
-    },
-    {
-      "filename": "risikomanagement-fr-factoring-amp-leasing-gesellschaften-nach-eu-aml-verordnung.md",
-      "title": "Risikomanagement für Factoring & Leasing-Gesellschaften nach EU-AML-Verordnung",
-      "author": "",
-      "date": "",
-      "url": "https://www.kerberos-compliance.com/wissen/blog/risikomanagement-fr-factoring-amp-leasing-gesellschaften-nach-eu-aml-verordnung"
-    },
-    {
-      "filename": "geldwasche-am-beispiel-des-menschenhandels.md",
-      "title": "Geldwäsche am Beispiel des Menschenhandels",
-      "author": "",
-      "date": "",
-      "url": "https://www.kerberos-compliance.com/wissen/blog/geldwasche-am-beispiel-des-menschenhandels"
-    },
-    {
-      "filename": "eu-aml-verordnung-identifizierung-von-wirtschaftlich-berechtigten-wird-zur-rechenaufgabe.md",
-      "title": "EU-AML-Verordnung: Identifizierung von wirtschaftlich Berechtigten wird zur Rechenaufgabe",
-      "author": "",
-      "date": "",
-      "url": "https://www.kerberos-compliance.com/wissen/blog/eu-aml-verordnung-identifizierung-von-wirtschaftlich-berechtigten-wird-zur-rechenaufgabe"
-    },
-    {
-      "filename": "kapitalverwaltungsgesellschaften-aml-faktoren-bei-der-jahres-abschlussprfung.md",
-      "title": "Kapitalverwaltungsgesellschaften: AML-Faktoren bei der Jahres-Abschlussprüfung",
-      "author": "",
-      "date": "",
-      "url": "https://www.kerberos-compliance.com/wissen/blog/kapitalverwaltungsgesellschaften-aml-faktoren-bei-der-jahres-abschlussprfung"
-    },
-    {
-      "filename": "gwgmeldv-2026-was-aendert-sich-bei-geldwaescheverdachtsmeldungen.md",
-      "title": "GwGMeldV 2026: Was ändert sich bei Geldwäscheverdachtsmeldungen?",
-      "author": "",
-      "date": "",
-      "url": "https://www.kerberos-compliance.com/wissen/blog/gwgmeldv-2026-was-aendert-sich-bei-geldwaescheverdachtsmeldungen"
-    },
-    {
-      "filename": "schutzmassnahmen-auslaufen-zu-lassen-scheint-mir-gefhrlich-interview-mit-dem-compliance-beauftragten.md",
-      "title": "“Schutzmaßnahmen „auslaufen“ zu lassen, scheint mir gefährlich” - Interview mit dem Compliance Beauftragten der thyssenkrupp AG",
-      "author": "",
-      "date": "",
-      "url": "https://www.kerberos-compliance.com/wissen/blog/schutzmassnahmen-auslaufen-zu-lassen-scheint-mir-gefhrlich-interview-mit-dem-compliance-beauftragten-der-thyssenkrupp-ag"
-    },
-    {
-      "filename": "die-entwicklung-der-geldaewsche-in-deutschland-2014-2024-ein-alarmierender-trend.md",
-      "title": "Die Entwicklung der Geldwäsche in Deutschland 2014-2024: Ein alarmierender Trend",
-      "author": "",
-      "date": "",
-      "url": "https://www.kerberos-compliance.com/wissen/blog/die-entwicklung-der-geldaewsche-in-deutschland-2014-2024-ein-alarmierender-trend"
-    },
-    {
-      "filename": "ubergangsregelungen-transparenzregister-noch-auf-dem-neuesten-stand.md",
-      "title": "Übergangsregelungen: Transparenzregister – Noch auf dem neuesten Stand?",
-      "author": "",
-      "date": "",
-      "url": "https://www.kerberos-compliance.com/wissen/blog/ubergangsregelungen-transparenzregister-noch-auf-dem-neuesten-stand"
-    },
-    {
-      "filename": "aml-compliance-fr-leasing-amp-factoring-institute-herausforderungen-und-lsungen.md",
-      "title": "AML-Compliance für Leasing & Factoring-Institute: Herausforderungen und Lösungen",
-      "author": "",
-      "date": "",
-      "url": "https://www.kerberos-compliance.com/wissen/blog/aml-compliance-fr-leasing-amp-factoring-institute-herausforderungen-und-lsungen"
-    },
-    {
-      "filename": "wiederkehrende-pflichten-zur-geldwaeschepraevention-update-ende-2025.md",
-      "title": "Wiederkehrende Pflichten zur Geldwäscheprävention – Update Ende 2025",
-      "author": "",
-      "date": "",
-      "url": "https://www.kerberos-compliance.com/wissen/blog/wiederkehrende-pflichten-zur-geldwaeschepraevention-update-ende-2025"
-    },
-    {
-      "filename": "wie-steht-es-um-die-bekmpfung-von-geldwsche-in-deutschland-und-warum.md",
-      "title": "Wie steht es um die Bekämpfung von Geldwäsche in Deutschland? Und warum?",
-      "author": "",
-      "date": "",
-      "url": "https://www.kerberos-compliance.com/wissen/blog/wie-steht-es-um-die-bekmpfung-von-geldwsche-in-deutschland-und-warum"
-    },
-    {
-      "filename": "us-cloud-anbieter-im-fokus-datenschutzrisiken-und-handlungsempfehlungen.md",
-      "title": "US-Cloud-Anbieter im Fokus: Datenschutzrisiken und Handlungsempfehlungen",
-      "author": "",
-      "date": "",
-      "url": "https://www.kerberos-compliance.com/wissen/blog/us-cloud-anbieter-im-fokus-datenschutzrisiken-und-handlungsempfehlungen"
-    },
-    {
-      "filename": "schleswig-holstein-bugelder-in-der-geldwscheaufsicht-steigen-um-115-prozent.md",
-      "title": "Schleswig-Holstein: Bußgelder in der Geldwäscheaufsicht steigen um 115 Prozent",
-      "author": "",
-      "date": "",
-      "url": "https://www.kerberos-compliance.com/wissen/blog/schleswig-holstein-bugelder-in-der-geldwscheaufsicht-steigen-um-115-prozent"
-    },
-    {
-      "filename": "kyc-in-der-praxis-digitale-loesungen-fuer-effiziente-sorgfaltspflichten.md",
-      "title": "KYC in der Praxis: Digitale Lösungen für effiziente Sorgfaltspflichten",
-      "author": "",
-      "date": "",
-      "url": "https://www.kerberos-compliance.com/wissen/blog/kyc-in-der-praxis-digitale-loesungen-fuer-effiziente-sorgfaltspflichten"
-    },
-    {
-      "filename": "9-dinge-die-sie-bei-geldwasche-verdachtsmeldungen-besser-machen-sollten.md",
-      "title": "9 Dinge, die Sie bei Geldwäsche-Verdachtsmeldungen besser machen sollten",
-      "author": "",
-      "date": "",
-      "url": "https://www.kerberos-compliance.com/wissen/blog/9-dinge-die-sie-bei-geldwasche-verdachtsmeldungen-besser-machen-sollten"
-    },
-    {
-      "filename": "neue-eu-vorschriften-zur-bekmpfung-von-geldwsche.md",
-      "title": "Neue EU-Vorschriften zur Bekämpfung von Geldwäsche und Terrorismusfinanzierung: Ein erster Überblick",
-      "author": "",
-      "date": "",
-      "url": "https://www.kerberos-compliance.com/wissen/blog/neue-eu-vorschriften-zur-bekmpfung-von-geldwsche"
-    },
-    {
-      "filename": "der-neue-koalitionsvertrag-und-die-geldwschebekmpfung-was-erwartet-verpflichtete.md",
-      "title": "Der neue Koalitionsvertrag und die Geldwäschebekämpfung – Was erwartet Verpflichtete?",
-      "author": "",
-      "date": "",
-      "url": "https://www.kerberos-compliance.com/wissen/blog/der-neue-koalitionsvertrag-und-die-geldwschebekmpfung-was-erwartet-verpflichtete"
-    },
-    {
-      "filename": "wiederwiederkehrende-pflichten-zur-geldwaschepravention.md",
-      "title": "Wiederkehrende Pflichten zur Geldwäscheprävention",
-      "author": "",
-      "date": "",
-      "url": "https://www.kerberos-compliance.com/wissen/blog/wiederwiederkehrende-pflichten-zur-geldwaschepravention"
-    },
-    {
-      "filename": "eu-plne-fr-anti-geldwsche-richtlinie-diese-punkte-mssen-in-nationales-recht-berfhrt-werden.md",
-      "title": "EU Pläne für Anti-Geldwäsche Richtlinie - diese Punkte müssen in nationales Recht überführt werden",
-      "author": "",
-      "date": "",
-      "url": "https://www.kerberos-compliance.com/wissen/blog/eu-plne-fr-anti-geldwsche-richtlinie-diese-punkte-mssen-in-nationales-recht-berfhrt-werden"
-    },
-    {
-      "filename": "ein-vertrauensvorschuss-fr-deutschland-die-amla-kommt-nach-frankfurt.md",
-      "title": "Ein Vertrauensvorschuss für Deutschland – die AMLA kommt nach Frankfurt",
-      "author": "",
-      "date": "",
-      "url": "https://www.kerberos-compliance.com/wissen/blog/ein-vertrauensvorschuss-fr-deutschland-die-amla-kommt-nach-frankfurt"
     },
     {
       "filename": "geldwsche-fakten-aus-der-polizeilichen-kriminalstatistik-2024.md",
@@ -769,39 +20,74 @@
       "url": "https://www.kerberos-compliance.com/wissen/blog/geldwsche-fakten-aus-der-polizeilichen-kriminalstatistik-2024"
     },
     {
-      "filename": "geldwaeschebeauftragte-fuer-kvgen-zwischen-steigenden-anforderungen-und-komplexen-strukturen.md",
-      "title": "Geldwäschebeauftragte für KVGen: Zwischen steigenden Anforderungen und komplexen Strukturen",
+      "filename": "warum-sind-risikoanalysen-nach-dem-geldwaschegesetz-gwg-so-wichtig.md",
+      "title": "Warum sind Risikoanalysen nach dem Geldwäschegesetz (GwG) so wichtig?",
       "author": "",
       "date": "",
-      "url": "https://www.kerberos-compliance.com/wissen/blog/geldwaeschebeauftragte-fuer-kvgen-zwischen-steigenden-anforderungen-und-komplexen-strukturen"
+      "url": "https://www.kerberos-compliance.com/wissen/blog/warum-sind-risikoanalysen-nach-dem-geldwaschegesetz-gwg-so-wichtig"
     },
     {
-      "filename": "kycaml-api.md",
-      "title": "KYC/AML API: Ergebnisberichte in Sekunden",
+      "filename": "ein-vertrauensvorschuss-fr-deutschland-die-amla-kommt-nach-frankfurt.md",
+      "title": "Ein Vertrauensvorschuss für Deutschland – die AMLA kommt nach Frankfurt",
       "author": "",
       "date": "",
-      "url": "https://www.kerberos-compliance.com/wissen/blog/kycaml-api"
+      "url": "https://www.kerberos-compliance.com/wissen/blog/ein-vertrauensvorschuss-fr-deutschland-die-amla-kommt-nach-frankfurt"
     },
     {
-      "filename": "clan-spitzel-bei-der-fiu.md",
-      "title": "Clan-Spitzel bei der Geldwäsche-Spezialeinheit",
+      "filename": "bafin-aufsichtsgesprche-bei-kvgen-so-bereiten-sie-sich-optimal-vor.md",
+      "title": "BaFin-Aufsichtsgespräche bei KVGen: So bereiten Sie sich optimal vor",
       "author": "",
       "date": "",
-      "url": "https://www.kerberos-compliance.com/wissen/blog/clan-spitzel-bei-der-fiu"
+      "url": "https://www.kerberos-compliance.com/wissen/blog/bafin-aufsichtsgesprche-bei-kvgen-so-bereiten-sie-sich-optimal-vor"
     },
     {
-      "filename": "blog-post-title-two-stplb.md",
-      "title": "In meinen Gesprächen höre ich fast immer, dass Geldwäscheprävention und das Gesetz Unsinn sind",
+      "filename": "gwgmeldv-2026-was-aendert-sich-bei-geldwaescheverdachtsmeldungen.md",
+      "title": "GwGMeldV 2026: Was ändert sich bei Geldwäscheverdachtsmeldungen?",
       "author": "",
       "date": "",
-      "url": "https://www.kerberos-compliance.com/wissen/blog/blog-post-title-two-stplb"
+      "url": "https://www.kerberos-compliance.com/wissen/blog/gwgmeldv-2026-was-aendert-sich-bei-geldwaescheverdachtsmeldungen"
     },
     {
-      "filename": "aml-behoerdenpruefungen-bei-sportwetten-vermittlern-so-bereiten-sie-sich-optimal-vor.md",
-      "title": "AML-Behördenprüfungen bei Sportwetten-Vermittlern: So bereiten Sie sich optimal vor",
+      "filename": "compliance-fort-bildungsangebote-fuer-2025.md",
+      "title": "Compliance (Fort-)Bildungsangebote für 2025",
       "author": "",
       "date": "",
-      "url": "https://www.kerberos-compliance.com/wissen/blog/aml-behoerdenpruefungen-bei-sportwetten-vermittlern-so-bereiten-sie-sich-optimal-vor"
+      "url": "https://www.kerberos-compliance.com/wissen/blog/compliance-fort-bildungsangebote-fuer-2025"
+    },
+    {
+      "filename": "transparenzregistereintragung-1415-unternehmen-am-pranger.md",
+      "title": "Transparenzregistereintragung: 1.415 Unternehmen am Pranger",
+      "author": "",
+      "date": "",
+      "url": "https://www.kerberos-compliance.com/wissen/blog/transparenzregistereintragung-1415-unternehmen-am-pranger"
+    },
+    {
+      "filename": "wiederwiederkehrende-pflichten-zur-geldwaschepravention.md",
+      "title": "Wiederkehrende Pflichten zur Geldwäscheprävention",
+      "author": "",
+      "date": "",
+      "url": "https://www.kerberos-compliance.com/wissen/blog/wiederwiederkehrende-pflichten-zur-geldwaschepravention"
+    },
+    {
+      "filename": "das-eu-aml-paket-neue-herausforderungen-fuer-die-geldwaeschepraevention.md",
+      "title": "Das EU-AML-Paket: Neue Herausforderungen für die Geldwäscheprävention",
+      "author": "",
+      "date": "",
+      "url": "https://www.kerberos-compliance.com/wissen/blog/das-eu-aml-paket-neue-herausforderungen-fuer-die-geldwaeschepraevention"
+    },
+    {
+      "filename": "final-countdown-manahmen-die-sie-bis-ende-2024-aktualisieren-sollten.md",
+      "title": "Final Countdown: Maßnahmen, die Sie bis Ende 2024 aktualisieren sollten",
+      "author": "",
+      "date": "",
+      "url": "https://www.kerberos-compliance.com/wissen/blog/final-countdown-manahmen-die-sie-bis-ende-2024-aktualisieren-sollten"
+    },
+    {
+      "filename": "make-or-buy-geldwaeschebeauftragte-fuer-kvgen-effizient-organisieren.md",
+      "title": "Make-or-Buy: Geldwäschebeauftragte für KVGen effizient organisieren",
+      "author": "",
+      "date": "",
+      "url": "https://www.kerberos-compliance.com/wissen/blog/make-or-buy-geldwaeschebeauftragte-fuer-kvgen-effizient-organisieren"
     },
     {
       "filename": "rckgang-bei-geldwsche-verdachtsmeldungen-was-steckt-dahinter.md",
@@ -811,11 +97,655 @@
       "url": "https://www.kerberos-compliance.com/wissen/blog/rckgang-bei-geldwsche-verdachtsmeldungen-was-steckt-dahinter"
     },
     {
+      "filename": "burokratie-braucht-burokrat-innen-wie-geldwaschebeauftragte-unternehmen-schutzen.md",
+      "title": "Bürokratie braucht Bürokrat:innen – Wie Geldwäschebeauftragte Unternehmen schützen",
+      "author": "",
+      "date": "",
+      "url": "https://www.kerberos-compliance.com/wissen/blog/burokratie-braucht-burokrat-innen-wie-geldwaschebeauftragte-unternehmen-schutzen"
+    },
+    {
+      "filename": "allgemeinverfgung-zur-bestellung-von-geldwschebeauftragten-im-gterhandel.md",
+      "title": "Allgemeinverfügung zur Bestellung von Geldwäschebeauftragten im Güterhandel",
+      "author": "",
+      "date": "",
+      "url": "https://www.kerberos-compliance.com/wissen/blog/allgemeinverfgung-zur-bestellung-von-geldwschebeauftragten-im-gterhandel"
+    },
+    {
+      "filename": "kycaml-api.md",
+      "title": "KYC/AML API: Ergebnisberichte in Sekunden",
+      "author": "",
+      "date": "",
+      "url": "https://www.kerberos-compliance.com/wissen/blog/kycaml-api"
+    },
+    {
       "filename": "vonovia-korruptionsskandal-mit-vorbildcharakter.md",
       "title": "Vonovia – Korruptionsskandal mit Vorbildcharakter",
       "author": "",
       "date": "",
       "url": "https://www.kerberos-compliance.com/wissen/blog/vonovia-korruptionsskandal-mit-vorbildcharakter"
+    },
+    {
+      "filename": "geldwscheprvention-2025-ein-halbes-jahr-zwischen-fortschritten-und-rckschlgen.md",
+      "title": "Geldwäscheprävention 2025: Ein halbes Jahr zwischen Fortschritten und Rückschlägen",
+      "author": "",
+      "date": "",
+      "url": "https://www.kerberos-compliance.com/wissen/blog/geldwscheprvention-2025-ein-halbes-jahr-zwischen-fortschritten-und-rckschlgen"
+    },
+    {
+      "filename": "starkung-ihrer-cyber-abwehr.md",
+      "title": "Stärkung Ihrer Cyber-Abwehr",
+      "author": "",
+      "date": "",
+      "url": "https://www.kerberos-compliance.com/wissen/blog/starkung-ihrer-cyber-abwehr"
+    },
+    {
+      "filename": "geldwschepraevention-2026-diese-fristen-und-neuerungen-muessen-verpflichtete-kennen.md",
+      "title": "Geldwäscheprävention 2026: Diese Fristen und Neuerungen müssen Verpflichtete kennen",
+      "author": "",
+      "date": "",
+      "url": "https://www.kerberos-compliance.com/wissen/blog/geldwschepraevention-2026-diese-fristen-und-neuerungen-muessen-verpflichtete-kennen"
+    },
+    {
+      "filename": "know-your-customer-fuer-freie-berufe-herausforderungen-und-loesungsansaetze-fuer-anwaeltinnen-und-no.md",
+      "title": "Know Your Customer\" für freie Berufe: Herausforderungen und Lösungsansätze für Anwält:innen und Notar:innen",
+      "author": "",
+      "date": "",
+      "url": "https://www.kerberos-compliance.com/wissen/blog/know-your-customer-fuer-freie-berufe-herausforderungen-und-loesungsansaetze-fuer-anwaeltinnen-und-notarinnen"
+    },
+    {
+      "filename": "aml-behoerdenpruefungen-bei-sportwetten-vermittlern-so-bereiten-sie-sich-optimal-vor.md",
+      "title": "AML-Behördenprüfungen bei Sportwetten-Vermittlern: So bereiten Sie sich optimal vor",
+      "author": "",
+      "date": "",
+      "url": "https://www.kerberos-compliance.com/wissen/blog/aml-behoerdenpruefungen-bei-sportwetten-vermittlern-so-bereiten-sie-sich-optimal-vor"
+    },
+    {
+      "filename": "geldwaesche-ueber-den-co2-handel-interview.md",
+      "title": "Geldwäsche über den CO2-Handel - Interview",
+      "author": "",
+      "date": "",
+      "url": "https://www.kerberos-compliance.com/wissen/blog/geldwaesche-ueber-den-co2-handel-interview"
+    },
+    {
+      "filename": "eu-plne-fr-anti-geldwsche-richtlinie-diese-punkte-mssen-in-nationales-recht-berfhrt-werden.md",
+      "title": "EU Pläne für Anti-Geldwäsche Richtlinie - diese Punkte müssen in nationales Recht überführt werden",
+      "author": "",
+      "date": "",
+      "url": "https://www.kerberos-compliance.com/wissen/blog/eu-plne-fr-anti-geldwsche-richtlinie-diese-punkte-mssen-in-nationales-recht-berfhrt-werden"
+    },
+    {
+      "filename": "eu-aml-vor-neue-kyc-pruefpflichten-fuer-kapitalverwaltungsgesellschaften.md",
+      "title": "EU AML VO: Neue KYC-Prüfpflichten für Kapitalverwaltungsgesellschaften – Was Sie jetzt wissen müssen",
+      "author": "",
+      "date": "",
+      "url": "https://www.kerberos-compliance.com/wissen/blog/eu-aml-vor-neue-kyc-pruefpflichten-fuer-kapitalverwaltungsgesellschaften"
+    },
+    {
+      "filename": "neue-gwg-meldeverordnung-standardisierung-von-verdachtsmeldungen-ab-oktober-2025.md",
+      "title": "Neue GwG-Meldeverordnung: Standardisierung von Verdachtsmeldungen ab Oktober 2025",
+      "author": "",
+      "date": "",
+      "url": "https://www.kerberos-compliance.com/wissen/blog/neue-gwg-meldeverordnung-standardisierung-von-verdachtsmeldungen-ab-oktober-2025"
+    },
+    {
+      "filename": "bautraeger-und-makler-was-geldwaeschepraevention-fuer-sie-bedeutet.md",
+      "title": "Bauträger/Immobilienentwickler und Makler – Was Geldwäscheprävention für sie bedeutet",
+      "author": "",
+      "date": "",
+      "url": "https://www.kerberos-compliance.com/wissen/blog/bautraeger-und-makler-was-geldwaeschepraevention-fuer-sie-bedeutet"
+    },
+    {
+      "filename": "geldwasche-am-beispiel-des-menschenhandels.md",
+      "title": "Geldwäsche am Beispiel des Menschenhandels",
+      "author": "",
+      "date": "",
+      "url": "https://www.kerberos-compliance.com/wissen/blog/geldwasche-am-beispiel-des-menschenhandels"
+    },
+    {
+      "filename": "ubergangsregelungen-transparenzregister-noch-auf-dem-neuesten-stand.md",
+      "title": "Übergangsregelungen: Transparenzregister – Noch auf dem neuesten Stand?",
+      "author": "",
+      "date": "",
+      "url": "https://www.kerberos-compliance.com/wissen/blog/ubergangsregelungen-transparenzregister-noch-auf-dem-neuesten-stand"
+    },
+    {
+      "filename": "operation-chargeback-wenn-compliance-systeme-versagen.md",
+      "title": "Operation Chargeback: Wenn Compliance-Systeme versagen – Eine Analyse des AML-Experten Frank Lässig",
+      "author": "",
+      "date": "",
+      "url": "https://www.kerberos-compliance.com/wissen/blog/operation-chargeback-wenn-compliance-systeme-versagen"
+    },
+    {
+      "filename": "compliance-ausblick-mit-kerberos-geschaftsfuhrer-christian-tsambikakis.md",
+      "title": "Compliance Ausblick mit Kerberos Geschäftsführer Christian Tsambikakis",
+      "author": "",
+      "date": "",
+      "url": "https://www.kerberos-compliance.com/wissen/blog/compliance-ausblick-mit-kerberos-geschaftsfuhrer-christian-tsambikakis"
+    },
+    {
+      "filename": "prufungen-im-nacken-darum-lohnt-sich-pravention.md",
+      "title": "Prüfungen im Nacken - darum lohnt sich Prävention",
+      "author": "",
+      "date": "",
+      "url": "https://www.kerberos-compliance.com/wissen/blog/prufungen-im-nacken-darum-lohnt-sich-pravention"
+    },
+    {
+      "filename": "die-wahrscheinlichkeit-bei-unachtsamkeiten-erwischt-und-entsprechend-bestraft-zu-werden-steigt-signi.md",
+      "title": "“Wahrscheinlichkeit, bei Unachtsamkeiten bestraft zu werden, steigt.” - Interview mit AML-Experten",
+      "author": "",
+      "date": "",
+      "url": "https://www.kerberos-compliance.com/wissen/blog/die-wahrscheinlichkeit-bei-unachtsamkeiten-erwischt-und-entsprechend-bestraft-zu-werden-steigt-signifikant"
+    },
+    {
+      "filename": "eu-einigt-sich-auf-anti-geldwsche-verordnung-und-richtlinie-bindende-nderungen.md",
+      "title": "EU Pläne für Anti-Geldwäsche Verordnung - diese Änderungen werden europaweit bindend",
+      "author": "",
+      "date": "",
+      "url": "https://www.kerberos-compliance.com/wissen/blog/eu-einigt-sich-auf-anti-geldwsche-verordnung-und-richtlinie-bindende-nderungen"
+    },
+    {
+      "filename": "kampf-gegen-geldwsche-goldesel-auf-dem-weg-zum-goldstandard.md",
+      "title": "Kampf gegen Geldwäsche: „Goldesel“ auf dem Weg zum „Goldstandard“?",
+      "author": "",
+      "date": "",
+      "url": "https://www.kerberos-compliance.com/wissen/blog/kampf-gegen-geldwsche-goldesel-auf-dem-weg-zum-goldstandard"
+    },
+    {
+      "filename": "know-your-customer-kyc-oder-was-passieren-kann-wenn-man-es-nicht-tut.md",
+      "title": "Know Your Customer (KYC) – oder was passieren kann, wenn man es nicht tut",
+      "author": "",
+      "date": "",
+      "url": "https://www.kerberos-compliance.com/wissen/blog/know-your-customer-kyc-oder-was-passieren-kann-wenn-man-es-nicht-tut"
+    },
+    {
+      "filename": "fiu-jahresbericht-es-gibt-sie-noch-die-guten-nachrichten-oder.md",
+      "title": "FIU Jahresbericht 2023: Es gibt sie noch, die guten Nachrichten – oder?",
+      "author": "",
+      "date": "",
+      "url": "https://www.kerberos-compliance.com/wissen/blog/fiu-jahresbericht-es-gibt-sie-noch-die-guten-nachrichten-oder"
+    },
+    {
+      "filename": "eu-hochrisikolaender-liste-aktualisierung-der-delegierten-verordnung-eu-20251184.md",
+      "title": "EU-Hochrisikoländer-Liste: Aktualisierung der Delegierten Verordnung (EU) 2025/1184",
+      "author": "",
+      "date": "",
+      "url": "https://www.kerberos-compliance.com/wissen/blog/eu-hochrisikolaender-liste-aktualisierung-der-delegierten-verordnung-eu-20251184"
+    },
+    {
+      "filename": "die-aufsicht-wird-nicht-locker-lassen-interview.md",
+      "title": "“Die Aufsicht wird nicht lockerer werden, im Gegenteil”",
+      "author": "",
+      "date": "",
+      "url": "https://www.kerberos-compliance.com/wissen/blog/die-aufsicht-wird-nicht-locker-lassen-interview"
+    },
+    {
+      "filename": "hinweisgebersysteme-nach-dem-hinweisgeberschutzgesetz-hinschg.md",
+      "title": "Hinweisgebersysteme nach dem Hinweisgeberschutzgesetz (HinSchG)",
+      "author": "",
+      "date": "",
+      "url": "https://www.kerberos-compliance.com/wissen/blog/hinweisgebersysteme-nach-dem-hinweisgeberschutzgesetz-hinschg"
+    },
+    {
+      "filename": "kyc-leicht-gemacht-geldwscheprvention-ist-digital.md",
+      "title": "KYC leicht gemacht: Geldwäscheprävention ist digital",
+      "author": "",
+      "date": "",
+      "url": "https://www.kerberos-compliance.com/wissen/blog/kyc-leicht-gemacht-geldwscheprvention-ist-digital"
+    },
+    {
+      "filename": "blog-post-title-three-lnhdx.md",
+      "title": "Wie Sie die Wirtschaft retten (müssen) und Christian Lindner glücklich machen",
+      "author": "",
+      "date": "",
+      "url": "https://www.kerberos-compliance.com/wissen/blog/blog-post-title-three-lnhdx"
+    },
+    {
+      "filename": "geldwaesche-im-deutschen-immobiliensektor-bleibt-milliardenproblem.md",
+      "title": "Geldwäsche im deutschen Immobiliensektor bleibt Milliardenproblem",
+      "author": "",
+      "date": "",
+      "url": "https://www.kerberos-compliance.com/wissen/blog/geldwaesche-im-deutschen-immobiliensektor-bleibt-milliardenproblem"
+    },
+    {
+      "filename": "vom-krisenherd-zum-vertrauensturbo-umgang-mit-datenschutzbeschwerden.md",
+      "title": "Vom Krisenherd zum Vertrauensturbo: Umgang mit Datenschutzbeschwerden",
+      "author": "",
+      "date": "",
+      "url": "https://www.kerberos-compliance.com/wissen/blog/vom-krisenherd-zum-vertrauensturbo-umgang-mit-datenschutzbeschwerden"
+    },
+    {
+      "filename": "mlro-strategien-fuer-deutsche-finanzdienstleister-ceo-leitfaden-2025.md",
+      "title": "MLRO-Strategien für deutsche Finanzdienstleister: CEO-Leitfaden 2025",
+      "author": "",
+      "date": "",
+      "url": "https://www.kerberos-compliance.com/wissen/blog/mlro-strategien-fuer-deutsche-finanzdienstleister-ceo-leitfaden-2025"
+    },
+    {
+      "filename": "kryptowerte-im-fokus-die-neuen-bafin-auslegungshinweise-zum-geldwaeschegesetz.md",
+      "title": "Kryptowerte im Fokus: Die neuen BaFin-Auslegungshinweise zum Geldwäschegesetz",
+      "author": "",
+      "date": "",
+      "url": "https://www.kerberos-compliance.com/wissen/blog/kryptowerte-im-fokus-die-neuen-bafin-auslegungshinweise-zum-geldwaeschegesetz"
+    },
+    {
+      "filename": "geldwaeschebeauftragte-schluesselfiguren-im-kampf-gegen-finanzkriminalitaet.md",
+      "title": "Geldwäschebeauftragte: Schlüsselfiguren im Kampf gegen Finanzkriminalität",
+      "author": "",
+      "date": "",
+      "url": "https://www.kerberos-compliance.com/wissen/blog/geldwaeschebeauftragte-schluesselfiguren-im-kampf-gegen-finanzkriminalitaet"
+    },
+    {
+      "filename": "eu-aml-verordnung-identifizierung-von-wirtschaftlich-berechtigten-wird-zur-rechenaufgabe.md",
+      "title": "EU-AML-Verordnung: Identifizierung von wirtschaftlich Berechtigten wird zur Rechenaufgabe",
+      "author": "",
+      "date": "",
+      "url": "https://www.kerberos-compliance.com/wissen/blog/eu-aml-verordnung-identifizierung-von-wirtschaftlich-berechtigten-wird-zur-rechenaufgabe"
+    },
+    {
+      "filename": "pm-zertifizierung-kyc-specialist.md",
+      "title": "DEKRA-Zertifizierung zum KYC-Specialist: Anti-Geldwäsche-Experten teilen in neuer Weiterbildung Praxiswissen",
+      "author": "",
+      "date": "",
+      "url": "https://www.kerberos-compliance.com/wissen/blog/pm-zertifizierung-kyc-specialist"
+    },
+    {
+      "filename": "neue-auslegungs-und-anwendungshinweise-der-bafin.md",
+      "title": "Neue Auslegungs- und Anwendungshinweise der BaFin",
+      "author": "",
+      "date": "",
+      "url": "https://www.kerberos-compliance.com/wissen/blog/neue-auslegungs-und-anwendungshinweise-der-bafin"
+    },
+    {
+      "filename": "geldwaeschebeauftragte-fuer-kvgen-zwischen-steigenden-anforderungen-und-komplexen-strukturen.md",
+      "title": "Geldwäschebeauftragte für KVGen: Zwischen steigenden Anforderungen und komplexen Strukturen",
+      "author": "",
+      "date": "",
+      "url": "https://www.kerberos-compliance.com/wissen/blog/geldwaeschebeauftragte-fuer-kvgen-zwischen-steigenden-anforderungen-und-komplexen-strukturen"
+    },
+    {
+      "filename": "machen-sie-ki-zu-ihrem-wettbewerbsvorteil-ki-schulungen-bei-kerberos.md",
+      "title": "Machen Sie KI zu Ihrem Wettbewerbsvorteil – KI-Schulungen bei Kerberos",
+      "author": "",
+      "date": "",
+      "url": "https://www.kerberos-compliance.com/wissen/blog/machen-sie-ki-zu-ihrem-wettbewerbsvorteil-ki-schulungen-bei-kerberos"
+    },
+    {
+      "filename": "schleswig-holstein-bugelder-in-der-geldwscheaufsicht-steigen-um-115-prozent.md",
+      "title": "Schleswig-Holstein: Bußgelder in der Geldwäscheaufsicht steigen um 115 Prozent",
+      "author": "",
+      "date": "",
+      "url": "https://www.kerberos-compliance.com/wissen/blog/schleswig-holstein-bugelder-in-der-geldwscheaufsicht-steigen-um-115-prozent"
+    },
+    {
+      "filename": "weihnachtsgruesse-von-christian-tsambikakis-geschaeftsfuehrer.md",
+      "title": "Weihnachtsgrüße von Christian Tsambikakis - Geschäftsführer",
+      "author": "",
+      "date": "",
+      "url": "https://www.kerberos-compliance.com/wissen/blog/weihnachtsgruesse-von-christian-tsambikakis-geschaeftsfuehrer"
+    },
+    {
+      "filename": "how-to-goaml-geldwasche-verdachtsmeldungen.md",
+      "title": "How to: goAML & Geldwäsche Verdachtsmeldungen",
+      "author": "",
+      "date": "",
+      "url": "https://www.kerberos-compliance.com/wissen/blog/how-to-goaml-geldwasche-verdachtsmeldungen"
+    },
+    {
+      "filename": "bussgelder-behoerden-und-ein-neues-register-das-finanzkriminalitaetsbekaempfungsgesetz.md",
+      "title": "Bußgelder, Behörden und ein neues Register – das Finanzkriminalitätsbekämpfungsgesetz",
+      "author": "",
+      "date": "",
+      "url": "https://www.kerberos-compliance.com/wissen/blog/bussgelder-behoerden-und-ein-neues-register-das-finanzkriminalitaetsbekaempfungsgesetz"
+    },
+    {
+      "filename": "best-practices-fuer-geldwaeschebeauftragte-im-finance-sektor.md",
+      "title": "Best Practices für Geldwäschebeauftragte im Finance-Sektor",
+      "author": "",
+      "date": "",
+      "url": "https://www.kerberos-compliance.com/wissen/blog/best-practices-fuer-geldwaeschebeauftragte-im-finance-sektor"
+    },
+    {
+      "filename": "der-neue-koalitionsvertrag-und-die-geldwschebekmpfung-was-erwartet-verpflichtete.md",
+      "title": "Der neue Koalitionsvertrag und die Geldwäschebekämpfung – Was erwartet Verpflichtete?",
+      "author": "",
+      "date": "",
+      "url": "https://www.kerberos-compliance.com/wissen/blog/der-neue-koalitionsvertrag-und-die-geldwschebekmpfung-was-erwartet-verpflichtete"
+    },
+    {
+      "filename": "die-veraenderte-dna-der-finanzkriminalitaet-ein-blick-in-den-europol-bericht-2025.md",
+      "title": "Die veränderte DNA der Finanzkriminalität - Ein Blick in den EUROPOL-Bericht 2025",
+      "author": "",
+      "date": "",
+      "url": "https://www.kerberos-compliance.com/wissen/blog/die-veraenderte-dna-der-finanzkriminalitaet-ein-blick-in-den-europol-bericht-2025"
+    },
+    {
+      "filename": "eu-aml-verordnung-ab-juli-2027-was-verpflichtete-jetzt-wissen-muessen.md",
+      "title": "EU-AML-Verordnung ab Juli 2027: Was Verpflichtete jetzt wissen müssen",
+      "author": "",
+      "date": "",
+      "url": "https://www.kerberos-compliance.com/wissen/blog/eu-aml-verordnung-ab-juli-2027-was-verpflichtete-jetzt-wissen-muessen"
+    },
+    {
+      "filename": "how-to-goaml-amp-geldwaescheverdachtsmeldungen.md",
+      "title": "How to: goAML & Geldwäscheverdachtsmeldungen – Webinar-Zusammenfassung",
+      "author": "",
+      "date": "",
+      "url": "https://www.kerberos-compliance.com/wissen/blog/how-to-goaml-amp-geldwaescheverdachtsmeldungen"
+    },
+    {
+      "filename": "rechnungsversand-per-e-mail-neue-rechtslage-nach-olg-urteil.md",
+      "title": "Rechnungsversand per E-Mail: Neue Rechtslage nach OLG-Urteil",
+      "author": "",
+      "date": "",
+      "url": "https://www.kerberos-compliance.com/wissen/blog/rechnungsversand-per-e-mail-neue-rechtslage-nach-olg-urteil"
+    },
+    {
+      "filename": "der-blinde-fleck-der-geldwaschepravention.md",
+      "title": "Der blinde Fleck der Geldwäscheprävention.",
+      "author": "",
+      "date": "",
+      "url": "https://www.kerberos-compliance.com/wissen/blog/der-blinde-fleck-der-geldwaschepravention"
+    },
+    {
+      "filename": "portrait-daniel-thelesklaf.md",
+      "title": "Portrait: Daniel Thelesklaf, zukünftiger Leiter der Financial Intelligence Unit (FIU) in Deutschland",
+      "author": "",
+      "date": "",
+      "url": "https://www.kerberos-compliance.com/wissen/blog/portrait-daniel-thelesklaf"
+    },
+    {
+      "filename": "mafianeindanke-mitglied-eva-bloechl-im-interview.md",
+      "title": "“Ich habe das Gefühl, dass nicht ankommt, das reale Gefahren bestehen.” Interview mit mafianeindanke-Mitglied Eva Blöchl",
+      "author": "",
+      "date": "",
+      "url": "https://www.kerberos-compliance.com/wissen/blog/mafianeindanke-mitglied-eva-bloechl-im-interview"
+    },
+    {
+      "filename": "geschaeftspartnerpruefungen-der-schluessel-zu-sicheren-und-vertrauenswuerdigen-geschaeftsbeziehungen.md",
+      "title": "Geschäftspartnerprüfungen: Der Schlüssel zu sicheren und vertrauenswürdigen Geschäftsbeziehungen",
+      "author": "",
+      "date": "",
+      "url": "https://www.kerberos-compliance.com/wissen/blog/geschaeftspartnerpruefungen-der-schluessel-zu-sicheren-und-vertrauenswuerdigen-geschaeftsbeziehungen"
+    },
+    {
+      "filename": "sanktionen-und-was-sie-bedeuten.md",
+      "title": "Sanktionen und was sie bedeuten",
+      "author": "",
+      "date": "",
+      "url": "https://www.kerberos-compliance.com/wissen/blog/sanktionen-und-was-sie-bedeuten"
+    },
+    {
+      "filename": "die-entwicklung-der-geldaewsche-in-deutschland-2014-2024-ein-alarmierender-trend.md",
+      "title": "Die Entwicklung der Geldwäsche in Deutschland 2014-2024: Ein alarmierender Trend",
+      "author": "",
+      "date": "",
+      "url": "https://www.kerberos-compliance.com/wissen/blog/die-entwicklung-der-geldaewsche-in-deutschland-2014-2024-ein-alarmierender-trend"
+    },
+    {
+      "filename": "bafin-aufsichtsgespraeche-bei-kapitalverwaltungsgesellschaften-praxiserfahrungen.md",
+      "title": "BaFin-Aufsichtsgespräche bei Kapitalverwaltungsgesellschaften: Praxiserfahrungen",
+      "author": "",
+      "date": "",
+      "url": "https://www.kerberos-compliance.com/wissen/blog/bafin-aufsichtsgespraeche-bei-kapitalverwaltungsgesellschaften-praxiserfahrungen"
+    },
+    {
+      "filename": "schutzmassnahmen-auslaufen-zu-lassen-scheint-mir-gefhrlich-interview-mit-dem-compliance-beauftragten.md",
+      "title": "“Schutzmaßnahmen „auslaufen“ zu lassen, scheint mir gefährlich” - Interview mit dem Compliance Beauftragten der thyssenkrupp AG",
+      "author": "",
+      "date": "",
+      "url": "https://www.kerberos-compliance.com/wissen/blog/schutzmassnahmen-auslaufen-zu-lassen-scheint-mir-gefhrlich-interview-mit-dem-compliance-beauftragten-der-thyssenkrupp-ag"
+    },
+    {
+      "filename": "aktuelle-fatf-listen-aenderungen-und-neuerungen-im-februar-2025.md",
+      "title": "Aktuelle FATF-Listen: Änderungen und Neuerungen im Februar 2025",
+      "author": "",
+      "date": "",
+      "url": "https://www.kerberos-compliance.com/wissen/blog/aktuelle-fatf-listen-aenderungen-und-neuerungen-im-februar-2025"
+    },
+    {
+      "filename": "geldwaescheprvaention-eine-strategische-notwendigkeit-fuer-moderne-unternehmen.md",
+      "title": "Geldwäscheprävention: Eine strategische Notwendigkeit für moderne Unternehmen",
+      "author": "",
+      "date": "",
+      "url": "https://www.kerberos-compliance.com/wissen/blog/geldwaescheprvaention-eine-strategische-notwendigkeit-fuer-moderne-unternehmen"
+    },
+    {
+      "filename": "unverzueglichkeit-und-vollstaendigkeit-einer-verdachtsmeldung-gemeinsame-orientierungshilfe-der-bafi.md",
+      "title": "„Unverzüglichkeit“ und „Vollständigkeit“ – Gemeinsame Orientierungshilfe der BaFin und FIU",
+      "author": "",
+      "date": "",
+      "url": "https://www.kerberos-compliance.com/wissen/blog/unverzueglichkeit-und-vollstaendigkeit-einer-verdachtsmeldung-gemeinsame-orientierungshilfe-der-bafin-und-fiu-veroeffentlicht"
+    },
+    {
+      "filename": "immobiliensektor-behrdenprfungen-und-kundensorgfaltspflichten-richtig-meistern.md",
+      "title": "Immobiliensektor: Behördenprüfungen und Kundensorgfaltspflichten richtig meistern",
+      "author": "",
+      "date": "",
+      "url": "https://www.kerberos-compliance.com/wissen/blog/immobiliensektor-behrdenprfungen-und-kundensorgfaltspflichten-richtig-meistern"
+    },
+    {
+      "filename": "geldwasche-im-profisport-interview-mit-bvgb-vorstandin-lena-olschewski.md",
+      "title": "Geldwäsche im Profisport - Interview mit Vorstandsvorsitzenden des Bundesverbands der Geldwäschebeauftragten e.V. Lena Olschewski",
+      "author": "",
+      "date": "",
+      "url": "https://www.kerberos-compliance.com/wissen/blog/geldwasche-im-profisport-interview-mit-bvgb-vorstandin-lena-olschewski"
+    },
+    {
+      "filename": "verste-gegen-das-geldwschegesetz-bugelder-und-prfungen-von-2017-2022.md",
+      "title": "Verstöße gegen das Geldwäschegesetz - Bußgelder und Prüfungen von 2017-2022",
+      "author": "",
+      "date": "",
+      "url": "https://www.kerberos-compliance.com/wissen/blog/verste-gegen-das-geldwschegesetz-bugelder-und-prfungen-von-2017-2022"
+    },
+    {
+      "filename": "eu-aml-verordnung-2027-so-begleitet-kerberos-compliance-ihre-vorbereitung.md",
+      "title": "EU-AML-Verordnung 2027: So begleitet Kerberos Compliance Ihre Vorbereitung",
+      "author": "",
+      "date": "",
+      "url": "https://www.kerberos-compliance.com/wissen/blog/eu-aml-verordnung-2027-so-begleitet-kerberos-compliance-ihre-vorbereitung"
+    },
+    {
+      "filename": "verschaerfte-meldepflichten-bei-immobilientransaktionen-die-wichtigsten-aenderungen-der-gwgmeldv-imm.md",
+      "title": "Verschärfte Meldepflichten bei Immobilientransaktionen - die wichtigsten Änderungen der GwGMeldV-Immobilien 2025",
+      "author": "",
+      "date": "",
+      "url": "https://www.kerberos-compliance.com/wissen/blog/verschaerfte-meldepflichten-bei-immobilientransaktionen-die-wichtigsten-aenderungen-der-gwgmeldv-immobilien-2025"
+    },
+    {
+      "filename": "eu-listet-russland-als-hochrisikoland.md",
+      "title": "Compliance-Experte Frank Lässig über neue Geldwäsche-Pflichten, verstärkte Sorgfaltspflichten und warum die Praxis sich kaum ändert",
+      "author": "",
+      "date": "",
+      "url": "https://www.kerberos-compliance.com/wissen/blog/eu-listet-russland-als-hochrisikoland"
+    },
+    {
+      "filename": "jahresrueckblick-und-jahresausblick-geldwaeschepraevention-2025-2027.md",
+      "title": "Jahresrückblick und Jahresausblick - Geldwäscheprävention 2025-2027",
+      "author": "",
+      "date": "",
+      "url": "https://www.kerberos-compliance.com/wissen/blog/jahresrueckblick-und-jahresausblick-geldwaeschepraevention-2025-2027"
+    },
+    {
+      "filename": "kyc-in-der-praxis-digitale-loesungen-fuer-effiziente-sorgfaltspflichten.md",
+      "title": "KYC in der Praxis: Digitale Lösungen für effiziente Sorgfaltspflichten",
+      "author": "",
+      "date": "",
+      "url": "https://www.kerberos-compliance.com/wissen/blog/kyc-in-der-praxis-digitale-loesungen-fuer-effiziente-sorgfaltspflichten"
+    },
+    {
+      "filename": "clan-spitzel-bei-der-fiu.md",
+      "title": "Clan-Spitzel bei der Geldwäsche-Spezialeinheit",
+      "author": "",
+      "date": "",
+      "url": "https://www.kerberos-compliance.com/wissen/blog/clan-spitzel-bei-der-fiu"
+    },
+    {
+      "filename": "kapitalverwaltungsgesellschaften-aml-faktoren-bei-der-jahres-abschlussprfung.md",
+      "title": "Kapitalverwaltungsgesellschaften: AML-Faktoren bei der Jahres-Abschlussprüfung",
+      "author": "",
+      "date": "",
+      "url": "https://www.kerberos-compliance.com/wissen/blog/kapitalverwaltungsgesellschaften-aml-faktoren-bei-der-jahres-abschlussprfung"
+    },
+    {
+      "filename": "das-recht-auf-loeschung-nach-der-dsgvo-praxisleitfaden-fuer-unternehmen.md",
+      "title": "Das Recht auf Löschung nach der DSGVO: Praxisleitfaden für Unternehmen",
+      "author": "",
+      "date": "",
+      "url": "https://www.kerberos-compliance.com/wissen/blog/das-recht-auf-loeschung-nach-der-dsgvo-praxisleitfaden-fuer-unternehmen"
+    },
+    {
+      "filename": "geldaewsche-in-deutschland-oktober-2025.md",
+      "title": "Geldwäsche in Deutschland: Ein Monat zeigt alle Facetten",
+      "author": "",
+      "date": "",
+      "url": "https://www.kerberos-compliance.com/wissen/blog/geldaewsche-in-deutschland-oktober-2025"
+    },
+    {
+      "filename": "europaweite-pruefaktion-2025-das-recht-auf-loeschung-im-fokus-der-datenschutzbehoerden.md",
+      "title": "Europaweite Prüfaktion 2025: Das Recht auf Löschung im Fokus der Datenschutzbehörden",
+      "author": "",
+      "date": "",
+      "url": "https://www.kerberos-compliance.com/wissen/blog/europaweite-pruefaktion-2025-das-recht-auf-loeschung-im-fokus-der-datenschutzbehoerden"
+    },
+    {
+      "filename": "fatf-follow-up-report-aktueller-stand-der-geldwsche-bekmpfung-in-deutschland.md",
+      "title": "FATF Follow-Up Report: Aktueller Stand der Geldwäsche-Bekämpfung in Deutschland",
+      "author": "",
+      "date": "",
+      "url": "https://www.kerberos-compliance.com/wissen/blog/fatf-follow-up-report-aktueller-stand-der-geldwsche-bekmpfung-in-deutschland"
+    },
+    {
+      "filename": "wiederkehrende-pflichten-zur-geldwaeschepraevention-update-ende-2025.md",
+      "title": "Wiederkehrende Pflichten zur Geldwäscheprävention – Update Ende 2025",
+      "author": "",
+      "date": "",
+      "url": "https://www.kerberos-compliance.com/wissen/blog/wiederkehrende-pflichten-zur-geldwaeschepraevention-update-ende-2025"
+    },
+    {
+      "filename": "aml-compliance-bei-kvgen.md",
+      "title": "Keine Freigabe, kein Closing.\" - Über die Wichtigkeit von AML-Compliance beim Investoren-Onboarding",
+      "author": "",
+      "date": "",
+      "url": "https://www.kerberos-compliance.com/wissen/blog/aml-compliance-bei-kvgen"
+    },
+    {
+      "filename": "wie-steht-es-um-die-bekmpfung-von-geldwsche-in-deutschland-und-warum.md",
+      "title": "Wie steht es um die Bekämpfung von Geldwäsche in Deutschland? Und warum?",
+      "author": "",
+      "date": "",
+      "url": "https://www.kerberos-compliance.com/wissen/blog/wie-steht-es-um-die-bekmpfung-von-geldwsche-in-deutschland-und-warum"
+    },
+    {
+      "filename": "das-muessen-rechtsanwaelte-und-kanzleien-zur-ihren-pflichten-nach-dem-geldwaeschegesetz-wissen.md",
+      "title": "Das müssen Rechtsanwälte und Kanzleien zur Ihren Pflichten nach dem Geldwäschegesetz wissen.",
+      "author": "",
+      "date": "",
+      "url": "https://www.kerberos-compliance.com/wissen/blog/das-muessen-rechtsanwaelte-und-kanzleien-zur-ihren-pflichten-nach-dem-geldwaeschegesetz-wissen"
+    },
+    {
+      "filename": "geldwasche-in-deutschland-zahlen-daten-fakten.md",
+      "title": "Geldwäsche in Deutschland – Zahlen, Daten, Fakten",
+      "author": "",
+      "date": "",
+      "url": "https://www.kerberos-compliance.com/wissen/blog/geldwasche-in-deutschland-zahlen-daten-fakten"
+    },
+    {
+      "filename": "blog-post-title-two-stplb.md",
+      "title": "In meinen Gesprächen höre ich fast immer, dass Geldwäscheprävention und das Gesetz Unsinn sind",
+      "author": "",
+      "date": "",
+      "url": "https://www.kerberos-compliance.com/wissen/blog/blog-post-title-two-stplb"
+    },
+    {
+      "filename": "neue-auslegungs-und-anwendungshinweise-zum-geldwaeschegesetz-fuer-die-anwaltschaft.md",
+      "title": "Neue Auslegungs- und Anwendungshinweise zum Geldwäschegesetz für die Anwaltschaft",
+      "author": "",
+      "date": "",
+      "url": "https://www.kerberos-compliance.com/wissen/blog/neue-auslegungs-und-anwendungshinweise-zum-geldwaeschegesetz-fuer-die-anwaltschaft"
+    },
+    {
+      "filename": "betroffenenrecht-auf-auskunft-vermeiden-sie-bussgelder-abmahnungen-und-schadensersatz-forderungen.md",
+      "title": "Betroffenenrecht auf Auskunft: Vermeiden Sie Bußgelder, Abmahnungen und Schadensersatz-Forderungen!",
+      "author": "",
+      "date": "",
+      "url": "https://www.kerberos-compliance.com/wissen/blog/betroffenenrecht-auf-auskunft-vermeiden-sie-bussgelder-abmahnungen-und-schadensersatz-forderungen"
+    },
+    {
+      "filename": "fatf-update-oktober-2025.md",
+      "title": "FATF-Update Oktober 2025: Vier Länder von der Grauen Liste gestrichen",
+      "author": "",
+      "date": "",
+      "url": "https://www.kerberos-compliance.com/wissen/blog/fatf-update-oktober-2025"
+    },
+    {
+      "filename": "9-dinge-die-sie-bei-geldwasche-verdachtsmeldungen-besser-machen-sollten.md",
+      "title": "9 Dinge, die Sie bei Geldwäsche-Verdachtsmeldungen besser machen sollten",
+      "author": "",
+      "date": "",
+      "url": "https://www.kerberos-compliance.com/wissen/blog/9-dinge-die-sie-bei-geldwasche-verdachtsmeldungen-besser-machen-sollten"
+    },
+    {
+      "filename": "aml-2026-fuer-kapitalverwaltungsgesellschaften-eu-aml-verordnung-und-bafin-praxis.md",
+      "title": "AML 2026 für Kapitalverwaltungsgesellschaften: EU-AML-Verordnung und BaFin-Praxis",
+      "author": "",
+      "date": "",
+      "url": "https://www.kerberos-compliance.com/wissen/blog/aml-2026-fuer-kapitalverwaltungsgesellschaften-eu-aml-verordnung-und-bafin-praxis"
+    },
+    {
+      "filename": "zwischen-innovation-und-risiko-kryptowaehrungen-im-fokus-des-geldwaeschebeauftragten.md",
+      "title": "Zwischen Innovation und Risiko - Kryptowährungen im Fokus des Geldwäschebeauftragten",
+      "author": "",
+      "date": "",
+      "url": "https://www.kerberos-compliance.com/wissen/blog/zwischen-innovation-und-risiko-kryptowaehrungen-im-fokus-des-geldwaeschebeauftragten"
+    },
+    {
+      "filename": "fakt-ist-dass-geldwscher-auch-freie-berufe-ausnutzen.md",
+      "title": "“Fakt ist, dass Geldwäscher auch Freie Berufe ausnutzen”",
+      "author": "",
+      "date": "",
+      "url": "https://www.kerberos-compliance.com/wissen/blog/fakt-ist-dass-geldwscher-auch-freie-berufe-ausnutzen"
+    },
+    {
+      "filename": "neues-datenschutzabkommen-zwischen-der-eu-und-den-usa-beschlossen.md",
+      "title": "Neues Datenschutzabkommen zwischen der EU und den USA beschlossen",
+      "author": "",
+      "date": "",
+      "url": "https://www.kerberos-compliance.com/wissen/blog/neues-datenschutzabkommen-zwischen-der-eu-und-den-usa-beschlossen"
+    },
+    {
+      "filename": "entwrfe-fr-eu-anti-geldwsche-verordnung-und-richtlinie-verffentlicht.md",
+      "title": "Entwürfe für EU-Anti-Geldwäsche-Verordnung und -Richtlinie veröffentlicht",
+      "author": "",
+      "date": "",
+      "url": "https://www.kerberos-compliance.com/wissen/blog/entwrfe-fr-eu-anti-geldwsche-verordnung-und-richtlinie-verffentlicht"
+    },
+    {
+      "filename": "us-cloud-anbieter-im-fokus-datenschutzrisiken-und-handlungsempfehlungen.md",
+      "title": "US-Cloud-Anbieter im Fokus: Datenschutzrisiken und Handlungsempfehlungen",
+      "author": "",
+      "date": "",
+      "url": "https://www.kerberos-compliance.com/wissen/blog/us-cloud-anbieter-im-fokus-datenschutzrisiken-und-handlungsempfehlungen"
+    },
+    {
+      "filename": "praeventionsmassnahmen-gegen-geldwaesche-und-terrorismusfinanzierung-risikoanalyse-und-unterscheidun.md",
+      "title": "Präventionsmaßnahmen gegen Geldwäsche und Terrorismusfinanzierung",
+      "author": "",
+      "date": "",
+      "url": "https://www.kerberos-compliance.com/wissen/blog/praeventionsmassnahmen-gegen-geldwaesche-und-terrorismusfinanzierung-risikoanalyse-und-unterscheidungsmerkmale"
+    },
+    {
+      "filename": "risikomanagement-fr-factoring-amp-leasing-gesellschaften-nach-eu-aml-verordnung.md",
+      "title": "Risikomanagement für Factoring & Leasing-Gesellschaften nach EU-AML-Verordnung",
+      "author": "",
+      "date": "",
+      "url": "https://www.kerberos-compliance.com/wissen/blog/risikomanagement-fr-factoring-amp-leasing-gesellschaften-nach-eu-aml-verordnung"
+    },
+    {
+      "filename": "russland-sanktionen.md",
+      "title": "Russland-Sanktionen - 5 Tipps zur Risikoreduzierung",
+      "author": "",
+      "date": "",
+      "url": "https://www.kerberos-compliance.com/wissen/blog/russland-sanktionen"
     },
     {
       "filename": "von-sommerloch-keine-spur-der-kampf-gegen-finanzkriminalitaet-in-den-medien.md",
@@ -825,6 +755,13 @@
       "url": "https://www.kerberos-compliance.com/wissen/blog/von-sommerloch-keine-spur-der-kampf-gegen-finanzkriminalitaet-in-den-medien"
     },
     {
+      "filename": "das-verdachtsmeldewesen-ist-kein-buerokratie-marathon-sondern-ein-fruehwarnsystem.md",
+      "title": "Das Verdachtsmeldewesen ist kein Bürokratie-Marathon, sondern ein Frühwarnsystem",
+      "author": "",
+      "date": "",
+      "url": "https://www.kerberos-compliance.com/wissen/blog/das-verdachtsmeldewesen-ist-kein-buerokratie-marathon-sondern-ein-fruehwarnsystem"
+    },
+    {
       "filename": "folgen-des-ampel-aus-fuer-die-geldwaeschebekaempfung.md",
       "title": "Folgen des Ampel-Aus für die Geldwäschebekämpfung",
       "author": "",
@@ -832,11 +769,81 @@
       "url": "https://www.kerberos-compliance.com/wissen/blog/folgen-des-ampel-aus-fuer-die-geldwaeschebekaempfung"
     },
     {
-      "filename": "bafin-aufsichtsgespraeche-bei-kapitalverwaltungsgesellschaften-praxiserfahrungen.md",
-      "title": "BaFin-Aufsichtsgespräche bei Kapitalverwaltungsgesellschaften: Praxiserfahrungen",
+      "filename": "geldwaschebeauftragte-leisten-einen-direkten-beitrag-zur-sicherheit-des-finanzsystems.md",
+      "title": "Geldwäschebeauftragte leisten einen direkten Beitrag zur Sicherheit des Finanzsystems",
       "author": "",
       "date": "",
-      "url": "https://www.kerberos-compliance.com/wissen/blog/bafin-aufsichtsgespraeche-bei-kapitalverwaltungsgesellschaften-praxiserfahrungen"
+      "url": "https://www.kerberos-compliance.com/wissen/blog/geldwaschebeauftragte-leisten-einen-direkten-beitrag-zur-sicherheit-des-finanzsystems"
+    },
+    {
+      "filename": "21-jahriger-sohn-von-clanchef-abou-chaker-ersteigert-villen-fur-uber-7-millionen-euro.md",
+      "title": "21-jähriger Sohn von Clanchef Abou-Chaker ersteigert Villen für über 7 Millionen Euro",
+      "author": "",
+      "date": "",
+      "url": "https://www.kerberos-compliance.com/wissen/blog/21-jahriger-sohn-von-clanchef-abou-chaker-ersteigert-villen-fur-uber-7-millionen-euro"
+    },
+    {
+      "filename": "hinweisgebersysteme-einrichtung-interner-meldestellen.md",
+      "title": "Übergangsregelungen: Hinweisgebersysteme  - Einrichtung interner Meldestellen",
+      "author": "",
+      "date": "",
+      "url": "https://www.kerberos-compliance.com/wissen/blog/hinweisgebersysteme-einrichtung-interner-meldestellen"
+    },
+    {
+      "filename": "interview-die-moderne-rolle-des-geldwschebeauftragten.md",
+      "title": "Die Realität ist deutlich komplexer als die Theorie. \" - Interview mit einem Geldwäschebeauftragten",
+      "author": "",
+      "date": "",
+      "url": "https://www.kerberos-compliance.com/wissen/blog/interview-die-moderne-rolle-des-geldwschebeauftragten"
+    },
+    {
+      "filename": "erfahrungsbericht-ich-bin-zertifizierte-geldwschebeauftragte-geworden.md",
+      "title": "Erfahrungsbericht: Ich bin zertifizierte Geldwäschebeauftragte (geworden)",
+      "author": "",
+      "date": "",
+      "url": "https://www.kerberos-compliance.com/wissen/blog/erfahrungsbericht-ich-bin-zertifizierte-geldwschebeauftragte-geworden"
+    },
+    {
+      "filename": "pressekonferenz-fiu-stellt-jahresbericht-2024-vor.md",
+      "title": "Pressekonferenz: FIU stellt Jahresbericht 2024 vor",
+      "author": "",
+      "date": "",
+      "url": "https://www.kerberos-compliance.com/wissen/blog/pressekonferenz-fiu-stellt-jahresbericht-2024-vor"
+    },
+    {
+      "filename": "geldwaesche-treibt-immobilienpreise-neue-studie-belegt-oekonomische-folgen.md",
+      "title": "Geldwäsche treibt Immobilienpreise: Neue Studie belegt ökonomische Folgen",
+      "author": "",
+      "date": "",
+      "url": "https://www.kerberos-compliance.com/wissen/blog/geldwaesche-treibt-immobilienpreise-neue-studie-belegt-oekonomische-folgen"
+    },
+    {
+      "filename": "neue-eu-vorschriften-zur-bekmpfung-von-geldwsche.md",
+      "title": "Neue EU-Vorschriften zur Bekämpfung von Geldwäsche und Terrorismusfinanzierung: Ein erster Überblick",
+      "author": "",
+      "date": "",
+      "url": "https://www.kerberos-compliance.com/wissen/blog/neue-eu-vorschriften-zur-bekmpfung-von-geldwsche"
+    },
+    {
+      "filename": "aml-compliance-fr-leasing-amp-factoring-institute-herausforderungen-und-lsungen.md",
+      "title": "AML-Compliance für Leasing & Factoring-Institute: Herausforderungen und Lösungen",
+      "author": "",
+      "date": "",
+      "url": "https://www.kerberos-compliance.com/wissen/blog/aml-compliance-fr-leasing-amp-factoring-institute-herausforderungen-und-lsungen"
+    },
+    {
+      "filename": "mica-der-neue-eu-regulierungsrahmen-fr-kryptowerte.md",
+      "title": "MiCA: Der neue EU-Regulierungsrahmen für Kryptowerte",
+      "author": "",
+      "date": "",
+      "url": "https://www.kerberos-compliance.com/wissen/blog/mica-der-neue-eu-regulierungsrahmen-fr-kryptowerte"
+    },
+    {
+      "filename": "pflicht-zur-registrierung-im-meldeportal-goaml.md",
+      "title": "Übergangsregelungen: Pflicht zur Registrierung im Meldeportal goAML",
+      "author": "",
+      "date": "",
+      "url": "https://www.kerberos-compliance.com/wissen/blog/pflicht-zur-registrierung-im-meldeportal-goaml"
     }
   ]
 }
