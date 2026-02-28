@@ -1,8 +1,8 @@
 {
-  "crawled_at": "2026-02-27T04:21:14.487288",
+  "crawled_at": "2026-02-28T04:02:02.833828",
   "base_url": "https://www.kerberos-compliance.com/wissen/blog",
-  "total_articles": 120,
-  "successful": 120,
+  "total_articles": 121,
+  "successful": 121,
   "failed": 0,
   "articles": [
     {
@@ -389,6 +389,13 @@
       "author": "",
       "date": "",
       "url": "https://www.kerberos-compliance.com/wissen/blog/how-to-goaml-geldwasche-verdachtsmeldungen"
+    },
+    {
+      "filename": "amla-auskunftsersuchen-was-verpflichtete-jetzt-wissen-muessen.md",
+      "title": "AMLA-Auskunftsersuchen: Was Verpflichtete jetzt wissen müssen",
+      "author": "",
+      "date": "",
+      "url": "https://www.kerberos-compliance.com/wissen/blog/amla-auskunftsersuchen-was-verpflichtete-jetzt-wissen-muessen"
     },
     {
       "filename": "bussgelder-behoerden-und-ein-neues-register-das-finanzkriminalitaetsbekaempfungsgesetz.md",

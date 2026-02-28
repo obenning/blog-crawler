@@ -1,6 +1,6 @@
 {
-  "generated": "2026-02-27T04:21:14.581952",
-  "total_articles": 120,
+  "generated": "2026-02-28T04:02:02.926346",
+  "total_articles": 121,
   "articles": [
     {
       "filename": "21-jahriger-sohn-von-clanchef-abou-chaker-ersteigert-villen-fur-uber-7-millionen-euro.md",
@@ -81,6 +81,16 @@
       "excerpt": "# AML-Compliance für Leasing & Factoring-Institute: Herausforderungen und Lösungen\n\n**Autor:**   \n**Datum:**   \n**URL:** https://www.kerberos-compliance.com/wissen/blog/aml-compliance-fr-leasing-amp-f...",
       "raw_url": "https://raw.githubusercontent.com/obenning/blog-crawler/main/blog_content/aml-compliance-fr-leasing-amp-factoring-institute-herausforderungen-und-lsungen.md",
       "word_count": 508
+    },
+    {
+      "filename": "amla-auskunftsersuchen-was-verpflichtete-jetzt-wissen-muessen.md",
+      "title": "AMLA-Auskunftsersuchen: Was Verpflichtete jetzt wissen müssen",
+      "author": "",
+      "date": "",
+      "url": "https://www.kerberos-compliance.com/wissen/blog/amla-auskunftsersuchen-was-verpflichtete-jetzt-wissen-muessen",
+      "excerpt": "# AMLA-Auskunftsersuchen: Was Verpflichtete jetzt wissen müssen\n\n**Autor:**   \n**Datum:**   \n**URL:** https://www.kerberos-compliance.com/wissen/blog/amla-auskunftsersuchen-was-verpflichtete-jetzt-wis...",
+      "raw_url": "https://raw.githubusercontent.com/obenning/blog-crawler/main/blog_content/amla-auskunftsersuchen-was-verpflichtete-jetzt-wissen-muessen.md",
+      "word_count": 1811
     },
     {
       "filename": "bafin-aufsichtsgespraeche-bei-kapitalverwaltungsgesellschaften-praxiserfahrungen.md",
