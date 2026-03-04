@@ -4,7 +4,7 @@ author: ""
 date: ""
 url: "https://www.kerberos-compliance.com/wissen/blog/erfahrungsbericht-ich-bin-zertifizierte-geldwschebeauftragte-geworden"
 excerpt: ""
-crawled_at: "2026-03-03T04:21:54.057005"
+crawled_at: "2026-03-04T04:15:06.065808"
 ---
 
 # Erfahrungsbericht: Ich bin zertifizierte Geldwäschebeauftragte (geworden)
@@ -21,11 +21,11 @@ Kerberos bietet neben der Auslagerung von Geldwäschebeauftragten sowie deren St
 
 Auch Mitarbeitende von Kerberos, die als externe Geldwäschebeauftragte für Kund:innen eingesetzt werden, durchlaufen diese Zertifizierung – sowie Auffrischungsschulungen. Was die Schulung besonders macht, berichtet eine frisch zertifizierte Geldwäschebeauftragte und Schulungsteilnehmerin.
 
-Lassen Sie sich in 4 Tagen zum DEKRA-zertifizierten Geldwäschebeauftragten ausbilden. Profitieren Sie von einem breiten Netzwerk aus Compliance-Expert:innen aus der Praxis. [→ Jetzt buchen](https://www.kerberos-compliance.com/loesungen/zertifizierungen/geldwaschebeauftragte/23-02-2026)
-
 Frischen Sie Ihre Zertifizierung zum Geldwäschebeauftragten innerhalb nur eines Tages auf. Lassen Sie sich von Kerberos Rezertifizieren, unabhängig davon, wo Sie Ihre Erstzertifizierung vorgenommen haben. [→ Jetzt buchen](https://www.kerberos-compliance.com/loesungen/zertifizierungen/geldwaschebeauftragte/18-03-2026)
 
 Frischen Sie Ihre Zertifizierung zum Geldwäschebeauftragten innerhalb nur eines Tages auf. Lassen Sie sich von Kerberos Rezertifizieren, unabhängig davon, wo Sie Ihre Erstzertifizierung vorgenommen haben. [→ Jetzt buchen](https://www.kerberos-compliance.com/loesungen/zertifizierungen/geldwaschebeauftragte/14-05-2026)
+
+Lassen Sie sich in 4 Tagen zum DEKRA-zertifizierten Geldwäschebeauftragten ausbilden. Profitieren Sie von einem breiten Netzwerk aus Compliance-Expert:innen aus der Praxis. [→ Jetzt buchen](https://www.kerberos-compliance.com/loesungen/zertifizierungen/geldwaschebeauftragte/08-06-2026)
 
 ## Motivation:
 
