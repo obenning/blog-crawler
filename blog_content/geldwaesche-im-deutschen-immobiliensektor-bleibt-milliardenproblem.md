@@ -4,7 +4,7 @@ author: ""
 date: ""
 url: "https://www.kerberos-compliance.com/wissen/blog/geldwaesche-im-deutschen-immobiliensektor-bleibt-milliardenproblem"
 excerpt: ""
-crawled_at: "2026-03-07T04:05:43.315292"
+crawled_at: "2026-03-08T04:18:00.322286"
 ---
 
 # Geldwäsche im deutschen Immobiliensektor bleibt Milliardenproblem
