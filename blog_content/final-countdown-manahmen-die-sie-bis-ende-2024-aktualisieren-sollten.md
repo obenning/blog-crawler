@@ -4,7 +4,7 @@ author: ""
 date: ""
 url: "https://www.kerberos-compliance.com/wissen/blog/final-countdown-manahmen-die-sie-bis-ende-2024-aktualisieren-sollten"
 excerpt: ""
-crawled_at: "2026-03-08T04:18:41.172530"
+crawled_at: "2026-03-09T04:24:47.420857"
 ---
 
 # Final Countdown: Maßnahmen, die Sie bis Ende 2024 aktualisieren sollten
