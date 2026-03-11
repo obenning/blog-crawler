@@ -1,10 +1,10 @@
 # Blog Content Archive
 
-Automatisch gecrawlt am: 2026-03-10 04:17:00
+Automatisch gecrawlt am: 2026-03-11 04:17:47
 
 **Statistik:**
-- Gesamt Artikel: 121
-- Erfolgreich gecrawlt: 121
+- Gesamt Artikel: 122
+- Erfolgreich gecrawlt: 122
 - Fehlgeschlagen: 0
 
 **Quelle:** https://www.kerberos-compliance.com/wissen/blog
@@ -58,6 +58,7 @@ Automatisch gecrawlt am: 2026-03-10 04:17:00
 - [MLRO-Strategien für deutsche Finanzdienstleister: CEO-Leitfaden 2025](mlro-strategien-fuer-deutsche-finanzdienstleister-ceo-leitfaden-2025.md) -  ()
 - [Kryptowerte im Fokus: Die neuen BaFin-Auslegungshinweise zum Geldwäschegesetz](kryptowerte-im-fokus-die-neuen-bafin-auslegungshinweise-zum-geldwaeschegesetz.md) -  ()
 - [Geldwäschebeauftragte: Schlüsselfiguren im Kampf gegen Finanzkriminalität](geldwaeschebeauftragte-schluesselfiguren-im-kampf-gegen-finanzkriminalitaet.md) -  ()
+- [Geldwäsche im Immobiliensektor: Was Makler jetzt wissen müssen](geldwaesche-im-immobiliensektor-was-makler-jetzt-wissen-muessen.md) -  ()
 - [EU-AML-Verordnung: Identifizierung von wirtschaftlich Berechtigten wird zur Rechenaufgabe](eu-aml-verordnung-identifizierung-von-wirtschaftlich-berechtigten-wird-zur-rechenaufgabe.md) -  ()
 - [DEKRA-Zertifizierung zum KYC-Specialist: Anti-Geldwäsche-Experten teilen in neuer Weiterbildung Praxiswissen](pm-zertifizierung-kyc-specialist.md) -  ()
 - [Neue Auslegungs- und Anwendungshinweise der BaFin](neue-auslegungs-und-anwendungshinweise-der-bafin.md) -  ()

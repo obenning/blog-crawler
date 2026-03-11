@@ -4,7 +4,7 @@ author: ""
 date: ""
 url: "https://www.kerberos-compliance.com/wissen/blog/vonovia-korruptionsskandal-mit-vorbildcharakter"
 excerpt: ""
-crawled_at: "2026-03-10T04:16:54.531050"
+crawled_at: "2026-03-11T04:17:41.747672"
 ---
 
 # Vonovia – Korruptionsskandal mit Vorbildcharakter

@@ -4,7 +4,7 @@ author: ""
 date: ""
 url: "https://www.kerberos-compliance.com/wissen/blog/compliance-fort-bildungsangebote-fuer-2025"
 excerpt: ""
-crawled_at: "2026-03-10T04:15:36.939911"
+crawled_at: "2026-03-11T04:16:24.528258"
 ---
 
 # Compliance (Fort-)Bildungsangebote für 2025
@@ -41,11 +41,11 @@ Als Verpflichtete nach dem Geldwäschegesetz besteht für Sie und Ihre Mitarbeit
 
 ## Webinare:
 
-24.000 Verdachtsmeldungen, 4,3 Mrd. € Volumen – laut Uni Trier Studie 2025 stecken bis zu 30% schmutziges Geld in deutschen Immobilien. Lernen Sie Red Flags bei Transaktionen zu erkennen, Beneficial Ownership korrekt zu ermitteln und Verdachtsmeldungen rechtssicher zu erstellen. Praxistipps für Makler, Notare und Immobilienverwalter.
-
 Unser praxisorientiertes 90-Minuten-Webinar vermittelt Ihnen fundiertes Fachwissen zur Geschäftspartnerprüfungen (KYC) im Immobiliensektor und hilft Ihnen, Ihre gesetzlichen Verpflichtungen rechtssicher zu erfüllen. Die Teilnahme wird mit 1 1/2 Stunden auf Ihre MaBV-Weiterbildungspflicht angerechnet (§ 15b MaBV).
 
 600.000€ gegen eine Bank, 95.000€ gegen Payone – die BaFin verschärft 2025 ihre Bußgeldpraxis massiv. Erfahren Sie, welche Verstöße am häufigsten sanktioniert werden (Datenverarbeitungssysteme, Sorgfaltspflichten) und wie die EU-AML-VO die Strafen auf bis zu 10% Jahresumsatz oder 5 Mio. € erhöht. Compliance-Check: Sind Sie vorbereitet?
+
+Ab 2027 gilt die EU-AMLR unmittelbar. Wer ist noch verpflichtet – und wer neu? Galerien, Auktionshäuser und Antiquitätenhändler müssen jetzt prüfen, was sich ändert. Webinar mit BVDG: 24. März, 10 Uhr.
 
 Weitere Webinare kommen im Laufe der Zeit dazu. Folgen Sie uns auf [LinkedIn](https://www.linkedin.com/company/kerberos-compliance) , Abonnieren Sie unseren [Newsletter](https://www.kerberos-compliance.com/wissen/newsletter-anmeldung) oder besuchen Sie unsere Website um über unser aktuelles Angebot informiert zu bleiben.
 
