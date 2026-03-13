@@ -1,6 +1,6 @@
 {
-  "generated": "2026-03-12T04:21:56.666577",
-  "total_articles": 122,
+  "generated": "2026-03-13T04:21:09.366846",
+  "total_articles": 123,
   "articles": [
     {
       "filename": "21-jahriger-sohn-von-clanchef-abou-chaker-ersteigert-villen-fur-uber-7-millionen-euro.md",
@@ -91,6 +91,16 @@
       "excerpt": "# AMLA-Auskunftsersuchen: Was Verpflichtete jetzt wissen müssen\n\n**Autor:**   \n**Datum:**   \n**URL:** https://www.kerberos-compliance.com/wissen/blog/amla-auskunftsersuchen-was-verpflichtete-jetzt-wis...",
       "raw_url": "https://raw.githubusercontent.com/obenning/blog-crawler/main/blog_content/amla-auskunftsersuchen-was-verpflichtete-jetzt-wissen-muessen.md",
       "word_count": 1811
+    },
+    {
+      "filename": "amla-sanktions-rts-was-verbaende-der-eu-zurueckgemeldet-haben-und-was-das-fuer-ihren-betrieb-bedeute.md",
+      "title": "AMLA-Sanktions-RTS: Was Verbände der EU zurückgemeldet haben – und was das für Ihren Betrieb bedeutet",
+      "author": "",
+      "date": "",
+      "url": "https://www.kerberos-compliance.com/wissen/blog/amla-sanktions-rts-was-verbaende-der-eu-zurueckgemeldet-haben-und-was-das-fuer-ihren-betrieb-bedeutet",
+      "excerpt": "# AMLA-Sanktions-RTS: Was Verbände der EU zurückgemeldet haben – und was das für Ihren Betrieb bedeutet\n\n**Autor:**   \n**Datum:**   \n**URL:** https://www.kerberos-compliance.com/wissen/blog/amla-sankt...",
+      "raw_url": "https://raw.githubusercontent.com/obenning/blog-crawler/main/blog_content/amla-sanktions-rts-was-verbaende-der-eu-zurueckgemeldet-haben-und-was-das-fuer-ihren-betrieb-bedeute.md",
+      "word_count": 1202
     },
     {
       "filename": "bafin-aufsichtsgespraeche-bei-kapitalverwaltungsgesellschaften-praxiserfahrungen.md",
