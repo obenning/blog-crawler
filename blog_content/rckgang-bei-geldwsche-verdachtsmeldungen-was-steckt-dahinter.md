@@ -4,7 +4,7 @@ author: ""
 date: ""
 url: "https://www.kerberos-compliance.com/wissen/blog/rckgang-bei-geldwsche-verdachtsmeldungen-was-steckt-dahinter"
 excerpt: ""
-crawled_at: "2026-03-13T04:19:34.460113"
+crawled_at: "2026-03-14T04:16:54.566740"
 ---
 
 # Rückgang bei Geldwäsche-Verdachtsmeldungen: Was steckt dahinter?

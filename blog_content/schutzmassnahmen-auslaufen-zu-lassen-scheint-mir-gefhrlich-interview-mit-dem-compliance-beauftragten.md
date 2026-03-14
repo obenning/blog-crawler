@@ -4,7 +4,7 @@ author: ""
 date: ""
 url: "https://www.kerberos-compliance.com/wissen/blog/schutzmassnahmen-auslaufen-zu-lassen-scheint-mir-gefhrlich-interview-mit-dem-compliance-beauftragten-der-thyssenkrupp-ag"
 excerpt: ""
-crawled_at: "2026-03-13T04:19:57.363913"
+crawled_at: "2026-03-14T04:17:19.369863"
 ---
 
 # “Schutzmaßnahmen „auslaufen“ zu lassen, scheint mir gefährlich” - Interview mit dem Compliance Beauftragten der thyssenkrupp AG

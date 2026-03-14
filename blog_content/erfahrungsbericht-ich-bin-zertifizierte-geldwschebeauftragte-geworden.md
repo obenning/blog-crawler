@@ -4,7 +4,7 @@ author: ""
 date: ""
 url: "https://www.kerberos-compliance.com/wissen/blog/erfahrungsbericht-ich-bin-zertifizierte-geldwschebeauftragte-geworden"
 excerpt: ""
-crawled_at: "2026-03-13T04:19:52.304169"
+crawled_at: "2026-03-14T04:17:13.932478"
 ---
 
 # Erfahrungsbericht: Ich bin zertifizierte Geldwäschebeauftragte (geworden)

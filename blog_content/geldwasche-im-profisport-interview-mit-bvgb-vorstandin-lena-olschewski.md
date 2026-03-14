@@ -4,7 +4,7 @@ author: ""
 date: ""
 url: "https://www.kerberos-compliance.com/wissen/blog/geldwasche-im-profisport-interview-mit-bvgb-vorstandin-lena-olschewski"
 excerpt: ""
-crawled_at: "2026-03-13T04:21:04.678298"
+crawled_at: "2026-03-14T04:18:29.844803"
 ---
 
 # Geldwäsche im Profisport - Interview mit Vorstandsvorsitzenden des Bundesverbands der Geldwäschebeauftragten e.V. Lena Olschewski

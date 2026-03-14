@@ -4,7 +4,7 @@ author: ""
 date: ""
 url: "https://www.kerberos-compliance.com/wissen/blog/eu-einigt-sich-auf-anti-geldwsche-verordnung-und-richtlinie-bindende-nderungen"
 excerpt: ""
-crawled_at: "2026-03-13T04:20:34.903775"
+crawled_at: "2026-03-14T04:17:58.319142"
 ---
 
 # EU Pläne für Anti-Geldwäsche Verordnung - diese Änderungen werden europaweit bindend

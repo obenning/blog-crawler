@@ -4,7 +4,7 @@ author: ""
 date: ""
 url: "https://www.kerberos-compliance.com/wissen/blog/aml-compliance-bei-kvgen"
 excerpt: ""
-crawled_at: "2026-03-13T04:20:55.871570"
+crawled_at: "2026-03-14T04:18:20.094160"
 ---
 
 # "Keine Freigabe, kein Closing." - Über die Wichtigkeit von AML-Compliance beim Investoren-Onboarding
