@@ -1,10 +1,10 @@
 # Blog Content Archive
 
-Automatisch gecrawlt am: 2026-03-17 04:26:34
+Automatisch gecrawlt am: 2026-03-18 04:31:56
 
 **Statistik:**
-- Gesamt Artikel: 123
-- Erfolgreich gecrawlt: 123
+- Gesamt Artikel: 124
+- Erfolgreich gecrawlt: 124
 - Fehlgeschlagen: 0
 
 **Quelle:** https://www.kerberos-compliance.com/wissen/blog
@@ -14,6 +14,7 @@ Automatisch gecrawlt am: 2026-03-17 04:26:34
 - [KYC bei Kapitalverwaltungsgesellschaften: Effektive Geldwäscheprävention im Fokus](kyc-bei-kapitalverwaltungsgesellschaften-effektive-geldwaeschepraevention-im-fokus.md) -  ()
 - [Geldwäsche-Fakten aus der Polizeilichen Kriminalstatistik 2024](geldwsche-fakten-aus-der-polizeilichen-kriminalstatistik-2024.md) -  ()
 - [Warum sind Risikoanalysen nach dem Geldwäschegesetz (GwG) so wichtig?](warum-sind-risikoanalysen-nach-dem-geldwaschegesetz-gwg-so-wichtig.md) -  ()
+- [GwG-Bußgelder in der Praxis: Was die BaFin wirklich ahndet – und was ab 2027 zählt](gwg-bussgelder-in-der-praxis-was-die-bafin-wirklich-ahndet-und-was-ab-2027-zaehlt.md) -  ()
 - [Ein Vertrauensvorschuss für Deutschland – die AMLA kommt nach Frankfurt](ein-vertrauensvorschuss-fr-deutschland-die-amla-kommt-nach-frankfurt.md) -  ()
 - [BaFin-Aufsichtsgespräche bei KVGen: So bereiten Sie sich optimal vor](bafin-aufsichtsgesprche-bei-kvgen-so-bereiten-sie-sich-optimal-vor.md) -  ()
 - [GwGMeldV 2026: Was ändert sich bei Geldwäscheverdachtsmeldungen?](gwgmeldv-2026-was-aendert-sich-bei-geldwaescheverdachtsmeldungen.md) -  ()

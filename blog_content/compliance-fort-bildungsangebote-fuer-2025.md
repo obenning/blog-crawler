@@ -4,7 +4,7 @@ author: ""
 date: ""
 url: "https://www.kerberos-compliance.com/wissen/blog/compliance-fort-bildungsangebote-fuer-2025"
 excerpt: ""
-crawled_at: "2026-03-17T04:25:10.302969"
+crawled_at: "2026-03-18T04:30:33.133365"
 ---
 
 # Compliance (Fort-)Bildungsangebote für 2025
@@ -41,11 +41,11 @@ Als Verpflichtete nach dem Geldwäschegesetz besteht für Sie und Ihre Mitarbeit
 
 ## Webinare:
 
-600.000€ gegen eine Bank, 95.000€ gegen Payone – die BaFin verschärft 2025 ihre Bußgeldpraxis massiv. Erfahren Sie, welche Verstöße am häufigsten sanktioniert werden (Datenverarbeitungssysteme, Sorgfaltspflichten) und wie die EU-AML-VO die Strafen auf bis zu 10% Jahresumsatz oder 5 Mio. € erhöht. Compliance-Check: Sind Sie vorbereitet?
-
 Ab 2027 gilt die EU-AMLR unmittelbar. Wer ist noch verpflichtet – und wer neu? Galerien, Auktionshäuser und Antiquitätenhändler müssen jetzt prüfen, was sich ändert. Webinar mit BVDG: 24. März, 10 Uhr.
 
 BaFin und FIU haben im November 2025 ihre Orientierungshilfe aktualisiert. Was bedeutet „unverzügliche" Meldung konkret? Wie erfüllen Sie die neue 5-Tages-Frist für FIU-Anfragen nach EU-AMLR? Praktische Anwendungsbeispiele und häufige Fehler, die Sie vermeiden sollten.
+
+Ab Juli 2027 fordert die EU-AMLR kontinuierliche Kundenüberwachung und Aktualisierungen in kürzeren Abständen: 1 Jahr für High-Risk, 5 Jahre für Low-Risk. Perpetual KYC (pKYC) als technische Lösung, Workload-Kalkulation für Ihr Team und AMLA-Erwartungen für die Prüfungsvorbereitung.
 
 Weitere Webinare kommen im Laufe der Zeit dazu. Folgen Sie uns auf [LinkedIn](https://www.linkedin.com/company/kerberos-compliance) , Abonnieren Sie unseren [Newsletter](https://www.kerberos-compliance.com/wissen/newsletter-anmeldung) oder besuchen Sie unsere Website um über unser aktuelles Angebot informiert zu bleiben.
 

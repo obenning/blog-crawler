@@ -1,6 +1,6 @@
 {
-  "generated": "2026-03-17T04:26:34.991579",
-  "total_articles": 123,
+  "generated": "2026-03-18T04:31:56.486067",
+  "total_articles": 124,
   "articles": [
     {
       "filename": "21-jahriger-sohn-von-clanchef-abou-chaker-ersteigert-villen-fur-uber-7-millionen-euro.md",
@@ -220,7 +220,7 @@
       "url": "https://www.kerberos-compliance.com/wissen/blog/compliance-fort-bildungsangebote-fuer-2025",
       "excerpt": "# Compliance (Fort-)Bildungsangebote für 2025\n\n**Autor:**   \n**Datum:**   \n**URL:** https://www.kerberos-compliance.com/wissen/blog/compliance-fort-bildungsangebote-fuer-2025\n\n---\n\nImmobilienmakler, K...",
       "raw_url": "https://raw.githubusercontent.com/obenning/blog-crawler/main/blog_content/compliance-fort-bildungsangebote-fuer-2025.md",
-      "word_count": 649
+      "word_count": 640
     },
     {
       "filename": "das-eu-aml-paket-neue-herausforderungen-fuer-die-geldwaeschepraevention.md",
@@ -490,7 +490,7 @@
       "url": "https://www.kerberos-compliance.com/wissen/blog/fiu-jahresbericht-es-gibt-sie-noch-die-guten-nachrichten-oder",
       "excerpt": "# FIU Jahresbericht 2023: Es gibt sie noch, die guten Nachrichten – oder?\n\n**Autor:**   \n**Datum:**   \n**URL:** https://www.kerberos-compliance.com/wissen/blog/fiu-jahresbericht-es-gibt-sie-noch-die-g...",
       "raw_url": "https://raw.githubusercontent.com/obenning/blog-crawler/main/blog_content/fiu-jahresbericht-es-gibt-sie-noch-die-guten-nachrichten-oder.md",
-      "word_count": 1039
+      "word_count": 1030
     },
     {
       "filename": "folgen-des-ampel-aus-fuer-die-geldwaeschebekaempfung.md",
@@ -520,7 +520,7 @@
       "url": "https://www.kerberos-compliance.com/wissen/blog/geldwaesche-im-deutschen-immobiliensektor-bleibt-milliardenproblem",
       "excerpt": "# Geldwäsche im deutschen Immobiliensektor bleibt Milliardenproblem\n\n**Autor:**   \n**Datum:**   \n**URL:** https://www.kerberos-compliance.com/wissen/blog/geldwaesche-im-deutschen-immobiliensektor-blei...",
       "raw_url": "https://raw.githubusercontent.com/obenning/blog-crawler/main/blog_content/geldwaesche-im-deutschen-immobiliensektor-bleibt-milliardenproblem.md",
-      "word_count": 984
+      "word_count": 975
     },
     {
       "filename": "geldwaesche-im-immobiliensektor-was-makler-jetzt-wissen-muessen.md",
@@ -661,6 +661,16 @@
       "excerpt": "# Geschäftspartnerprüfungen: Der Schlüssel zu sicheren und vertrauenswürdigen Geschäftsbeziehungen\n\n**Autor:**   \n**Datum:**   \n**URL:** https://www.kerberos-compliance.com/wissen/blog/geschaeftspartn...",
       "raw_url": "https://raw.githubusercontent.com/obenning/blog-crawler/main/blog_content/geschaeftspartnerpruefungen-der-schluessel-zu-sicheren-und-vertrauenswuerdigen-geschaeftsbeziehungen.md",
       "word_count": 507
+    },
+    {
+      "filename": "gwg-bussgelder-in-der-praxis-was-die-bafin-wirklich-ahndet-und-was-ab-2027-zaehlt.md",
+      "title": "GwG-Bußgelder in der Praxis: Was die BaFin wirklich ahndet – und was ab 2027 zählt",
+      "author": "",
+      "date": "",
+      "url": "https://www.kerberos-compliance.com/wissen/blog/gwg-bussgelder-in-der-praxis-was-die-bafin-wirklich-ahndet-und-was-ab-2027-zaehlt",
+      "excerpt": "# GwG-Bußgelder in der Praxis: Was die BaFin wirklich ahndet – und was ab 2027 zählt\n\n**Autor:**   \n**Datum:**   \n**URL:** https://www.kerberos-compliance.com/wissen/blog/gwg-bussgelder-in-der-praxis-...",
+      "raw_url": "https://raw.githubusercontent.com/obenning/blog-crawler/main/blog_content/gwg-bussgelder-in-der-praxis-was-die-bafin-wirklich-ahndet-und-was-ab-2027-zaehlt.md",
+      "word_count": 1559
     },
     {
       "filename": "gwgmeldv-2026-was-aendert-sich-bei-geldwaescheverdachtsmeldungen.md",

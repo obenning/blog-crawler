@@ -1,8 +1,8 @@
 {
-  "crawled_at": "2026-03-17T04:26:34.884449",
+  "crawled_at": "2026-03-18T04:31:56.406902",
   "base_url": "https://www.kerberos-compliance.com/wissen/blog",
-  "total_articles": 123,
-  "successful": 123,
+  "total_articles": 124,
+  "successful": 124,
   "failed": 0,
   "articles": [
     {
@@ -25,6 +25,13 @@
       "author": "",
       "date": "",
       "url": "https://www.kerberos-compliance.com/wissen/blog/warum-sind-risikoanalysen-nach-dem-geldwaschegesetz-gwg-so-wichtig"
+    },
+    {
+      "filename": "gwg-bussgelder-in-der-praxis-was-die-bafin-wirklich-ahndet-und-was-ab-2027-zaehlt.md",
+      "title": "GwG-Bußgelder in der Praxis: Was die BaFin wirklich ahndet – und was ab 2027 zählt",
+      "author": "",
+      "date": "",
+      "url": "https://www.kerberos-compliance.com/wissen/blog/gwg-bussgelder-in-der-praxis-was-die-bafin-wirklich-ahndet-und-was-ab-2027-zaehlt"
     },
     {
       "filename": "ein-vertrauensvorschuss-fr-deutschland-die-amla-kommt-nach-frankfurt.md",
