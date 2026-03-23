@@ -4,7 +4,7 @@ author: ""
 date: ""
 url: "https://www.kerberos-compliance.com/wissen/blog/eu-plne-fr-anti-geldwsche-richtlinie-diese-punkte-mssen-in-nationales-recht-berfhrt-werden"
 excerpt: ""
-crawled_at: "2026-03-22T04:27:18.616420"
+crawled_at: "2026-03-23T04:36:17.502665"
 ---
 
 # EU Pläne für Anti-Geldwäsche Richtlinie - diese Punkte müssen in nationales Recht überführt werden
