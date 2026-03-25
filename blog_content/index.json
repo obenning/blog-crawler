@@ -1,8 +1,8 @@
 {
-  "crawled_at": "2026-03-24T04:27:23.485709",
+  "crawled_at": "2026-03-25T04:28:34.687845",
   "base_url": "https://www.kerberos-compliance.com/wissen/blog",
-  "total_articles": 124,
-  "successful": 124,
+  "total_articles": 125,
+  "successful": 125,
   "failed": 0,
   "articles": [
     {
@@ -39,6 +39,13 @@
       "author": "",
       "date": "",
       "url": "https://www.kerberos-compliance.com/wissen/blog/ein-vertrauensvorschuss-fr-deutschland-die-amla-kommt-nach-frankfurt"
+    },
+    {
+      "filename": "galerie-auktionshaus-kunstspedition-was-die-eu-aml-vo-ab-2027-fuer-den-kunstmarkt-bedeutet.md",
+      "title": "Galerie, Auktionshaus, Kunstspedition: Was die EU-AML-VO ab 2027 für den Kunstmarkt bedeutet",
+      "author": "",
+      "date": "",
+      "url": "https://www.kerberos-compliance.com/wissen/blog/galerie-auktionshaus-kunstspedition-was-die-eu-aml-vo-ab-2027-fuer-den-kunstmarkt-bedeutet"
     },
     {
       "filename": "bafin-aufsichtsgesprche-bei-kvgen-so-bereiten-sie-sich-optimal-vor.md",

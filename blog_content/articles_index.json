@@ -1,6 +1,6 @@
 {
-  "generated": "2026-03-24T04:27:23.572871",
-  "total_articles": 124,
+  "generated": "2026-03-25T04:28:34.766990",
+  "total_articles": 125,
   "articles": [
     {
       "filename": "21-jahriger-sohn-von-clanchef-abou-chaker-ersteigert-villen-fur-uber-7-millionen-euro.md",
@@ -220,7 +220,7 @@
       "url": "https://www.kerberos-compliance.com/wissen/blog/compliance-fort-bildungsangebote-fuer-2025",
       "excerpt": "# Compliance (Fort-)Bildungsangebote für 2025\n\n**Autor:**   \n**Datum:**   \n**URL:** https://www.kerberos-compliance.com/wissen/blog/compliance-fort-bildungsangebote-fuer-2025\n\n---\n\nImmobilienmakler, K...",
       "raw_url": "https://raw.githubusercontent.com/obenning/blog-crawler/main/blog_content/compliance-fort-bildungsangebote-fuer-2025.md",
-      "word_count": 612
+      "word_count": 615
     },
     {
       "filename": "das-eu-aml-paket-neue-herausforderungen-fuer-die-geldwaeschepraevention.md",
@@ -490,7 +490,7 @@
       "url": "https://www.kerberos-compliance.com/wissen/blog/fiu-jahresbericht-es-gibt-sie-noch-die-guten-nachrichten-oder",
       "excerpt": "# FIU Jahresbericht 2023: Es gibt sie noch, die guten Nachrichten – oder?\n\n**Autor:**   \n**Datum:**   \n**URL:** https://www.kerberos-compliance.com/wissen/blog/fiu-jahresbericht-es-gibt-sie-noch-die-g...",
       "raw_url": "https://raw.githubusercontent.com/obenning/blog-crawler/main/blog_content/fiu-jahresbericht-es-gibt-sie-noch-die-guten-nachrichten-oder.md",
-      "word_count": 1030
+      "word_count": 1033
     },
     {
       "filename": "folgen-des-ampel-aus-fuer-die-geldwaeschebekaempfung.md",
@@ -501,6 +501,16 @@
       "excerpt": "# Folgen des Ampel-Aus für die Geldwäschebekämpfung\n\n**Autor:**   \n**Datum:**   \n**URL:** https://www.kerberos-compliance.com/wissen/blog/folgen-des-ampel-aus-fuer-die-geldwaeschebekaempfung\n\n---\n\nVer...",
       "raw_url": "https://raw.githubusercontent.com/obenning/blog-crawler/main/blog_content/folgen-des-ampel-aus-fuer-die-geldwaeschebekaempfung.md",
       "word_count": 1042
+    },
+    {
+      "filename": "galerie-auktionshaus-kunstspedition-was-die-eu-aml-vo-ab-2027-fuer-den-kunstmarkt-bedeutet.md",
+      "title": "Galerie, Auktionshaus, Kunstspedition: Was die EU-AML-VO ab 2027 für den Kunstmarkt bedeutet",
+      "author": "",
+      "date": "",
+      "url": "https://www.kerberos-compliance.com/wissen/blog/galerie-auktionshaus-kunstspedition-was-die-eu-aml-vo-ab-2027-fuer-den-kunstmarkt-bedeutet",
+      "excerpt": "# Galerie, Auktionshaus, Kunstspedition: Was die EU-AML-VO ab 2027 für den Kunstmarkt bedeutet\n\n**Autor:**   \n**Datum:**   \n**URL:** https://www.kerberos-compliance.com/wissen/blog/galerie-auktionshau...",
+      "raw_url": "https://raw.githubusercontent.com/obenning/blog-crawler/main/blog_content/galerie-auktionshaus-kunstspedition-was-die-eu-aml-vo-ab-2027-fuer-den-kunstmarkt-bedeutet.md",
+      "word_count": 1320
     },
     {
       "filename": "geldaewsche-in-deutschland-oktober-2025.md",
@@ -520,7 +530,7 @@
       "url": "https://www.kerberos-compliance.com/wissen/blog/geldwaesche-im-deutschen-immobiliensektor-bleibt-milliardenproblem",
       "excerpt": "# Geldwäsche im deutschen Immobiliensektor bleibt Milliardenproblem\n\n**Autor:**   \n**Datum:**   \n**URL:** https://www.kerberos-compliance.com/wissen/blog/geldwaesche-im-deutschen-immobiliensektor-blei...",
       "raw_url": "https://raw.githubusercontent.com/obenning/blog-crawler/main/blog_content/geldwaesche-im-deutschen-immobiliensektor-bleibt-milliardenproblem.md",
-      "word_count": 975
+      "word_count": 978
     },
     {
       "filename": "geldwaesche-im-immobiliensektor-was-makler-jetzt-wissen-muessen.md",
