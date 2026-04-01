@@ -1,10 +1,10 @@
 # Blog Content Archive
 
-Automatisch gecrawlt am: 2026-03-31 04:43:59
+Automatisch gecrawlt am: 2026-04-01 04:54:27
 
 **Statistik:**
-- Gesamt Artikel: 125
-- Erfolgreich gecrawlt: 125
+- Gesamt Artikel: 126
+- Erfolgreich gecrawlt: 126
 - Fehlgeschlagen: 0
 
 **Quelle:** https://www.kerberos-compliance.com/wissen/blog
@@ -81,6 +81,7 @@ Automatisch gecrawlt am: 2026-03-31 04:43:59
 - [Verschärfte Meldepflichten bei Immobilientransaktionen - die wichtigsten Änderungen der GwGMeldV-Immobilien 2025](verschaerfte-meldepflichten-bei-immobilientransaktionen-die-wichtigsten-aenderungen-der-gwgmeldv-imm.md) -  ()
 - [Neues Datenschutzabkommen zwischen der EU und den USA beschlossen](neues-datenschutzabkommen-zwischen-der-eu-und-den-usa-beschlossen.md) -  ()
 - [Vonovia – Korruptionsskandal mit Vorbildcharakter](vonovia-korruptionsskandal-mit-vorbildcharakter.md) -  ()
+- [Vermögensentzug ohne Strafurteil: Was §§ 52a–52n ZFG-Referentenentwurf für Verpflichtete bedeuten](vermoegensentzug-ohne-strafurteil-zfg-referentenentwurf.md) -  ()
 - [“Die Aufsicht wird nicht lockerer werden, im Gegenteil”](die-aufsicht-wird-nicht-locker-lassen-interview.md) -  ()
 - [Rechnungsversand per E-Mail: Neue Rechtslage nach OLG-Urteil](rechnungsversand-per-e-mail-neue-rechtslage-nach-olg-urteil.md) -  ()
 - [GwG-Bußgelder in der Praxis: Was die BaFin wirklich ahndet – und was ab 2027 zählt](gwg-bussgelder-in-der-praxis-was-die-bafin-wirklich-ahndet-und-was-ab-2027-zaehlt.md) -  ()

@@ -1,8 +1,8 @@
 {
-  "crawled_at": "2026-03-31T04:43:59.887724",
+  "crawled_at": "2026-04-01T04:54:27.915238",
   "base_url": "https://www.kerberos-compliance.com/wissen/blog",
-  "total_articles": 125,
-  "successful": 125,
+  "total_articles": 126,
+  "successful": 126,
   "failed": 0,
   "articles": [
     {
@@ -494,6 +494,13 @@
       "author": "",
       "date": "",
       "url": "https://www.kerberos-compliance.com/wissen/blog/vonovia-korruptionsskandal-mit-vorbildcharakter"
+    },
+    {
+      "filename": "vermoegensentzug-ohne-strafurteil-zfg-referentenentwurf.md",
+      "title": "Vermögensentzug ohne Strafurteil: Was §§ 52a–52n ZFG-Referentenentwurf für Verpflichtete bedeuten",
+      "author": "",
+      "date": "",
+      "url": "https://www.kerberos-compliance.com/wissen/blog/vermoegensentzug-ohne-strafurteil-zfg-referentenentwurf"
     },
     {
       "filename": "die-aufsicht-wird-nicht-locker-lassen-interview.md",

@@ -1,6 +1,6 @@
 {
-  "generated": "2026-03-31T04:43:59.977614",
-  "total_articles": 125,
+  "generated": "2026-04-01T04:54:28.006676",
+  "total_articles": 126,
   "articles": [
     {
       "filename": "21-jahriger-sohn-von-clanchef-abou-chaker-ersteigert-villen-fur-uber-7-millionen-euro.md",
@@ -1141,6 +1141,16 @@
       "excerpt": "# US-Cloud-Anbieter im Fokus: Datenschutzrisiken und Handlungsempfehlungen\n\n**Autor:**   \n**Datum:**   \n**URL:** https://www.kerberos-compliance.com/wissen/blog/us-cloud-anbieter-im-fokus-datenschutzr...",
       "raw_url": "https://raw.githubusercontent.com/obenning/blog-crawler/main/blog_content/us-cloud-anbieter-im-fokus-datenschutzrisiken-und-handlungsempfehlungen.md",
       "word_count": 858
+    },
+    {
+      "filename": "vermoegensentzug-ohne-strafurteil-zfg-referentenentwurf.md",
+      "title": "Vermögensentzug ohne Strafurteil: Was §§ 52a–52n ZFG-Referentenentwurf für Verpflichtete bedeuten",
+      "author": "",
+      "date": "",
+      "url": "https://www.kerberos-compliance.com/wissen/blog/vermoegensentzug-ohne-strafurteil-zfg-referentenentwurf",
+      "excerpt": "# Vermögensentzug ohne Strafurteil: Was §§ 52a–52n ZFG-Referentenentwurf für Verpflichtete bedeuten\n\n**Autor:**   \n**Datum:**   \n**URL:** https://www.kerberos-compliance.com/wissen/blog/vermoegensentz...",
+      "raw_url": "https://raw.githubusercontent.com/obenning/blog-crawler/main/blog_content/vermoegensentzug-ohne-strafurteil-zfg-referentenentwurf.md",
+      "word_count": 1281
     },
     {
       "filename": "verschaerfte-meldepflichten-bei-immobilientransaktionen-die-wichtigsten-aenderungen-der-gwgmeldv-imm.md",

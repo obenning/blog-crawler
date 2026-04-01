@@ -4,7 +4,7 @@ author: ""
 date: ""
 url: "https://www.kerberos-compliance.com/wissen/blog/ubergangsregelungen-transparenzregister-noch-auf-dem-neuesten-stand"
 excerpt: ""
-crawled_at: "2026-03-31T04:43:25.383106"
+crawled_at: "2026-04-01T04:53:55.024770"
 ---
 
 # Übergangsregelungen: Transparenzregister – Noch auf dem neuesten Stand?
