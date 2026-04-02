@@ -4,7 +4,7 @@ author: ""
 date: ""
 url: "https://www.kerberos-compliance.com/wissen/blog/geldaewsche-in-deutschland-oktober-2025"
 excerpt: ""
-crawled_at: "2026-04-01T04:52:00.616564"
+crawled_at: "2026-04-02T04:35:07.608902"
 ---
 
 # Geldwäsche in Deutschland: Ein Monat zeigt alle Facetten
