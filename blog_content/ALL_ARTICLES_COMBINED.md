@@ -1,8 +1,8 @@
 # 📚 Kerberos Compliance Blog - Alle Artikel
 
-**Generiert:** 07.04.2026 04:41
+**Generiert:** 08.04.2026 04:45
 **Anzahl Artikel:** 127
-**Gesamtwortanzahl:** 105,496
+**Gesamtwortanzahl:** 105,508
 
 ---
 
@@ -322,7 +322,7 @@ Die drei Tage können nur abgekürzt werden, wenn eine Staatsanwaltschaft oder d
 
 # Blog Content Archive
 
-Automatisch gecrawlt am: 2026-04-07 04:41:18
+Automatisch gecrawlt am: 2026-04-08 04:45:01
 
 **Statistik:**
 - Gesamt Artikel: 126
@@ -2034,7 +2034,7 @@ Vielen Dank.
 
 **Autor:**   
 **Datum:**   
-**Wortanzahl:** 615  
+**Wortanzahl:** 619  
 **Original:** https://www.kerberos-compliance.com/wissen/blog/compliance-fort-bildungsangebote-fuer-2025  
 
 ---
@@ -2071,11 +2071,11 @@ Als Verpflichtete nach dem Geldwäschegesetz besteht für Sie und Ihre Mitarbeit
 
 ## Webinare:
 
-BaFin und FIU haben im November 2025 ihre Orientierungshilfe aktualisiert. Was bedeutet „unverzügliche" Meldung konkret? Wie erfüllen Sie die neue 5-Tages-Frist für FIU-Anfragen nach EU-AMLR? Praktische Anwendungsbeispiele und häufige Fehler, die Sie vermeiden sollten.
-
 Ab Juli 2027 fordert die EU-AMLR kontinuierliche Kundenüberwachung und Aktualisierungen in kürzeren Abständen: 1 Jahr für High-Risk, 5 Jahre für Low-Risk. Perpetual KYC (pKYC) als technische Lösung, Workload-Kalkulation für Ihr Team und AMLA-Erwartungen für die Prüfungsvorbereitung.
 
 Unser praxisorientiertes 90-Minuten-Webinar vermittelt Ihnen fundiertes Fachwissen zur Geldwäscheprävention im Immobiliensektor und hilft Ihnen, Ihre gesetzlichen Verpflichtungen rechtssicher zu erfüllen. Die Teilnahme wird mit 1 1/2 Stunden auf Ihre MaBV-Weiterbildungspflicht angerechnet (§ 15b MaBV).
+
+Nach den Hamas-Angriffen im Oktober 2023 rückte Terrorismusfinanzierung stärker in den Fokus. BaFin fordert nun getrennte Risikoanalysen für Geldwäsche und TF. Lernen Sie die Unterschiede, typische Red Flags und legale Finanzierungsquellen des Terrorismus kennen. Mit Meldepflichten und Praxisbeispielen.
 
 Weitere Webinare kommen im Laufe der Zeit dazu. Folgen Sie uns auf [LinkedIn](https://www.linkedin.com/company/kerberos-compliance) , Abonnieren Sie unseren [Newsletter](https://www.kerberos-compliance.com/wissen/newsletter-anmeldung) oder besuchen Sie unsere Website um über unser aktuelles Angebot informiert zu bleiben.
 
@@ -4222,7 +4222,7 @@ Otis Benning Senior Associate Marketing
 
 **Autor:**   
 **Datum:**   
-**Wortanzahl:** 1,033  
+**Wortanzahl:** 1,037  
 **Original:** https://www.kerberos-compliance.com/wissen/blog/fiu-jahresbericht-es-gibt-sie-noch-die-guten-nachrichten-oder  
 
 ---
@@ -4301,11 +4301,11 @@ Auch wir von Kerberos sind hier aktiv – beispielsweise durch regelmäßige Inf
 
 Alle aktuellen Webinar-Angebote finden Sie hier: [Unsere Veranstaltungen](https://www.kerberos-compliance.com/wissen/veranstaltungen)
 
-BaFin und FIU haben im November 2025 ihre Orientierungshilfe aktualisiert. Was bedeutet „unverzügliche" Meldung konkret? Wie erfüllen Sie die neue 5-Tages-Frist für FIU-Anfragen nach EU-AMLR? Praktische Anwendungsbeispiele und häufige Fehler, die Sie vermeiden sollten.
-
 Ab Juli 2027 fordert die EU-AMLR kontinuierliche Kundenüberwachung und Aktualisierungen in kürzeren Abständen: 1 Jahr für High-Risk, 5 Jahre für Low-Risk. Perpetual KYC (pKYC) als technische Lösung, Workload-Kalkulation für Ihr Team und AMLA-Erwartungen für die Prüfungsvorbereitung.
 
 Unser praxisorientiertes 90-Minuten-Webinar vermittelt Ihnen fundiertes Fachwissen zur Geldwäscheprävention im Immobiliensektor und hilft Ihnen, Ihre gesetzlichen Verpflichtungen rechtssicher zu erfüllen. Die Teilnahme wird mit 1 1/2 Stunden auf Ihre MaBV-Weiterbildungspflicht angerechnet (§ 15b MaBV).
+
+Nach den Hamas-Angriffen im Oktober 2023 rückte Terrorismusfinanzierung stärker in den Fokus. BaFin fordert nun getrennte Risikoanalysen für Geldwäsche und TF. Lernen Sie die Unterschiede, typische Red Flags und legale Finanzierungsquellen des Terrorismus kennen. Mit Meldepflichten und Praxisbeispielen.
 
 ---
 
@@ -4568,7 +4568,7 @@ Otis Benning Senior Associate Marketing
 
 **Autor:**   
 **Datum:**   
-**Wortanzahl:** 978  
+**Wortanzahl:** 982  
 **Original:** https://www.kerberos-compliance.com/wissen/blog/geldwaesche-im-deutschen-immobiliensektor-bleibt-milliardenproblem  
 
 ---
@@ -4583,11 +4583,11 @@ Otis Benning Senior Associate Marketing
 
 Veröffentlicht: 2025-06-20
 
-BaFin und FIU haben im November 2025 ihre Orientierungshilfe aktualisiert. Was bedeutet „unverzügliche" Meldung konkret? Wie erfüllen Sie die neue 5-Tages-Frist für FIU-Anfragen nach EU-AMLR? Praktische Anwendungsbeispiele und häufige Fehler, die Sie vermeiden sollten.
-
 Ab Juli 2027 fordert die EU-AMLR kontinuierliche Kundenüberwachung und Aktualisierungen in kürzeren Abständen: 1 Jahr für High-Risk, 5 Jahre für Low-Risk. Perpetual KYC (pKYC) als technische Lösung, Workload-Kalkulation für Ihr Team und AMLA-Erwartungen für die Prüfungsvorbereitung.
 
 Unser praxisorientiertes 90-Minuten-Webinar vermittelt Ihnen fundiertes Fachwissen zur Geldwäscheprävention im Immobiliensektor und hilft Ihnen, Ihre gesetzlichen Verpflichtungen rechtssicher zu erfüllen. Die Teilnahme wird mit 1 1/2 Stunden auf Ihre MaBV-Weiterbildungspflicht angerechnet (§ 15b MaBV).
+
+Nach den Hamas-Angriffen im Oktober 2023 rückte Terrorismusfinanzierung stärker in den Fokus. BaFin fordert nun getrennte Risikoanalysen für Geldwäsche und TF. Lernen Sie die Unterschiede, typische Red Flags und legale Finanzierungsquellen des Terrorismus kennen. Mit Meldepflichten und Praxisbeispielen.
 
 Die Geldwäsche in Deutschland erreicht ein geschätztes Volumen von bis zu 100 Milliarden Euro jährlich und stellt damit eine der große Bedrohungen für die Marktintegrität dar. Trotz verschärfter Gesetze und verstärkter Kontrollen seit 2023 bleiben auch im Immobiliensektor erhebliche Schwachstellen bestehen, die umfassende Reformen erfordern. Die Branche steht vor der Herausforderung, zwischen beruflichen Vertraulichkeitspflichten und präventiven Meldepflichten zu navigieren, während sie gleichzeitig mit komplexen internationalen Eigentümerstrukturen und unzureichenden technologischen Lösungen konfrontiert ist. Die geplante Harmonisierung der EU-Vorschriften bis 2027 versprechen eine grundlegende Neuausrichtung der deutschen Anti-Geldwäsche-Strategie.
 

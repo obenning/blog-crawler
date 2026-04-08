@@ -1,5 +1,5 @@
 {
-  "generated": "2026-04-07T04:41:19.073683",
+  "generated": "2026-04-08T04:45:01.194293",
   "total_articles": 126,
   "articles": [
     {
@@ -220,7 +220,7 @@
       "url": "https://www.kerberos-compliance.com/wissen/blog/compliance-fort-bildungsangebote-fuer-2025",
       "excerpt": "# Compliance (Fort-)Bildungsangebote für 2025\n\n**Autor:**   \n**Datum:**   \n**URL:** https://www.kerberos-compliance.com/wissen/blog/compliance-fort-bildungsangebote-fuer-2025\n\n---\n\nImmobilienmakler, K...",
       "raw_url": "https://raw.githubusercontent.com/obenning/blog-crawler/main/blog_content/compliance-fort-bildungsangebote-fuer-2025.md",
-      "word_count": 615
+      "word_count": 619
     },
     {
       "filename": "das-eu-aml-paket-neue-herausforderungen-fuer-die-geldwaeschepraevention.md",
@@ -490,7 +490,7 @@
       "url": "https://www.kerberos-compliance.com/wissen/blog/fiu-jahresbericht-es-gibt-sie-noch-die-guten-nachrichten-oder",
       "excerpt": "# FIU Jahresbericht 2023: Es gibt sie noch, die guten Nachrichten – oder?\n\n**Autor:**   \n**Datum:**   \n**URL:** https://www.kerberos-compliance.com/wissen/blog/fiu-jahresbericht-es-gibt-sie-noch-die-g...",
       "raw_url": "https://raw.githubusercontent.com/obenning/blog-crawler/main/blog_content/fiu-jahresbericht-es-gibt-sie-noch-die-guten-nachrichten-oder.md",
-      "word_count": 1033
+      "word_count": 1037
     },
     {
       "filename": "folgen-des-ampel-aus-fuer-die-geldwaeschebekaempfung.md",
@@ -530,7 +530,7 @@
       "url": "https://www.kerberos-compliance.com/wissen/blog/geldwaesche-im-deutschen-immobiliensektor-bleibt-milliardenproblem",
       "excerpt": "# Geldwäsche im deutschen Immobiliensektor bleibt Milliardenproblem\n\n**Autor:**   \n**Datum:**   \n**URL:** https://www.kerberos-compliance.com/wissen/blog/geldwaesche-im-deutschen-immobiliensektor-blei...",
       "raw_url": "https://raw.githubusercontent.com/obenning/blog-crawler/main/blog_content/geldwaesche-im-deutschen-immobiliensektor-bleibt-milliardenproblem.md",
-      "word_count": 978
+      "word_count": 982
     },
     {
       "filename": "geldwaesche-im-immobiliensektor-was-makler-jetzt-wissen-muessen.md",

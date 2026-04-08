@@ -4,7 +4,7 @@ author: ""
 date: ""
 url: "https://www.kerberos-compliance.com/wissen/blog/fiu-jahresbericht-es-gibt-sie-noch-die-guten-nachrichten-oder"
 excerpt: ""
-crawled_at: "2026-04-07T04:40:00.400670"
+crawled_at: "2026-04-08T04:43:41.823639"
 ---
 
 # FIU Jahresbericht 2023: Es gibt sie noch, die guten Nachrichten – oder?
@@ -81,8 +81,8 @@ Auch wir von Kerberos sind hier aktiv – beispielsweise durch regelmäßige Inf
 
 Alle aktuellen Webinar-Angebote finden Sie hier: [Unsere Veranstaltungen](https://www.kerberos-compliance.com/wissen/veranstaltungen)
 
-BaFin und FIU haben im November 2025 ihre Orientierungshilfe aktualisiert. Was bedeutet „unverzügliche" Meldung konkret? Wie erfüllen Sie die neue 5-Tages-Frist für FIU-Anfragen nach EU-AMLR? Praktische Anwendungsbeispiele und häufige Fehler, die Sie vermeiden sollten.
-
 Ab Juli 2027 fordert die EU-AMLR kontinuierliche Kundenüberwachung und Aktualisierungen in kürzeren Abständen: 1 Jahr für High-Risk, 5 Jahre für Low-Risk. Perpetual KYC (pKYC) als technische Lösung, Workload-Kalkulation für Ihr Team und AMLA-Erwartungen für die Prüfungsvorbereitung.
 
 Unser praxisorientiertes 90-Minuten-Webinar vermittelt Ihnen fundiertes Fachwissen zur Geldwäscheprävention im Immobiliensektor und hilft Ihnen, Ihre gesetzlichen Verpflichtungen rechtssicher zu erfüllen. Die Teilnahme wird mit 1 1/2 Stunden auf Ihre MaBV-Weiterbildungspflicht angerechnet (§ 15b MaBV).
+
+Nach den Hamas-Angriffen im Oktober 2023 rückte Terrorismusfinanzierung stärker in den Fokus. BaFin fordert nun getrennte Risikoanalysen für Geldwäsche und TF. Lernen Sie die Unterschiede, typische Red Flags und legale Finanzierungsquellen des Terrorismus kennen. Mit Meldepflichten und Praxisbeispielen.
