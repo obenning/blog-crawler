@@ -1,10 +1,10 @@
 # Blog Content Archive
 
-Automatisch gecrawlt am: 2026-04-08 04:45:01
+Automatisch gecrawlt am: 2026-04-09 04:42:06
 
 **Statistik:**
-- Gesamt Artikel: 126
-- Erfolgreich gecrawlt: 126
+- Gesamt Artikel: 127
+- Erfolgreich gecrawlt: 127
 - Fehlgeschlagen: 0
 
 **Quelle:** https://www.kerberos-compliance.com/wissen/blog
@@ -86,6 +86,7 @@ Automatisch gecrawlt am: 2026-04-08 04:45:01
 - [Rechnungsversand per E-Mail: Neue Rechtslage nach OLG-Urteil](rechnungsversand-per-e-mail-neue-rechtslage-nach-olg-urteil.md) -  ()
 - [GwG-Bußgelder in der Praxis: Was die BaFin wirklich ahndet – und was ab 2027 zählt](gwg-bussgelder-in-der-praxis-was-die-bafin-wirklich-ahndet-und-was-ab-2027-zaehlt.md) -  ()
 - [Geldwäschebeauftragte: Schlüsselfiguren im Kampf gegen Finanzkriminalität](geldwaeschebeauftragte-schluesselfiguren-im-kampf-gegen-finanzkriminalitaet.md) -  ()
+- [Verdachtsmeldungen nach § 43 GwG: Was die BaFin/FIU-Orientierungshilfe konkret bedeutet](verdachtsmeldungen-nach-43-gwg-was-die-bafin-fiu-orientierungshilfe-konkret-bedeutet.md) -  ()
 - [Operation Chargeback: Wenn Compliance-Systeme versagen – Eine Analyse des AML-Experten Frank Lässig](operation-chargeback-wenn-compliance-systeme-versagen.md) -  ()
 - [Geldwäscheprävention 2025: Ein halbes Jahr zwischen Fortschritten und Rückschlägen](geldwscheprvention-2025-ein-halbes-jahr-zwischen-fortschritten-und-rckschlgen.md) -  ()
 - [Übergangsregelungen: Pflicht zur Registrierung im Meldeportal goAML](pflicht-zur-registrierung-im-meldeportal-goaml.md) -  ()

@@ -1,8 +1,8 @@
 {
-  "crawled_at": "2026-04-08T04:45:01.103949",
+  "crawled_at": "2026-04-09T04:42:06.454974",
   "base_url": "https://www.kerberos-compliance.com/wissen/blog",
-  "total_articles": 126,
-  "successful": 126,
+  "total_articles": 127,
+  "successful": 127,
   "failed": 0,
   "articles": [
     {
@@ -529,6 +529,13 @@
       "author": "",
       "date": "",
       "url": "https://www.kerberos-compliance.com/wissen/blog/geldwaeschebeauftragte-schluesselfiguren-im-kampf-gegen-finanzkriminalitaet"
+    },
+    {
+      "filename": "verdachtsmeldungen-nach-43-gwg-was-die-bafin-fiu-orientierungshilfe-konkret-bedeutet.md",
+      "title": "Verdachtsmeldungen nach § 43 GwG: Was die BaFin/FIU-Orientierungshilfe konkret bedeutet",
+      "author": "",
+      "date": "",
+      "url": "https://www.kerberos-compliance.com/wissen/blog/verdachtsmeldungen-nach-43-gwg-was-die-bafin-fiu-orientierungshilfe-konkret-bedeutet"
     },
     {
       "filename": "operation-chargeback-wenn-compliance-systeme-versagen.md",

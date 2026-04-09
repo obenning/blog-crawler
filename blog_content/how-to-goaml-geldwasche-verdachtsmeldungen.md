@@ -4,7 +4,7 @@ author: ""
 date: ""
 url: "https://www.kerberos-compliance.com/wissen/blog/how-to-goaml-geldwasche-verdachtsmeldungen"
 excerpt: ""
-crawled_at: "2026-04-08T04:44:39.637312"
+crawled_at: "2026-04-09T04:41:45.259669"
 ---
 
 # How to: goAML & Geldwäsche Verdachtsmeldungen

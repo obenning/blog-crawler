@@ -1,6 +1,6 @@
 {
-  "generated": "2026-04-08T04:45:01.194293",
-  "total_articles": 126,
+  "generated": "2026-04-09T04:42:06.551566",
+  "total_articles": 127,
   "articles": [
     {
       "filename": "21-jahriger-sohn-von-clanchef-abou-chaker-ersteigert-villen-fur-uber-7-millionen-euro.md",
@@ -1141,6 +1141,16 @@
       "excerpt": "# US-Cloud-Anbieter im Fokus: Datenschutzrisiken und Handlungsempfehlungen\n\n**Autor:**   \n**Datum:**   \n**URL:** https://www.kerberos-compliance.com/wissen/blog/us-cloud-anbieter-im-fokus-datenschutzr...",
       "raw_url": "https://raw.githubusercontent.com/obenning/blog-crawler/main/blog_content/us-cloud-anbieter-im-fokus-datenschutzrisiken-und-handlungsempfehlungen.md",
       "word_count": 858
+    },
+    {
+      "filename": "verdachtsmeldungen-nach-43-gwg-was-die-bafin-fiu-orientierungshilfe-konkret-bedeutet.md",
+      "title": "Verdachtsmeldungen nach § 43 GwG: Was die BaFin/FIU-Orientierungshilfe konkret bedeutet",
+      "author": "",
+      "date": "",
+      "url": "https://www.kerberos-compliance.com/wissen/blog/verdachtsmeldungen-nach-43-gwg-was-die-bafin-fiu-orientierungshilfe-konkret-bedeutet",
+      "excerpt": "# Verdachtsmeldungen nach § 43 GwG: Was die BaFin/FIU-Orientierungshilfe konkret bedeutet\n\n**Autor:**   \n**Datum:**   \n**URL:** https://www.kerberos-compliance.com/wissen/blog/verdachtsmeldungen-nach-...",
+      "raw_url": "https://raw.githubusercontent.com/obenning/blog-crawler/main/blog_content/verdachtsmeldungen-nach-43-gwg-was-die-bafin-fiu-orientierungshilfe-konkret-bedeutet.md",
+      "word_count": 1265
     },
     {
       "filename": "vermoegensentzug-ohne-strafurteil-zfg-referentenentwurf.md",
