@@ -4,7 +4,7 @@ author: ""
 date: ""
 url: "https://www.kerberos-compliance.com/wissen/blog/compliance-ausblick-mit-kerberos-geschaftsfuhrer-christian-tsambikakis"
 excerpt: ""
-crawled_at: "2026-04-14T04:52:34.191286"
+crawled_at: "2026-04-15T04:53:01.576267"
 ---
 
 # Compliance Ausblick mit Kerberos Geschäftsführer Christian Tsambikakis

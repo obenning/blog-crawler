@@ -4,7 +4,7 @@ author: ""
 date: ""
 url: "https://www.kerberos-compliance.com/wissen/blog/allgemeinverfgung-zur-bestellung-von-geldwschebeauftragten-im-gterhandel"
 excerpt: ""
-crawled_at: "2026-04-14T04:51:59.667113"
+crawled_at: "2026-04-15T04:52:24.832034"
 ---
 
 # Allgemeinverfügung zur Bestellung von Geldwäschebeauftragten im Güterhandel
