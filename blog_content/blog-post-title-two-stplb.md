@@ -4,7 +4,7 @@ author: ""
 date: ""
 url: "https://www.kerberos-compliance.com/wissen/blog/blog-post-title-two-stplb"
 excerpt: ""
-crawled_at: "2026-04-16T04:58:08.987313"
+crawled_at: "2026-04-17T04:56:00.439367"
 ---
 
 # "In meinen Gesprächen höre ich fast immer, dass Geldwäscheprävention und das Gesetz Unsinn sind"
