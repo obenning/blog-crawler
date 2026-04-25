@@ -4,7 +4,7 @@ author: ""
 date: ""
 url: "https://www.kerberos-compliance.com/wissen/blog/geldwaesche-im-deutschen-immobiliensektor-bleibt-milliardenproblem"
 excerpt: ""
-crawled_at: "2026-04-24T05:14:32.473289"
+crawled_at: "2026-04-25T04:41:13.490138"
 ---
 
 # Geldwäsche im deutschen Immobiliensektor bleibt Milliardenproblem
@@ -21,7 +21,7 @@ Ab Juli 2027 fordert die EU-AMLR kontinuierliche Kundenüberwachung und Aktualis
 
 Unser praxisorientiertes 90-Minuten-Webinar vermittelt Ihnen fundiertes Fachwissen zur Geldwäscheprävention im Immobiliensektor und hilft Ihnen, Ihre gesetzlichen Verpflichtungen rechtssicher zu erfüllen. Die Teilnahme wird mit 1 1/2 Stunden auf Ihre MaBV-Weiterbildungspflicht angerechnet (§ 15b MaBV).
 
-Nach den Hamas-Angriffen im Oktober 2023 rückte Terrorismusfinanzierung stärker in den Fokus. BaFin fordert nun getrennte Risikoanalysen für Geldwäsche und TF. Lernen Sie die Unterschiede, typische Red Flags und legale Finanzierungsquellen des Terrorismus kennen. Mit Meldepflichten und Praxisbeispielen.
+Steuerberater und Kanzleien mit weniger als 10 Berufsträgern sind von der EU-AML-Verordnung ab 2027 besonders betroffen. Die Sonderregelungen und Ausnahmen, die bislang gelten, werden in der Verordnung nicht berücksichtigt. Auch bei schon bestehenden Verpflichtungen müssen Steuerberater nachschärfen. Lena Pütz erklärt, welche Anforderungen in Zukunft gelten.
 
 Die Geldwäsche in Deutschland erreicht ein geschätztes Volumen von bis zu 100 Milliarden Euro jährlich und stellt damit eine der große Bedrohungen für die Marktintegrität dar. Trotz verschärfter Gesetze und verstärkter Kontrollen seit 2023 bleiben auch im Immobiliensektor erhebliche Schwachstellen bestehen, die umfassende Reformen erfordern. Die Branche steht vor der Herausforderung, zwischen beruflichen Vertraulichkeitspflichten und präventiven Meldepflichten zu navigieren, während sie gleichzeitig mit komplexen internationalen Eigentümerstrukturen und unzureichenden technologischen Lösungen konfrontiert ist. Die geplante Harmonisierung der EU-Vorschriften bis 2027 versprechen eine grundlegende Neuausrichtung der deutschen Anti-Geldwäsche-Strategie.
 

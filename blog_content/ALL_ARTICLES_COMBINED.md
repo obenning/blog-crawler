@@ -1,8 +1,8 @@
 # 📚 Kerberos Compliance Blog - Alle Artikel
 
-**Generiert:** 24.04.2026 05:16
+**Generiert:** 25.04.2026 04:43
 **Anzahl Artikel:** 129
-**Gesamtwortanzahl:** 108,779
+**Gesamtwortanzahl:** 108,800
 
 ---
 
@@ -324,7 +324,7 @@ Die drei Tage können nur abgekürzt werden, wenn eine Staatsanwaltschaft oder d
 
 # Blog Content Archive
 
-Automatisch gecrawlt am: 2026-04-24 05:16:27
+Automatisch gecrawlt am: 2026-04-25 04:43:08
 
 **Statistik:**
 - Gesamt Artikel: 128
@@ -2038,7 +2038,7 @@ Vielen Dank.
 
 **Autor:**   
 **Datum:**   
-**Wortanzahl:** 619  
+**Wortanzahl:** 626  
 **Original:** https://www.kerberos-compliance.com/wissen/blog/compliance-fort-bildungsangebote-fuer-2025  
 
 ---
@@ -2079,7 +2079,7 @@ Ab Juli 2027 fordert die EU-AMLR kontinuierliche Kundenüberwachung und Aktualis
 
 Unser praxisorientiertes 90-Minuten-Webinar vermittelt Ihnen fundiertes Fachwissen zur Geldwäscheprävention im Immobiliensektor und hilft Ihnen, Ihre gesetzlichen Verpflichtungen rechtssicher zu erfüllen. Die Teilnahme wird mit 1 1/2 Stunden auf Ihre MaBV-Weiterbildungspflicht angerechnet (§ 15b MaBV).
 
-Nach den Hamas-Angriffen im Oktober 2023 rückte Terrorismusfinanzierung stärker in den Fokus. BaFin fordert nun getrennte Risikoanalysen für Geldwäsche und TF. Lernen Sie die Unterschiede, typische Red Flags und legale Finanzierungsquellen des Terrorismus kennen. Mit Meldepflichten und Praxisbeispielen.
+Steuerberater und Kanzleien mit weniger als 10 Berufsträgern sind von der EU-AML-Verordnung ab 2027 besonders betroffen. Die Sonderregelungen und Ausnahmen, die bislang gelten, werden in der Verordnung nicht berücksichtigt. Auch bei schon bestehenden Verpflichtungen müssen Steuerberater nachschärfen. Lena Pütz erklärt, welche Anforderungen in Zukunft gelten.
 
 Weitere Webinare kommen im Laufe der Zeit dazu. Folgen Sie uns auf [LinkedIn](https://www.linkedin.com/company/kerberos-compliance) , Abonnieren Sie unseren [Newsletter](https://www.kerberos-compliance.com/wissen/newsletter-anmeldung) oder besuchen Sie unsere Website um über unser aktuelles Angebot informiert zu bleiben.
 
@@ -4226,7 +4226,7 @@ Otis Benning Senior Associate Marketing
 
 **Autor:**   
 **Datum:**   
-**Wortanzahl:** 1,037  
+**Wortanzahl:** 1,044  
 **Original:** https://www.kerberos-compliance.com/wissen/blog/fiu-jahresbericht-es-gibt-sie-noch-die-guten-nachrichten-oder  
 
 ---
@@ -4309,7 +4309,7 @@ Ab Juli 2027 fordert die EU-AMLR kontinuierliche Kundenüberwachung und Aktualis
 
 Unser praxisorientiertes 90-Minuten-Webinar vermittelt Ihnen fundiertes Fachwissen zur Geldwäscheprävention im Immobiliensektor und hilft Ihnen, Ihre gesetzlichen Verpflichtungen rechtssicher zu erfüllen. Die Teilnahme wird mit 1 1/2 Stunden auf Ihre MaBV-Weiterbildungspflicht angerechnet (§ 15b MaBV).
 
-Nach den Hamas-Angriffen im Oktober 2023 rückte Terrorismusfinanzierung stärker in den Fokus. BaFin fordert nun getrennte Risikoanalysen für Geldwäsche und TF. Lernen Sie die Unterschiede, typische Red Flags und legale Finanzierungsquellen des Terrorismus kennen. Mit Meldepflichten und Praxisbeispielen.
+Steuerberater und Kanzleien mit weniger als 10 Berufsträgern sind von der EU-AML-Verordnung ab 2027 besonders betroffen. Die Sonderregelungen und Ausnahmen, die bislang gelten, werden in der Verordnung nicht berücksichtigt. Auch bei schon bestehenden Verpflichtungen müssen Steuerberater nachschärfen. Lena Pütz erklärt, welche Anforderungen in Zukunft gelten.
 
 ---
 
@@ -4572,7 +4572,7 @@ Otis Benning Senior Associate Marketing
 
 **Autor:**   
 **Datum:**   
-**Wortanzahl:** 982  
+**Wortanzahl:** 989  
 **Original:** https://www.kerberos-compliance.com/wissen/blog/geldwaesche-im-deutschen-immobiliensektor-bleibt-milliardenproblem  
 
 ---
@@ -4591,7 +4591,7 @@ Ab Juli 2027 fordert die EU-AMLR kontinuierliche Kundenüberwachung und Aktualis
 
 Unser praxisorientiertes 90-Minuten-Webinar vermittelt Ihnen fundiertes Fachwissen zur Geldwäscheprävention im Immobiliensektor und hilft Ihnen, Ihre gesetzlichen Verpflichtungen rechtssicher zu erfüllen. Die Teilnahme wird mit 1 1/2 Stunden auf Ihre MaBV-Weiterbildungspflicht angerechnet (§ 15b MaBV).
 
-Nach den Hamas-Angriffen im Oktober 2023 rückte Terrorismusfinanzierung stärker in den Fokus. BaFin fordert nun getrennte Risikoanalysen für Geldwäsche und TF. Lernen Sie die Unterschiede, typische Red Flags und legale Finanzierungsquellen des Terrorismus kennen. Mit Meldepflichten und Praxisbeispielen.
+Steuerberater und Kanzleien mit weniger als 10 Berufsträgern sind von der EU-AML-Verordnung ab 2027 besonders betroffen. Die Sonderregelungen und Ausnahmen, die bislang gelten, werden in der Verordnung nicht berücksichtigt. Auch bei schon bestehenden Verpflichtungen müssen Steuerberater nachschärfen. Lena Pütz erklärt, welche Anforderungen in Zukunft gelten.
 
 Die Geldwäsche in Deutschland erreicht ein geschätztes Volumen von bis zu 100 Milliarden Euro jährlich und stellt damit eine der große Bedrohungen für die Marktintegrität dar. Trotz verschärfter Gesetze und verstärkter Kontrollen seit 2023 bleiben auch im Immobiliensektor erhebliche Schwachstellen bestehen, die umfassende Reformen erfordern. Die Branche steht vor der Herausforderung, zwischen beruflichen Vertraulichkeitspflichten und präventiven Meldepflichten zu navigieren, während sie gleichzeitig mit komplexen internationalen Eigentümerstrukturen und unzureichenden technologischen Lösungen konfrontiert ist. Die geplante Harmonisierung der EU-Vorschriften bis 2027 versprechen eine grundlegende Neuausrichtung der deutschen Anti-Geldwäsche-Strategie.
 
