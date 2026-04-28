@@ -4,7 +4,7 @@ author: ""
 date: ""
 url: "https://www.kerberos-compliance.com/wissen/blog/best-practices-fuer-geldwaeschebeauftragte-im-finance-sektor"
 excerpt: ""
-crawled_at: "2026-04-27T05:30:54.242256"
+crawled_at: "2026-04-28T05:36:52.963672"
 ---
 
 # Best Practices für Geldwäschebeauftragte im Finance-Sektor
