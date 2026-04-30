@@ -1,8 +1,8 @@
 {
-  "crawled_at": "2026-04-29T05:34:58.726164",
+  "crawled_at": "2026-04-30T05:38:41.204996",
   "base_url": "https://www.kerberos-compliance.com/wissen/blog",
-  "total_articles": 128,
-  "successful": 128,
+  "total_articles": 129,
+  "successful": 129,
   "failed": 0,
   "articles": [
     {
@@ -753,6 +753,13 @@
       "author": "",
       "date": "",
       "url": "https://www.kerberos-compliance.com/wissen/blog/wiederkehrende-pflichten-zur-geldwaeschepraevention-update-ende-2025"
+    },
+    {
+      "filename": "amla-guidelines-zur-risikoanalyse-neue-pflichten-fuer-alle-verpflichteten.md",
+      "title": "AMLA-Guidelines zur Risikoanalyse: Neue Pflichten für alle Verpflichteten",
+      "author": "",
+      "date": "",
+      "url": "https://www.kerberos-compliance.com/wissen/blog/amla-guidelines-zur-risikoanalyse-neue-pflichten-fuer-alle-verpflichteten"
     },
     {
       "filename": "bautraeger-und-makler-was-geldwaeschepraevention-fuer-sie-bedeutet.md",

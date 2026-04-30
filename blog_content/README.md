@@ -1,10 +1,10 @@
 # Blog Content Archive
 
-Automatisch gecrawlt am: 2026-04-29 05:34:58
+Automatisch gecrawlt am: 2026-04-30 05:38:41
 
 **Statistik:**
-- Gesamt Artikel: 128
-- Erfolgreich gecrawlt: 128
+- Gesamt Artikel: 129
+- Erfolgreich gecrawlt: 129
 - Fehlgeschlagen: 0
 
 **Quelle:** https://www.kerberos-compliance.com/wissen/blog
@@ -118,6 +118,7 @@ Automatisch gecrawlt am: 2026-04-29 05:34:58
 - [Russland-Sanktionen - 5 Tipps zur Risikoreduzierung](russland-sanktionen.md) -  ()
 - [Aktuelle FATF-Listen: Änderungen und Neuerungen im Februar 2025](aktuelle-fatf-listen-aenderungen-und-neuerungen-im-februar-2025.md) -  ()
 - [Wiederkehrende Pflichten zur Geldwäscheprävention – Update Ende 2025](wiederkehrende-pflichten-zur-geldwaeschepraevention-update-ende-2025.md) -  ()
+- [AMLA-Guidelines zur Risikoanalyse: Neue Pflichten für alle Verpflichteten](amla-guidelines-zur-risikoanalyse-neue-pflichten-fuer-alle-verpflichteten.md) -  ()
 - [Bauträger/Immobilienentwickler und Makler – Was Geldwäscheprävention für sie bedeutet](bautraeger-und-makler-was-geldwaeschepraevention-fuer-sie-bedeutet.md) -  ()
 - [Verdachtsmeldungen nach § 43 GwG: Was die BaFin/FIU-Orientierungshilfe konkret bedeutet](verdachtsmeldungen-nach-43-gwg-was-die-bafin-fiu-orientierungshilfe-konkret-bedeutet.md) -  ()
 - [Hinweisgebersysteme nach dem Hinweisgeberschutzgesetz (HinSchG)](hinweisgebersysteme-nach-dem-hinweisgeberschutzgesetz-hinschg.md) -  ()
