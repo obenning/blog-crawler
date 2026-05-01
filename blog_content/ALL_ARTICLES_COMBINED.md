@@ -1,8 +1,8 @@
 # 📚 Kerberos Compliance Blog - Alle Artikel
 
-**Generiert:** 30.04.2026 05:38
+**Generiert:** 01.05.2026 05:50
 **Anzahl Artikel:** 130
-**Gesamtwortanzahl:** 110,182
+**Gesamtwortanzahl:** 110,146
 
 ---
 
@@ -325,7 +325,7 @@ Die drei Tage können nur abgekürzt werden, wenn eine Staatsanwaltschaft oder d
 
 # Blog Content Archive
 
-Automatisch gecrawlt am: 2026-04-30 05:38:41
+Automatisch gecrawlt am: 2026-05-01 05:50:26
 
 **Statistik:**
 - Gesamt Artikel: 129
@@ -1068,7 +1068,7 @@ Es wird sich bei den meisten Kunden bei der UBO-Anzahl nicht viel ändern. Aller
 
 **Autor:**   
 **Datum:**   
-**Wortanzahl:** 1,371  
+**Wortanzahl:** 1,335  
 **Original:** https://www.kerberos-compliance.com/wissen/blog/amla-guidelines-zur-risikoanalyse-neue-pflichten-fuer-alle-verpflichteten  
 
 ---
@@ -1133,10 +1133,6 @@ Die BaFin hat im März 2025 auf typische Umgehungsmuster hingewiesen (BaFin Aufs
 - Strohfirmen und Beteiligungskaskaden : Gelistete Personen halten Anteile unterhalb des 25-Prozent-Schwellenwerts über mehrere Ebenen verschachtelt
 - Preismanipulation und Phantomhandel : Besonders in Handelsfinanzierungen und Gütergeschäften
 - Komplexe Treuhandstrukturen : Nutzung von Stiftungen oder Trusts in Drittstaaten zur Verschleierung des wirtschaftlich Berechtigten
-
-### TFS in der BWRA: Wo genau es hingehört
-
-AMLR Art. 10 Abs. 1 verlangt ausdrücklich, dass TFS-Risiken Teil der unternehmensweiten Risikoanalyse sind – gleichrangig mit ML und TF. In der MR-Struktur der AMLA-Guidelines bedeutet das:
 
 ## Erstmals im Fokus: Was der Nicht-Finanzsektor jetzt wissen muss
 

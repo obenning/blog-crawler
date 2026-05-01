@@ -4,7 +4,7 @@ author: ""
 date: ""
 url: "https://www.kerberos-compliance.com/wissen/blog/amla-guidelines-zur-risikoanalyse-neue-pflichten-fuer-alle-verpflichteten"
 excerpt: ""
-crawled_at: "2026-04-30T05:35:32.979073"
+crawled_at: "2026-05-01T05:47:24.755017"
 ---
 
 # AMLA-Guidelines zur Risikoanalyse: Neue Pflichten für alle Verpflichteten
@@ -67,10 +67,6 @@ Die BaFin hat im März 2025 auf typische Umgehungsmuster hingewiesen (BaFin Aufs
 - Strohfirmen und Beteiligungskaskaden : Gelistete Personen halten Anteile unterhalb des 25-Prozent-Schwellenwerts über mehrere Ebenen verschachtelt
 - Preismanipulation und Phantomhandel : Besonders in Handelsfinanzierungen und Gütergeschäften
 - Komplexe Treuhandstrukturen : Nutzung von Stiftungen oder Trusts in Drittstaaten zur Verschleierung des wirtschaftlich Berechtigten
-
-### TFS in der BWRA: Wo genau es hingehört
-
-AMLR Art. 10 Abs. 1 verlangt ausdrücklich, dass TFS-Risiken Teil der unternehmensweiten Risikoanalyse sind – gleichrangig mit ML und TF. In der MR-Struktur der AMLA-Guidelines bedeutet das:
 
 ## Erstmals im Fokus: Was der Nicht-Finanzsektor jetzt wissen muss
 
