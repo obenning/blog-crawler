@@ -4,7 +4,7 @@ author: ""
 date: ""
 url: "https://www.kerberos-compliance.com/wissen/blog/fakt-ist-dass-geldwscher-auch-freie-berufe-ausnutzen"
 excerpt: ""
-crawled_at: "2026-05-01T05:49:33.776638"
+crawled_at: "2026-05-02T05:18:40.929134"
 ---
 
 # “Fakt ist, dass Geldwäscher auch Freie Berufe ausnutzen”
