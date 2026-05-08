@@ -4,7 +4,7 @@ author: ""
 date: ""
 url: "https://www.kerberos-compliance.com/wissen/blog/know-your-customer-kyc-oder-was-passieren-kann-wenn-man-es-nicht-tut"
 excerpt: ""
-crawled_at: "2026-05-07T05:39:39.252432"
+crawled_at: "2026-05-08T05:00:35.999700"
 ---
 
 # Know Your Customer (KYC) – oder was passieren kann, wenn man es nicht tut
