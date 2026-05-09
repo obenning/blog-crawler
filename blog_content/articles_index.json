@@ -1,6 +1,6 @@
 {
-  "generated": "2026-05-08T05:00:52.802249",
-  "total_articles": 129,
+  "generated": "2026-05-09T05:29:43.644661",
+  "total_articles": 130,
   "articles": [
     {
       "filename": "21-jahriger-sohn-von-clanchef-abou-chaker-ersteigert-villen-fur-uber-7-millionen-euro.md",
@@ -961,6 +961,16 @@
       "excerpt": "# Neues Datenschutzabkommen zwischen der EU und den USA beschlossen\n\n**Autor:**   \n**Datum:**   \n**URL:** https://www.kerberos-compliance.com/wissen/blog/neues-datenschutzabkommen-zwischen-der-eu-und-...",
       "raw_url": "https://raw.githubusercontent.com/obenning/blog-crawler/main/blog_content/neues-datenschutzabkommen-zwischen-der-eu-und-den-usa-beschlossen.md",
       "word_count": 569
+    },
+    {
+      "filename": "ongoing-monitoring-nach-artikel-26-eu-aml-vo-was-sich-ab-juli-2027-aendert.md",
+      "title": "Ongoing Monitoring nach Artikel 26 EU-AML VO: Was sich ab Juli 2027 ändert",
+      "author": "",
+      "date": "",
+      "url": "https://www.kerberos-compliance.com/wissen/blog/ongoing-monitoring-nach-artikel-26-eu-aml-vo-was-sich-ab-juli-2027-aendert",
+      "excerpt": "# Ongoing Monitoring nach Artikel 26 EU-AML VO: Was sich ab Juli 2027 ändert\n\n**Autor:**   \n**Datum:**   \n**URL:** https://www.kerberos-compliance.com/wissen/blog/ongoing-monitoring-nach-artikel-26-eu...",
+      "raw_url": "https://raw.githubusercontent.com/obenning/blog-crawler/main/blog_content/ongoing-monitoring-nach-artikel-26-eu-aml-vo-was-sich-ab-juli-2027-aendert.md",
+      "word_count": 1197
     },
     {
       "filename": "operation-chargeback-wenn-compliance-systeme-versagen.md",

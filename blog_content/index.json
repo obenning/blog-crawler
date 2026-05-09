@@ -1,8 +1,8 @@
 {
-  "crawled_at": "2026-05-08T05:00:52.691974",
+  "crawled_at": "2026-05-09T05:29:43.528376",
   "base_url": "https://www.kerberos-compliance.com/wissen/blog",
-  "total_articles": 129,
-  "successful": 129,
+  "total_articles": 130,
+  "successful": 130,
   "failed": 0,
   "articles": [
     {
@@ -354,6 +354,13 @@
       "author": "",
       "date": "",
       "url": "https://www.kerberos-compliance.com/wissen/blog/geldwaesche-treibt-immobilienpreise-neue-studie-belegt-oekonomische-folgen"
+    },
+    {
+      "filename": "ongoing-monitoring-nach-artikel-26-eu-aml-vo-was-sich-ab-juli-2027-aendert.md",
+      "title": "Ongoing Monitoring nach Artikel 26 EU-AML VO: Was sich ab Juli 2027 ändert",
+      "author": "",
+      "date": "",
+      "url": "https://www.kerberos-compliance.com/wissen/blog/ongoing-monitoring-nach-artikel-26-eu-aml-vo-was-sich-ab-juli-2027-aendert"
     },
     {
       "filename": "bussgelder-behoerden-und-ein-neues-register-das-finanzkriminalitaetsbekaempfungsgesetz.md",
