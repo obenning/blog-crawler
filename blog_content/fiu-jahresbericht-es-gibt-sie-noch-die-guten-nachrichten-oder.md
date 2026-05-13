@@ -4,7 +4,7 @@ author: ""
 date: ""
 url: "https://www.kerberos-compliance.com/wissen/blog/fiu-jahresbericht-es-gibt-sie-noch-die-guten-nachrichten-oder"
 excerpt: ""
-crawled_at: "2026-05-12T05:45:07.101033"
+crawled_at: "2026-05-13T05:55:40.743605"
 ---
 
 # FIU Jahresbericht 2023: Es gibt sie noch, die guten Nachrichten – oder?
@@ -81,8 +81,8 @@ Auch wir von Kerberos sind hier aktiv – beispielsweise durch regelmäßige Inf
 
 Alle aktuellen Webinar-Angebote finden Sie hier: [Unsere Veranstaltungen](https://www.kerberos-compliance.com/wissen/veranstaltungen)
 
-Unser praxisorientiertes 90-Minuten-Webinar vermittelt Ihnen fundiertes Fachwissen zur Geldwäscheprävention im Immobiliensektor und hilft Ihnen, Ihre gesetzlichen Verpflichtungen rechtssicher zu erfüllen. Die Teilnahme wird mit 1 1/2 Stunden auf Ihre MaBV-Weiterbildungspflicht angerechnet (§ 15b MaBV).
-
 Steuerberater und Kanzleien mit weniger als 10 Berufsträgern sind von der EU-AML-Verordnung ab 2027 besonders betroffen. Die Sonderregelungen und Ausnahmen, die bislang gelten, werden in der Verordnung nicht berücksichtigt. Auch bei schon bestehenden Verpflichtungen müssen Steuerberater nachschärfen. Lena Pütz erklärt, welche Anforderungen in Zukunft gelten.
 
 Nach den Hamas-Angriffen im Oktober 2023 rückte Terrorismusfinanzierung stärker in den Fokus. BaFin fordert nun getrennte Risikoanalysen für Geldwäsche und TF. Lernen Sie die Unterschiede, typische Red Flags und legale Finanzierungsquellen des Terrorismus kennen. Mit Meldepflichten und Praxisbeispielen.
+
+Die EU-AMLR senkt die Schwelle auf „25% oder mehr" (statt „mehr als 25%") – für Hochrisikosektoren sogar auf 15%. Wie identifizieren Sie wirtschaftlich Berechtigte in komplexen Strukturen? Transparenzregister, EU-Harmonisierung und praktische Herausforderungen für Rechtsanwälte, Notare und den Finanzsektor.

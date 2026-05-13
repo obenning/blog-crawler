@@ -4,7 +4,7 @@ author: ""
 date: ""
 url: "https://www.kerberos-compliance.com/wissen/blog/compliance-fort-bildungsangebote-fuer-2025"
 excerpt: ""
-crawled_at: "2026-05-12T05:45:02.910208"
+crawled_at: "2026-05-13T05:55:37.256663"
 ---
 
 # Compliance (Fort-)Bildungsangebote für 2025
@@ -39,11 +39,11 @@ Als Verpflichtete nach dem Geldwäschegesetz besteht für Sie und Ihre Mitarbeit
 
 ## Webinare:
 
-Unser praxisorientiertes 90-Minuten-Webinar vermittelt Ihnen fundiertes Fachwissen zur Geldwäscheprävention im Immobiliensektor und hilft Ihnen, Ihre gesetzlichen Verpflichtungen rechtssicher zu erfüllen. Die Teilnahme wird mit 1 1/2 Stunden auf Ihre MaBV-Weiterbildungspflicht angerechnet (§ 15b MaBV).
-
 Steuerberater und Kanzleien mit weniger als 10 Berufsträgern sind von der EU-AML-Verordnung ab 2027 besonders betroffen. Die Sonderregelungen und Ausnahmen, die bislang gelten, werden in der Verordnung nicht berücksichtigt. Auch bei schon bestehenden Verpflichtungen müssen Steuerberater nachschärfen. Lena Pütz erklärt, welche Anforderungen in Zukunft gelten.
 
 Nach den Hamas-Angriffen im Oktober 2023 rückte Terrorismusfinanzierung stärker in den Fokus. BaFin fordert nun getrennte Risikoanalysen für Geldwäsche und TF. Lernen Sie die Unterschiede, typische Red Flags und legale Finanzierungsquellen des Terrorismus kennen. Mit Meldepflichten und Praxisbeispielen.
+
+Die EU-AMLR senkt die Schwelle auf „25% oder mehr" (statt „mehr als 25%") – für Hochrisikosektoren sogar auf 15%. Wie identifizieren Sie wirtschaftlich Berechtigte in komplexen Strukturen? Transparenzregister, EU-Harmonisierung und praktische Herausforderungen für Rechtsanwälte, Notare und den Finanzsektor.
 
 Weitere Webinare kommen im Laufe der Zeit dazu. Folgen Sie uns auf [LinkedIn](https://www.linkedin.com/company/kerberos-compliance) , Abonnieren Sie unseren [Newsletter](https://www.kerberos-compliance.com/wissen/newsletter-anmeldung) oder besuchen Sie unsere Website um über unser aktuelles Angebot informiert zu bleiben.
 
