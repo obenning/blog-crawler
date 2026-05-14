@@ -1,6 +1,6 @@
 {
-  "generated": "2026-05-13T05:56:59.175435",
-  "total_articles": 130,
+  "generated": "2026-05-14T05:56:13.537715",
+  "total_articles": 131,
   "articles": [
     {
       "filename": "21-jahriger-sohn-von-clanchef-abou-chaker-ersteigert-villen-fur-uber-7-millionen-euro.md",
@@ -230,7 +230,7 @@
       "url": "https://www.kerberos-compliance.com/wissen/blog/compliance-fort-bildungsangebote-fuer-2025",
       "excerpt": "# Compliance (Fort-)Bildungsangebote für 2025\n\n**Autor:**   \n**Datum:**   \n**URL:** https://www.kerberos-compliance.com/wissen/blog/compliance-fort-bildungsangebote-fuer-2025\n\n---\n\nImmobilienmakler, K...",
       "raw_url": "https://raw.githubusercontent.com/obenning/blog-crawler/main/blog_content/compliance-fort-bildungsangebote-fuer-2025.md",
-      "word_count": 632
+      "word_count": 596
     },
     {
       "filename": "das-eu-aml-paket-neue-herausforderungen-fuer-die-geldwaeschepraevention.md",
@@ -360,7 +360,7 @@
       "url": "https://www.kerberos-compliance.com/wissen/blog/erfahrungsbericht-ich-bin-zertifizierte-geldwschebeauftragte-geworden",
       "excerpt": "# Erfahrungsbericht: Ich bin zertifizierte Geldwäschebeauftragte (geworden)\n\n**Autor:**   \n**Datum:**   \n**URL:** https://www.kerberos-compliance.com/wissen/blog/erfahrungsbericht-ich-bin-zertifiziert...",
       "raw_url": "https://raw.githubusercontent.com/obenning/blog-crawler/main/blog_content/erfahrungsbericht-ich-bin-zertifizierte-geldwschebeauftragte-geworden.md",
-      "word_count": 733
+      "word_count": 729
     },
     {
       "filename": "eu-aml-verordnung-2027-so-begleitet-kerberos-compliance-ihre-vorbereitung.md",
@@ -371,6 +371,16 @@
       "excerpt": "# EU-AML-Verordnung 2027: So begleitet Kerberos Compliance Ihre Vorbereitung\n\n**Autor:**   \n**Datum:**   \n**URL:** https://www.kerberos-compliance.com/wissen/blog/eu-aml-verordnung-2027-so-begleitet-k...",
       "raw_url": "https://raw.githubusercontent.com/obenning/blog-crawler/main/blog_content/eu-aml-verordnung-2027-so-begleitet-kerberos-compliance-ihre-vorbereitung.md",
       "word_count": 21
+    },
+    {
+      "filename": "eu-aml-verordnung-2027-was-steuerberater-jetzt-vorbereiten-muessen.md",
+      "title": "EU-AML-Verordnung 2027: Was Steuerberater jetzt vorbereiten müssen",
+      "author": "",
+      "date": "",
+      "url": "https://www.kerberos-compliance.com/wissen/blog/eu-aml-verordnung-2027-was-steuerberater-jetzt-vorbereiten-muessen",
+      "excerpt": "# EU-AML-Verordnung 2027: Was Steuerberater jetzt vorbereiten müssen\n\n**Autor:**   \n**Datum:**   \n**URL:** https://www.kerberos-compliance.com/wissen/blog/eu-aml-verordnung-2027-was-steuerberater-jetz...",
+      "raw_url": "https://raw.githubusercontent.com/obenning/blog-crawler/main/blog_content/eu-aml-verordnung-2027-was-steuerberater-jetzt-vorbereiten-muessen.md",
+      "word_count": 1101
     },
     {
       "filename": "eu-aml-verordnung-ab-juli-2027-was-verpflichtete-jetzt-wissen-muessen.md",
@@ -500,7 +510,7 @@
       "url": "https://www.kerberos-compliance.com/wissen/blog/fiu-jahresbericht-es-gibt-sie-noch-die-guten-nachrichten-oder",
       "excerpt": "# FIU Jahresbericht 2023: Es gibt sie noch, die guten Nachrichten – oder?\n\n**Autor:**   \n**Datum:**   \n**URL:** https://www.kerberos-compliance.com/wissen/blog/fiu-jahresbericht-es-gibt-sie-noch-die-g...",
       "raw_url": "https://raw.githubusercontent.com/obenning/blog-crawler/main/blog_content/fiu-jahresbericht-es-gibt-sie-noch-die-guten-nachrichten-oder.md",
-      "word_count": 1050
+      "word_count": 1042
     },
     {
       "filename": "folgen-des-ampel-aus-fuer-die-geldwaeschebekaempfung.md",
@@ -540,7 +550,7 @@
       "url": "https://www.kerberos-compliance.com/wissen/blog/geldwaesche-im-deutschen-immobiliensektor-bleibt-milliardenproblem",
       "excerpt": "# Geldwäsche im deutschen Immobiliensektor bleibt Milliardenproblem\n\n**Autor:**   \n**Datum:**   \n**URL:** https://www.kerberos-compliance.com/wissen/blog/geldwaesche-im-deutschen-immobiliensektor-blei...",
       "raw_url": "https://raw.githubusercontent.com/obenning/blog-crawler/main/blog_content/geldwaesche-im-deutschen-immobiliensektor-bleibt-milliardenproblem.md",
-      "word_count": 995
+      "word_count": 987
     },
     {
       "filename": "geldwaesche-im-immobiliensektor-was-makler-jetzt-wissen-muessen.md",

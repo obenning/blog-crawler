@@ -1,8 +1,8 @@
 {
-  "crawled_at": "2026-05-13T05:56:59.069153",
+  "crawled_at": "2026-05-14T05:56:13.438408",
   "base_url": "https://www.kerberos-compliance.com/wissen/blog",
-  "total_articles": 130,
-  "successful": 130,
+  "total_articles": 131,
+  "successful": 131,
   "failed": 0,
   "articles": [
     {
@@ -466,6 +466,13 @@
       "author": "",
       "date": "",
       "url": "https://www.kerberos-compliance.com/wissen/blog/geldwschepraevention-2026-diese-fristen-und-neuerungen-muessen-verpflichtete-kennen"
+    },
+    {
+      "filename": "eu-aml-verordnung-2027-was-steuerberater-jetzt-vorbereiten-muessen.md",
+      "title": "EU-AML-Verordnung 2027: Was Steuerberater jetzt vorbereiten müssen",
+      "author": "",
+      "date": "",
+      "url": "https://www.kerberos-compliance.com/wissen/blog/eu-aml-verordnung-2027-was-steuerberater-jetzt-vorbereiten-muessen"
     },
     {
       "filename": "machen-sie-ki-zu-ihrem-wettbewerbsvorteil-ki-schulungen-bei-kerberos.md",
