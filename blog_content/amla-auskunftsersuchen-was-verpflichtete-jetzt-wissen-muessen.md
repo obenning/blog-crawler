@@ -4,7 +4,7 @@ author: ""
 date: ""
 url: "https://www.kerberos-compliance.com/wissen/blog/amla-auskunftsersuchen-was-verpflichtete-jetzt-wissen-muessen"
 excerpt: ""
-crawled_at: "2026-05-16T05:32:21.829461"
+crawled_at: "2026-05-17T05:54:12.308995"
 ---
 
 # AMLA-Auskunftsersuchen: Was Verpflichtete jetzt wissen müssen

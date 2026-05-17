@@ -4,7 +4,7 @@ author: ""
 date: ""
 url: "https://www.kerberos-compliance.com/wissen/blog/vermoegensentzug-ohne-strafurteil-zfg-referentenentwurf"
 excerpt: ""
-crawled_at: "2026-05-16T05:32:15.526640"
+crawled_at: "2026-05-17T05:54:06.591996"
 ---
 
 # Vermögensentzug ohne Strafurteil: Was §§ 52a–52n ZFG-Referentenentwurf für Verpflichtete bedeuten

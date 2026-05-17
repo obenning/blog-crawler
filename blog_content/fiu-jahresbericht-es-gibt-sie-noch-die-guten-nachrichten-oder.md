@@ -4,7 +4,7 @@ author: ""
 date: ""
 url: "https://www.kerberos-compliance.com/wissen/blog/fiu-jahresbericht-es-gibt-sie-noch-die-guten-nachrichten-oder"
 excerpt: ""
-crawled_at: "2026-05-16T05:33:43.561515"
+crawled_at: "2026-05-17T05:55:27.635770"
 ---
 
 # FIU Jahresbericht 2023: Es gibt sie noch, die guten Nachrichten – oder?
