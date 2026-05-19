@@ -1,6 +1,6 @@
 # Blog Content Archive
 
-Automatisch gecrawlt am: 2026-05-18 06:23:12
+Automatisch gecrawlt am: 2026-05-19 06:18:02
 
 **Statistik:**
 - Gesamt Artikel: 131
