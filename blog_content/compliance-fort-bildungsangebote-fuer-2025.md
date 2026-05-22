@@ -4,7 +4,7 @@ author: ""
 date: ""
 url: "https://www.kerberos-compliance.com/wissen/blog/compliance-fort-bildungsangebote-fuer-2025"
 excerpt: ""
-crawled_at: "2026-05-21T06:17:44.623144"
+crawled_at: "2026-05-22T06:16:00.258114"
 ---
 
 # Compliance (Fort-)Bildungsangebote für 2025
@@ -37,11 +37,11 @@ Als Verpflichtete nach dem Geldwäschegesetz besteht für Sie und Ihre Mitarbeit
 
 ## Webinare:
 
-Nach den Hamas-Angriffen im Oktober 2023 rückte Terrorismusfinanzierung stärker in den Fokus. BaFin fordert nun getrennte Risikoanalysen für Geldwäsche und TF. Lernen Sie die Unterschiede, typische Red Flags und legale Finanzierungsquellen des Terrorismus kennen. Mit Meldepflichten und Praxisbeispielen.
-
 Die EU-AMLR senkt die Schwelle auf „25% oder mehr" (statt „mehr als 25%") – für Hochrisikosektoren sogar auf 15%. Wie identifizieren Sie wirtschaftlich Berechtigte in komplexen Strukturen? Transparenzregister, EU-Harmonisierung und praktische Herausforderungen für Rechtsanwälte, Notare und den Finanzsektor.
 
 Erfahren Sie von Dr. Anna Bolz , zertifizierte Geldwäschebeauftragte, wie Sie Ihre Pflichten nach dem Geldwäschegesetz (GwG) effizient und rechtssicher umsetzen. Das Webinar fokussiert auf die praktischen Herausforderungen bei Kataloggeschäften und bietet konkrete Lösungsansätze für den Berufsalltag.
+
+2025 zeigte: BaFin-Prüfungen bei KVGen nehmen zu. Was prüft die BaFin konkret? Unterschied zwischen Jahresabschluss- und Sonderprüfungen, häufige Mängel und wie Sie diese vermeiden. Dokumentation, Nachweispflichten und Best Practices aus erfolgreichen Prüfungen.
 
 Weitere Webinare kommen im Laufe der Zeit dazu. Folgen Sie uns auf [LinkedIn](https://www.linkedin.com/company/kerberos-compliance) , Abonnieren Sie unseren [Newsletter](https://www.kerberos-compliance.com/wissen/newsletter-anmeldung) oder besuchen Sie unsere Website um über unser aktuelles Angebot informiert zu bleiben.
 

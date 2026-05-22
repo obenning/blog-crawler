@@ -1,8 +1,8 @@
 # 📚 Kerberos Compliance Blog - Alle Artikel
 
-**Generiert:** 21.05.2026 06:19
+**Generiert:** 22.05.2026 06:17
 **Anzahl Artikel:** 132
-**Gesamtwortanzahl:** 112,432
+**Gesamtwortanzahl:** 112,414
 
 ---
 
@@ -327,7 +327,7 @@ Die drei Tage können nur abgekürzt werden, wenn eine Staatsanwaltschaft oder d
 
 # Blog Content Archive
 
-Automatisch gecrawlt am: 2026-05-21 06:19:02
+Automatisch gecrawlt am: 2026-05-22 06:17:21
 
 **Statistik:**
 - Gesamt Artikel: 131
@@ -2169,7 +2169,7 @@ Vielen Dank.
 
 **Autor:**   
 **Datum:**   
-**Wortanzahl:** 596  
+**Wortanzahl:** 590  
 **Original:** https://www.kerberos-compliance.com/wissen/blog/compliance-fort-bildungsangebote-fuer-2025  
 
 ---
@@ -2204,11 +2204,11 @@ Als Verpflichtete nach dem Geldwäschegesetz besteht für Sie und Ihre Mitarbeit
 
 ## Webinare:
 
-Nach den Hamas-Angriffen im Oktober 2023 rückte Terrorismusfinanzierung stärker in den Fokus. BaFin fordert nun getrennte Risikoanalysen für Geldwäsche und TF. Lernen Sie die Unterschiede, typische Red Flags und legale Finanzierungsquellen des Terrorismus kennen. Mit Meldepflichten und Praxisbeispielen.
-
 Die EU-AMLR senkt die Schwelle auf „25% oder mehr" (statt „mehr als 25%") – für Hochrisikosektoren sogar auf 15%. Wie identifizieren Sie wirtschaftlich Berechtigte in komplexen Strukturen? Transparenzregister, EU-Harmonisierung und praktische Herausforderungen für Rechtsanwälte, Notare und den Finanzsektor.
 
 Erfahren Sie von Dr. Anna Bolz , zertifizierte Geldwäschebeauftragte, wie Sie Ihre Pflichten nach dem Geldwäschegesetz (GwG) effizient und rechtssicher umsetzen. Das Webinar fokussiert auf die praktischen Herausforderungen bei Kataloggeschäften und bietet konkrete Lösungsansätze für den Berufsalltag.
+
+2025 zeigte: BaFin-Prüfungen bei KVGen nehmen zu. Was prüft die BaFin konkret? Unterschied zwischen Jahresabschluss- und Sonderprüfungen, häufige Mängel und wie Sie diese vermeiden. Dokumentation, Nachweispflichten und Best Practices aus erfolgreichen Prüfungen.
 
 Weitere Webinare kommen im Laufe der Zeit dazu. Folgen Sie uns auf [LinkedIn](https://www.linkedin.com/company/kerberos-compliance) , Abonnieren Sie unseren [Newsletter](https://www.kerberos-compliance.com/wissen/newsletter-anmeldung) oder besuchen Sie unsere Website um über unser aktuelles Angebot informiert zu bleiben.
 
@@ -4443,7 +4443,7 @@ Otis Benning Senior Associate Marketing
 
 **Autor:**   
 **Datum:**   
-**Wortanzahl:** 1,042  
+**Wortanzahl:** 1,036  
 **Original:** https://www.kerberos-compliance.com/wissen/blog/fiu-jahresbericht-es-gibt-sie-noch-die-guten-nachrichten-oder  
 
 ---
@@ -4522,11 +4522,11 @@ Auch wir von Kerberos sind hier aktiv – beispielsweise durch regelmäßige Inf
 
 Alle aktuellen Webinar-Angebote finden Sie hier: [Unsere Veranstaltungen](https://www.kerberos-compliance.com/wissen/veranstaltungen)
 
-Nach den Hamas-Angriffen im Oktober 2023 rückte Terrorismusfinanzierung stärker in den Fokus. BaFin fordert nun getrennte Risikoanalysen für Geldwäsche und TF. Lernen Sie die Unterschiede, typische Red Flags und legale Finanzierungsquellen des Terrorismus kennen. Mit Meldepflichten und Praxisbeispielen.
-
 Die EU-AMLR senkt die Schwelle auf „25% oder mehr" (statt „mehr als 25%") – für Hochrisikosektoren sogar auf 15%. Wie identifizieren Sie wirtschaftlich Berechtigte in komplexen Strukturen? Transparenzregister, EU-Harmonisierung und praktische Herausforderungen für Rechtsanwälte, Notare und den Finanzsektor.
 
 Erfahren Sie von Dr. Anna Bolz , zertifizierte Geldwäschebeauftragte, wie Sie Ihre Pflichten nach dem Geldwäschegesetz (GwG) effizient und rechtssicher umsetzen. Das Webinar fokussiert auf die praktischen Herausforderungen bei Kataloggeschäften und bietet konkrete Lösungsansätze für den Berufsalltag.
+
+2025 zeigte: BaFin-Prüfungen bei KVGen nehmen zu. Was prüft die BaFin konkret? Unterschied zwischen Jahresabschluss- und Sonderprüfungen, häufige Mängel und wie Sie diese vermeiden. Dokumentation, Nachweispflichten und Best Practices aus erfolgreichen Prüfungen.
 
 ---
 
@@ -4789,7 +4789,7 @@ Otis Benning Senior Associate Marketing
 
 **Autor:**   
 **Datum:**   
-**Wortanzahl:** 987  
+**Wortanzahl:** 981  
 **Original:** https://www.kerberos-compliance.com/wissen/blog/geldwaesche-im-deutschen-immobiliensektor-bleibt-milliardenproblem  
 
 ---
@@ -4804,11 +4804,11 @@ Otis Benning Senior Associate Marketing
 
 Veröffentlicht: 2025-06-20
 
-Nach den Hamas-Angriffen im Oktober 2023 rückte Terrorismusfinanzierung stärker in den Fokus. BaFin fordert nun getrennte Risikoanalysen für Geldwäsche und TF. Lernen Sie die Unterschiede, typische Red Flags und legale Finanzierungsquellen des Terrorismus kennen. Mit Meldepflichten und Praxisbeispielen.
-
 Die EU-AMLR senkt die Schwelle auf „25% oder mehr" (statt „mehr als 25%") – für Hochrisikosektoren sogar auf 15%. Wie identifizieren Sie wirtschaftlich Berechtigte in komplexen Strukturen? Transparenzregister, EU-Harmonisierung und praktische Herausforderungen für Rechtsanwälte, Notare und den Finanzsektor.
 
 Erfahren Sie von Dr. Anna Bolz , zertifizierte Geldwäschebeauftragte, wie Sie Ihre Pflichten nach dem Geldwäschegesetz (GwG) effizient und rechtssicher umsetzen. Das Webinar fokussiert auf die praktischen Herausforderungen bei Kataloggeschäften und bietet konkrete Lösungsansätze für den Berufsalltag.
+
+2025 zeigte: BaFin-Prüfungen bei KVGen nehmen zu. Was prüft die BaFin konkret? Unterschied zwischen Jahresabschluss- und Sonderprüfungen, häufige Mängel und wie Sie diese vermeiden. Dokumentation, Nachweispflichten und Best Practices aus erfolgreichen Prüfungen.
 
 Die Geldwäsche in Deutschland erreicht ein geschätztes Volumen von bis zu 100 Milliarden Euro jährlich und stellt damit eine der große Bedrohungen für die Marktintegrität dar. Trotz verschärfter Gesetze und verstärkter Kontrollen seit 2023 bleiben auch im Immobiliensektor erhebliche Schwachstellen bestehen, die umfassende Reformen erfordern. Die Branche steht vor der Herausforderung, zwischen beruflichen Vertraulichkeitspflichten und präventiven Meldepflichten zu navigieren, während sie gleichzeitig mit komplexen internationalen Eigentümerstrukturen und unzureichenden technologischen Lösungen konfrontiert ist. Die geplante Harmonisierung der EU-Vorschriften bis 2027 versprechen eine grundlegende Neuausrichtung der deutschen Anti-Geldwäsche-Strategie.
 

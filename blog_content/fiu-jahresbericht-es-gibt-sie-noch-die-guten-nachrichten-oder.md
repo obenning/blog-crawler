@@ -4,7 +4,7 @@ author: ""
 date: ""
 url: "https://www.kerberos-compliance.com/wissen/blog/fiu-jahresbericht-es-gibt-sie-noch-die-guten-nachrichten-oder"
 excerpt: ""
-crawled_at: "2026-05-21T06:17:48.325679"
+crawled_at: "2026-05-22T06:16:03.743352"
 ---
 
 # FIU Jahresbericht 2023: Es gibt sie noch, die guten Nachrichten – oder?
@@ -81,8 +81,8 @@ Auch wir von Kerberos sind hier aktiv – beispielsweise durch regelmäßige Inf
 
 Alle aktuellen Webinar-Angebote finden Sie hier: [Unsere Veranstaltungen](https://www.kerberos-compliance.com/wissen/veranstaltungen)
 
-Nach den Hamas-Angriffen im Oktober 2023 rückte Terrorismusfinanzierung stärker in den Fokus. BaFin fordert nun getrennte Risikoanalysen für Geldwäsche und TF. Lernen Sie die Unterschiede, typische Red Flags und legale Finanzierungsquellen des Terrorismus kennen. Mit Meldepflichten und Praxisbeispielen.
-
 Die EU-AMLR senkt die Schwelle auf „25% oder mehr" (statt „mehr als 25%") – für Hochrisikosektoren sogar auf 15%. Wie identifizieren Sie wirtschaftlich Berechtigte in komplexen Strukturen? Transparenzregister, EU-Harmonisierung und praktische Herausforderungen für Rechtsanwälte, Notare und den Finanzsektor.
 
 Erfahren Sie von Dr. Anna Bolz , zertifizierte Geldwäschebeauftragte, wie Sie Ihre Pflichten nach dem Geldwäschegesetz (GwG) effizient und rechtssicher umsetzen. Das Webinar fokussiert auf die praktischen Herausforderungen bei Kataloggeschäften und bietet konkrete Lösungsansätze für den Berufsalltag.
+
+2025 zeigte: BaFin-Prüfungen bei KVGen nehmen zu. Was prüft die BaFin konkret? Unterschied zwischen Jahresabschluss- und Sonderprüfungen, häufige Mängel und wie Sie diese vermeiden. Dokumentation, Nachweispflichten und Best Practices aus erfolgreichen Prüfungen.
