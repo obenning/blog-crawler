@@ -4,7 +4,7 @@ author: ""
 date: ""
 url: "https://www.kerberos-compliance.com/wissen/blog/interview-die-moderne-rolle-des-geldwschebeauftragten"
 excerpt: ""
-crawled_at: "2026-05-26T06:14:01.540341"
+crawled_at: "2026-05-27T06:27:58.632475"
 ---
 
 # "Die Realität ist deutlich komplexer als die Theorie. " - Interview mit einem Geldwäschebeauftragten
