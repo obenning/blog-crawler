@@ -4,7 +4,7 @@ author: ""
 date: ""
 url: "https://www.kerberos-compliance.com/wissen/blog/sanktionen-und-was-sie-bedeuten"
 excerpt: ""
-crawled_at: "2026-05-27T06:29:24.969644"
+crawled_at: "2026-05-28T06:21:04.769206"
 ---
 
 # Sanktionen und was sie bedeuten
