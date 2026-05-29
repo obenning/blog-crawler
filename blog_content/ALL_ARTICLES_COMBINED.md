@@ -1,8 +1,8 @@
 # 📚 Kerberos Compliance Blog - Alle Artikel
 
-**Generiert:** 28.05.2026 06:21
-**Anzahl Artikel:** 132
-**Gesamtwortanzahl:** 112,414
+**Generiert:** 29.05.2026 06:23
+**Anzahl Artikel:** 133
+**Gesamtwortanzahl:** 113,531
 
 ---
 
@@ -122,24 +122,25 @@
 112. [Schleswig-Holstein: Bußgelder in der Geldwäscheaufsicht steigen um 115 Prozent](#schleswigholstein-bußgelder-in-der-geldwäscheaufsicht-steigen-um-115-prozent)
 113. [“Schutzmaßnahmen „auslaufen“ zu lassen, scheint mir gefährlich” - Interview mit dem Compliance Beauftragten der thyssenkrupp AG](#schutzmaßnahmen-auslaufen-zu-lassen-scheint-mir-gefährlich--interview-mit-dem-compliance-beauftragten-der-thyssenkrupp-ag)
 114. [Stärkung Ihrer Cyber-Abwehr](#stärkung-ihrer-cyberabwehr)
-115. [Transparenzregister, koordinierte Aufsicht, erweiterter Datenaustausch: Die systemischen GwG-Änderungen des ZFG-Referentenentwurfs](#transparenzregister-koordinierte-aufsicht-erweiterter-datenaustausch-die-systemischen-gwgänderungen-des-zfgreferentenentwurfs)
-116. [Transparenzregistereintragung: 1.415 Unternehmen am Pranger](#transparenzregistereintragung-1415-unternehmen-am-pranger)
-117. [Übergangsregelungen: Transparenzregister – Noch auf dem neuesten Stand?](#übergangsregelungen-transparenzregister--noch-auf-dem-neuesten-stand)
-118. [„Unverzüglichkeit“ und „Vollständigkeit“ – Gemeinsame Orientierungshilfe der BaFin und FIU](#unverzüglichkeit-und-vollständigkeit--gemeinsame-orientierungshilfe-der-bafin-und-fiu)
-119. [US-Cloud-Anbieter im Fokus: Datenschutzrisiken und Handlungsempfehlungen](#uscloudanbieter-im-fokus-datenschutzrisiken-und-handlungsempfehlungen)
-120. [Verdachtsmeldungen nach § 43 GwG: Was die BaFin/FIU-Orientierungshilfe konkret bedeutet](#verdachtsmeldungen-nach--43-gwg-was-die-bafinfiuorientierungshilfe-konkret-bedeutet)
-121. [Vermögensentzug ohne Strafurteil: Was §§ 52a–52n ZFG-Referentenentwurf für Verpflichtete bedeuten](#vermögensentzug-ohne-strafurteil-was--52a52n-zfgreferentenentwurf-für-verpflichtete-bedeuten)
-122. [Verschärfte Meldepflichten bei Immobilientransaktionen - die wichtigsten Änderungen der GwGMeldV-Immobilien 2025](#verschärfte-meldepflichten-bei-immobilientransaktionen--die-wichtigsten-änderungen-der-gwgmeldvimmobilien-2025)
-123. [Verstöße gegen das Geldwäschegesetz - Bußgelder und Prüfungen von 2017-2022](#verstöße-gegen-das-geldwäschegesetz--bußgelder-und-prüfungen-von-20172022)
-124. [Vom Krisenherd zum Vertrauensturbo: Umgang mit Datenschutzbeschwerden](#vom-krisenherd-zum-vertrauensturbo-umgang-mit-datenschutzbeschwerden)
-125. [Von Sommerloch keine Spur - der Kampf gegen Finanzkriminalität in den Medien](#von-sommerloch-keine-spur--der-kampf-gegen-finanzkriminalität-in-den-medien)
-126. [Vonovia – Korruptionsskandal mit Vorbildcharakter](#vonovia--korruptionsskandal-mit-vorbildcharakter)
-127. [Warum sind Risikoanalysen nach dem Geldwäschegesetz (GwG) so wichtig?](#warum-sind-risikoanalysen-nach-dem-geldwäschegesetz-gwg-so-wichtig)
-128. [Weihnachtsgrüße von Christian Tsambikakis - Geschäftsführer](#weihnachtsgrüße-von-christian-tsambikakis--geschäftsführer)
-129. [Wie steht es um die Bekämpfung von Geldwäsche in Deutschland? Und warum?](#wie-steht-es-um-die-bekämpfung-von-geldwäsche-in-deutschland-und-warum)
-130. [Wiederkehrende Pflichten zur Geldwäscheprävention – Update Ende 2025](#wiederkehrende-pflichten-zur-geldwäscheprävention--update-ende-2025)
-131. [Wiederkehrende Pflichten zur Geldwäscheprävention](#wiederkehrende-pflichten-zur-geldwäscheprävention)
-132. [Zwischen Innovation und Risiko - Kryptowährungen im Fokus des Geldwäschebeauftragten](#zwischen-innovation-und-risiko--kryptowährungen-im-fokus-des-geldwäschebeauftragten)
+115. [Terrorismusfinanzierung in der Risikoanalyse: Was Verpflichtete jetzt getrennt bewerten müssen](#terrorismusfinanzierung-in-der-risikoanalyse-was-verpflichtete-jetzt-getrennt-bewerten-müssen)
+116. [Transparenzregister, koordinierte Aufsicht, erweiterter Datenaustausch: Die systemischen GwG-Änderungen des ZFG-Referentenentwurfs](#transparenzregister-koordinierte-aufsicht-erweiterter-datenaustausch-die-systemischen-gwgänderungen-des-zfgreferentenentwurfs)
+117. [Transparenzregistereintragung: 1.415 Unternehmen am Pranger](#transparenzregistereintragung-1415-unternehmen-am-pranger)
+118. [Übergangsregelungen: Transparenzregister – Noch auf dem neuesten Stand?](#übergangsregelungen-transparenzregister--noch-auf-dem-neuesten-stand)
+119. [„Unverzüglichkeit“ und „Vollständigkeit“ – Gemeinsame Orientierungshilfe der BaFin und FIU](#unverzüglichkeit-und-vollständigkeit--gemeinsame-orientierungshilfe-der-bafin-und-fiu)
+120. [US-Cloud-Anbieter im Fokus: Datenschutzrisiken und Handlungsempfehlungen](#uscloudanbieter-im-fokus-datenschutzrisiken-und-handlungsempfehlungen)
+121. [Verdachtsmeldungen nach § 43 GwG: Was die BaFin/FIU-Orientierungshilfe konkret bedeutet](#verdachtsmeldungen-nach--43-gwg-was-die-bafinfiuorientierungshilfe-konkret-bedeutet)
+122. [Vermögensentzug ohne Strafurteil: Was §§ 52a–52n ZFG-Referentenentwurf für Verpflichtete bedeuten](#vermögensentzug-ohne-strafurteil-was--52a52n-zfgreferentenentwurf-für-verpflichtete-bedeuten)
+123. [Verschärfte Meldepflichten bei Immobilientransaktionen - die wichtigsten Änderungen der GwGMeldV-Immobilien 2025](#verschärfte-meldepflichten-bei-immobilientransaktionen--die-wichtigsten-änderungen-der-gwgmeldvimmobilien-2025)
+124. [Verstöße gegen das Geldwäschegesetz - Bußgelder und Prüfungen von 2017-2022](#verstöße-gegen-das-geldwäschegesetz--bußgelder-und-prüfungen-von-20172022)
+125. [Vom Krisenherd zum Vertrauensturbo: Umgang mit Datenschutzbeschwerden](#vom-krisenherd-zum-vertrauensturbo-umgang-mit-datenschutzbeschwerden)
+126. [Von Sommerloch keine Spur - der Kampf gegen Finanzkriminalität in den Medien](#von-sommerloch-keine-spur--der-kampf-gegen-finanzkriminalität-in-den-medien)
+127. [Vonovia – Korruptionsskandal mit Vorbildcharakter](#vonovia--korruptionsskandal-mit-vorbildcharakter)
+128. [Warum sind Risikoanalysen nach dem Geldwäschegesetz (GwG) so wichtig?](#warum-sind-risikoanalysen-nach-dem-geldwäschegesetz-gwg-so-wichtig)
+129. [Weihnachtsgrüße von Christian Tsambikakis - Geschäftsführer](#weihnachtsgrüße-von-christian-tsambikakis--geschäftsführer)
+130. [Wie steht es um die Bekämpfung von Geldwäsche in Deutschland? Und warum?](#wie-steht-es-um-die-bekämpfung-von-geldwäsche-in-deutschland-und-warum)
+131. [Wiederkehrende Pflichten zur Geldwäscheprävention – Update Ende 2025](#wiederkehrende-pflichten-zur-geldwäscheprävention--update-ende-2025)
+132. [Wiederkehrende Pflichten zur Geldwäscheprävention](#wiederkehrende-pflichten-zur-geldwäscheprävention)
+133. [Zwischen Innovation und Risiko - Kryptowährungen im Fokus des Geldwäschebeauftragten](#zwischen-innovation-und-risiko--kryptowährungen-im-fokus-des-geldwäschebeauftragten)
 
 ---
 
@@ -321,17 +322,17 @@ Die drei Tage können nur abgekürzt werden, wenn eine Staatsanwaltschaft oder d
 
 **Autor:** Unknown  
 **Datum:**   
-**Wortanzahl:** 1,542  
+**Wortanzahl:** 1,555  
 
 ---
 
 # Blog Content Archive
 
-Automatisch gecrawlt am: 2026-05-28 06:21:49
+Automatisch gecrawlt am: 2026-05-29 06:23:53
 
 **Statistik:**
-- Gesamt Artikel: 131
-- Erfolgreich gecrawlt: 131
+- Gesamt Artikel: 132
+- Erfolgreich gecrawlt: 132
 - Fehlgeschlagen: 0
 
 **Quelle:** https://www.kerberos-compliance.com/wissen/blog
@@ -467,6 +468,7 @@ Automatisch gecrawlt am: 2026-05-28 06:21:49
 - [21-jähriger Sohn von Clanchef Abou-Chaker ersteigert Villen für über 7 Millionen Euro](21-jahriger-sohn-von-clanchef-abou-chaker-ersteigert-villen-fur-uber-7-millionen-euro.md) -  ()
 - [Geldwäschebeauftragte für KVGen: Zwischen steigenden Anforderungen und komplexen Strukturen](geldwaeschebeauftragte-fuer-kvgen-zwischen-steigenden-anforderungen-und-komplexen-strukturen.md) -  ()
 - [Der blinde Fleck der Geldwäscheprävention.](der-blinde-fleck-der-geldwaschepravention.md) -  ()
+- [Terrorismusfinanzierung in der Risikoanalyse: Was Verpflichtete jetzt getrennt bewerten müssen](terrorismusfinanzierung-in-der-risikoanalyse-was-verpflichtete-jetzt-getrennt-bewerten-muessen.md) -  ()
 - [MiCA: Der neue EU-Regulierungsrahmen für Kryptowerte](mica-der-neue-eu-regulierungsrahmen-fr-kryptowerte.md) -  ()
 - [EU-AML-Verordnung ab Juli 2027: Was Verpflichtete jetzt wissen müssen](eu-aml-verordnung-ab-juli-2027-was-verpflichtete-jetzt-wissen-muessen.md) -  ()
 
@@ -1072,7 +1074,7 @@ Es wird sich bei den meisten Kunden bei der UBO-Anzahl nicht viel ändern. Aller
 
 **Autor:**   
 **Datum:**   
-**Wortanzahl:** 1,335  
+**Wortanzahl:** 1,338  
 **Original:** https://www.kerberos-compliance.com/wissen/blog/amla-guidelines-zur-risikoanalyse-neue-pflichten-fuer-alle-verpflichteten  
 
 ---
@@ -1188,6 +1190,8 @@ Die BWRA ist kein einmaliges Dokument – sie ist die Grundlage jeder Compliance
 Digital. Bezahlbar. Auf dem neuesten regulatorischen Stand.
 
 [Sprechen Sie uns an!](https://www.kerberos-compliance.com/unternehmen/kontakt)
+
+## Kontakt aufnehmen
 
 Frank Lässig Manager Compliance
 
@@ -3258,7 +3262,7 @@ Otis Benning Senior Associate Marketing
 
 **Autor:**   
 **Datum:**   
-**Wortanzahl:** 1,101  
+**Wortanzahl:** 1,104  
 **Original:** https://www.kerberos-compliance.com/wissen/blog/eu-aml-verordnung-2027-was-steuerberater-jetzt-vorbereiten-muessen  
 
 ---
@@ -3336,6 +3340,9 @@ Kerberos unterstützt Sie dabei: mit der Anpassung Ihrer bestehenden Compliance-
 - AMLA RTS-Entwurf zu Art. 28(1) AMLR – Customer Due Diligence (Konsultation offen, Stand März 2026): [amla.europa.eu/publications-and-data](https://www.amla.europa.eu/publications-and-data)
 - AMLA RTS-Entwurf zu Art. 10 AMLR – Business-Wide Risk Assessment: [amla.europa.eu/publications-and-data/regulatory-technical-standards](https://www.amla.europa.eu/publications-and-data/regulatory-technical-standards)
 - Geldwäschegesetz (GwG) aktuelle Fassung (Feb. 2026): [gesetze-im-internet.de/gwg_2017](https://www.gesetze-im-internet.de/gwg_2017/)
+
+## Kontakt aufnehmen
+
 Frank Lässig Manager Compliance
 
 Lena Pütz Head of Projects (Compliance) [lena.puetz@kerberos-cms.com](mailto:lena.puetz@kerberos-cms.com) +49 221 65088968
@@ -8353,7 +8360,7 @@ Max Schrems hat mit seiner Organisation noyb [angekündigt](https://noyb.eu/de/e
 
 **Autor:**   
 **Datum:**   
-**Wortanzahl:** 1,197  
+**Wortanzahl:** 1,200  
 **Original:** https://www.kerberos-compliance.com/wissen/blog/ongoing-monitoring-nach-artikel-26-eu-aml-vo-was-sich-ab-juli-2027-aendert  
 
 ---
@@ -8441,6 +8448,8 @@ AMLA-Leitlinien zu Art. 26 AMLR (Erlass nach Art. 26 Abs. 5 AMLR bis 10.07.2026 
 Webinar Kerberos Compliance, „Continuous Monitoring nach Artikel 26 EU-AMLR" mit Thomas Manzey (Head of AML Compliance – Financial & Payment Services) und Florian Peters (Head of AML Compliance – Investment Industries & Capital Markets), 06.05.2026
 
 Sie haben Fragen zur Umsetzung oder benötigen externe Unterstützung beim Aufbau Ihres pKYC-Prozesses? [Sprechen Sie uns an.](https://www.kerberos-compliance.com/unternehmen/kontakt)
+
+## Kontakt aufnehmen
 
 Thomas Manzey Head of AML Compliance - Financial & Payment Services
 
@@ -9550,7 +9559,121 @@ Bei Phishing-Simulationen ist auch das Thema Beschäftigtendatenschutz zu beacht
 
 ---
 
-## 115. Transparenzregister, koordinierte Aufsicht, erweiterter Datenaustausch: Die systemischen GwG-Änderungen des ZFG-Referentenentwurfs
+## 115. Terrorismusfinanzierung in der Risikoanalyse: Was Verpflichtete jetzt getrennt bewerten müssen
+
+**Autor:**   
+**Datum:**   
+**Wortanzahl:** 1,095  
+**Original:** https://www.kerberos-compliance.com/wissen/blog/terrorismusfinanzierung-in-der-risikoanalyse-was-verpflichtete-jetzt-getrennt-bewerten-muessen  
+
+---
+
+# Terrorismusfinanzierung in der Risikoanalyse: Was Verpflichtete jetzt getrennt bewerten müssen
+
+**Autor:**   
+**Datum:**   
+**URL:** https://www.kerberos-compliance.com/wissen/blog/terrorismusfinanzierung-in-der-risikoanalyse-was-verpflichtete-jetzt-getrennt-bewerten-muessen
+
+---
+
+Datum: 2026-05-28
+
+Die BaFin hat Terrorismusfinanzierung als eigenständigen Prüfungsschwerpunkt etabliert – und Verpflichtete, die das Thema bislang als Randnotiz in ihrer Risikoanalyse aufgeführt haben, geraten jetzt unter Druck. Was genau gefordert wird und warum eine gemeinsame Betrachtung mit Geldwäsche nicht ausreicht, erklärten Maren Adam (Principal AML Compliance) und Fabian Müller (Manager AML Compliance) von Kerberos Compliance in einem aktuellen Webinar.
+
+## Was ist Terrorismusfinanzierung – und warum ist sie nicht einfach „kleine Geldwäsche"?
+
+Das Geldwäschegesetz regelt in § 5 Abs. 1 ausdrücklich, dass Verpflichtete „diejenigen Risiken der Geldwäsche und der Terrorismusfinanzierung zu ermitteln und zu bewerten haben." Gemeint sind also von Anfang an zwei unterschiedliche Phänomene – mit unterschiedlicher Logik.
+
+Der entscheidende Unterschied: Bei der Geldwäsche ist die Herkunft der Mittel inkriminiert (Erlöse aus Betrug, Drogenhandel, Korruption werden in den legalen Kreislauf eingeschleust). Bei der Terrorismusfinanzierung ist die Mittelverwendung das Maßgebliche – die Gelder können aus völlig legalen Quellen stammen, etwa aus regulären Einkünften oder gutgläubigen Spenden, werden dann aber terroristischen Zwecken zugeführt.
+
+Zur gesetzlichen Definition gehört dabei mehr als die Finanzierung einzelner Anschläge. Terrorismusfinanzierung lässt sich in zwei Kategorien einteilen:
+
+- Direkte Kosten: Finanzierung von Waffen, Logistik und Lebenshaltungskosten im Zusammenhang mit terroristischen Handlungen.
+- Aufrechterhaltung von Netzwerken: Finanzmittel für Propaganda, Rekrutierung, Ausbildung, Gehälter und Familienversorgung terroristischer Organisationen.
+Das macht Terrorismusfinanzierung deutlich kostspieliger und weitreichender, als es auf den ersten Blick erscheint – und erklärt, warum Transaktionsbeträge im TF-Kontext häufig klein und unauffällig sind.
+
+## Das Dreiphasenmodell: Raising, Moving, Using
+
+Vergleichbar mit den drei Phasen der Geldwäsche kennt die Terrorismusfinanzierung drei eigene Phasen:
+
+- Raising (Beschaffung): Mittel werden gesammelt – durch Einnahmen aus kriminellen Aktivitäten, aber auch durch unwissende Spender über Crowdfunding-Plattformen oder Hilfsorganisationen, die missbraucht werden.
+- Moving (Verbringung): Die Gelder werden grenzüberschreitend transferiert. Neben dem formellen Bankensystem spielen informelle Systeme wie das Hawala-Banking eine bedeutende Rolle – ein vertrauensbasiertes Transfernetzwerk ohne physischen Geldfluss, bei dem Beträge zwischen Hawaladaren verrechnet statt tatsächlich bewegt werden. Auch der physische Transport über Bargeld, Gold oder Prepaid-Karten kommt zum Einsatz.
+- Using (Verwendung): Die Mittel werden für terroristische Zwecke eingesetzt – nicht nur für Anschläge, sondern für die gesamte Infrastruktur der Organisation.
+
+## Warum der gleiche Adressatenkreis, aber unterschiedliche Risiken?
+
+Dass Terrorismusfinanzierung und Geldwäsche im selben Gesetz geregelt sind, liegt an den erheblichen Überschneidungen: identischer Verpflichtetenkreis (§ 2 GwG), gleiche Meldebehörde (FIU beim Zoll), ähnliche Verschleierungsmethoden (Hawala, Bargeld, Kryptowerte, Briefkastenfirmen), präventiver Charakter beider Regelwerke.
+
+Dennoch unterscheiden sich die Risikoprofile erheblich. Das Webinar nannte konkrete Beispiele:
+
+Eine „one size fits all"-Lösung – Geldwäsche bewerten, TF pauschal übernehmen – funktioniert nicht. Ein und dasselbe Produkt oder ein und derselbe Kunde kann ein geringes Geldwäscherisiko und gleichzeitig ein erhöhtes Terrorismusfinanzierungsrisiko darstellen.
+
+## Was die BaFin jetzt konkret fordert
+
+Die BaFin hat die Anforderungen über mehrere Verlautbarungen schrittweise konkretisiert:
+
+- BaFin Auslegungshinweise (AuAs): „Zu beachten ist insoweit auch, dass es einer getrennten Betrachtung, Ermittlung und Dokumentation von Risikofaktoren mit Bezug zu Geldwäsche und solchen mit Bezug zu Terrorismusfinanzierung bedarf."
+- BaFin-Hinweis TF-Prävention (06.02.2024): „Die Institute müssen sich verstärkt mit institutsspezifischen Risiken auseinandersetzen, um nicht für Terrorismusfinanzierung missbraucht zu werden. Zudem müssen sie deutlicher differenzieren zwischen ihren Sicherungsmaßnahmen für Geldwäschebekämpfung und Terrorismusfinanzierung."
+- BaFin-Erfahrungen aus Sonderprüfungen (13.01.2025): „Die BaFin hat bei den Prüfungen festgestellt, dass die Verpflichteten ihre unternehmensspezifischen Risiken oft nicht klar genug differenzieren. Sie berücksichtigten die Risiken aus TF entweder gar nicht oder unzureichend. […] Die BaFin empfiehlt, die jeweiligen Risiken differenziert zu erfassen und die Risikoanalyse in getrennte Abschnitte aufzuteilen."
+- BaFin Risiken im Fokus 2026: Punkt 6 – „Risiken aus unzureichender Prävention von GW und TF – Separate Maßnahmen für GW- und TF-Prävention."
+Was bedeutet das für die Risikoanalyse nach § 5 GwG? Die Identifizierung und Bewertung von Risiken muss für alle Risikokategorien (Kunden, Produkte, Branchen, Rechtsformen, Transaktionen, Vertriebswege, geografische Risiken) parallel für Geldwäsche und Terrorismusfinanzierung erfolgen – mit strukturell eigenständiger Betrachtung, gegebenenfalls auch mit eigener Bewertungsmethodik.
+
+Zwei separate Dokumente sind nicht zwingend erforderlich. Was die BaFin aber explizit einfordert: eine getrennte Abschnittsstruktur in der Risikoanalyse, die für Prüfer erkennbar macht, dass beide Phänomene inhaltlich gleichwertig analysiert wurden.
+
+## Red Flags: Worauf müssen Verpflichtete achten?
+
+Terrorismusfinanzierung speist sich häufig aus kleinen und mittleren Beträgen – das macht die Erkennung im Transaktionsmonitoring erheblich schwieriger als bei Geldwäsche. Wichtig: Ein Sanktionsscreening allein reicht nicht aus , um ein Kundenrisiko für Terrorismusfinanzierung zu bestimmen. Die BaFin empfiehlt ausdrücklich zusätzlich ein Adverse-Media-Screening sowie gesonderte Kriterien im Transaktionsmonitoring.
+
+### Personengebundene Auffälligkeiten:
+
+- Treffer auf internationalen Sanktionslisten – auch bei nahen Angehörigen oder verbundenen Personen (Konsequenz: kein Geschäftsbeginn/-fortführung nach AWG)
+- Adverse-Media-Treffer: Medienberichte mit Bezug zu terroristischen Aktivitäten
+
+### Transaktionsgebundene Red Flags:
+
+- Überweisungen in Konfliktregionen oder Hochrisikogebiete ohne nachvollziehbaren Zweck, gefolgt von Barauszahlungen
+- Reisen in Konfliktregionen in Verbindung mit Zahlungsaktivität
+- Viele kleine, wiederholte Zahlungen (Structuring)
+- Plötzliche Verhaltensänderung: Ein zuvor normal genutztes Konto zeigt unvermittelt das Ausbleiben von Umsätzen für den typischen Lebensunterhalt
+- Intransparenz bei Beteiligungsverhältnissen, Geldquellen oder Geschäftszweck
+- Nutzung von Hawala-Netzwerken oder anderen informellen Transferwegen
+- NGO/NPO-Strukturen ohne klare Nachvollziehbarkeit der Mittelverwendung
+- Spendenzahlungen an Organisationen mit unklaren Zielen
+
+## Checkliste: Ist Ihre Risikoanalyse bereit für die BaFin-Prüfung?
+
+- Beide Phänomene sind gleichwertig und strukturell getrennt dokumentiert – kein bloßes Unterkapitel, eigene Abschnittsstruktur erkennbar
+- Kunden-, Produkt-, Transaktions-, Vertriebs- und geografische Risiken wurden jeweils auf TF-spezifische Faktoren hin analysiert
+- Geografische Risiken differenzieren: Offshore-Jurisdiktionen (GW-relevant) vs. Konfliktgebiete und Hochrisikoländer für TF
+- Sicherungsmaßnahmen für TF identifiziert – Sanktionslisten-Screening (nach AWG, in der Praxis häufig dem GWB übertragen) plus Adverse-Media-Screening plus TF-spezifische Transaktionsmonitoring-Kriterien
+- NPO/NGO-Kundenbeziehungen wurden im TF-Kontext gesondert bewertet
+- Produkte mit TF-spezifischem Risiko reflektiert – ggf. eigene Bewertungsmethodik angewendet
+- Quellen mit TF-Fokus einbezogen: Global Terrorism Index, FATF-Papiere, Verfassungsschutzbericht, FIU-Typologien
+
+## Fazit
+
+Die getrennte Risikobewertung für Terrorismusfinanzierung ist keine neue Vorgabe – in § 5 Abs. 1 GwG wurde sie immer schon gefordert. Neu ist der Prüfungsdruck, mit dem die BaFin diese Anforderung seit 2024 konsequent durchsetzt – bis hin zu Sonderprüfungen und konkreten Beanstandungen. Verpflichtete, die Terrorismusfinanzierung bislang als „kleine Schwester der Geldwäsche" behandelt haben, sollten ihre Risikoanalyse jetzt überarbeiten.
+
+Wenn Sie Unterstützung bei der Überarbeitung Ihrer Risikoanalyse benötigen oder den Geldwäschebeauftragten auslagern möchten: Kerberos Compliance steht Ihnen als spezialisierter Dienstleister zur Verfügung. Nehmen Sie jetzt Kontakt auf.
+
+### Quellen:
+
+- § 5 Abs. 1 Geldwäschegesetz (GwG) – Risikoanalyse: ( [https://www.gesetze-im-internet.de/gwg_2017/__5.html)](http://gesetze-im-internet.de/gwg_2017/__5.html) (Feb. 2026)
+- § 2 Geldwäschegesetz (GwG) – Verpflichtete: ( [https://www.gesetze-im-internet.de/gwg_2017/__2.html)](https://www.gesetze-im-internet.de/gwg_2017/__2.html) (Feb. 2026)
+- BaFin Auslegungshinweise (AuAs)
+- BaFin: TF-Präventionsmaßnahmen zunehmend im Fokus (06.02.2024)
+- BaFin: Erfahrungen aus Sonderprüfungen (13.01.2025)
+- BaFin: Risiken im Fokus 2026
+
+## Kontakt aufnehmen
+
+Maren Adam Principal AML Compliance
+
+Fabian Müller Manager AML Compliance
+
+---
+
+## 116. Transparenzregister, koordinierte Aufsicht, erweiterter Datenaustausch: Die systemischen GwG-Änderungen des ZFG-Referentenentwurfs
 
 **Autor:**   
 **Datum:**   
@@ -9671,7 +9794,7 @@ Frank Lässig Manager Compliance
 
 ---
 
-## 116. Transparenzregistereintragung: 1.415 Unternehmen am Pranger
+## 117. Transparenzregistereintragung: 1.415 Unternehmen am Pranger
 
 **Autor:**   
 **Datum:**   
@@ -9728,7 +9851,7 @@ Unseren Kund:innen stellen wir überdies auch einfache Video-Anleitungen für di
 
 ---
 
-## 117. Übergangsregelungen: Transparenzregister – Noch auf dem neuesten Stand?
+## 118. Übergangsregelungen: Transparenzregister – Noch auf dem neuesten Stand?
 
 **Autor:**   
 **Datum:**   
@@ -9759,7 +9882,7 @@ Sollten sie dies bislang nicht gemacht haben, wird es Zeit. Aus den veröffentli
 
 ---
 
-## 118. „Unverzüglichkeit“ und „Vollständigkeit“ – Gemeinsame Orientierungshilfe der BaFin und FIU
+## 119. „Unverzüglichkeit“ und „Vollständigkeit“ – Gemeinsame Orientierungshilfe der BaFin und FIU
 
 **Autor:**   
 **Datum:**   
@@ -9801,7 +9924,7 @@ Tobias Lequen Manager AML Compliance
 
 ---
 
-## 119. US-Cloud-Anbieter im Fokus: Datenschutzrisiken und Handlungsempfehlungen
+## 120. US-Cloud-Anbieter im Fokus: Datenschutzrisiken und Handlungsempfehlungen
 
 **Autor:**   
 **Datum:**   
@@ -9873,7 +9996,7 @@ Lena Pütz Head of Projects (Compliance) [lena.puetz@kerberos-cms.com](mailto:le
 
 ---
 
-## 120. Verdachtsmeldungen nach § 43 GwG: Was die BaFin/FIU-Orientierungshilfe konkret bedeutet
+## 121. Verdachtsmeldungen nach § 43 GwG: Was die BaFin/FIU-Orientierungshilfe konkret bedeutet
 
 **Autor:**   
 **Datum:**   
@@ -9975,7 +10098,7 @@ Maren Adam Principal AML Compliance
 
 ---
 
-## 121. Vermögensentzug ohne Strafurteil: Was §§ 52a–52n ZFG-Referentenentwurf für Verpflichtete bedeuten
+## 122. Vermögensentzug ohne Strafurteil: Was §§ 52a–52n ZFG-Referentenentwurf für Verpflichtete bedeuten
 
 **Autor:**   
 **Datum:**   
@@ -10087,7 +10210,7 @@ Laura Schäfer Managerin AML Compliance
 
 ---
 
-## 122. Verschärfte Meldepflichten bei Immobilientransaktionen - die wichtigsten Änderungen der GwGMeldV-Immobilien 2025
+## 123. Verschärfte Meldepflichten bei Immobilientransaktionen - die wichtigsten Änderungen der GwGMeldV-Immobilien 2025
 
 **Autor:**   
 **Datum:**   
@@ -10160,7 +10283,7 @@ Otis Benning Senior Associate Marketing
 
 ---
 
-## 123. Verstöße gegen das Geldwäschegesetz - Bußgelder und Prüfungen von 2017-2022
+## 124. Verstöße gegen das Geldwäschegesetz - Bußgelder und Prüfungen von 2017-2022
 
 **Autor:**   
 **Datum:**   
@@ -10213,7 +10336,7 @@ Vor diesem Hintergrund lassen sich die Forderungen der EU-Richtlinie zur Einrich
 
 ---
 
-## 124. Vom Krisenherd zum Vertrauensturbo: Umgang mit Datenschutzbeschwerden
+## 125. Vom Krisenherd zum Vertrauensturbo: Umgang mit Datenschutzbeschwerden
 
 **Autor:**   
 **Datum:**   
@@ -10304,7 +10427,7 @@ Sven Fus Senior Manager GDPR Compliance
 
 ---
 
-## 125. Von Sommerloch keine Spur - der Kampf gegen Finanzkriminalität in den Medien
+## 126. Von Sommerloch keine Spur - der Kampf gegen Finanzkriminalität in den Medien
 
 **Autor:**   
 **Datum:**   
@@ -10462,7 +10585,7 @@ Otis Benning Senior Associate Marketing
 
 ---
 
-## 126. Vonovia – Korruptionsskandal mit Vorbildcharakter
+## 127. Vonovia – Korruptionsskandal mit Vorbildcharakter
 
 **Autor:**   
 **Datum:**   
@@ -10543,7 +10666,7 @@ Hinweisgebersysteme zu betreiben ist unkompliziert. Kerberos bietet kostengünst
 
 ---
 
-## 127. Warum sind Risikoanalysen nach dem Geldwäschegesetz (GwG) so wichtig?
+## 128. Warum sind Risikoanalysen nach dem Geldwäschegesetz (GwG) so wichtig?
 
 **Autor:**   
 **Datum:**   
@@ -10595,7 +10718,7 @@ Daneben bieten insbesondere digitale Lösungen zur automatisierten Abfrage geldw
 
 ---
 
-## 128. Weihnachtsgrüße von Christian Tsambikakis - Geschäftsführer
+## 129. Weihnachtsgrüße von Christian Tsambikakis - Geschäftsführer
 
 **Autor:**   
 **Datum:**   
@@ -10630,7 +10753,7 @@ Christian Tsambikakis, Geschäftsführer
 
 ---
 
-## 129. Wie steht es um die Bekämpfung von Geldwäsche in Deutschland? Und warum?
+## 130. Wie steht es um die Bekämpfung von Geldwäsche in Deutschland? Und warum?
 
 **Autor:**   
 **Datum:**   
@@ -10689,7 +10812,7 @@ Anhand der Ergebnisse des Follow-Up-Reports lassen sich also die gröbsten Herau
 
 ---
 
-## 130. Wiederkehrende Pflichten zur Geldwäscheprävention – Update Ende 2025
+## 131. Wiederkehrende Pflichten zur Geldwäscheprävention – Update Ende 2025
 
 **Autor:**   
 **Datum:**   
@@ -10774,7 +10897,7 @@ Otis Benning Senior Associate Marketing
 
 ---
 
-## 131. Wiederkehrende Pflichten zur Geldwäscheprävention
+## 132. Wiederkehrende Pflichten zur Geldwäscheprävention
 
 **Autor:**   
 **Datum:**   
@@ -10819,7 +10942,7 @@ Um die Zertifizierung als Geldwäschebeauftragte, soweit diese vorhanden ist, zu
 
 ---
 
-## 132. Zwischen Innovation und Risiko - Kryptowährungen im Fokus des Geldwäschebeauftragten
+## 133. Zwischen Innovation und Risiko - Kryptowährungen im Fokus des Geldwäschebeauftragten
 
 **Autor:**   
 **Datum:**   

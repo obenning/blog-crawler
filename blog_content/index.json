@@ -1,8 +1,8 @@
 {
-  "crawled_at": "2026-05-28T06:21:49.279087",
+  "crawled_at": "2026-05-29T06:23:53.041743",
   "base_url": "https://www.kerberos-compliance.com/wissen/blog",
-  "total_articles": 131,
-  "successful": 131,
+  "total_articles": 132,
+  "successful": 132,
   "failed": 0,
   "articles": [
     {
@@ -907,6 +907,13 @@
       "author": "",
       "date": "",
       "url": "https://www.kerberos-compliance.com/wissen/blog/der-blinde-fleck-der-geldwaschepravention"
+    },
+    {
+      "filename": "terrorismusfinanzierung-in-der-risikoanalyse-was-verpflichtete-jetzt-getrennt-bewerten-muessen.md",
+      "title": "Terrorismusfinanzierung in der Risikoanalyse: Was Verpflichtete jetzt getrennt bewerten müssen",
+      "author": "",
+      "date": "",
+      "url": "https://www.kerberos-compliance.com/wissen/blog/terrorismusfinanzierung-in-der-risikoanalyse-was-verpflichtete-jetzt-getrennt-bewerten-muessen"
     },
     {
       "filename": "mica-der-neue-eu-regulierungsrahmen-fr-kryptowerte.md",

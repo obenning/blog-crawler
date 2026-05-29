@@ -4,7 +4,7 @@ author: ""
 date: ""
 url: "https://www.kerberos-compliance.com/wissen/blog/amla-guidelines-zur-risikoanalyse-neue-pflichten-fuer-alle-verpflichteten"
 excerpt: ""
-crawled_at: "2026-05-28T06:18:52.798306"
+crawled_at: "2026-05-29T06:20:56.604136"
 ---
 
 # AMLA-Guidelines zur Risikoanalyse: Neue Pflichten für alle Verpflichteten
@@ -118,5 +118,7 @@ Die BWRA ist kein einmaliges Dokument – sie ist die Grundlage jeder Compliance
 Digital. Bezahlbar. Auf dem neuesten regulatorischen Stand.
 
 [Sprechen Sie uns an!](https://www.kerberos-compliance.com/unternehmen/kontakt)
+
+## Kontakt aufnehmen
 
 Frank Lässig Manager Compliance

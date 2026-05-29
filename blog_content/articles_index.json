@@ -1,6 +1,6 @@
 {
-  "generated": "2026-05-28T06:21:49.384811",
-  "total_articles": 131,
+  "generated": "2026-05-29T06:23:53.143745",
+  "total_articles": 132,
   "articles": [
     {
       "filename": "21-jahriger-sohn-von-clanchef-abou-chaker-ersteigert-villen-fur-uber-7-millionen-euro.md",
@@ -100,7 +100,7 @@
       "url": "https://www.kerberos-compliance.com/wissen/blog/amla-guidelines-zur-risikoanalyse-neue-pflichten-fuer-alle-verpflichteten",
       "excerpt": "# AMLA-Guidelines zur Risikoanalyse: Neue Pflichten für alle Verpflichteten\n\n**Autor:**   \n**Datum:**   \n**URL:** https://www.kerberos-compliance.com/wissen/blog/amla-guidelines-zur-risikoanalyse-neue...",
       "raw_url": "https://raw.githubusercontent.com/obenning/blog-crawler/main/blog_content/amla-guidelines-zur-risikoanalyse-neue-pflichten-fuer-alle-verpflichteten.md",
-      "word_count": 1335
+      "word_count": 1338
     },
     {
       "filename": "amla-sanktions-rts-was-verbaende-der-eu-zurueckgemeldet-haben-und-was-das-fuer-ihren-betrieb-bedeute.md",
@@ -380,7 +380,7 @@
       "url": "https://www.kerberos-compliance.com/wissen/blog/eu-aml-verordnung-2027-was-steuerberater-jetzt-vorbereiten-muessen",
       "excerpt": "# EU-AML-Verordnung 2027: Was Steuerberater jetzt vorbereiten müssen\n\n**Autor:**   \n**Datum:**   \n**URL:** https://www.kerberos-compliance.com/wissen/blog/eu-aml-verordnung-2027-was-steuerberater-jetz...",
       "raw_url": "https://raw.githubusercontent.com/obenning/blog-crawler/main/blog_content/eu-aml-verordnung-2027-was-steuerberater-jetzt-vorbereiten-muessen.md",
-      "word_count": 1101
+      "word_count": 1104
     },
     {
       "filename": "eu-aml-verordnung-ab-juli-2027-was-verpflichtete-jetzt-wissen-muessen.md",
@@ -980,7 +980,7 @@
       "url": "https://www.kerberos-compliance.com/wissen/blog/ongoing-monitoring-nach-artikel-26-eu-aml-vo-was-sich-ab-juli-2027-aendert",
       "excerpt": "# Ongoing Monitoring nach Artikel 26 EU-AML VO: Was sich ab Juli 2027 ändert\n\n**Autor:**   \n**Datum:**   \n**URL:** https://www.kerberos-compliance.com/wissen/blog/ongoing-monitoring-nach-artikel-26-eu...",
       "raw_url": "https://raw.githubusercontent.com/obenning/blog-crawler/main/blog_content/ongoing-monitoring-nach-artikel-26-eu-aml-vo-was-sich-ab-juli-2027-aendert.md",
-      "word_count": 1197
+      "word_count": 1200
     },
     {
       "filename": "operation-chargeback-wenn-compliance-systeme-versagen.md",
@@ -1131,6 +1131,16 @@
       "excerpt": "# Stärkung Ihrer Cyber-Abwehr\n\n**Autor:**   \n**Datum:**   \n**URL:** https://www.kerberos-compliance.com/wissen/blog/starkung-ihrer-cyber-abwehr\n\n---\n\nEin Bestandteil des Datenschutzes ist es, die Sich...",
       "raw_url": "https://raw.githubusercontent.com/obenning/blog-crawler/main/blog_content/starkung-ihrer-cyber-abwehr.md",
       "word_count": 498
+    },
+    {
+      "filename": "terrorismusfinanzierung-in-der-risikoanalyse-was-verpflichtete-jetzt-getrennt-bewerten-muessen.md",
+      "title": "Terrorismusfinanzierung in der Risikoanalyse: Was Verpflichtete jetzt getrennt bewerten müssen",
+      "author": "",
+      "date": "",
+      "url": "https://www.kerberos-compliance.com/wissen/blog/terrorismusfinanzierung-in-der-risikoanalyse-was-verpflichtete-jetzt-getrennt-bewerten-muessen",
+      "excerpt": "# Terrorismusfinanzierung in der Risikoanalyse: Was Verpflichtete jetzt getrennt bewerten müssen\n\n**Autor:**   \n**Datum:**   \n**URL:** https://www.kerberos-compliance.com/wissen/blog/terrorismusfinanz...",
+      "raw_url": "https://raw.githubusercontent.com/obenning/blog-crawler/main/blog_content/terrorismusfinanzierung-in-der-risikoanalyse-was-verpflichtete-jetzt-getrennt-bewerten-muessen.md",
+      "word_count": 1095
     },
     {
       "filename": "transparenzregister-koordinierte-aufsicht-erweiterter-datenaustausch-die-systemischen-gwg-aenderunge.md",

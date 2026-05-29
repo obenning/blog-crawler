@@ -4,7 +4,7 @@ author: ""
 date: ""
 url: "https://www.kerberos-compliance.com/wissen/blog/ongoing-monitoring-nach-artikel-26-eu-aml-vo-was-sich-ab-juli-2027-aendert"
 excerpt: ""
-crawled_at: "2026-05-28T06:18:51.698638"
+crawled_at: "2026-05-29T06:20:55.516830"
 ---
 
 # Ongoing Monitoring nach Artikel 26 EU-AML VO: Was sich ab Juli 2027 ändert
@@ -90,6 +90,8 @@ AMLA-Leitlinien zu Art. 26 AMLR (Erlass nach Art. 26 Abs. 5 AMLR bis 10.07.2026 
 Webinar Kerberos Compliance, „Continuous Monitoring nach Artikel 26 EU-AMLR" mit Thomas Manzey (Head of AML Compliance – Financial & Payment Services) und Florian Peters (Head of AML Compliance – Investment Industries & Capital Markets), 06.05.2026
 
 Sie haben Fragen zur Umsetzung oder benötigen externe Unterstützung beim Aufbau Ihres pKYC-Prozesses? [Sprechen Sie uns an.](https://www.kerberos-compliance.com/unternehmen/kontakt)
+
+## Kontakt aufnehmen
 
 Thomas Manzey Head of AML Compliance - Financial & Payment Services
 
