@@ -1,10 +1,10 @@
 # Blog Content Archive
 
-Automatisch gecrawlt am: 2026-05-31 06:29:10
+Automatisch gecrawlt am: 2026-06-01 07:10:54
 
 **Statistik:**
-- Gesamt Artikel: 132
-- Erfolgreich gecrawlt: 132
+- Gesamt Artikel: 133
+- Erfolgreich gecrawlt: 133
 - Fehlgeschlagen: 0
 
 **Quelle:** https://www.kerberos-compliance.com/wissen/blog
@@ -26,6 +26,7 @@ Automatisch gecrawlt am: 2026-05-31 06:29:10
 - [Pressekonferenz: FIU stellt Jahresbericht 2024 vor](pressekonferenz-fiu-stellt-jahresbericht-2024-vor.md) -  ()
 - [Vom Krisenherd zum Vertrauensturbo: Umgang mit Datenschutzbeschwerden](vom-krisenherd-zum-vertrauensturbo-umgang-mit-datenschutzbeschwerden.md) -  ()
 - [Galerie, Auktionshaus, Kunstspedition: Was die EU-AML-VO ab 2027 für den Kunstmarkt bedeutet](galerie-auktionshaus-kunstspedition-was-die-eu-aml-vo-ab-2027-fuer-den-kunstmarkt-bedeutet.md) -  ()
+- [Mehr Aufsicht, bessere Prävention? Was die BaFin-Offensive für Verpflichtete wirklich bedeutet](mehr-aufsicht-bessere-praevention-was-die-bafin-offensive-fuer-verpflichtete-wirklich-bedeutet.md) -  ()
 - [Wie steht es um die Bekämpfung von Geldwäsche in Deutschland? Und warum?](wie-steht-es-um-die-bekmpfung-von-geldwsche-in-deutschland-und-warum.md) -  ()
 - [Verdachtsmeldungen nach § 43 GwG: Was die BaFin/FIU-Orientierungshilfe konkret bedeutet](verdachtsmeldungen-nach-43-gwg-was-die-bafin-fiu-orientierungshilfe-konkret-bedeutet.md) -  ()
 - [Das Verdachtsmeldewesen ist kein Bürokratie-Marathon, sondern ein Frühwarnsystem](das-verdachtsmeldewesen-ist-kein-buerokratie-marathon-sondern-ein-fruehwarnsystem.md) -  ()

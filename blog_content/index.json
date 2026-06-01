@@ -1,8 +1,8 @@
 {
-  "crawled_at": "2026-05-31T06:29:10.048821",
+  "crawled_at": "2026-06-01T07:10:54.035119",
   "base_url": "https://www.kerberos-compliance.com/wissen/blog",
-  "total_articles": 132,
-  "successful": 132,
+  "total_articles": 133,
+  "successful": 133,
   "failed": 0,
   "articles": [
     {
@@ -109,6 +109,13 @@
       "author": "",
       "date": "",
       "url": "https://www.kerberos-compliance.com/wissen/blog/galerie-auktionshaus-kunstspedition-was-die-eu-aml-vo-ab-2027-fuer-den-kunstmarkt-bedeutet"
+    },
+    {
+      "filename": "mehr-aufsicht-bessere-praevention-was-die-bafin-offensive-fuer-verpflichtete-wirklich-bedeutet.md",
+      "title": "Mehr Aufsicht, bessere Prävention? Was die BaFin-Offensive für Verpflichtete wirklich bedeutet",
+      "author": "",
+      "date": "",
+      "url": "https://www.kerberos-compliance.com/wissen/blog/mehr-aufsicht-bessere-praevention-was-die-bafin-offensive-fuer-verpflichtete-wirklich-bedeutet"
     },
     {
       "filename": "wie-steht-es-um-die-bekmpfung-von-geldwsche-in-deutschland-und-warum.md",
