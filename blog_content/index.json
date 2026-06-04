@@ -1,8 +1,8 @@
 {
-  "crawled_at": "2026-06-03T07:03:08.784492",
+  "crawled_at": "2026-06-04T06:52:04.040060",
   "base_url": "https://www.kerberos-compliance.com/wissen/blog",
-  "total_articles": 133,
-  "successful": 133,
+  "total_articles": 134,
+  "successful": 134,
   "failed": 0,
   "articles": [
     {
@@ -158,6 +158,13 @@
       "author": "",
       "date": "",
       "url": "https://www.kerberos-compliance.com/wissen/blog/geldwschepraevention-2026-diese-fristen-und-neuerungen-muessen-verpflichtete-kennen"
+    },
+    {
+      "filename": "ubo-identifizierung-nach-der-eu-aml-verordnung-was-sich-ab-juli-2027-grundlegend-aendert.md",
+      "title": "UBO-Identifizierung nach der EU-AML-Verordnung: Was sich ab Juli 2027 grundlegend ändert",
+      "author": "",
+      "date": "",
+      "url": "https://www.kerberos-compliance.com/wissen/blog/ubo-identifizierung-nach-der-eu-aml-verordnung-was-sich-ab-juli-2027-grundlegend-aendert"
     },
     {
       "filename": "entwrfe-fr-eu-anti-geldwsche-verordnung-und-richtlinie-verffentlicht.md",

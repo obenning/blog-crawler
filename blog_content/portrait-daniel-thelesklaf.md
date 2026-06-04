@@ -4,7 +4,7 @@ author: ""
 date: ""
 url: "https://www.kerberos-compliance.com/wissen/blog/portrait-daniel-thelesklaf"
 excerpt: ""
-crawled_at: "2026-06-03T07:03:00.537214"
+crawled_at: "2026-06-04T06:51:56.313352"
 ---
 
 # Portrait: Daniel Thelesklaf, zukünftiger Leiter der Financial Intelligence Unit (FIU) in Deutschland

@@ -1,10 +1,10 @@
 # Blog Content Archive
 
-Automatisch gecrawlt am: 2026-06-03 07:03:08
+Automatisch gecrawlt am: 2026-06-04 06:52:04
 
 **Statistik:**
-- Gesamt Artikel: 133
-- Erfolgreich gecrawlt: 133
+- Gesamt Artikel: 134
+- Erfolgreich gecrawlt: 134
 - Fehlgeschlagen: 0
 
 **Quelle:** https://www.kerberos-compliance.com/wissen/blog
@@ -33,6 +33,7 @@ Automatisch gecrawlt am: 2026-06-03 07:03:08
 - [Vonovia – Korruptionsskandal mit Vorbildcharakter](vonovia-korruptionsskandal-mit-vorbildcharakter.md) -  ()
 - [Best Practices für Geldwäschebeauftragte im Finance-Sektor](best-practices-fuer-geldwaeschebeauftragte-im-finance-sektor.md) -  ()
 - [Geldwäscheprävention 2026: Diese Fristen und Neuerungen müssen Verpflichtete kennen](geldwschepraevention-2026-diese-fristen-und-neuerungen-muessen-verpflichtete-kennen.md) -  ()
+- [UBO-Identifizierung nach der EU-AML-Verordnung: Was sich ab Juli 2027 grundlegend ändert](ubo-identifizierung-nach-der-eu-aml-verordnung-was-sich-ab-juli-2027-grundlegend-aendert.md) -  ()
 - [Entwürfe für EU-Anti-Geldwäsche-Verordnung und -Richtlinie veröffentlicht](entwrfe-fr-eu-anti-geldwsche-verordnung-und-richtlinie-verffentlicht.md) -  ()
 - [Die veränderte DNA der Finanzkriminalität - Ein Blick in den EUROPOL-Bericht 2025](die-veraenderte-dna-der-finanzkriminalitaet-ein-blick-in-den-europol-bericht-2025.md) -  ()
 - [MLRO-Strategien für deutsche Finanzdienstleister: CEO-Leitfaden 2025](mlro-strategien-fuer-deutsche-finanzdienstleister-ceo-leitfaden-2025.md) -  ()

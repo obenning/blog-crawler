@@ -4,7 +4,7 @@ author: ""
 date: ""
 url: "https://www.kerberos-compliance.com/wissen/blog/21-jahriger-sohn-von-clanchef-abou-chaker-ersteigert-villen-fur-uber-7-millionen-euro"
 excerpt: ""
-crawled_at: "2026-06-03T07:03:07.766712"
+crawled_at: "2026-06-04T06:52:03.022051"
 ---
 
 # 21-jähriger Sohn von Clanchef Abou-Chaker ersteigert Villen für über 7 Millionen Euro

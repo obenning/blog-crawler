@@ -4,7 +4,7 @@ author: ""
 date: ""
 url: "https://www.kerberos-compliance.com/wissen/blog/unverzueglichkeit-und-vollstaendigkeit-einer-verdachtsmeldung-gemeinsame-orientierungshilfe-der-bafin-und-fiu-veroeffentlicht"
 excerpt: ""
-crawled_at: "2026-06-03T07:01:45.138943"
+crawled_at: "2026-06-04T06:50:42.293788"
 ---
 
 # „Unverzüglichkeit“ und „Vollständigkeit“ – Gemeinsame Orientierungshilfe der BaFin und FIU

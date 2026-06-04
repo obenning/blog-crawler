@@ -1,6 +1,6 @@
 {
-  "generated": "2026-06-03T07:03:08.874659",
-  "total_articles": 133,
+  "generated": "2026-06-04T06:52:04.144487",
+  "total_articles": 134,
   "articles": [
     {
       "filename": "21-jahriger-sohn-von-clanchef-abou-chaker-ersteigert-villen-fur-uber-7-millionen-euro.md",
@@ -1181,6 +1181,16 @@
       "excerpt": "# Übergangsregelungen: Transparenzregister – Noch auf dem neuesten Stand?\n\n**Autor:**   \n**Datum:**   \n**URL:** https://www.kerberos-compliance.com/wissen/blog/ubergangsregelungen-transparenzregister-...",
       "raw_url": "https://raw.githubusercontent.com/obenning/blog-crawler/main/blog_content/ubergangsregelungen-transparenzregister-noch-auf-dem-neuesten-stand.md",
       "word_count": 260
+    },
+    {
+      "filename": "ubo-identifizierung-nach-der-eu-aml-verordnung-was-sich-ab-juli-2027-grundlegend-aendert.md",
+      "title": "UBO-Identifizierung nach der EU-AML-Verordnung: Was sich ab Juli 2027 grundlegend ändert",
+      "author": "",
+      "date": "",
+      "url": "https://www.kerberos-compliance.com/wissen/blog/ubo-identifizierung-nach-der-eu-aml-verordnung-was-sich-ab-juli-2027-grundlegend-aendert",
+      "excerpt": "# UBO-Identifizierung nach der EU-AML-Verordnung: Was sich ab Juli 2027 grundlegend ändert\n\n**Autor:**   \n**Datum:**   \n**URL:** https://www.kerberos-compliance.com/wissen/blog/ubo-identifizierung-nac...",
+      "raw_url": "https://raw.githubusercontent.com/obenning/blog-crawler/main/blog_content/ubo-identifizierung-nach-der-eu-aml-verordnung-was-sich-ab-juli-2027-grundlegend-aendert.md",
+      "word_count": 1342
     },
     {
       "filename": "unverzueglichkeit-und-vollstaendigkeit-einer-verdachtsmeldung-gemeinsame-orientierungshilfe-der-bafi.md",

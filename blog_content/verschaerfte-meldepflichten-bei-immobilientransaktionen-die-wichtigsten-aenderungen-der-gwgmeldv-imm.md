@@ -4,7 +4,7 @@ author: ""
 date: ""
 url: "https://www.kerberos-compliance.com/wissen/blog/verschaerfte-meldepflichten-bei-immobilientransaktionen-die-wichtigsten-aenderungen-der-gwgmeldv-immobilien-2025"
 excerpt: ""
-crawled_at: "2026-06-03T07:01:42.685931"
+crawled_at: "2026-06-04T06:50:39.882593"
 ---
 
 # Verschärfte Meldepflichten bei Immobilientransaktionen - die wichtigsten Änderungen der GwGMeldV-Immobilien 2025
