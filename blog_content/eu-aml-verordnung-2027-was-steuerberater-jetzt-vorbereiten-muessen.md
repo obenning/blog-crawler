@@ -4,7 +4,7 @@ author: ""
 date: ""
 url: "https://www.kerberos-compliance.com/wissen/blog/eu-aml-verordnung-2027-was-steuerberater-jetzt-vorbereiten-muessen"
 excerpt: ""
-crawled_at: "2026-06-09T06:15:20.867815"
+crawled_at: "2026-06-10T06:37:40.537982"
 ---
 
 # EU-AML-Verordnung 2027: Was Steuerberater jetzt vorbereiten müssen

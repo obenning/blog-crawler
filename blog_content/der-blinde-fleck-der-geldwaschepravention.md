@@ -4,7 +4,7 @@ author: ""
 date: ""
 url: "https://www.kerberos-compliance.com/wissen/blog/der-blinde-fleck-der-geldwaschepravention"
 excerpt: ""
-crawled_at: "2026-06-09T06:17:52.972330"
+crawled_at: "2026-06-10T06:40:13.568000"
 ---
 
 # Der blinde Fleck der Geldwäscheprävention.

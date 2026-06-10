@@ -4,7 +4,7 @@ author: ""
 date: ""
 url: "https://www.kerberos-compliance.com/wissen/blog/entwrfe-fr-eu-anti-geldwsche-verordnung-und-richtlinie-verffentlicht"
 excerpt: ""
-crawled_at: "2026-06-09T06:17:31.719104"
+crawled_at: "2026-06-10T06:39:52.561303"
 ---
 
 # Entwürfe für EU-Anti-Geldwäsche-Verordnung und -Richtlinie veröffentlicht

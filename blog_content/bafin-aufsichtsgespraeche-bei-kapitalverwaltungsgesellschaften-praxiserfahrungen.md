@@ -4,7 +4,7 @@ author: ""
 date: ""
 url: "https://www.kerberos-compliance.com/wissen/blog/bafin-aufsichtsgespraeche-bei-kapitalverwaltungsgesellschaften-praxiserfahrungen"
 excerpt: ""
-crawled_at: "2026-06-09T06:15:48.926906"
+crawled_at: "2026-06-10T06:38:08.287370"
 ---
 
 # BaFin-Aufsichtsgespräche bei Kapitalverwaltungsgesellschaften: Praxiserfahrungen

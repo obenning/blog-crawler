@@ -4,7 +4,7 @@ author: ""
 date: ""
 url: "https://www.kerberos-compliance.com/wissen/blog/geldwaeschebeauftragte-schluesselfiguren-im-kampf-gegen-finanzkriminalitaet"
 excerpt: ""
-crawled_at: "2026-06-09T06:17:10.882330"
+crawled_at: "2026-06-10T06:39:32.282347"
 ---
 
 # Geldwäschebeauftragte: Schlüsselfiguren im Kampf gegen Finanzkriminalität

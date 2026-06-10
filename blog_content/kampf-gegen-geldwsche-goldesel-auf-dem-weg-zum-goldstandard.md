@@ -4,7 +4,7 @@ author: ""
 date: ""
 url: "https://www.kerberos-compliance.com/wissen/blog/kampf-gegen-geldwsche-goldesel-auf-dem-weg-zum-goldstandard"
 excerpt: ""
-crawled_at: "2026-06-09T06:16:04.174406"
+crawled_at: "2026-06-10T06:38:22.820361"
 ---
 
 # Kampf gegen Geldwäsche: „Goldesel“ auf dem Weg zum „Goldstandard“?
