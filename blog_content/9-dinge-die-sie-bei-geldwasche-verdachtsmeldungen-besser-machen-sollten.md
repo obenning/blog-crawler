@@ -4,7 +4,7 @@ author: ""
 date: ""
 url: "https://www.kerberos-compliance.com/wissen/blog/9-dinge-die-sie-bei-geldwasche-verdachtsmeldungen-besser-machen-sollten"
 excerpt: ""
-crawled_at: "2026-06-14T06:50:42.518574"
+crawled_at: "2026-06-15T07:31:26.612725"
 ---
 
 # 9 Dinge, die Sie bei Geldwäsche-Verdachtsmeldungen besser machen sollten
