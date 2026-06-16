@@ -4,7 +4,7 @@ author: ""
 date: ""
 url: "https://www.kerberos-compliance.com/wissen/blog/geldwschepraevention-2026-diese-fristen-und-neuerungen-muessen-verpflichtete-kennen"
 excerpt: ""
-crawled_at: "2026-06-15T07:29:04.586125"
+crawled_at: "2026-06-16T07:34:35.997076"
 ---
 
 # Geldwäscheprävention 2026: Diese Fristen und Neuerungen müssen Verpflichtete kennen

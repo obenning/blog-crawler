@@ -4,7 +4,7 @@ author: ""
 date: ""
 url: "https://www.kerberos-compliance.com/wissen/blog/geldwscheprvention-2025-ein-halbes-jahr-zwischen-fortschritten-und-rckschlgen"
 excerpt: ""
-crawled_at: "2026-06-15T07:29:48.184419"
+crawled_at: "2026-06-16T07:35:15.401653"
 ---
 
 # Geldwäscheprävention 2025: Ein halbes Jahr zwischen Fortschritten und Rückschlägen

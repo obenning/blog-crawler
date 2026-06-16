@@ -4,7 +4,7 @@ author: ""
 date: ""
 url: "https://www.kerberos-compliance.com/wissen/blog/hinweisgebersysteme-nach-dem-hinweisgeberschutzgesetz-hinschg"
 excerpt: ""
-crawled_at: "2026-06-15T07:31:37.781109"
+crawled_at: "2026-06-16T07:36:54.166972"
 ---
 
 # Hinweisgebersysteme nach dem Hinweisgeberschutzgesetz (HinSchG)

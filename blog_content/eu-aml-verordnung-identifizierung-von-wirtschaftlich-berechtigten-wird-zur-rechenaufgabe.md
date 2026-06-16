@@ -4,7 +4,7 @@ author: ""
 date: ""
 url: "https://www.kerberos-compliance.com/wissen/blog/eu-aml-verordnung-identifizierung-von-wirtschaftlich-berechtigten-wird-zur-rechenaufgabe"
 excerpt: ""
-crawled_at: "2026-06-15T07:29:31.632686"
+crawled_at: "2026-06-16T07:34:59.806842"
 ---
 
 # EU-AML-Verordnung: Identifizierung von wirtschaftlich Berechtigten wird zur Rechenaufgabe

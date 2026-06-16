@@ -4,7 +4,7 @@ author: ""
 date: ""
 url: "https://www.kerberos-compliance.com/wissen/blog/fatf-update-oktober-2025"
 excerpt: ""
-crawled_at: "2026-06-15T07:29:19.905878"
+crawled_at: "2026-06-16T07:34:49.753949"
 ---
 
 # FATF-Update Oktober 2025: Vier Länder von der Grauen Liste gestrichen
