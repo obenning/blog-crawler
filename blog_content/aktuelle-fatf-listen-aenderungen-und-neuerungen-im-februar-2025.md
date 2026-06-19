@@ -4,7 +4,7 @@ author: ""
 date: ""
 url: "https://www.kerberos-compliance.com/wissen/blog/aktuelle-fatf-listen-aenderungen-und-neuerungen-im-februar-2025"
 excerpt: ""
-crawled_at: "2026-06-18T07:00:52.664277"
+crawled_at: "2026-06-19T07:20:36.912102"
 ---
 
 # Aktuelle FATF-Listen: Änderungen und Neuerungen im Februar 2025
