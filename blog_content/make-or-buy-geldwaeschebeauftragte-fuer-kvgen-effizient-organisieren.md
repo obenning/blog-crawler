@@ -4,7 +4,7 @@ author: ""
 date: ""
 url: "https://www.kerberos-compliance.com/wissen/blog/make-or-buy-geldwaeschebeauftragte-fuer-kvgen-effizient-organisieren"
 excerpt: ""
-crawled_at: "2026-06-21T06:58:34.227205"
+crawled_at: "2026-06-22T07:33:50.866501"
 ---
 
 # Make-or-Buy: Geldwäschebeauftragte für KVGen effizient organisieren
