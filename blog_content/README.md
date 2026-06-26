@@ -1,10 +1,10 @@
 # Blog Content Archive
 
-Automatisch gecrawlt am: 2026-06-25 06:17:57
+Automatisch gecrawlt am: 2026-06-26 06:19:43
 
 **Statistik:**
-- Gesamt Artikel: 134
-- Erfolgreich gecrawlt: 134
+- Gesamt Artikel: 135
+- Erfolgreich gecrawlt: 135
 - Fehlgeschlagen: 0
 
 **Quelle:** https://www.kerberos-compliance.com/wissen/blog
@@ -89,6 +89,7 @@ Automatisch gecrawlt am: 2026-06-25 06:17:57
 - [Geldwäsche im deutschen Immobiliensektor bleibt Milliardenproblem](geldwaesche-im-deutschen-immobiliensektor-bleibt-milliardenproblem.md) -  ()
 - [Russland-Sanktionen - 5 Tipps zur Risikoreduzierung](russland-sanktionen.md) -  ()
 - [Geldwäsche über den CO2-Handel - Interview](geldwaesche-ueber-den-co2-handel-interview.md) -  ()
+- [BaFin-Aufsicht bei KVGen: Was sich 2026 verändert hat – und was 2027 konkret kommt](bafin-aufsicht-bei-kvgen.md) -  ()
 - [Verstöße gegen das Geldwäschegesetz - Bußgelder und Prüfungen von 2017-2022](verste-gegen-das-geldwschegesetz-bugelder-und-prfungen-von-2017-2022.md) -  ()
 - [Galerie, Auktionshaus, Kunstspedition: Was die EU-AML-VO ab 2027 für den Kunstmarkt bedeutet](galerie-auktionshaus-kunstspedition-was-die-eu-aml-vo-ab-2027-fuer-den-kunstmarkt-bedeutet.md) -  ()
 - [How to: goAML & Geldwäscheverdachtsmeldungen – Webinar-Zusammenfassung](how-to-goaml-amp-geldwaescheverdachtsmeldungen.md) -  ()

@@ -4,7 +4,7 @@ author: ""
 date: ""
 url: "https://www.kerberos-compliance.com/wissen/blog/fiu-jahresbericht-es-gibt-sie-noch-die-guten-nachrichten-oder"
 excerpt: ""
-crawled_at: "2026-06-25T06:16:31.739805"
+crawled_at: "2026-06-26T06:18:25.708363"
 ---
 
 # FIU Jahresbericht 2023: Es gibt sie noch, die guten Nachrichten – oder?
@@ -81,8 +81,8 @@ Auch wir von Kerberos sind hier aktiv – beispielsweise durch regelmäßige Inf
 
 Alle aktuellen Webinar-Angebote finden Sie hier: [Unsere Veranstaltungen](https://www.kerberos-compliance.com/wissen/veranstaltungen)
 
-2025 zeigte: BaFin-Prüfungen bei KVGen nehmen zu. Was prüft die BaFin konkret? Unterschied zwischen Jahresabschluss- und Sonderprüfungen, häufige Mängel und wie Sie diese vermeiden. Dokumentation, Nachweispflichten und Best Practices aus erfolgreichen Prüfungen.
-
 BaFin-Rundschreiben 2025 (April, Juli, Dezember) fokussieren Iran-Umgehungsgeschäfte. Lernen Sie typische Umgehungsmodelle und Red Flags kennen. Enhanced Due Diligence (EDD) bei Hochrisiko, Sanktionsprüfung und praktische Fallbeispiele für Finanzsektor und Außenhandel.
 
 Die EU-AMLR macht Fußballklubs und Spielervermittler ab Juli 2029 zu Verpflichteten. Warum ist Fußball ein Geldwäscherisiko? Transfergeschäfte, Spielervermittlung und Sorgfaltspflichten für Klubs. Zeitplan zur Vorbereitung und Best Practices aus anderen Branchen – jetzt handeln!
+
+Unser praxisorientiertes 90-Minuten-Webinar vermittelt Ihnen fundiertes Fachwissen zur Geschäftspartnerprüfungen (KYC) im Immobiliensektor und hilft Ihnen, Ihre gesetzlichen Verpflichtungen rechtssicher zu erfüllen. Die Teilnahme wird mit 1 1/2 Stunden auf Ihre MaBV-Weiterbildungspflicht angerechnet (§ 15b MaBV).

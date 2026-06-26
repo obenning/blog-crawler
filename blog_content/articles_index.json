@@ -1,6 +1,6 @@
 {
-  "generated": "2026-06-25T06:17:57.991372",
-  "total_articles": 134,
+  "generated": "2026-06-26T06:19:43.960306",
+  "total_articles": 135,
   "articles": [
     {
       "filename": "21-jahriger-sohn-von-clanchef-abou-chaker-ersteigert-villen-fur-uber-7-millionen-euro.md",
@@ -111,6 +111,16 @@
       "excerpt": "# AMLA-Sanktions-RTS: Was Verbände der EU zurückgemeldet haben – und was das für Ihren Betrieb bedeutet\n\n**Autor:**   \n**Datum:**   \n**URL:** https://www.kerberos-compliance.com/wissen/blog/amla-sankt...",
       "raw_url": "https://raw.githubusercontent.com/obenning/blog-crawler/main/blog_content/amla-sanktions-rts-was-verbaende-der-eu-zurueckgemeldet-haben-und-was-das-fuer-ihren-betrieb-bedeute.md",
       "word_count": 1202
+    },
+    {
+      "filename": "bafin-aufsicht-bei-kvgen.md",
+      "title": "BaFin-Aufsicht bei KVGen: Was sich 2026 verändert hat – und was 2027 konkret kommt",
+      "author": "",
+      "date": "",
+      "url": "https://www.kerberos-compliance.com/wissen/blog/bafin-aufsicht-bei-kvgen",
+      "excerpt": "# BaFin-Aufsicht bei KVGen: Was sich 2026 verändert hat – und was 2027 konkret kommt\n\n**Autor:**   \n**Datum:**   \n**URL:** https://www.kerberos-compliance.com/wissen/blog/bafin-aufsicht-bei-kvgen\n\n---...",
+      "raw_url": "https://raw.githubusercontent.com/obenning/blog-crawler/main/blog_content/bafin-aufsicht-bei-kvgen.md",
+      "word_count": 1146
     },
     {
       "filename": "bafin-aufsichtsgespraeche-bei-kapitalverwaltungsgesellschaften-praxiserfahrungen.md",
@@ -230,7 +240,7 @@
       "url": "https://www.kerberos-compliance.com/wissen/blog/compliance-fort-bildungsangebote-fuer-2025",
       "excerpt": "# Compliance (Fort-)Bildungsangebote für 2025\n\n**Autor:**   \n**Datum:**   \n**URL:** https://www.kerberos-compliance.com/wissen/blog/compliance-fort-bildungsangebote-fuer-2025\n\n---\n\nImmobilienmakler, K...",
       "raw_url": "https://raw.githubusercontent.com/obenning/blog-crawler/main/blog_content/compliance-fort-bildungsangebote-fuer-2025.md",
-      "word_count": 554
+      "word_count": 557
     },
     {
       "filename": "das-eu-aml-paket-neue-herausforderungen-fuer-die-geldwaeschepraevention.md",
@@ -510,7 +520,7 @@
       "url": "https://www.kerberos-compliance.com/wissen/blog/fiu-jahresbericht-es-gibt-sie-noch-die-guten-nachrichten-oder",
       "excerpt": "# FIU Jahresbericht 2023: Es gibt sie noch, die guten Nachrichten – oder?\n\n**Autor:**   \n**Datum:**   \n**URL:** https://www.kerberos-compliance.com/wissen/blog/fiu-jahresbericht-es-gibt-sie-noch-die-g...",
       "raw_url": "https://raw.githubusercontent.com/obenning/blog-crawler/main/blog_content/fiu-jahresbericht-es-gibt-sie-noch-die-guten-nachrichten-oder.md",
-      "word_count": 1024
+      "word_count": 1027
     },
     {
       "filename": "folgen-des-ampel-aus-fuer-die-geldwaeschebekaempfung.md",
@@ -550,7 +560,7 @@
       "url": "https://www.kerberos-compliance.com/wissen/blog/geldwaesche-im-deutschen-immobiliensektor-bleibt-milliardenproblem",
       "excerpt": "# Geldwäsche im deutschen Immobiliensektor bleibt Milliardenproblem\n\n**Autor:**   \n**Datum:**   \n**URL:** https://www.kerberos-compliance.com/wissen/blog/geldwaesche-im-deutschen-immobiliensektor-blei...",
       "raw_url": "https://raw.githubusercontent.com/obenning/blog-crawler/main/blog_content/geldwaesche-im-deutschen-immobiliensektor-bleibt-milliardenproblem.md",
-      "word_count": 969
+      "word_count": 972
     },
     {
       "filename": "geldwaesche-im-immobiliensektor-was-makler-jetzt-wissen-muessen.md",
