@@ -4,7 +4,7 @@ author: ""
 date: ""
 url: "https://www.kerberos-compliance.com/wissen/blog/amla-guidelines-zur-risikoanalyse-neue-pflichten-fuer-alle-verpflichteten"
 excerpt: ""
-crawled_at: "2026-06-26T06:17:01.345155"
+crawled_at: "2026-06-27T05:58:22.783093"
 ---
 
 # AMLA-Guidelines zur Risikoanalyse: Neue Pflichten für alle Verpflichteten
@@ -121,4 +121,4 @@ Digital. Bezahlbar. Auf dem neuesten regulatorischen Stand.
 
 ## Kontakt aufnehmen
 
-Frank Lässig Manager Compliance
+Frank Lässig Senior AML Compliance Manager

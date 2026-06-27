@@ -4,7 +4,7 @@ author: ""
 date: ""
 url: "https://www.kerberos-compliance.com/wissen/blog/geldwaesche-im-immobiliensektor-was-makler-jetzt-wissen-muessen"
 excerpt: ""
-crawled_at: "2026-06-26T06:17:09.592168"
+crawled_at: "2026-06-27T05:58:30.991267"
 ---
 
 # Geldwäsche im Immobiliensektor: Was Makler jetzt wissen müssen
@@ -98,4 +98,4 @@ Jan Wagner Associate Direct & Partner Sales [Jan.Wagner@kerberos-cms.com](mailto
 
 [Termin buchen](https://qrco.de/bfsMCR)
 
-Frank Lässig Manager Compliance
+Frank Lässig Senior AML Compliance Manager

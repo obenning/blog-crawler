@@ -4,7 +4,7 @@ author: ""
 date: ""
 url: "https://www.kerberos-compliance.com/wissen/blog/kampf-gegen-geldwsche-goldesel-auf-dem-weg-zum-goldstandard"
 excerpt: ""
-crawled_at: "2026-06-26T06:17:37.678485"
+crawled_at: "2026-06-27T05:58:58.700656"
 ---
 
 # Kampf gegen Geldwäsche: „Goldesel“ auf dem Weg zum „Goldstandard“?
@@ -51,4 +51,4 @@ Wie Sie sich am besten auf Behördenprüfungen vorbreiten, erfahren Sie in diese
 
 Otis Benning Senior Associate Marketing
 
-Frank Lässig Manager Compliance
+Frank Lässig Senior AML Compliance Manager

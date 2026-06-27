@@ -4,7 +4,7 @@ author: ""
 date: ""
 url: "https://www.kerberos-compliance.com/wissen/blog/eu-aml-verordnung-identifizierung-von-wirtschaftlich-berechtigten-wird-zur-rechenaufgabe"
 excerpt: ""
-crawled_at: "2026-06-26T06:17:39.004624"
+crawled_at: "2026-06-27T05:58:59.773135"
 ---
 
 # EU-AML-Verordnung: Identifizierung von wirtschaftlich Berechtigten wird zur Rechenaufgabe
@@ -42,4 +42,4 @@ Unsere AML-Expert:innen Frank Lässig und Laura Schäfer sind in einem Webinar a
 
 Laura Schäfer Managerin AML Compliance
 
-Frank Lässig Manager Compliance
+Frank Lässig Senior AML Compliance Manager

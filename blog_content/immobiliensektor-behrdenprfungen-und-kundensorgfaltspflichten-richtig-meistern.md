@@ -4,7 +4,7 @@ author: ""
 date: ""
 url: "https://www.kerberos-compliance.com/wissen/blog/immobiliensektor-behrdenprfungen-und-kundensorgfaltspflichten-richtig-meistern"
 excerpt: ""
-crawled_at: "2026-06-26T06:18:05.324115"
+crawled_at: "2026-06-27T05:59:25.625767"
 ---
 
 # Immobiliensektor: Behördenprüfungen und Kundensorgfaltspflichten richtig meistern
@@ -105,4 +105,4 @@ Jan Wagner Associate Direct & Partner Sales [Jan.Wagner@kerberos-cms.com](mailto
 
 [Termin buchen](https://qrco.de/bfsMCR)
 
-Frank Lässig Manager Compliance
+Frank Lässig Senior AML Compliance Manager

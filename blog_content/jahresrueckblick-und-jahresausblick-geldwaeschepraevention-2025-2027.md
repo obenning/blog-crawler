@@ -4,7 +4,7 @@ author: ""
 date: ""
 url: "https://www.kerberos-compliance.com/wissen/blog/jahresrueckblick-und-jahresausblick-geldwaeschepraevention-2025-2027"
 excerpt: ""
-crawled_at: "2026-06-26T06:17:17.516168"
+crawled_at: "2026-06-27T05:58:38.943854"
 ---
 
 # Jahresrückblick und Jahresausblick - Geldwäscheprävention 2025-2027
@@ -98,4 +98,4 @@ Thomas Manzey Head of AML Compliance - Financial & Payment Services
 
 Florian Peters Head of AML Compliance
 
-Frank Lässig Manager Compliance
+Frank Lässig Senior AML Compliance Manager

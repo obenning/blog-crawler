@@ -4,7 +4,7 @@ author: ""
 date: ""
 url: "https://www.kerberos-compliance.com/wissen/blog/mehr-aufsicht-bessere-praevention-was-die-bafin-offensive-fuer-verpflichtete-wirklich-bedeutet"
 excerpt: ""
-crawled_at: "2026-06-26T06:16:56.746187"
+crawled_at: "2026-06-27T05:58:17.698953"
 ---
 
 # Mehr Aufsicht, bessere Prävention? Was die BaFin-Offensive für Verpflichtete wirklich bedeutet
@@ -61,4 +61,4 @@ Sie möchten wissen, ob Ihr Unternehmen für die verschärfte Aufsichtslage vorb
 
 ## Kontakt aufnehmen
 
-Frank Lässig Manager Compliance
+Frank Lässig Senior AML Compliance Manager

@@ -4,7 +4,7 @@ author: ""
 date: ""
 url: "https://www.kerberos-compliance.com/wissen/blog/die-aufsicht-wird-nicht-locker-lassen-interview"
 excerpt: ""
-crawled_at: "2026-06-26T06:17:18.703851"
+crawled_at: "2026-06-27T05:58:40.015510"
 ---
 
 # “Die Aufsicht wird nicht lockerer werden, im Gegenteil”
@@ -65,4 +65,4 @@ Drei Dinge:
 - Erstens, die Sorgfaltspflichten ernst nehmen. Gerade mit Blick auf das Bar-Geschäft aber auch bei bargeldlosen Transaktionen wird es gerade mit dem Sanktionsmanagement immer wichtiger, am Ball zu bleiben. Die Aufsichten werden nicht lockerlassen, gerade weil Deutschland immer noch als Geldwäscheparadies gilt.
 - Zweitens, die Dokumentation in den Griff bekommen. Der Satz was nicht dokumentiert wurde, wurde nicht gemacht. Kann hier ein guter Merksatz sein. Digitale Lösungen helfen hier enorm.
 - Und drittens: Die EU-AML-Verordnung kommt 2027. Die bringt nochmal deutlich komplexere Anforderungen, besonders bei der Identifizierung wirtschaftlich Berechtigter. Wer jetzt die Grundlagen legt, ist besser vorbereitet.
-Frank Lässig Manager Compliance
+Frank Lässig Senior AML Compliance Manager

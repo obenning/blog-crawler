@@ -4,7 +4,7 @@ author: ""
 date: ""
 url: "https://www.kerberos-compliance.com/wissen/blog/eu-listet-russland-als-hochrisikoland"
 excerpt: ""
-crawled_at: "2026-06-26T06:17:13.908489"
+crawled_at: "2026-06-27T05:58:35.276893"
 ---
 
 # Compliance-Experte Frank Lässig über neue Geldwäsche-Pflichten, verstärkte Sorgfaltspflichten und warum die Praxis sich kaum ändert
@@ -105,4 +105,4 @@ Praktische Auswirkung: Gering, da Russland bereits umfangreich sanktioniert
 
 Otis Benning Senior Associate Marketing
 
-Frank Lässig Manager Compliance
+Frank Lässig Senior AML Compliance Manager

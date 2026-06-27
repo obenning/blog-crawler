@@ -4,7 +4,7 @@ author: ""
 date: ""
 url: "https://www.kerberos-compliance.com/wissen/blog/zwischen-innovation-und-risiko-kryptowaehrungen-im-fokus-des-geldwaeschebeauftragten"
 excerpt: ""
-crawled_at: "2026-06-26T06:17:46.707256"
+crawled_at: "2026-06-27T05:59:07.147151"
 ---
 
 # Zwischen Innovation und Risiko - Kryptowährungen im Fokus des Geldwäschebeauftragten
@@ -200,4 +200,4 @@ Nächste Schritte: Bereiten Sie Ihre Organisation systematisch auf die MICAR-Ums
 
 Diese Zusammenfassung basiert auf dem Kerberos Compliance Webinar vom 10.07.2025 sowie aktuellen Erkenntnissen aus dem FIU-Jahresbericht 2024.
 
-Frank Lässig Manager Compliance
+Frank Lässig Senior AML Compliance Manager

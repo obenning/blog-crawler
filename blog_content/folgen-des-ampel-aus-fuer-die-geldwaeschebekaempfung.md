@@ -4,7 +4,7 @@ author: ""
 date: ""
 url: "https://www.kerberos-compliance.com/wissen/blog/folgen-des-ampel-aus-fuer-die-geldwaeschebekaempfung"
 excerpt: ""
-crawled_at: "2026-06-26T06:18:27.015943"
+crawled_at: "2026-06-27T05:59:47.466217"
 ---
 
 # Folgen des Ampel-Aus für die Geldwäschebekämpfung
@@ -73,4 +73,4 @@ Und in Frankfurt werden knapp 400 EU-Beamte über den europäischen Kampf gegen 
 
 Autor:
 
-Frank Lässig Manager Compliance
+Frank Lässig Senior AML Compliance Manager

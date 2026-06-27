@@ -4,7 +4,7 @@ author: ""
 date: ""
 url: "https://www.kerberos-compliance.com/wissen/blog/transparenzregister-koordinierte-aufsicht-erweiterter-datenaustausch-die-systemischen-gwg-aenderungen-des-zollfinanzgerechtigkeitsgesetz-referentenentwurf"
 excerpt: ""
-crawled_at: "2026-06-26T06:17:02.580349"
+crawled_at: "2026-06-27T05:58:23.969622"
 ---
 
 # Transparenzregister, koordinierte Aufsicht, erweiterter Datenaustausch: Die systemischen GwG-Änderungen des ZFG-Referentenentwurfs
@@ -115,4 +115,4 @@ Der ZFG-RefE verbindet eine grundrechtskonforme Neugestaltung des Transparenzreg
 
 Otis Benning Senior Associate Marketing
 
-Frank Lässig Manager Compliance
+Frank Lässig Senior AML Compliance Manager

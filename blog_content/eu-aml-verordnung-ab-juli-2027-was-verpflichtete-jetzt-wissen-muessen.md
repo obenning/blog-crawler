@@ -4,7 +4,7 @@ author: ""
 date: ""
 url: "https://www.kerberos-compliance.com/wissen/blog/eu-aml-verordnung-ab-juli-2027-was-verpflichtete-jetzt-wissen-muessen"
 excerpt: ""
-crawled_at: "2026-06-26T06:17:12.830362"
+crawled_at: "2026-06-27T05:58:34.202204"
 ---
 
 # EU-AML-Verordnung ab Juli 2027: Was Verpflichtete jetzt wissen müssen
@@ -147,6 +147,6 @@ Haben Sie Fragen zur EU-AML-Verordnung oder möchten Sie mit uns gemeinsam Ihre 
 
 Dieser Beitrag basiert auf dem Kerberos-Webinar „EU-AML-VO ab Juli 2027: Countdown zur Umsetzung – Was Verpflichtete jetzt wissen müssen" vom 19. Februar 2026. Die Inhalte spiegeln den Rechtsstand und die verfügbaren RTS-Entwürfe zum Zeitpunkt der Veranstaltung wider.
 
-Frank Lässig Manager Compliance
+Frank Lässig Senior AML Compliance Manager
 
 Lena Pütz Head of Projects (Compliance) [lena.puetz@kerberos-cms.com](mailto:lena.puetz@kerberos-cms.com) +49 221 65088968

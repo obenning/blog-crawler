@@ -4,7 +4,7 @@ author: ""
 date: ""
 url: "https://www.kerberos-compliance.com/wissen/blog/operation-chargeback-wenn-compliance-systeme-versagen"
 excerpt: ""
-crawled_at: "2026-06-26T06:17:24.764365"
+crawled_at: "2026-06-27T05:58:45.954549"
 ---
 
 # Operation Chargeback: Wenn Compliance-Systeme versagen – Eine Analyse des AML-Experten Frank Lässig
@@ -115,4 +115,4 @@ Die zentralen Erkenntnisse aus dem Fall könnten sich wie folgt zusammenfassen l
 
 Sie möchten Ihre Compliance-Prozesse auf den Prüfstand stellen? Kerberos Compliance unterstützt Zahlungsdienstleister mit maßgeschneiderten Lösungen – von KYB-Checks bis zur Funktion des externen Geldwäschebeauftragten. Sprechen Sie uns an.
 
-Frank Lässig Manager Compliance
+Frank Lässig Senior AML Compliance Manager

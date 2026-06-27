@@ -1,8 +1,8 @@
 # 📚 Kerberos Compliance Blog - Alle Artikel
 
-**Generiert:** 26.06.2026 06:19
+**Generiert:** 27.06.2026 06:01
 **Anzahl Artikel:** 136
-**Gesamtwortanzahl:** 116,853
+**Gesamtwortanzahl:** 116,895
 
 ---
 
@@ -331,7 +331,7 @@ Die drei Tage können nur abgekürzt werden, wenn eine Staatsanwaltschaft oder d
 
 # Blog Content Archive
 
-Automatisch gecrawlt am: 2026-06-26 06:19:43
+Automatisch gecrawlt am: 2026-06-27 06:01:03
 
 **Statistik:**
 - Gesamt Artikel: 135
@@ -1080,7 +1080,7 @@ Es wird sich bei den meisten Kunden bei der UBO-Anzahl nicht viel ändern. Aller
 
 **Autor:**   
 **Datum:**   
-**Wortanzahl:** 1,338  
+**Wortanzahl:** 1,340  
 **Original:** https://www.kerberos-compliance.com/wissen/blog/amla-guidelines-zur-risikoanalyse-neue-pflichten-fuer-alle-verpflichteten  
 
 ---
@@ -1199,7 +1199,7 @@ Digital. Bezahlbar. Auf dem neuesten regulatorischen Stand.
 
 ## Kontakt aufnehmen
 
-Frank Lässig Manager Compliance
+Frank Lässig Senior AML Compliance Manager
 
 ---
 
@@ -1207,7 +1207,7 @@ Frank Lässig Manager Compliance
 
 **Autor:**   
 **Datum:**   
-**Wortanzahl:** 1,202  
+**Wortanzahl:** 1,204  
 **Original:** https://www.kerberos-compliance.com/wissen/blog/amla-sanktions-rts-was-verbaende-der-eu-zurueckgemeldet-haben-und-was-das-fuer-ihren-betrieb-bedeutet  
 
 ---
@@ -1277,7 +1277,7 @@ Das sind gut 15 Monate, um drei Dinge in Ordnung zu bringen: eine dokumentierte 
 
 Die Sanktionsrahmen steigen, die Sorgfalt muss steigen und der Raum für Fehler sinkt deutlich. Die Richtung ist eindeutig.
 
-Frank Lässig Manager Compliance
+Frank Lässig Senior AML Compliance Manager
 
 ---
 
@@ -2319,7 +2319,7 @@ Otis Benning Senior Associate Marketing
 
 **Autor:**   
 **Datum:**   
-**Wortanzahl:** 1,083  
+**Wortanzahl:** 1,085  
 **Original:** https://www.kerberos-compliance.com/wissen/blog/das-eu-aml-paket-neue-herausforderungen-fuer-die-geldwaeschepraevention  
 
 ---
@@ -2405,7 +2405,7 @@ Das EU-AML-Paket stellt die Geldwäscheprävention vor neue Herausforderungen, b
 
 Autor:in:
 
-Frank Lässig Manager Compliance
+Frank Lässig Senior AML Compliance Manager
 
 ---
 
@@ -2884,7 +2884,7 @@ Lena Pütz Head of Projects (Compliance) [lena.puetz@kerberos-cms.com](mailto:le
 
 **Autor:**   
 **Datum:**   
-**Wortanzahl:** 883  
+**Wortanzahl:** 885  
 **Original:** https://www.kerberos-compliance.com/wissen/blog/die-aufsicht-wird-nicht-locker-lassen-interview  
 
 ---
@@ -2947,7 +2947,7 @@ Drei Dinge:
 - Erstens, die Sorgfaltspflichten ernst nehmen. Gerade mit Blick auf das Bar-Geschäft aber auch bei bargeldlosen Transaktionen wird es gerade mit dem Sanktionsmanagement immer wichtiger, am Ball zu bleiben. Die Aufsichten werden nicht lockerlassen, gerade weil Deutschland immer noch als Geldwäscheparadies gilt.
 - Zweitens, die Dokumentation in den Griff bekommen. Der Satz was nicht dokumentiert wurde, wurde nicht gemacht. Kann hier ein guter Merksatz sein. Digitale Lösungen helfen hier enorm.
 - Und drittens: Die EU-AML-Verordnung kommt 2027. Die bringt nochmal deutlich komplexere Anforderungen, besonders bei der Identifizierung wirtschaftlich Berechtigter. Wer jetzt die Grundlagen legt, ist besser vorbereitet.
-Frank Lässig Manager Compliance
+Frank Lässig Senior AML Compliance Manager
 
 ---
 
@@ -3347,7 +3347,7 @@ Otis Benning Senior Associate Marketing
 
 **Autor:**   
 **Datum:**   
-**Wortanzahl:** 1,104  
+**Wortanzahl:** 1,106  
 **Original:** https://www.kerberos-compliance.com/wissen/blog/eu-aml-verordnung-2027-was-steuerberater-jetzt-vorbereiten-muessen  
 
 ---
@@ -3428,7 +3428,7 @@ Kerberos unterstützt Sie dabei: mit der Anpassung Ihrer bestehenden Compliance-
 
 ## Kontakt aufnehmen
 
-Frank Lässig Manager Compliance
+Frank Lässig Senior AML Compliance Manager
 
 Lena Pütz Head of Projects (Compliance) [lena.puetz@kerberos-cms.com](mailto:lena.puetz@kerberos-cms.com) +49 221 65088968
 
@@ -3438,7 +3438,7 @@ Lena Pütz Head of Projects (Compliance) [lena.puetz@kerberos-cms.com](mailto:le
 
 **Autor:**   
 **Datum:**   
-**Wortanzahl:** 1,285  
+**Wortanzahl:** 1,287  
 **Original:** https://www.kerberos-compliance.com/wissen/blog/eu-aml-verordnung-ab-juli-2027-was-verpflichtete-jetzt-wissen-muessen  
 
 ---
@@ -3583,7 +3583,7 @@ Haben Sie Fragen zur EU-AML-Verordnung oder möchten Sie mit uns gemeinsam Ihre 
 
 Dieser Beitrag basiert auf dem Kerberos-Webinar „EU-AML-VO ab Juli 2027: Countdown zur Umsetzung – Was Verpflichtete jetzt wissen müssen" vom 19. Februar 2026. Die Inhalte spiegeln den Rechtsstand und die verfügbaren RTS-Entwürfe zum Zeitpunkt der Veranstaltung wider.
 
-Frank Lässig Manager Compliance
+Frank Lässig Senior AML Compliance Manager
 
 Lena Pütz Head of Projects (Compliance) [lena.puetz@kerberos-cms.com](mailto:lena.puetz@kerberos-cms.com) +49 221 65088968
 
@@ -3593,7 +3593,7 @@ Lena Pütz Head of Projects (Compliance) [lena.puetz@kerberos-cms.com](mailto:le
 
 **Autor:**   
 **Datum:**   
-**Wortanzahl:** 385  
+**Wortanzahl:** 387  
 **Original:** https://www.kerberos-compliance.com/wissen/blog/eu-aml-verordnung-identifizierung-von-wirtschaftlich-berechtigten-wird-zur-rechenaufgabe  
 
 ---
@@ -3633,7 +3633,7 @@ Unsere AML-Expert:innen Frank Lässig und Laura Schäfer sind in einem Webinar a
 
 Laura Schäfer Managerin AML Compliance
 
-Frank Lässig Manager Compliance
+Frank Lässig Senior AML Compliance Manager
 
 ---
 
@@ -3920,7 +3920,7 @@ Mischa Wolf Manager Compliance Analytics
 
 **Autor:**   
 **Datum:**   
-**Wortanzahl:** 1,045  
+**Wortanzahl:** 1,047  
 **Original:** https://www.kerberos-compliance.com/wissen/blog/eu-listet-russland-als-hochrisikoland  
 
 ---
@@ -4023,7 +4023,7 @@ Praktische Auswirkung: Gering, da Russland bereits umfangreich sanktioniert
 
 Otis Benning Senior Associate Marketing
 
-Frank Lässig Manager Compliance
+Frank Lässig Senior AML Compliance Manager
 
 ---
 
@@ -4626,7 +4626,7 @@ Unser praxisorientiertes 90-Minuten-Webinar vermittelt Ihnen fundiertes Fachwiss
 
 **Autor:**   
 **Datum:**   
-**Wortanzahl:** 1,042  
+**Wortanzahl:** 1,044  
 **Original:** https://www.kerberos-compliance.com/wissen/blog/folgen-des-ampel-aus-fuer-die-geldwaeschebekaempfung  
 
 ---
@@ -4697,7 +4697,7 @@ Und in Frankfurt werden knapp 400 EU-Beamte über den europäischen Kampf gegen 
 
 Autor:
 
-Frank Lässig Manager Compliance
+Frank Lässig Senior AML Compliance Manager
 
 ---
 
@@ -4974,7 +4974,7 @@ Jan Wagner Associate Direct & Partner Sales [Jan.Wagner@kerberos-cms.com](mailto
 
 **Autor:**   
 **Datum:**   
-**Wortanzahl:** 1,038  
+**Wortanzahl:** 1,040  
 **Original:** https://www.kerberos-compliance.com/wissen/blog/geldwaesche-im-immobiliensektor-was-makler-jetzt-wissen-muessen  
 
 ---
@@ -5070,7 +5070,7 @@ Jan Wagner Associate Direct & Partner Sales [Jan.Wagner@kerberos-cms.com](mailto
 
 [Termin buchen](https://qrco.de/bfsMCR)
 
-Frank Lässig Manager Compliance
+Frank Lässig Senior AML Compliance Manager
 
 ---
 
@@ -6058,7 +6058,7 @@ Otis Benning Senior Associate Marketing
 
 **Autor:**   
 **Datum:**   
-**Wortanzahl:** 1,559  
+**Wortanzahl:** 1,561  
 **Original:** https://www.kerberos-compliance.com/wissen/blog/gwg-bussgelder-in-der-praxis-was-die-bafin-wirklich-ahndet-und-was-ab-2027-zaehlt  
 
 ---
@@ -6144,7 +6144,7 @@ Sie möchten wissen, wo Ihr Betrieb konkret steht? Kerberos Compliance-Managemen
 
 Laura Schäfer Managerin AML Compliance
 
-Frank Lässig Manager Compliance
+Frank Lässig Senior AML Compliance Manager
 
 ---
 
@@ -6600,7 +6600,7 @@ Dann melde Sie sich gerne bei uns. [Unsere Expert:innen helfen Ihnen gerne weite
 
 **Autor:**   
 **Datum:**   
-**Wortanzahl:** 737  
+**Wortanzahl:** 739  
 **Original:** https://www.kerberos-compliance.com/wissen/blog/immobiliensektor-behrdenprfungen-und-kundensorgfaltspflichten-richtig-meistern  
 
 ---
@@ -6703,7 +6703,7 @@ Jan Wagner Associate Direct & Partner Sales [Jan.Wagner@kerberos-cms.com](mailto
 
 [Termin buchen](https://qrco.de/bfsMCR)
 
-Frank Lässig Manager Compliance
+Frank Lässig Senior AML Compliance Manager
 
 ---
 
@@ -6773,7 +6773,7 @@ Otis Benning Senior Associate Marketing
 
 **Autor:**   
 **Datum:**   
-**Wortanzahl:** 1,158  
+**Wortanzahl:** 1,160  
 **Original:** https://www.kerberos-compliance.com/wissen/blog/jahresrueckblick-und-jahresausblick-geldwaeschepraevention-2025-2027  
 
 ---
@@ -6869,7 +6869,7 @@ Thomas Manzey Head of AML Compliance - Financial & Payment Services
 
 Florian Peters Head of AML Compliance
 
-Frank Lässig Manager Compliance
+Frank Lässig Senior AML Compliance Manager
 
 ---
 
@@ -6877,7 +6877,7 @@ Frank Lässig Manager Compliance
 
 **Autor:**   
 **Datum:**   
-**Wortanzahl:** 467  
+**Wortanzahl:** 469  
 **Original:** https://www.kerberos-compliance.com/wissen/blog/kampf-gegen-geldwsche-goldesel-auf-dem-weg-zum-goldstandard  
 
 ---
@@ -6926,7 +6926,7 @@ Wie Sie sich am besten auf Behördenprüfungen vorbreiten, erfahren Sie in diese
 
 Otis Benning Senior Associate Marketing
 
-Frank Lässig Manager Compliance
+Frank Lässig Senior AML Compliance Manager
 
 ---
 
@@ -7818,7 +7818,7 @@ Laura Schäfer Managerin AML Compliance
 
 **Autor:**   
 **Datum:**   
-**Wortanzahl:** 840  
+**Wortanzahl:** 842  
 **Original:** https://www.kerberos-compliance.com/wissen/blog/mehr-aufsicht-bessere-praevention-was-die-bafin-offensive-fuer-verpflichtete-wirklich-bedeutet  
 
 ---
@@ -7877,7 +7877,7 @@ Sie möchten wissen, ob Ihr Unternehmen für die verschärfte Aufsichtslage vorb
 
 ## Kontakt aufnehmen
 
-Frank Lässig Manager Compliance
+Frank Lässig Senior AML Compliance Manager
 
 ---
 
@@ -8177,7 +8177,7 @@ Thomas Manzey Head of AML Compliance - Financial & Payment Services
 
 **Autor:**   
 **Datum:**   
-**Wortanzahl:** 351  
+**Wortanzahl:** 353  
 **Original:** https://www.kerberos-compliance.com/wissen/blog/neue-auslegungs-und-anwendungshinweise-der-bafin  
 
 ---
@@ -8215,7 +8215,7 @@ Veröffentlicht: 2024-12-17
 - Die zur Überprüfung der erhobenen Daten herangezogenen Auszüge, dürfen nicht älter als drei Monate sein (Abs. 5.1.4.2)
 Autor:in:
 
-Frank Lässig Manager Compliance
+Frank Lässig Senior AML Compliance Manager
 
 ---
 
@@ -8613,7 +8613,7 @@ Florian Peters Head of AML Compliance
 
 **Autor:**   
 **Datum:**   
-**Wortanzahl:** 1,715  
+**Wortanzahl:** 1,717  
 **Original:** https://www.kerberos-compliance.com/wissen/blog/operation-chargeback-wenn-compliance-systeme-versagen  
 
 ---
@@ -8726,7 +8726,7 @@ Die zentralen Erkenntnisse aus dem Fall könnten sich wie folgt zusammenfassen l
 
 Sie möchten Ihre Compliance-Prozesse auf den Prüfstand stellen? Kerberos Compliance unterstützt Zahlungsdienstleister mit maßgeschneiderten Lösungen – von KYB-Checks bis zur Funktion des externen Geldwäschebeauftragten. Sprechen Sie uns an.
 
-Frank Lässig Manager Compliance
+Frank Lässig Senior AML Compliance Manager
 
 ---
 
@@ -9491,7 +9491,7 @@ Am 16. Dezember 2022 verabschiedete die EU schon das neunte Sanktionspaket. Stan
 
 **Autor:**   
 **Datum:**   
-**Wortanzahl:** 1,169  
+**Wortanzahl:** 1,171  
 **Original:** https://www.kerberos-compliance.com/wissen/blog/schleswig-holstein-bugelder-in-der-geldwscheaufsicht-steigen-um-115-prozent  
 
 ---
@@ -9619,7 +9619,7 @@ Quellen:
 
 - [Landtag Schleswig-Holstein, Drucksache 20/3841: 3. Tätigkeitsbericht der Geldwäscheaufsicht beim Finanzministerium des Landes Schleswig-Holstein für die Jahre 2023 und 2024](https://www.landtag.ltsh.de/infothek/wahl20/drucks/03800/drucksache-20-03841.pdf)
 - [Bußgeldbekanntmachungen der Geldwäscheaufsicht Schleswig-Holstein 2021-2025](https://www.schleswig-holstein.de/DE/fachinhalte/M/marktueberwachung/Downloads/Geldwaesche/bekanntmachungen_massnahmen.pdf?__blob=publicationFile&v=15)
-Frank Lässig Manager Compliance
+Frank Lässig Senior AML Compliance Manager
 
 ---
 
@@ -9829,7 +9829,7 @@ Fabian Müller Manager AML Compliance
 
 **Autor:**   
 **Datum:**   
-**Wortanzahl:** 1,980  
+**Wortanzahl:** 1,982  
 **Original:** https://www.kerberos-compliance.com/wissen/blog/transparenzregister-koordinierte-aufsicht-erweiterter-datenaustausch-die-systemischen-gwg-aenderungen-des-zollfinanzgerechtigkeitsgesetz-referentenentwurf  
 
 ---
@@ -9942,7 +9942,7 @@ Der ZFG-RefE verbindet eine grundrechtskonforme Neugestaltung des Transparenzreg
 
 Otis Benning Senior Associate Marketing
 
-Frank Lässig Manager Compliance
+Frank Lässig Senior AML Compliance Manager
 
 ---
 
@@ -10038,7 +10038,7 @@ Sollten sie dies bislang nicht gemacht haben, wird es Zeit. Aus den veröffentli
 
 **Autor:**   
 **Datum:**   
-**Wortanzahl:** 1,342  
+**Wortanzahl:** 1,344  
 **Original:** https://www.kerberos-compliance.com/wissen/blog/ubo-identifizierung-nach-der-eu-aml-verordnung-was-sich-ab-juli-2027-grundlegend-aendert  
 
 ---
@@ -10160,7 +10160,7 @@ Kerberos Compliance begleitet Verpflichtete bei der Vorbereitung auf die EU-AML-
 
 Laura Schäfer Managerin AML Compliance
 
-Frank Lässig Manager Compliance
+Frank Lässig Senior AML Compliance Manager
 
 ---
 
@@ -11228,7 +11228,7 @@ Um die Zertifizierung als Geldwäschebeauftragte, soweit diese vorhanden ist, zu
 
 **Autor:**   
 **Datum:**   
-**Wortanzahl:** 920  
+**Wortanzahl:** 922  
 **Original:** https://www.kerberos-compliance.com/wissen/blog/zwischen-innovation-und-risiko-kryptowaehrungen-im-fokus-des-geldwaeschebeauftragten  
 
 ---
@@ -11426,6 +11426,6 @@ Nächste Schritte: Bereiten Sie Ihre Organisation systematisch auf die MICAR-Ums
 
 Diese Zusammenfassung basiert auf dem Kerberos Compliance Webinar vom 10.07.2025 sowie aktuellen Erkenntnissen aus dem FIU-Jahresbericht 2024.
 
-Frank Lässig Manager Compliance
+Frank Lässig Senior AML Compliance Manager
 
 ---

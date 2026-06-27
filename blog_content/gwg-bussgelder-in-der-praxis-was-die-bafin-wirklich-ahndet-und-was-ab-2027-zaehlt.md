@@ -4,7 +4,7 @@ author: ""
 date: ""
 url: "https://www.kerberos-compliance.com/wissen/blog/gwg-bussgelder-in-der-praxis-was-die-bafin-wirklich-ahndet-und-was-ab-2027-zaehlt"
 excerpt: ""
-crawled_at: "2026-06-26T06:17:07.310278"
+crawled_at: "2026-06-27T05:58:28.711221"
 ---
 
 # GwG-Bußgelder in der Praxis: Was die BaFin wirklich ahndet – und was ab 2027 zählt
@@ -88,4 +88,4 @@ Sie möchten wissen, wo Ihr Betrieb konkret steht? Kerberos Compliance-Managemen
 
 Laura Schäfer Managerin AML Compliance
 
-Frank Lässig Manager Compliance
+Frank Lässig Senior AML Compliance Manager

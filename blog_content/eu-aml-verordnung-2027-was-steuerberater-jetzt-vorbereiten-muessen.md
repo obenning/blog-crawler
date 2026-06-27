@@ -4,7 +4,7 @@ author: ""
 date: ""
 url: "https://www.kerberos-compliance.com/wissen/blog/eu-aml-verordnung-2027-was-steuerberater-jetzt-vorbereiten-muessen"
 excerpt: ""
-crawled_at: "2026-06-26T06:16:58.926357"
+crawled_at: "2026-06-27T05:58:20.381604"
 ---
 
 # EU-AML-Verordnung 2027: Was Steuerberater jetzt vorbereiten müssen
@@ -83,6 +83,6 @@ Kerberos unterstützt Sie dabei: mit der Anpassung Ihrer bestehenden Compliance-
 
 ## Kontakt aufnehmen
 
-Frank Lässig Manager Compliance
+Frank Lässig Senior AML Compliance Manager
 
 Lena Pütz Head of Projects (Compliance) [lena.puetz@kerberos-cms.com](mailto:lena.puetz@kerberos-cms.com) +49 221 65088968

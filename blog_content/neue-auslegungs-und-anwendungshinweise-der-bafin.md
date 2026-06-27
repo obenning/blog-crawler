@@ -4,7 +4,7 @@ author: ""
 date: ""
 url: "https://www.kerberos-compliance.com/wissen/blog/neue-auslegungs-und-anwendungshinweise-der-bafin"
 excerpt: ""
-crawled_at: "2026-06-26T06:18:24.516802"
+crawled_at: "2026-06-27T05:59:44.922567"
 ---
 
 # Neue Auslegungs- und Anwendungshinweise der BaFin
@@ -40,4 +40,4 @@ Veröffentlicht: 2024-12-17
 - Die zur Überprüfung der erhobenen Daten herangezogenen Auszüge, dürfen nicht älter als drei Monate sein (Abs. 5.1.4.2)
 Autor:in:
 
-Frank Lässig Manager Compliance
+Frank Lässig Senior AML Compliance Manager
