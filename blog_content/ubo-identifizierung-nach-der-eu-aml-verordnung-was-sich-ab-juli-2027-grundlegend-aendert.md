@@ -4,7 +4,7 @@ author: ""
 date: ""
 url: "https://www.kerberos-compliance.com/wissen/blog/ubo-identifizierung-nach-der-eu-aml-verordnung-was-sich-ab-juli-2027-grundlegend-aendert"
 excerpt: ""
-crawled_at: "2026-06-29T06:57:03.215420"
+crawled_at: "2026-06-30T06:19:33.577647"
 ---
 
 # UBO-Identifizierung nach der EU-AML-Verordnung: Was sich ab Juli 2027 grundlegend ändert

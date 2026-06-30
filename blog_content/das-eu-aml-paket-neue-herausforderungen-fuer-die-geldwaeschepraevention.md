@@ -4,7 +4,7 @@ author: ""
 date: ""
 url: "https://www.kerberos-compliance.com/wissen/blog/das-eu-aml-paket-neue-herausforderungen-fuer-die-geldwaeschepraevention"
 excerpt: ""
-crawled_at: "2026-06-29T06:58:40.724764"
+crawled_at: "2026-06-30T06:21:23.333485"
 ---
 
 # Das EU-AML-Paket: Neue Herausforderungen für die Geldwäscheprävention
