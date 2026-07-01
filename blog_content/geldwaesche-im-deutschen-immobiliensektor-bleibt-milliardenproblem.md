@@ -4,7 +4,7 @@ author: ""
 date: ""
 url: "https://www.kerberos-compliance.com/wissen/blog/geldwaesche-im-deutschen-immobiliensektor-bleibt-milliardenproblem"
 excerpt: ""
-crawled_at: "2026-06-30T06:20:36.463278"
+crawled_at: "2026-07-01T06:40:26.114351"
 ---
 
 # Geldwäsche im deutschen Immobiliensektor bleibt Milliardenproblem
@@ -17,11 +17,11 @@ crawled_at: "2026-06-30T06:20:36.463278"
 
 Veröffentlicht: 2025-06-20
 
+Bislang galten Steuerberater im Sinne des Geldwäschegesetzes häufig als privilegiert. Anders als Verpflichtete aus der Finanzbranche oder auch Güterhändler mussten sie die Pflichten nach dem Geldwäschegesetz nur stufenweise umsetzen. Abhängig von der Anzahl ihrer Berufsträger. Das ändert sich mit der EU-AML-Verordnung. Was auf Steuerberater zukommt erklärt Lena Pütz in diesem kostenfreien Kompakt-Webinar. Wir freuen uns auf Ihre Teilnahme und Ihre Fragen.
+
 BaFin-Rundschreiben 2025 (April, Juli, Dezember) fokussieren Iran-Umgehungsgeschäfte. Lernen Sie typische Umgehungsmodelle und Red Flags kennen. Enhanced Due Diligence (EDD) bei Hochrisiko, Sanktionsprüfung und praktische Fallbeispiele für Finanzsektor und Außenhandel.
 
 Die EU-AMLR macht Fußballklubs und Spielervermittler ab Juli 2029 zu Verpflichteten. Warum ist Fußball ein Geldwäscherisiko? Transfergeschäfte, Spielervermittlung und Sorgfaltspflichten für Klubs. Zeitplan zur Vorbereitung und Best Practices aus anderen Branchen – jetzt handeln!
-
-Unser praxisorientiertes 90-Minuten-Webinar vermittelt Ihnen fundiertes Fachwissen zur Geschäftspartnerprüfungen (KYC) im Immobiliensektor und hilft Ihnen, Ihre gesetzlichen Verpflichtungen rechtssicher zu erfüllen. Die Teilnahme wird mit 1 1/2 Stunden auf Ihre MaBV-Weiterbildungspflicht angerechnet (§ 15b MaBV).
 
 Die Geldwäsche in Deutschland erreicht ein geschätztes Volumen von bis zu 100 Milliarden Euro jährlich und stellt damit eine der große Bedrohungen für die Marktintegrität dar. Trotz verschärfter Gesetze und verstärkter Kontrollen seit 2023 bleiben auch im Immobiliensektor erhebliche Schwachstellen bestehen, die umfassende Reformen erfordern. Die Branche steht vor der Herausforderung, zwischen beruflichen Vertraulichkeitspflichten und präventiven Meldepflichten zu navigieren, während sie gleichzeitig mit komplexen internationalen Eigentümerstrukturen und unzureichenden technologischen Lösungen konfrontiert ist. Die geplante Harmonisierung der EU-Vorschriften bis 2027 versprechen eine grundlegende Neuausrichtung der deutschen Anti-Geldwäsche-Strategie.
 
