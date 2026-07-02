@@ -4,7 +4,7 @@ author: ""
 date: ""
 url: "https://www.kerberos-compliance.com/wissen/blog/erfahrungsbericht-ich-bin-zertifizierte-geldwschebeauftragte-geworden"
 excerpt: ""
-crawled_at: "2026-07-01T06:41:04.707983"
+crawled_at: "2026-07-02T06:07:35.142228"
 ---
 
 # Erfahrungsbericht: Ich bin zertifizierte Geldwäschebeauftragte (geworden)
@@ -54,5 +54,3 @@ Was einen weiteren Punkt deutlich macht: Geldwäscheprävention muss zwar in jed
 Nach vier Tagen Schulung habe ich mich gut auf die DEKRA Prüfung vorbereitet gefühlt. Aus meiner Sicht ist darüber hinaus fast viel wichtiger, dass ich in dieser kurzen Zeit auch gelernt habe, kritischer an viele Fälle und ihre Bewertung heranzugehen. Durch die Teilnahme an der Schulung und die Beiträge der Expert:innen, habe ich mir eine neue Denkweise angeeignet, welche mir in Zukunft im Rahmen meiner Tätigkeit große Vorteile bringen wird.
 
 Autor:in:
-
-Eva Blöchl Senior Associate AML Compliance [Eva.Bloechl@kerberos-cms.com](mailto:Eva.Bloechl@kerberos-cms.com) [+49 221 65088151](tel:+4922165088151)

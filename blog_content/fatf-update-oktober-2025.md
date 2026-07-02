@@ -4,7 +4,7 @@ author: ""
 date: ""
 url: "https://www.kerberos-compliance.com/wissen/blog/fatf-update-oktober-2025"
 excerpt: ""
-crawled_at: "2026-07-01T06:40:04.048687"
+crawled_at: "2026-07-02T06:06:29.117418"
 ---
 
 # FATF-Update Oktober 2025: Vier Länder von der Grauen Liste gestrichen
@@ -44,5 +44,3 @@ Merke: Für deutsche Verpflichtete ist die EU-Liste rechtlich bindend – nicht 
 Iran, Nordkorea und Myanmar verbleiben auf der Hochrisiko-Liste (Schwarze Liste) ohne wesentliche Änderungen. Hier gelten weiterhin strikte Gegenmaßnahmen.
 
 Für Kerberos-Kunden: Die aktualisierten FATF- und EU-Listen werden automatisch für Prüfungen herangezogen. Von Ihrer Seite sind keine manuellen Anpassungen erforderlich.
-
-Eva Blöchl Senior Associate AML Compliance [Eva.Bloechl@kerberos-cms.com](mailto:Eva.Bloechl@kerberos-cms.com) [+49 221 65088151](tel:+4922165088151)

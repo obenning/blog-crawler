@@ -1,10 +1,10 @@
 # Blog Content Archive
 
-Automatisch gecrawlt am: 2026-07-01 06:42:19
+Automatisch gecrawlt am: 2026-07-02 06:08:55
 
 **Statistik:**
-- Gesamt Artikel: 135
-- Erfolgreich gecrawlt: 135
+- Gesamt Artikel: 136
+- Erfolgreich gecrawlt: 136
 - Fehlgeschlagen: 0
 
 **Quelle:** https://www.kerberos-compliance.com/wissen/blog
@@ -106,6 +106,7 @@ Automatisch gecrawlt am: 2026-07-01 06:42:19
 - [Keine Freigabe, kein Closing." - Über die Wichtigkeit von AML-Compliance beim Investoren-Onboarding](aml-compliance-bei-kvgen.md) -  ()
 - [AMLA-Guidelines zur Risikoanalyse: Neue Pflichten für alle Verpflichteten](amla-guidelines-zur-risikoanalyse-neue-pflichten-fuer-alle-verpflichteten.md) -  ()
 - [Prüfungen im Nacken - darum lohnt sich Prävention](prufungen-im-nacken-darum-lohnt-sich-pravention.md) -  ()
+- [AMLR ab 2027: Welche Geldwäsche-Pflichten Kraftfahrzeughändler treffen](amlr-ab-2027-welche-geldwaesche-pflichten-kraftfahrzeughaendler-treffen.md) -  ()
 - [KYC leicht gemacht: Geldwäscheprävention ist digital](kyc-leicht-gemacht-geldwscheprvention-ist-digital.md) -  ()
 - [Geldwäschebeauftragte leisten einen direkten Beitrag zur Sicherheit des Finanzsystems](geldwaschebeauftragte-leisten-einen-direkten-beitrag-zur-sicherheit-des-finanzsystems.md) -  ()
 - [21-jähriger Sohn von Clanchef Abou-Chaker ersteigert Villen für über 7 Millionen Euro](21-jahriger-sohn-von-clanchef-abou-chaker-ersteigert-villen-fur-uber-7-millionen-euro.md) -  ()

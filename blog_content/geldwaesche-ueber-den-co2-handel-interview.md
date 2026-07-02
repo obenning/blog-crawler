@@ -4,7 +4,7 @@ author: ""
 date: ""
 url: "https://www.kerberos-compliance.com/wissen/blog/geldwaesche-ueber-den-co2-handel-interview"
 excerpt: ""
-crawled_at: "2026-07-01T06:40:19.923136"
+crawled_at: "2026-07-02T06:06:46.335202"
 ---
 
 # Geldwäsche über den CO2-Handel - Interview
@@ -58,7 +58,5 @@ Wir stehen Verpflichteten mit Rat und Tat zur Verfügung. Als externe Geldwäsch
 Wenn wir externe Geldwäschebeauftragte stellen, unterstützen wir nicht nur bei der Erstellung von Risikoanalysen sowie deren regelmäßiger Aktualisierung. Wir unterstützen auch bei internen Sicherungsmaßnahmen, Mitarbeiterschulungen, Geschäftspartnerprüfungen und der Umsetzung aller weiterer AML-Pflichten.
 
 Zudem unterstützen wir Geldwäschebeauftragte innerhalb Unternehmen ebenfalls durch die oben genannten Maßnahmen, wenn wir selbst nicht die Geldwäschebeauftragten stellen. Hierdurch entlasten wir Verpflichtete langfristig in ihrer Compliance – insbesondere vor dem Hintergrund steigender Anforderungen, die durch die EU-AML-Verordnung ab 2027 noch einmal umfangreicher werden.
-
-Eva Blöchl Senior Associate AML Compliance [Eva.Bloechl@kerberos-cms.com](mailto:Eva.Bloechl@kerberos-cms.com) [+49 221 65088151](tel:+4922165088151)
 
 Otis Benning Senior Associate Marketing

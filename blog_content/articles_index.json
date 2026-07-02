@@ -1,6 +1,6 @@
 {
-  "generated": "2026-07-01T06:42:19.559490",
-  "total_articles": 135,
+  "generated": "2026-07-02T06:08:56.007584",
+  "total_articles": 136,
   "articles": [
     {
       "filename": "21-jahriger-sohn-von-clanchef-abou-chaker-ersteigert-villen-fur-uber-7-millionen-euro.md",
@@ -111,6 +111,16 @@
       "excerpt": "# AMLA-Sanktions-RTS: Was Verbände der EU zurückgemeldet haben – und was das für Ihren Betrieb bedeutet\n\n**Autor:**   \n**Datum:**   \n**URL:** https://www.kerberos-compliance.com/wissen/blog/amla-sankt...",
       "raw_url": "https://raw.githubusercontent.com/obenning/blog-crawler/main/blog_content/amla-sanktions-rts-was-verbaende-der-eu-zurueckgemeldet-haben-und-was-das-fuer-ihren-betrieb-bedeute.md",
       "word_count": 1204
+    },
+    {
+      "filename": "amlr-ab-2027-welche-geldwaesche-pflichten-kraftfahrzeughaendler-treffen.md",
+      "title": "AMLR ab 2027: Welche Geldwäsche-Pflichten Kraftfahrzeughändler treffen",
+      "author": "",
+      "date": "",
+      "url": "https://www.kerberos-compliance.com/wissen/blog/amlr-ab-2027-welche-geldwaesche-pflichten-kraftfahrzeughaendler-treffen",
+      "excerpt": "# AMLR ab 2027: Welche Geldwäsche-Pflichten Kraftfahrzeughändler treffen\n\n**Autor:**   \n**Datum:**   \n**URL:** https://www.kerberos-compliance.com/wissen/blog/amlr-ab-2027-welche-geldwaesche-pflichten...",
+      "raw_url": "https://raw.githubusercontent.com/obenning/blog-crawler/main/blog_content/amlr-ab-2027-welche-geldwaesche-pflichten-kraftfahrzeughaendler-treffen.md",
+      "word_count": 1219
     },
     {
       "filename": "bafin-aufsicht-bei-kvgen.md",
@@ -370,7 +380,7 @@
       "url": "https://www.kerberos-compliance.com/wissen/blog/erfahrungsbericht-ich-bin-zertifizierte-geldwschebeauftragte-geworden",
       "excerpt": "# Erfahrungsbericht: Ich bin zertifizierte Geldwäschebeauftragte (geworden)\n\n**Autor:**   \n**Datum:**   \n**URL:** https://www.kerberos-compliance.com/wissen/blog/erfahrungsbericht-ich-bin-zertifiziert...",
       "raw_url": "https://raw.githubusercontent.com/obenning/blog-crawler/main/blog_content/erfahrungsbericht-ich-bin-zertifizierte-geldwschebeauftragte-geworden.md",
-      "word_count": 729
+      "word_count": 719
     },
     {
       "filename": "eu-aml-verordnung-2027-so-begleitet-kerberos-compliance-ihre-vorbereitung.md",
@@ -500,7 +510,7 @@
       "url": "https://www.kerberos-compliance.com/wissen/blog/fatf-update-oktober-2025",
       "excerpt": "# FATF-Update Oktober 2025: Vier Länder von der Grauen Liste gestrichen\n\n**Autor:**   \n**Datum:**   \n**URL:** https://www.kerberos-compliance.com/wissen/blog/fatf-update-oktober-2025\n\n---\n\nVeröffentli...",
       "raw_url": "https://raw.githubusercontent.com/obenning/blog-crawler/main/blog_content/fatf-update-oktober-2025.md",
-      "word_count": 353
+      "word_count": 343
     },
     {
       "filename": "final-countdown-manahmen-die-sie-bis-ende-2024-aktualisieren-sollten.md",
@@ -590,7 +600,7 @@
       "url": "https://www.kerberos-compliance.com/wissen/blog/geldwaesche-ueber-den-co2-handel-interview",
       "excerpt": "# Geldwäsche über den CO2-Handel - Interview\n\n**Autor:**   \n**Datum:**   \n**URL:** https://www.kerberos-compliance.com/wissen/blog/geldwaesche-ueber-den-co2-handel-interview\n\n---\n\nVeröffentlicht: 2025...",
       "raw_url": "https://raw.githubusercontent.com/obenning/blog-crawler/main/blog_content/geldwaesche-ueber-den-co2-handel-interview.md",
-      "word_count": 669
+      "word_count": 659
     },
     {
       "filename": "geldwaeschebeauftragte-fuer-kvgen-zwischen-steigenden-anforderungen-und-komplexen-strukturen.md",

@@ -1,8 +1,8 @@
 {
-  "crawled_at": "2026-07-01T06:42:19.452025",
+  "crawled_at": "2026-07-02T06:08:55.898426",
   "base_url": "https://www.kerberos-compliance.com/wissen/blog",
-  "total_articles": 135,
-  "successful": 135,
+  "total_articles": 136,
+  "successful": 136,
   "failed": 0,
   "articles": [
     {
@@ -669,6 +669,13 @@
       "author": "",
       "date": "",
       "url": "https://www.kerberos-compliance.com/wissen/blog/prufungen-im-nacken-darum-lohnt-sich-pravention"
+    },
+    {
+      "filename": "amlr-ab-2027-welche-geldwaesche-pflichten-kraftfahrzeughaendler-treffen.md",
+      "title": "AMLR ab 2027: Welche Geldwäsche-Pflichten Kraftfahrzeughändler treffen",
+      "author": "",
+      "date": "",
+      "url": "https://www.kerberos-compliance.com/wissen/blog/amlr-ab-2027-welche-geldwaesche-pflichten-kraftfahrzeughaendler-treffen"
     },
     {
       "filename": "kyc-leicht-gemacht-geldwscheprvention-ist-digital.md",
