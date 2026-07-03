@@ -4,7 +4,7 @@ author: ""
 date: ""
 url: "https://www.kerberos-compliance.com/wissen/blog/weihnachtsgruesse-von-christian-tsambikakis-geschaeftsfuehrer"
 excerpt: ""
-crawled_at: "2026-07-02T06:06:15.119834"
+crawled_at: "2026-07-03T06:00:14.653167"
 ---
 
 # Weihnachtsgrüße von Christian Tsambikakis - Geschäftsführer
