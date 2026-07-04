@@ -4,7 +4,7 @@ author: ""
 date: ""
 url: "https://www.kerberos-compliance.com/wissen/blog/gwg-bussgelder-in-der-praxis-was-die-bafin-wirklich-ahndet-und-was-ab-2027-zaehlt"
 excerpt: ""
-crawled_at: "2026-07-03T06:00:04.209196"
+crawled_at: "2026-07-04T05:52:11.515618"
 ---
 
 # GwG-Bußgelder in der Praxis: Was die BaFin wirklich ahndet – und was ab 2027 zählt

@@ -4,7 +4,7 @@ author: ""
 date: ""
 url: "https://www.kerberos-compliance.com/wissen/blog/bussgelder-behoerden-und-ein-neues-register-das-finanzkriminalitaetsbekaempfungsgesetz"
 excerpt: ""
-crawled_at: "2026-07-03T06:01:49.025332"
+crawled_at: "2026-07-04T05:53:46.427286"
 ---
 
 # Bußgelder, Behörden und ein neues Register – das Finanzkriminalitätsbekämpfungsgesetz

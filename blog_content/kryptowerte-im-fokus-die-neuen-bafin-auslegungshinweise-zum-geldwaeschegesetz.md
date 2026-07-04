@@ -4,7 +4,7 @@ author: ""
 date: ""
 url: "https://www.kerberos-compliance.com/wissen/blog/kryptowerte-im-fokus-die-neuen-bafin-auslegungshinweise-zum-geldwaeschegesetz"
 excerpt: ""
-crawled_at: "2026-07-03T06:01:22.701950"
+crawled_at: "2026-07-04T05:53:24.122865"
 ---
 
 # Kryptowerte im Fokus: Die neuen BaFin-Auslegungshinweise zum Geldwäschegesetz

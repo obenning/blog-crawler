@@ -4,7 +4,7 @@ author: ""
 date: ""
 url: "https://www.kerberos-compliance.com/wissen/blog/eu-listet-russland-als-hochrisikoland"
 excerpt: ""
-crawled_at: "2026-07-03T06:00:12.410356"
+crawled_at: "2026-07-04T05:52:18.959162"
 ---
 
 # Compliance-Experte Frank Lässig über neue Geldwäsche-Pflichten, verstärkte Sorgfaltspflichten und warum die Praxis sich kaum ändert
