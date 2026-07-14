@@ -4,7 +4,7 @@ author: ""
 date: ""
 url: "https://www.kerberos-compliance.com/wissen/blog/pflicht-zur-registrierung-im-meldeportal-goaml"
 excerpt: ""
-crawled_at: "2026-07-13T05:47:22.153395"
+crawled_at: "2026-07-14T04:58:49.946847"
 ---
 
 # Übergangsregelungen: Pflicht zur Registrierung im Meldeportal goAML
