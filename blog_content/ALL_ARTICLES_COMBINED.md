@@ -1,8 +1,8 @@
 # 📚 Kerberos Compliance Blog - Alle Artikel
 
-**Generiert:** 14.07.2026 04:59
+**Generiert:** 15.07.2026 04:59
 **Anzahl Artikel:** 137
-**Gesamtwortanzahl:** 117,557
+**Gesamtwortanzahl:** 117,479
 
 ---
 
@@ -332,7 +332,7 @@ Die drei Tage können nur abgekürzt werden, wenn eine Staatsanwaltschaft oder d
 
 # Blog Content Archive
 
-Automatisch gecrawlt am: 2026-07-14 04:59:19
+Automatisch gecrawlt am: 2026-07-15 04:59:44
 
 **Statistik:**
 - Gesamt Artikel: 133
@@ -2323,7 +2323,7 @@ Vielen Dank.
 
 **Autor:**   
 **Datum:**   
-**Wortanzahl:** 583  
+**Wortanzahl:** 557  
 **Original:** https://www.kerberos-compliance.com/wissen/blog/compliance-fort-bildungsangebote-fuer-2025  
 
 ---
@@ -2356,11 +2356,11 @@ Als Verpflichtete nach dem Geldwäschegesetz besteht für Sie und Ihre Mitarbeit
 
 ## Webinare:
 
-Bislang galten Steuerberater im Sinne des Geldwäschegesetzes häufig als privilegiert. Anders als Verpflichtete aus der Finanzbranche oder auch Güterhändler mussten sie die Pflichten nach dem Geldwäschegesetz nur stufenweise umsetzen. Abhängig von der Anzahl ihrer Berufsträger. Das ändert sich mit der EU-AML-Verordnung. Was auf Steuerberater zukommt erklärt Lena Pütz in diesem kostenfreien Kompakt-Webinar. Wir freuen uns auf Ihre Teilnahme und Ihre Fragen.
-
 BaFin-Rundschreiben 2025 (April, Juli, Dezember) fokussieren Iran-Umgehungsgeschäfte. Lernen Sie typische Umgehungsmodelle und Red Flags kennen. Enhanced Due Diligence (EDD) bei Hochrisiko, Sanktionsprüfung und praktische Fallbeispiele für Finanzsektor und Außenhandel.
 
 Die EU-AMLR macht Fußballklubs und Spielervermittler ab Juli 2029 zu Verpflichteten. Warum ist Fußball ein Geldwäscherisiko? Transfergeschäfte, Spielervermittlung und Sorgfaltspflichten für Klubs. Zeitplan zur Vorbereitung und Best Practices aus anderen Branchen – jetzt handeln!
+
+Unser praxisorientiertes 90-Minuten-Webinar vermittelt Ihnen fundiertes Fachwissen zur Geschäftspartnerprüfungen (KYC) im Immobiliensektor und hilft Ihnen, Ihre gesetzlichen Verpflichtungen rechtssicher zu erfüllen. Die Teilnahme wird mit 1 1/2 Stunden auf Ihre MaBV-Weiterbildungspflicht angerechnet (§ 15b MaBV).
 
 Weitere Webinare kommen im Laufe der Zeit dazu. Folgen Sie uns auf [LinkedIn](https://www.linkedin.com/company/kerberos-compliance) , Abonnieren Sie unseren [Newsletter](https://www.kerberos-compliance.com/wissen/newsletter-anmeldung) oder besuchen Sie unsere Website um über unser aktuelles Angebot informiert zu bleiben.
 
@@ -4594,7 +4594,7 @@ Otis Benning Senior Associate Marketing
 
 **Autor:**   
 **Datum:**   
-**Wortanzahl:** 1,053  
+**Wortanzahl:** 1,027  
 **Original:** https://www.kerberos-compliance.com/wissen/blog/fiu-jahresbericht-es-gibt-sie-noch-die-guten-nachrichten-oder  
 
 ---
@@ -4673,11 +4673,11 @@ Auch wir von Kerberos sind hier aktiv – beispielsweise durch regelmäßige Inf
 
 Alle aktuellen Webinar-Angebote finden Sie hier: [Unsere Veranstaltungen](https://www.kerberos-compliance.com/wissen/veranstaltungen)
 
-Bislang galten Steuerberater im Sinne des Geldwäschegesetzes häufig als privilegiert. Anders als Verpflichtete aus der Finanzbranche oder auch Güterhändler mussten sie die Pflichten nach dem Geldwäschegesetz nur stufenweise umsetzen. Abhängig von der Anzahl ihrer Berufsträger. Das ändert sich mit der EU-AML-Verordnung. Was auf Steuerberater zukommt erklärt Lena Pütz in diesem kostenfreien Kompakt-Webinar. Wir freuen uns auf Ihre Teilnahme und Ihre Fragen.
-
 BaFin-Rundschreiben 2025 (April, Juli, Dezember) fokussieren Iran-Umgehungsgeschäfte. Lernen Sie typische Umgehungsmodelle und Red Flags kennen. Enhanced Due Diligence (EDD) bei Hochrisiko, Sanktionsprüfung und praktische Fallbeispiele für Finanzsektor und Außenhandel.
 
 Die EU-AMLR macht Fußballklubs und Spielervermittler ab Juli 2029 zu Verpflichteten. Warum ist Fußball ein Geldwäscherisiko? Transfergeschäfte, Spielervermittlung und Sorgfaltspflichten für Klubs. Zeitplan zur Vorbereitung und Best Practices aus anderen Branchen – jetzt handeln!
+
+Unser praxisorientiertes 90-Minuten-Webinar vermittelt Ihnen fundiertes Fachwissen zur Geschäftspartnerprüfungen (KYC) im Immobiliensektor und hilft Ihnen, Ihre gesetzlichen Verpflichtungen rechtssicher zu erfüllen. Die Teilnahme wird mit 1 1/2 Stunden auf Ihre MaBV-Weiterbildungspflicht angerechnet (§ 15b MaBV).
 
 ---
 
@@ -4940,7 +4940,7 @@ Otis Benning Senior Associate Marketing
 
 **Autor:**   
 **Datum:**   
-**Wortanzahl:** 998  
+**Wortanzahl:** 972  
 **Original:** https://www.kerberos-compliance.com/wissen/blog/geldwaesche-im-deutschen-immobiliensektor-bleibt-milliardenproblem  
 
 ---
@@ -4955,11 +4955,11 @@ Otis Benning Senior Associate Marketing
 
 Veröffentlicht: 2025-06-20
 
-Bislang galten Steuerberater im Sinne des Geldwäschegesetzes häufig als privilegiert. Anders als Verpflichtete aus der Finanzbranche oder auch Güterhändler mussten sie die Pflichten nach dem Geldwäschegesetz nur stufenweise umsetzen. Abhängig von der Anzahl ihrer Berufsträger. Das ändert sich mit der EU-AML-Verordnung. Was auf Steuerberater zukommt erklärt Lena Pütz in diesem kostenfreien Kompakt-Webinar. Wir freuen uns auf Ihre Teilnahme und Ihre Fragen.
-
 BaFin-Rundschreiben 2025 (April, Juli, Dezember) fokussieren Iran-Umgehungsgeschäfte. Lernen Sie typische Umgehungsmodelle und Red Flags kennen. Enhanced Due Diligence (EDD) bei Hochrisiko, Sanktionsprüfung und praktische Fallbeispiele für Finanzsektor und Außenhandel.
 
 Die EU-AMLR macht Fußballklubs und Spielervermittler ab Juli 2029 zu Verpflichteten. Warum ist Fußball ein Geldwäscherisiko? Transfergeschäfte, Spielervermittlung und Sorgfaltspflichten für Klubs. Zeitplan zur Vorbereitung und Best Practices aus anderen Branchen – jetzt handeln!
+
+Unser praxisorientiertes 90-Minuten-Webinar vermittelt Ihnen fundiertes Fachwissen zur Geschäftspartnerprüfungen (KYC) im Immobiliensektor und hilft Ihnen, Ihre gesetzlichen Verpflichtungen rechtssicher zu erfüllen. Die Teilnahme wird mit 1 1/2 Stunden auf Ihre MaBV-Weiterbildungspflicht angerechnet (§ 15b MaBV).
 
 Die Geldwäsche in Deutschland erreicht ein geschätztes Volumen von bis zu 100 Milliarden Euro jährlich und stellt damit eine der große Bedrohungen für die Marktintegrität dar. Trotz verschärfter Gesetze und verstärkter Kontrollen seit 2023 bleiben auch im Immobiliensektor erhebliche Schwachstellen bestehen, die umfassende Reformen erfordern. Die Branche steht vor der Herausforderung, zwischen beruflichen Vertraulichkeitspflichten und präventiven Meldepflichten zu navigieren, während sie gleichzeitig mit komplexen internationalen Eigentümerstrukturen und unzureichenden technologischen Lösungen konfrontiert ist. Die geplante Harmonisierung der EU-Vorschriften bis 2027 versprechen eine grundlegende Neuausrichtung der deutschen Anti-Geldwäsche-Strategie.
 

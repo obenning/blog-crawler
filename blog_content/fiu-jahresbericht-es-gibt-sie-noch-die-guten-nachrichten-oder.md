@@ -4,7 +4,7 @@ author: ""
 date: ""
 url: "https://www.kerberos-compliance.com/wissen/blog/fiu-jahresbericht-es-gibt-sie-noch-die-guten-nachrichten-oder"
 excerpt: ""
-crawled_at: "2026-07-14T04:58:03.931466"
+crawled_at: "2026-07-15T04:58:19.339572"
 ---
 
 # FIU Jahresbericht 2023: Es gibt sie noch, die guten Nachrichten – oder?
@@ -81,8 +81,8 @@ Auch wir von Kerberos sind hier aktiv – beispielsweise durch regelmäßige Inf
 
 Alle aktuellen Webinar-Angebote finden Sie hier: [Unsere Veranstaltungen](https://www.kerberos-compliance.com/wissen/veranstaltungen)
 
-Bislang galten Steuerberater im Sinne des Geldwäschegesetzes häufig als privilegiert. Anders als Verpflichtete aus der Finanzbranche oder auch Güterhändler mussten sie die Pflichten nach dem Geldwäschegesetz nur stufenweise umsetzen. Abhängig von der Anzahl ihrer Berufsträger. Das ändert sich mit der EU-AML-Verordnung. Was auf Steuerberater zukommt erklärt Lena Pütz in diesem kostenfreien Kompakt-Webinar. Wir freuen uns auf Ihre Teilnahme und Ihre Fragen.
-
 BaFin-Rundschreiben 2025 (April, Juli, Dezember) fokussieren Iran-Umgehungsgeschäfte. Lernen Sie typische Umgehungsmodelle und Red Flags kennen. Enhanced Due Diligence (EDD) bei Hochrisiko, Sanktionsprüfung und praktische Fallbeispiele für Finanzsektor und Außenhandel.
 
 Die EU-AMLR macht Fußballklubs und Spielervermittler ab Juli 2029 zu Verpflichteten. Warum ist Fußball ein Geldwäscherisiko? Transfergeschäfte, Spielervermittlung und Sorgfaltspflichten für Klubs. Zeitplan zur Vorbereitung und Best Practices aus anderen Branchen – jetzt handeln!
+
+Unser praxisorientiertes 90-Minuten-Webinar vermittelt Ihnen fundiertes Fachwissen zur Geschäftspartnerprüfungen (KYC) im Immobiliensektor und hilft Ihnen, Ihre gesetzlichen Verpflichtungen rechtssicher zu erfüllen. Die Teilnahme wird mit 1 1/2 Stunden auf Ihre MaBV-Weiterbildungspflicht angerechnet (§ 15b MaBV).
