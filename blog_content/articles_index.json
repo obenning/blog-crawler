@@ -1,6 +1,6 @@
 {
-  "generated": "2026-07-16T05:19:35.790348",
-  "total_articles": 136,
+  "generated": "2026-07-17T05:22:29.414719",
+  "total_articles": 137,
   "articles": [
     {
       "filename": "21-jahriger-sohn-von-clanchef-abou-chaker-ersteigert-villen-fur-uber-7-millionen-euro.md",
@@ -421,6 +421,16 @@
       "excerpt": "# EU-AML-Verordnung: Identifizierung von wirtschaftlich Berechtigten wird zur Rechenaufgabe\n\n**Autor:**   \n**Datum:**   \n**URL:** https://www.kerberos-compliance.com/wissen/blog/eu-aml-verordnung-iden...",
       "raw_url": "https://raw.githubusercontent.com/obenning/blog-crawler/main/blog_content/eu-aml-verordnung-identifizierung-von-wirtschaftlich-berechtigten-wird-zur-rechenaufgabe.md",
       "word_count": 387
+    },
+    {
+      "filename": "eu-aml-verordnung-was-sich-fuer-steuerberater-aendert.md",
+      "title": "EU-AML-Verordnung: Was sich für Steuerberater bei UBO-Prüfung, Sanktionsrecht und Geldwäschebeauftragten konkret ändert",
+      "author": "",
+      "date": "",
+      "url": "https://www.kerberos-compliance.com/wissen/blog/eu-aml-verordnung-was-sich-fuer-steuerberater-aendert",
+      "excerpt": "# EU-AML-Verordnung: Was sich für Steuerberater bei UBO-Prüfung, Sanktionsrecht und Geldwäschebeauftragten konkret ändert\n\n**Autor:**   \n**Datum:**   \n**URL:** https://www.kerberos-compliance.com/wiss...",
+      "raw_url": "https://raw.githubusercontent.com/obenning/blog-crawler/main/blog_content/eu-aml-verordnung-was-sich-fuer-steuerberater-aendert.md",
+      "word_count": 910
     },
     {
       "filename": "eu-aml-vor-neue-kyc-pruefpflichten-fuer-kapitalverwaltungsgesellschaften.md",
