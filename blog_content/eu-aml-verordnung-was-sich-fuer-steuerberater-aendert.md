@@ -4,7 +4,7 @@ author: ""
 date: ""
 url: "https://www.kerberos-compliance.com/wissen/blog/eu-aml-verordnung-was-sich-fuer-steuerberater-aendert"
 excerpt: ""
-crawled_at: "2026-07-22T05:25:37.291382"
+crawled_at: "2026-07-23T05:31:38.940489"
 ---
 
 # EU-AML-Verordnung: Was sich für Steuerberater bei UBO-Prüfung, Sanktionsrecht und Geldwäschebeauftragten konkret ändert

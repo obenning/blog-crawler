@@ -1,10 +1,10 @@
 # Blog Content Archive
 
-Automatisch gecrawlt am: 2026-07-22 05:28:28
+Automatisch gecrawlt am: 2026-07-23 05:34:49
 
 **Statistik:**
-- Gesamt Artikel: 134
-- Erfolgreich gecrawlt: 134
+- Gesamt Artikel: 135
+- Erfolgreich gecrawlt: 135
 - Fehlgeschlagen: 0
 
 **Quelle:** https://www.kerberos-compliance.com/wissen/blog
@@ -144,6 +144,7 @@ Automatisch gecrawlt am: 2026-07-22 05:28:28
 - [Das müssen Rechtsanwälte und Kanzleien zur Ihren Pflichten nach dem Geldwäschegesetz wissen.](das-muessen-rechtsanwaelte-und-kanzleien-zur-ihren-pflichten-nach-dem-geldwaeschegesetz-wissen.md) -  ()
 - [“Schutzmaßnahmen „auslaufen“ zu lassen, scheint mir gefährlich” - Interview mit dem Compliance Beauftragten der thyssenkrupp AG](schutzmassnahmen-auslaufen-zu-lassen-scheint-mir-gefhrlich-interview-mit-dem-compliance-beauftragten.md) -  ()
 - [Neue Auslegungs- und Anwendungshinweise zum Geldwäschegesetz für die Anwaltschaft](neue-auslegungs-und-anwendungshinweise-zum-geldwaeschegesetz-fuer-die-anwaltschaft.md) -  ()
+- [Registrieren lohnt sich! FIU-Jahresbericht 2025 - Learnings für Verpflichtete](registrieren-lohnt-sich-fiu-jahresbericht-2025-learnings-fuer-verpflichtete.md) -  ()
 - [Galerie, Auktionshaus, Kunstspedition: Was die EU-AML-VO ab 2027 für den Kunstmarkt bedeutet](galerie-auktionshaus-kunstspedition-was-die-eu-aml-vo-ab-2027-fuer-den-kunstmarkt-bedeutet.md) -  ()
 - [BaFin-Aufsicht bei KVGen: Was sich 2026 verändert hat – und was 2027 konkret kommt](bafin-aufsicht-bei-kvgen.md) -  ()
 - [Das Verdachtsmeldewesen ist kein Bürokratie-Marathon, sondern ein Frühwarnsystem](das-verdachtsmeldewesen-ist-kein-buerokratie-marathon-sondern-ein-fruehwarnsystem.md) -  ()

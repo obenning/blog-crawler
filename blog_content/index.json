@@ -1,8 +1,8 @@
 {
-  "crawled_at": "2026-07-22T05:28:28.518061",
+  "crawled_at": "2026-07-23T05:34:49.291133",
   "base_url": "https://www.kerberos-compliance.com/wissen/blog",
-  "total_articles": 134,
-  "successful": 134,
+  "total_articles": 135,
+  "successful": 135,
   "failed": 0,
   "articles": [
     {
@@ -935,6 +935,13 @@
       "author": "",
       "date": "",
       "url": "https://www.kerberos-compliance.com/wissen/blog/neue-auslegungs-und-anwendungshinweise-zum-geldwaeschegesetz-fuer-die-anwaltschaft"
+    },
+    {
+      "filename": "registrieren-lohnt-sich-fiu-jahresbericht-2025-learnings-fuer-verpflichtete.md",
+      "title": "Registrieren lohnt sich! FIU-Jahresbericht 2025 - Learnings für Verpflichtete",
+      "author": "",
+      "date": "",
+      "url": "https://www.kerberos-compliance.com/wissen/blog/registrieren-lohnt-sich-fiu-jahresbericht-2025-learnings-fuer-verpflichtete"
     },
     {
       "filename": "galerie-auktionshaus-kunstspedition-was-die-eu-aml-vo-ab-2027-fuer-den-kunstmarkt-bedeutet.md",
