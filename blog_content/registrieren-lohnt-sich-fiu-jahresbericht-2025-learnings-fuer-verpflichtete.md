@@ -4,7 +4,7 @@ author: ""
 date: ""
 url: "https://www.kerberos-compliance.com/wissen/blog/registrieren-lohnt-sich-fiu-jahresbericht-2025-learnings-fuer-verpflichtete"
 excerpt: ""
-crawled_at: "2026-07-30T05:14:40.427942"
+crawled_at: "2026-07-31T05:41:35.331513"
 ---
 
 # Registrieren lohnt sich! FIU-Jahresbericht 2025 - Learnings für Verpflichtete

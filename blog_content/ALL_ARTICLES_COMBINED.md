@@ -1,6 +1,6 @@
 # 📚 Kerberos Compliance Blog - Alle Artikel
 
-**Generiert:** 30.07.2026 05:17
+**Generiert:** 31.07.2026 05:44
 **Anzahl Artikel:** 139
 **Gesamtwortanzahl:** 119,447
 
@@ -334,7 +334,7 @@ Die drei Tage können nur abgekürzt werden, wenn eine Staatsanwaltschaft oder d
 
 # Blog Content Archive
 
-Automatisch gecrawlt am: 2026-07-30 05:17:37
+Automatisch gecrawlt am: 2026-07-31 05:44:36
 
 **Statistik:**
 - Gesamt Artikel: 135
@@ -2360,9 +2360,9 @@ Als Verpflichtete nach dem Geldwäschegesetz besteht für Sie und Ihre Mitarbeit
 
 ## Webinare:
 
-Die EU-AMLR macht Fußballklubs und Spielervermittler ab Juli 2029 zu Verpflichteten. Warum ist Fußball ein Geldwäscherisiko? Transfergeschäfte, Spielervermittlung und Sorgfaltspflichten für Klubs. Zeitplan zur Vorbereitung und Best Practices aus anderen Branchen – jetzt handeln!
-
 Unser praxisorientiertes 90-Minuten-Webinar vermittelt Ihnen fundiertes Fachwissen zur Geschäftspartnerprüfungen (KYC) im Immobiliensektor und hilft Ihnen, Ihre gesetzlichen Verpflichtungen rechtssicher zu erfüllen. Die Teilnahme wird mit 1 1/2 Stunden auf Ihre MaBV-Weiterbildungspflicht angerechnet (§ 15b MaBV).
+
+Die EU-AMLR macht Fußballklubs und Spielervermittler ab Juli 2029 zu Verpflichteten. Warum ist Fußball ein Geldwäscherisiko? Transfergeschäfte, Spielervermittlung und Sorgfaltspflichten für Klubs. Zeitplan zur Vorbereitung und Best Practices aus anderen Branchen – jetzt handeln!
 
 Die EU-AMLR integriert Sanktionscompliance erstmals als festen Bestandteil der Geldwäscheprävention. Screening-Prozesse (automatisiert vs. manuell), 5-Tages-Frist für FIU-Anfragen, EU- vs. nationale Sanktionslisten und Integration in bestehende Prozesse. Neue Pflichten für alle Verpflichteten - ein Deep-Dive zu anstehenden Änderungen.
 
@@ -4750,9 +4750,9 @@ Auch wir von Kerberos sind hier aktiv – beispielsweise durch regelmäßige Inf
 
 Alle aktuellen Webinar-Angebote finden Sie hier: [Unsere Veranstaltungen](https://www.kerberos-compliance.com/wissen/veranstaltungen)
 
-Die EU-AMLR macht Fußballklubs und Spielervermittler ab Juli 2029 zu Verpflichteten. Warum ist Fußball ein Geldwäscherisiko? Transfergeschäfte, Spielervermittlung und Sorgfaltspflichten für Klubs. Zeitplan zur Vorbereitung und Best Practices aus anderen Branchen – jetzt handeln!
-
 Unser praxisorientiertes 90-Minuten-Webinar vermittelt Ihnen fundiertes Fachwissen zur Geschäftspartnerprüfungen (KYC) im Immobiliensektor und hilft Ihnen, Ihre gesetzlichen Verpflichtungen rechtssicher zu erfüllen. Die Teilnahme wird mit 1 1/2 Stunden auf Ihre MaBV-Weiterbildungspflicht angerechnet (§ 15b MaBV).
+
+Die EU-AMLR macht Fußballklubs und Spielervermittler ab Juli 2029 zu Verpflichteten. Warum ist Fußball ein Geldwäscherisiko? Transfergeschäfte, Spielervermittlung und Sorgfaltspflichten für Klubs. Zeitplan zur Vorbereitung und Best Practices aus anderen Branchen – jetzt handeln!
 
 Die EU-AMLR integriert Sanktionscompliance erstmals als festen Bestandteil der Geldwäscheprävention. Screening-Prozesse (automatisiert vs. manuell), 5-Tages-Frist für FIU-Anfragen, EU- vs. nationale Sanktionslisten und Integration in bestehende Prozesse. Neue Pflichten für alle Verpflichteten - ein Deep-Dive zu anstehenden Änderungen.
 
@@ -5032,9 +5032,9 @@ Otis Benning Senior Associate Marketing
 
 Veröffentlicht: 2025-06-20
 
-Die EU-AMLR macht Fußballklubs und Spielervermittler ab Juli 2029 zu Verpflichteten. Warum ist Fußball ein Geldwäscherisiko? Transfergeschäfte, Spielervermittlung und Sorgfaltspflichten für Klubs. Zeitplan zur Vorbereitung und Best Practices aus anderen Branchen – jetzt handeln!
-
 Unser praxisorientiertes 90-Minuten-Webinar vermittelt Ihnen fundiertes Fachwissen zur Geschäftspartnerprüfungen (KYC) im Immobiliensektor und hilft Ihnen, Ihre gesetzlichen Verpflichtungen rechtssicher zu erfüllen. Die Teilnahme wird mit 1 1/2 Stunden auf Ihre MaBV-Weiterbildungspflicht angerechnet (§ 15b MaBV).
+
+Die EU-AMLR macht Fußballklubs und Spielervermittler ab Juli 2029 zu Verpflichteten. Warum ist Fußball ein Geldwäscherisiko? Transfergeschäfte, Spielervermittlung und Sorgfaltspflichten für Klubs. Zeitplan zur Vorbereitung und Best Practices aus anderen Branchen – jetzt handeln!
 
 Die EU-AMLR integriert Sanktionscompliance erstmals als festen Bestandteil der Geldwäscheprävention. Screening-Prozesse (automatisiert vs. manuell), 5-Tages-Frist für FIU-Anfragen, EU- vs. nationale Sanktionslisten und Integration in bestehende Prozesse. Neue Pflichten für alle Verpflichteten - ein Deep-Dive zu anstehenden Änderungen.
 
