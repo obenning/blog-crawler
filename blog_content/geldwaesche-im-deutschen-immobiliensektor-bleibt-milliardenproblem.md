@@ -4,7 +4,7 @@ author: ""
 date: ""
 url: "https://www.kerberos-compliance.com/wissen/blog/geldwaesche-im-deutschen-immobiliensektor-bleibt-milliardenproblem"
 excerpt: ""
-crawled_at: "2026-07-31T05:42:39.636394"
+crawled_at: "2026-08-01T05:34:00.195618"
 ---
 
 # Geldwäsche im deutschen Immobiliensektor bleibt Milliardenproblem
@@ -17,11 +17,11 @@ crawled_at: "2026-07-31T05:42:39.636394"
 
 Veröffentlicht: 2025-06-20
 
-Unser praxisorientiertes 90-Minuten-Webinar vermittelt Ihnen fundiertes Fachwissen zur Geschäftspartnerprüfungen (KYC) im Immobiliensektor und hilft Ihnen, Ihre gesetzlichen Verpflichtungen rechtssicher zu erfüllen. Die Teilnahme wird mit 1 1/2 Stunden auf Ihre MaBV-Weiterbildungspflicht angerechnet (§ 15b MaBV).
-
 Die EU-AMLR macht Fußballklubs und Spielervermittler ab Juli 2029 zu Verpflichteten. Warum ist Fußball ein Geldwäscherisiko? Transfergeschäfte, Spielervermittlung und Sorgfaltspflichten für Klubs. Zeitplan zur Vorbereitung und Best Practices aus anderen Branchen – jetzt handeln!
 
 Die EU-AMLR integriert Sanktionscompliance erstmals als festen Bestandteil der Geldwäscheprävention. Screening-Prozesse (automatisiert vs. manuell), 5-Tages-Frist für FIU-Anfragen, EU- vs. nationale Sanktionslisten und Integration in bestehende Prozesse. Neue Pflichten für alle Verpflichteten - ein Deep-Dive zu anstehenden Änderungen.
+
+Erfahren Sie von Dr. Anna Bolz , zertifizierte Geldwäschebeauftragte, wie Sie Ihre Pflichten nach dem Geldwäschegesetz (GwG) effizient und rechtssicher umsetzen. Das Webinar fokussiert auf die praktischen Herausforderungen bei Kataloggeschäften und bietet konkrete Lösungsansätze für den Berufsalltag.
 
 Die Geldwäsche in Deutschland erreicht ein geschätztes Volumen von bis zu 100 Milliarden Euro jährlich und stellt damit eine der große Bedrohungen für die Marktintegrität dar. Trotz verschärfter Gesetze und verstärkter Kontrollen seit 2023 bleiben auch im Immobiliensektor erhebliche Schwachstellen bestehen, die umfassende Reformen erfordern. Die Branche steht vor der Herausforderung, zwischen beruflichen Vertraulichkeitspflichten und präventiven Meldepflichten zu navigieren, während sie gleichzeitig mit komplexen internationalen Eigentümerstrukturen und unzureichenden technologischen Lösungen konfrontiert ist. Die geplante Harmonisierung der EU-Vorschriften bis 2027 versprechen eine grundlegende Neuausrichtung der deutschen Anti-Geldwäsche-Strategie.
 

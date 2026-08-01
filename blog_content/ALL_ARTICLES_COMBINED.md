@@ -1,8 +1,8 @@
 # 📚 Kerberos Compliance Blog - Alle Artikel
 
-**Generiert:** 31.07.2026 05:44
+**Generiert:** 01.08.2026 05:35
 **Anzahl Artikel:** 139
-**Gesamtwortanzahl:** 119,447
+**Gesamtwortanzahl:** 119,453
 
 ---
 
@@ -334,7 +334,7 @@ Die drei Tage können nur abgekürzt werden, wenn eine Staatsanwaltschaft oder d
 
 # Blog Content Archive
 
-Automatisch gecrawlt am: 2026-07-31 05:44:36
+Automatisch gecrawlt am: 2026-08-01 05:35:52
 
 **Statistik:**
 - Gesamt Artikel: 135
@@ -2327,7 +2327,7 @@ Vielen Dank.
 
 **Autor:**   
 **Datum:**   
-**Wortanzahl:** 565  
+**Wortanzahl:** 567  
 **Original:** https://www.kerberos-compliance.com/wissen/blog/compliance-fort-bildungsangebote-fuer-2025  
 
 ---
@@ -2360,11 +2360,11 @@ Als Verpflichtete nach dem Geldwäschegesetz besteht für Sie und Ihre Mitarbeit
 
 ## Webinare:
 
-Unser praxisorientiertes 90-Minuten-Webinar vermittelt Ihnen fundiertes Fachwissen zur Geschäftspartnerprüfungen (KYC) im Immobiliensektor und hilft Ihnen, Ihre gesetzlichen Verpflichtungen rechtssicher zu erfüllen. Die Teilnahme wird mit 1 1/2 Stunden auf Ihre MaBV-Weiterbildungspflicht angerechnet (§ 15b MaBV).
-
 Die EU-AMLR macht Fußballklubs und Spielervermittler ab Juli 2029 zu Verpflichteten. Warum ist Fußball ein Geldwäscherisiko? Transfergeschäfte, Spielervermittlung und Sorgfaltspflichten für Klubs. Zeitplan zur Vorbereitung und Best Practices aus anderen Branchen – jetzt handeln!
 
 Die EU-AMLR integriert Sanktionscompliance erstmals als festen Bestandteil der Geldwäscheprävention. Screening-Prozesse (automatisiert vs. manuell), 5-Tages-Frist für FIU-Anfragen, EU- vs. nationale Sanktionslisten und Integration in bestehende Prozesse. Neue Pflichten für alle Verpflichteten - ein Deep-Dive zu anstehenden Änderungen.
+
+Erfahren Sie von Dr. Anna Bolz , zertifizierte Geldwäschebeauftragte, wie Sie Ihre Pflichten nach dem Geldwäschegesetz (GwG) effizient und rechtssicher umsetzen. Das Webinar fokussiert auf die praktischen Herausforderungen bei Kataloggeschäften und bietet konkrete Lösungsansätze für den Berufsalltag.
 
 Weitere Webinare kommen im Laufe der Zeit dazu. Folgen Sie uns auf [LinkedIn](https://www.linkedin.com/company/kerberos-compliance) , Abonnieren Sie unseren [Newsletter](https://www.kerberos-compliance.com/wissen/newsletter-anmeldung) oder besuchen Sie unsere Website um über unser aktuelles Angebot informiert zu bleiben.
 
@@ -4671,7 +4671,7 @@ Otis Benning Senior Associate Marketing
 
 **Autor:**   
 **Datum:**   
-**Wortanzahl:** 1,035  
+**Wortanzahl:** 1,037  
 **Original:** https://www.kerberos-compliance.com/wissen/blog/fiu-jahresbericht-es-gibt-sie-noch-die-guten-nachrichten-oder  
 
 ---
@@ -4750,11 +4750,11 @@ Auch wir von Kerberos sind hier aktiv – beispielsweise durch regelmäßige Inf
 
 Alle aktuellen Webinar-Angebote finden Sie hier: [Unsere Veranstaltungen](https://www.kerberos-compliance.com/wissen/veranstaltungen)
 
-Unser praxisorientiertes 90-Minuten-Webinar vermittelt Ihnen fundiertes Fachwissen zur Geschäftspartnerprüfungen (KYC) im Immobiliensektor und hilft Ihnen, Ihre gesetzlichen Verpflichtungen rechtssicher zu erfüllen. Die Teilnahme wird mit 1 1/2 Stunden auf Ihre MaBV-Weiterbildungspflicht angerechnet (§ 15b MaBV).
-
 Die EU-AMLR macht Fußballklubs und Spielervermittler ab Juli 2029 zu Verpflichteten. Warum ist Fußball ein Geldwäscherisiko? Transfergeschäfte, Spielervermittlung und Sorgfaltspflichten für Klubs. Zeitplan zur Vorbereitung und Best Practices aus anderen Branchen – jetzt handeln!
 
 Die EU-AMLR integriert Sanktionscompliance erstmals als festen Bestandteil der Geldwäscheprävention. Screening-Prozesse (automatisiert vs. manuell), 5-Tages-Frist für FIU-Anfragen, EU- vs. nationale Sanktionslisten und Integration in bestehende Prozesse. Neue Pflichten für alle Verpflichteten - ein Deep-Dive zu anstehenden Änderungen.
+
+Erfahren Sie von Dr. Anna Bolz , zertifizierte Geldwäschebeauftragte, wie Sie Ihre Pflichten nach dem Geldwäschegesetz (GwG) effizient und rechtssicher umsetzen. Das Webinar fokussiert auf die praktischen Herausforderungen bei Kataloggeschäften und bietet konkrete Lösungsansätze für den Berufsalltag.
 
 ---
 
@@ -5017,7 +5017,7 @@ Otis Benning Senior Associate Marketing
 
 **Autor:**   
 **Datum:**   
-**Wortanzahl:** 980  
+**Wortanzahl:** 982  
 **Original:** https://www.kerberos-compliance.com/wissen/blog/geldwaesche-im-deutschen-immobiliensektor-bleibt-milliardenproblem  
 
 ---
@@ -5032,11 +5032,11 @@ Otis Benning Senior Associate Marketing
 
 Veröffentlicht: 2025-06-20
 
-Unser praxisorientiertes 90-Minuten-Webinar vermittelt Ihnen fundiertes Fachwissen zur Geschäftspartnerprüfungen (KYC) im Immobiliensektor und hilft Ihnen, Ihre gesetzlichen Verpflichtungen rechtssicher zu erfüllen. Die Teilnahme wird mit 1 1/2 Stunden auf Ihre MaBV-Weiterbildungspflicht angerechnet (§ 15b MaBV).
-
 Die EU-AMLR macht Fußballklubs und Spielervermittler ab Juli 2029 zu Verpflichteten. Warum ist Fußball ein Geldwäscherisiko? Transfergeschäfte, Spielervermittlung und Sorgfaltspflichten für Klubs. Zeitplan zur Vorbereitung und Best Practices aus anderen Branchen – jetzt handeln!
 
 Die EU-AMLR integriert Sanktionscompliance erstmals als festen Bestandteil der Geldwäscheprävention. Screening-Prozesse (automatisiert vs. manuell), 5-Tages-Frist für FIU-Anfragen, EU- vs. nationale Sanktionslisten und Integration in bestehende Prozesse. Neue Pflichten für alle Verpflichteten - ein Deep-Dive zu anstehenden Änderungen.
+
+Erfahren Sie von Dr. Anna Bolz , zertifizierte Geldwäschebeauftragte, wie Sie Ihre Pflichten nach dem Geldwäschegesetz (GwG) effizient und rechtssicher umsetzen. Das Webinar fokussiert auf die praktischen Herausforderungen bei Kataloggeschäften und bietet konkrete Lösungsansätze für den Berufsalltag.
 
 Die Geldwäsche in Deutschland erreicht ein geschätztes Volumen von bis zu 100 Milliarden Euro jährlich und stellt damit eine der große Bedrohungen für die Marktintegrität dar. Trotz verschärfter Gesetze und verstärkter Kontrollen seit 2023 bleiben auch im Immobiliensektor erhebliche Schwachstellen bestehen, die umfassende Reformen erfordern. Die Branche steht vor der Herausforderung, zwischen beruflichen Vertraulichkeitspflichten und präventiven Meldepflichten zu navigieren, während sie gleichzeitig mit komplexen internationalen Eigentümerstrukturen und unzureichenden technologischen Lösungen konfrontiert ist. Die geplante Harmonisierung der EU-Vorschriften bis 2027 versprechen eine grundlegende Neuausrichtung der deutschen Anti-Geldwäsche-Strategie.
 
