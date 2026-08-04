@@ -1,8 +1,8 @@
 {
-  "crawled_at": "2026-08-03T05:52:25.964837",
+  "crawled_at": "2026-08-04T05:23:40.654988",
   "base_url": "https://www.kerberos-compliance.com/wissen/blog",
-  "total_articles": 135,
-  "successful": 135,
+  "total_articles": 136,
+  "successful": 136,
   "failed": 0,
   "articles": [
     {
@@ -18,6 +18,13 @@
       "author": "",
       "date": "",
       "url": "https://www.kerberos-compliance.com/wissen/blog/geldwaeschebeauftragte-schluesselfiguren-im-kampf-gegen-finanzkriminalitaet"
+    },
+    {
+      "filename": "rts-luecken-auf-dem-weg-zum-10-juli-2027.md",
+      "title": "Die Standards kommen - aber rechtzeitig? RTS-Lücken auf dem Weg zum 10. Juli 2027",
+      "author": "",
+      "date": "",
+      "url": "https://www.kerberos-compliance.com/wissen/blog/rts-luecken-auf-dem-weg-zum-10-juli-2027"
     },
     {
       "filename": "mica-der-neue-eu-regulierungsrahmen-fr-kryptowerte.md",

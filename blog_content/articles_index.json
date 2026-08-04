@@ -1,6 +1,6 @@
 {
-  "generated": "2026-08-03T05:52:26.071787",
-  "total_articles": 138,
+  "generated": "2026-08-04T05:23:40.754918",
+  "total_articles": 139,
   "articles": [
     {
       "filename": "21-jahriger-sohn-von-clanchef-abou-chaker-ersteigert-villen-fur-uber-7-millionen-euro.md",
@@ -1131,6 +1131,16 @@
       "excerpt": "# Risikomanagement für Factoring & Leasing-Gesellschaften nach EU-AML-Verordnung\n\n**Autor:**   \n**Datum:**   \n**URL:** https://www.kerberos-compliance.com/wissen/blog/risikomanagement-fr-factoring-amp...",
       "raw_url": "https://raw.githubusercontent.com/obenning/blog-crawler/main/blog_content/risikomanagement-fr-factoring-amp-leasing-gesellschaften-nach-eu-aml-verordnung.md",
       "word_count": 931
+    },
+    {
+      "filename": "rts-luecken-auf-dem-weg-zum-10-juli-2027.md",
+      "title": "Die Standards kommen - aber rechtzeitig? RTS-Lücken auf dem Weg zum 10. Juli 2027",
+      "author": "",
+      "date": "",
+      "url": "https://www.kerberos-compliance.com/wissen/blog/rts-luecken-auf-dem-weg-zum-10-juli-2027",
+      "excerpt": "# Die Standards kommen - aber rechtzeitig? RTS-Lücken auf dem Weg zum 10. Juli 2027\n\n**Autor:**   \n**Datum:**   \n**URL:** https://www.kerberos-compliance.com/wissen/blog/rts-luecken-auf-dem-weg-zum-10...",
+      "raw_url": "https://raw.githubusercontent.com/obenning/blog-crawler/main/blog_content/rts-luecken-auf-dem-weg-zum-10-juli-2027.md",
+      "word_count": 1730
     },
     {
       "filename": "russland-sanktionen.md",

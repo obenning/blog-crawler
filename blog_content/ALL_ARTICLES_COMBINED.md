@@ -1,8 +1,8 @@
 # 📚 Kerberos Compliance Blog - Alle Artikel
 
-**Generiert:** 03.08.2026 05:52
-**Anzahl Artikel:** 139
-**Gesamtwortanzahl:** 119,453
+**Generiert:** 04.08.2026 05:23
+**Anzahl Artikel:** 140
+**Gesamtwortanzahl:** 121,200
 
 ---
 
@@ -122,31 +122,32 @@
 112. [Rechnungsversand per E-Mail: Neue Rechtslage nach OLG-Urteil](#rechnungsversand-per-email-neue-rechtslage-nach-olgurteil)
 113. [Registrieren lohnt sich! FIU-Jahresbericht 2025 - Learnings für Verpflichtete](#registrieren-lohnt-sich-fiujahresbericht-2025--learnings-für-verpflichtete)
 114. [Risikomanagement für Factoring & Leasing-Gesellschaften nach EU-AML-Verordnung](#risikomanagement-für-factoring--leasinggesellschaften-nach-euamlverordnung)
-115. [Russland-Sanktionen - 5 Tipps zur Risikoreduzierung](#russlandsanktionen--5-tipps-zur-risikoreduzierung)
-116. [Sanktionen und was sie bedeuten](#sanktionen-und-was-sie-bedeuten)
-117. [Schleswig-Holstein: Bußgelder in der Geldwäscheaufsicht steigen um 115 Prozent](#schleswigholstein-bußgelder-in-der-geldwäscheaufsicht-steigen-um-115-prozent)
-118. [“Schutzmaßnahmen „auslaufen“ zu lassen, scheint mir gefährlich” - Interview mit dem Compliance Beauftragten der thyssenkrupp AG](#schutzmaßnahmen-auslaufen-zu-lassen-scheint-mir-gefährlich--interview-mit-dem-compliance-beauftragten-der-thyssenkrupp-ag)
-119. [Stärkung Ihrer Cyber-Abwehr](#stärkung-ihrer-cyberabwehr)
-120. [Terrorismusfinanzierung in der Risikoanalyse: Was Verpflichtete jetzt getrennt bewerten müssen](#terrorismusfinanzierung-in-der-risikoanalyse-was-verpflichtete-jetzt-getrennt-bewerten-müssen)
-121. [Transparenzregister, koordinierte Aufsicht, erweiterter Datenaustausch: Die systemischen GwG-Änderungen des ZFG-Referentenentwurfs](#transparenzregister-koordinierte-aufsicht-erweiterter-datenaustausch-die-systemischen-gwgänderungen-des-zfgreferentenentwurfs)
-122. [Transparenzregistereintragung: 1.415 Unternehmen am Pranger](#transparenzregistereintragung-1415-unternehmen-am-pranger)
-123. [Übergangsregelungen: Transparenzregister – Noch auf dem neuesten Stand?](#übergangsregelungen-transparenzregister--noch-auf-dem-neuesten-stand)
-124. [UBO-Identifizierung nach der EU-AML-Verordnung: Was sich ab Juli 2027 grundlegend ändert](#uboidentifizierung-nach-der-euamlverordnung-was-sich-ab-juli-2027-grundlegend-ändert)
-125. [„Unverzüglichkeit“ und „Vollständigkeit“ – Gemeinsame Orientierungshilfe der BaFin und FIU](#unverzüglichkeit-und-vollständigkeit--gemeinsame-orientierungshilfe-der-bafin-und-fiu)
-126. [US-Cloud-Anbieter im Fokus: Datenschutzrisiken und Handlungsempfehlungen](#uscloudanbieter-im-fokus-datenschutzrisiken-und-handlungsempfehlungen)
-127. [Verdachtsmeldungen nach § 43 GwG: Was die BaFin/FIU-Orientierungshilfe konkret bedeutet](#verdachtsmeldungen-nach--43-gwg-was-die-bafinfiuorientierungshilfe-konkret-bedeutet)
-128. [Vermögensentzug ohne Strafurteil: Was §§ 52a–52n ZFG-Referentenentwurf für Verpflichtete bedeuten](#vermögensentzug-ohne-strafurteil-was--52a52n-zfgreferentenentwurf-für-verpflichtete-bedeuten)
-129. [Verschärfte Meldepflichten bei Immobilientransaktionen - die wichtigsten Änderungen der GwGMeldV-Immobilien 2025](#verschärfte-meldepflichten-bei-immobilientransaktionen--die-wichtigsten-änderungen-der-gwgmeldvimmobilien-2025)
-130. [Verstöße gegen das Geldwäschegesetz - Bußgelder und Prüfungen von 2017-2022](#verstöße-gegen-das-geldwäschegesetz--bußgelder-und-prüfungen-von-20172022)
-131. [Vom Krisenherd zum Vertrauensturbo: Umgang mit Datenschutzbeschwerden](#vom-krisenherd-zum-vertrauensturbo-umgang-mit-datenschutzbeschwerden)
-132. [Von Sommerloch keine Spur - der Kampf gegen Finanzkriminalität in den Medien](#von-sommerloch-keine-spur--der-kampf-gegen-finanzkriminalität-in-den-medien)
-133. [Vonovia – Korruptionsskandal mit Vorbildcharakter](#vonovia--korruptionsskandal-mit-vorbildcharakter)
-134. [Warum sind Risikoanalysen nach dem Geldwäschegesetz (GwG) so wichtig?](#warum-sind-risikoanalysen-nach-dem-geldwäschegesetz-gwg-so-wichtig)
-135. [Weihnachtsgrüße von Christian Tsambikakis - Geschäftsführer](#weihnachtsgrüße-von-christian-tsambikakis--geschäftsführer)
-136. [Wie steht es um die Bekämpfung von Geldwäsche in Deutschland? Und warum?](#wie-steht-es-um-die-bekämpfung-von-geldwäsche-in-deutschland-und-warum)
-137. [Wiederkehrende Pflichten zur Geldwäscheprävention – Update Ende 2025](#wiederkehrende-pflichten-zur-geldwäscheprävention--update-ende-2025)
-138. [Wiederkehrende Pflichten zur Geldwäscheprävention](#wiederkehrende-pflichten-zur-geldwäscheprävention)
-139. [Zwischen Innovation und Risiko - Kryptowährungen im Fokus des Geldwäschebeauftragten](#zwischen-innovation-und-risiko--kryptowährungen-im-fokus-des-geldwäschebeauftragten)
+115. [Die Standards kommen - aber rechtzeitig? RTS-Lücken auf dem Weg zum 10. Juli 2027](#die-standards-kommen--aber-rechtzeitig-rtslücken-auf-dem-weg-zum-10-juli-2027)
+116. [Russland-Sanktionen - 5 Tipps zur Risikoreduzierung](#russlandsanktionen--5-tipps-zur-risikoreduzierung)
+117. [Sanktionen und was sie bedeuten](#sanktionen-und-was-sie-bedeuten)
+118. [Schleswig-Holstein: Bußgelder in der Geldwäscheaufsicht steigen um 115 Prozent](#schleswigholstein-bußgelder-in-der-geldwäscheaufsicht-steigen-um-115-prozent)
+119. [“Schutzmaßnahmen „auslaufen“ zu lassen, scheint mir gefährlich” - Interview mit dem Compliance Beauftragten der thyssenkrupp AG](#schutzmaßnahmen-auslaufen-zu-lassen-scheint-mir-gefährlich--interview-mit-dem-compliance-beauftragten-der-thyssenkrupp-ag)
+120. [Stärkung Ihrer Cyber-Abwehr](#stärkung-ihrer-cyberabwehr)
+121. [Terrorismusfinanzierung in der Risikoanalyse: Was Verpflichtete jetzt getrennt bewerten müssen](#terrorismusfinanzierung-in-der-risikoanalyse-was-verpflichtete-jetzt-getrennt-bewerten-müssen)
+122. [Transparenzregister, koordinierte Aufsicht, erweiterter Datenaustausch: Die systemischen GwG-Änderungen des ZFG-Referentenentwurfs](#transparenzregister-koordinierte-aufsicht-erweiterter-datenaustausch-die-systemischen-gwgänderungen-des-zfgreferentenentwurfs)
+123. [Transparenzregistereintragung: 1.415 Unternehmen am Pranger](#transparenzregistereintragung-1415-unternehmen-am-pranger)
+124. [Übergangsregelungen: Transparenzregister – Noch auf dem neuesten Stand?](#übergangsregelungen-transparenzregister--noch-auf-dem-neuesten-stand)
+125. [UBO-Identifizierung nach der EU-AML-Verordnung: Was sich ab Juli 2027 grundlegend ändert](#uboidentifizierung-nach-der-euamlverordnung-was-sich-ab-juli-2027-grundlegend-ändert)
+126. [„Unverzüglichkeit“ und „Vollständigkeit“ – Gemeinsame Orientierungshilfe der BaFin und FIU](#unverzüglichkeit-und-vollständigkeit--gemeinsame-orientierungshilfe-der-bafin-und-fiu)
+127. [US-Cloud-Anbieter im Fokus: Datenschutzrisiken und Handlungsempfehlungen](#uscloudanbieter-im-fokus-datenschutzrisiken-und-handlungsempfehlungen)
+128. [Verdachtsmeldungen nach § 43 GwG: Was die BaFin/FIU-Orientierungshilfe konkret bedeutet](#verdachtsmeldungen-nach--43-gwg-was-die-bafinfiuorientierungshilfe-konkret-bedeutet)
+129. [Vermögensentzug ohne Strafurteil: Was §§ 52a–52n ZFG-Referentenentwurf für Verpflichtete bedeuten](#vermögensentzug-ohne-strafurteil-was--52a52n-zfgreferentenentwurf-für-verpflichtete-bedeuten)
+130. [Verschärfte Meldepflichten bei Immobilientransaktionen - die wichtigsten Änderungen der GwGMeldV-Immobilien 2025](#verschärfte-meldepflichten-bei-immobilientransaktionen--die-wichtigsten-änderungen-der-gwgmeldvimmobilien-2025)
+131. [Verstöße gegen das Geldwäschegesetz - Bußgelder und Prüfungen von 2017-2022](#verstöße-gegen-das-geldwäschegesetz--bußgelder-und-prüfungen-von-20172022)
+132. [Vom Krisenherd zum Vertrauensturbo: Umgang mit Datenschutzbeschwerden](#vom-krisenherd-zum-vertrauensturbo-umgang-mit-datenschutzbeschwerden)
+133. [Von Sommerloch keine Spur - der Kampf gegen Finanzkriminalität in den Medien](#von-sommerloch-keine-spur--der-kampf-gegen-finanzkriminalität-in-den-medien)
+134. [Vonovia – Korruptionsskandal mit Vorbildcharakter](#vonovia--korruptionsskandal-mit-vorbildcharakter)
+135. [Warum sind Risikoanalysen nach dem Geldwäschegesetz (GwG) so wichtig?](#warum-sind-risikoanalysen-nach-dem-geldwäschegesetz-gwg-so-wichtig)
+136. [Weihnachtsgrüße von Christian Tsambikakis - Geschäftsführer](#weihnachtsgrüße-von-christian-tsambikakis--geschäftsführer)
+137. [Wie steht es um die Bekämpfung von Geldwäsche in Deutschland? Und warum?](#wie-steht-es-um-die-bekämpfung-von-geldwäsche-in-deutschland-und-warum)
+138. [Wiederkehrende Pflichten zur Geldwäscheprävention – Update Ende 2025](#wiederkehrende-pflichten-zur-geldwäscheprävention--update-ende-2025)
+139. [Wiederkehrende Pflichten zur Geldwäscheprävention](#wiederkehrende-pflichten-zur-geldwäscheprävention)
+140. [Zwischen Innovation und Risiko - Kryptowährungen im Fokus des Geldwäschebeauftragten](#zwischen-innovation-und-risiko--kryptowährungen-im-fokus-des-geldwäschebeauftragten)
 
 ---
 
@@ -328,17 +329,17 @@ Die drei Tage können nur abgekürzt werden, wenn eine Staatsanwaltschaft oder d
 
 **Autor:** Unknown  
 **Datum:**   
-**Wortanzahl:** 1,637  
+**Wortanzahl:** 1,654  
 
 ---
 
 # Blog Content Archive
 
-Automatisch gecrawlt am: 2026-08-03 05:52:25
+Automatisch gecrawlt am: 2026-08-04 05:23:40
 
 **Statistik:**
-- Gesamt Artikel: 135
-- Erfolgreich gecrawlt: 135
+- Gesamt Artikel: 136
+- Erfolgreich gecrawlt: 136
 - Fehlgeschlagen: 0
 
 **Quelle:** https://www.kerberos-compliance.com/wissen/blog
@@ -347,6 +348,7 @@ Automatisch gecrawlt am: 2026-08-03 05:52:25
 
 - [“Ich habe das Gefühl, dass nicht ankommt, das reale Gefahren bestehen.” Interview mit mafianeindanke-Mitglied Eva Blöchl](mafianeindanke-mitglied-eva-bloechl-im-interview.md) -  ()
 - [Geldwäschebeauftragte: Schlüsselfiguren im Kampf gegen Finanzkriminalität](geldwaeschebeauftragte-schluesselfiguren-im-kampf-gegen-finanzkriminalitaet.md) -  ()
+- [Die Standards kommen - aber rechtzeitig? RTS-Lücken auf dem Weg zum 10. Juli 2027](rts-luecken-auf-dem-weg-zum-10-juli-2027.md) -  ()
 - [MiCA: Der neue EU-Regulierungsrahmen für Kryptowerte](mica-der-neue-eu-regulierungsrahmen-fr-kryptowerte.md) -  ()
 - [Der blinde Fleck der Geldwäscheprävention.](der-blinde-fleck-der-geldwaschepravention.md) -  ()
 - [“Fakt ist, dass Geldwäscher auch Freie Berufe ausnutzen”](fakt-ist-dass-geldwscher-auch-freie-berufe-ausnutzen.md) -  ()
@@ -9536,7 +9538,124 @@ Fabian Müller Manager AML Compliance
 
 ---
 
-## 115. Russland-Sanktionen - 5 Tipps zur Risikoreduzierung
+## 115. Die Standards kommen - aber rechtzeitig? RTS-Lücken auf dem Weg zum 10. Juli 2027
+
+**Autor:**   
+**Datum:**   
+**Wortanzahl:** 1,730  
+**Original:** https://www.kerberos-compliance.com/wissen/blog/rts-luecken-auf-dem-weg-zum-10-juli-2027  
+
+---
+
+# Die Standards kommen - aber rechtzeitig? RTS-Lücken auf dem Weg zum 10. Juli 2027
+
+**Autor:**   
+**Datum:**   
+**URL:** https://www.kerberos-compliance.com/wissen/blog/rts-luecken-auf-dem-weg-zum-10-juli-2027
+
+---
+
+Datum: 2026-08-03
+
+‍Der 10. Juli 2027 ist kein Datum, das Compliance-Verantwortliche auf die leichte Schulter nehmen dürfen. Ab diesem Tag gilt die Anti-Money Laundering Regulation (AMLR). Die neuen EU-weit gültigen Regelungen zur Prävention von Geldwäsche, Terrorismusfinanzierung und Sanktionsumgehung. Zusätzlich dient dieser Tag aber auch als Deadline für die nationale Umsetzung der Anti-Money Laundering Directive (AMLD) – einer Richtlinie aus dem Anti-Geldwäsche-Paket der EU. Anders als EU-Verordnungen gelten Richtlinien nicht unmittelbar EU-weit.
+
+Zahlreiche Regulatory Technical Standards (RTS) und Implementing Technical Standards (ITS), die für die praktische Anwendung der Verordnung und Richtlinie ab Juli 2027 zwingend erforderlich sind, befinden sich aktuell in der Konsultationsphase oder wurden noch nicht veröffentlicht. Die hierfür zuständige neue Behörde Authority for Anti-Money Laundering and Countering the Financing of Terrorism – kurz AMLA - [schreibt selbst](https://www.amla.europa.eu/document/download/27549516-d110-4e91-b1ed-d3552b8f9661_en?filename=AMLA%20SPD%202026-2028.pdf) , dass der Zeitplan für die rechtzeitige Ausarbeitung und Bereitstellung aller Dokumente äußerst knapp bemessen ist.
+
+Für Unternehmen, die ab Juli 2027 ihre Pflichten nach der EU-Verordnung umsetzen müssen, bedeutet das: Sie müssen Compliance-Strukturen auf Basis unvollständiger Vorgaben aufbauen und gleichzeitig flexibel genug bleiben, um nachzusteuern, sobald finale Standards vorliegen. Diese Unsicherheit stellt eine eindeutige operative Herausforderung für Verpflichtete dar, die bereits jetzt – ein knappes Jahr vor Inkrafttreten der Verordnung, strategische Entscheidungen erfordert.
+
+## Was bereits feststeht: Die finalen RTS
+
+Nicht alles ist im Unklaren. Einige RTS sind bereits finalisiert und bieten Unternehmen eine verlässliche Planungsgrundlage. Besonders relevant ist der RTS zu Art. 40(2) AMLD, dieser dient der Festlegung einer gemeinsamen Methodik, anhand derer die Aufsichtsbehörden das Ausmaß des Risikos der Geldwäsche und der Terrorismusfinanzierung (ML/TF) bewerten, dem die Verpflichteten ausgesetzt sind.
+
+Diese Methodik legt fest, wie die Aufsichtsbehörden inhärente und verbleibende Risikoprofile klassifizieren und bestimmt, wie oft diese Risikoprofile überprüft werden müssen.
+
+Ebenso ist der RTS zu Art. 12 Abs. 7 AMLAR bereits abgeschlossen. Dieser legt zum einen die Mindestaktivitäten fest, die ein Kreditinstitut oder Finanzinstitut im Rahmen des freien Dienstleistungsverkehrs in einem anderen Mitgliedstaat ausüben muss, damit es dort als „tätig" im Sinne des Auswahlverfahrens gilt. Zum anderen definiert er – aufbauend auf der Methodik des RTS zu Art. 40 Abs. 2 AMLD – die Bewertungsmethodik zur Einstufung des inhärenten Risikoprofils und des Restrisikoprofils für die Zwecke der Auswahl zur direkten Beaufsichtigung durch die AMLA.
+
+Festzuhalten ist, dass dieser RTS somit die Methodik beschreibt, anhand derer die AMLA künftig bestimmt, welche besonders relevanten, grenzüberschreitend tätigen und risikobehafteten Institute ihrer unmittelbaren Aufsicht unterstellt werden.
+
+## Das größte Fragezeichen: CDD-Datenpunkte nach Art. 28(1) AMLR
+
+Im Zentrum der offenen RTS-Fragen steht Art. 28(1) AMLR, die Vorschrift, die exakt definiert, welche Datenpunkte im Rahmen der Customer Due Diligence (CDD) zu erheben sind. Bis zum 10. Juli 2026 sollte die AMLA die finalen Draft-Versionen dieser RTS der Europäischen Kommission zur Annahme vorlegen. Zwischen dem Einreichen bei der Kommission und dem Inkrafttreten liegt dann noch der Adoptionsprozess.
+
+Der RTS deckt Anforderungen an Standard-CDD, vereinfachte und verstärkte Sorgfaltspflichten ab, einschließlich Vorgaben zu elektronischen Identifikationsmitteln und verifizierbaren Informationsquellen.
+
+Für Compliance-Teams gilt: Die Konsultationsentwürfe jetzt lesen – [alle finalen DRAFT-Dokumente werden hier veröffentlicht](https://www.amla.europa.eu/policy/regulatory-instruments_en) , die Annahme durch die EU-Kommission gilt Expert:innen zufolge als Formsache - und IT-Systeme so vorbereiten, dass neue Datenpunkte modular ergänzt werden können ohne vollständige Neuentwicklung. Die Weiterentwicklung bestehender IT-Systeme ist jedoch keineswegs unkompliziert oder schnell umsetzbar, sondern kann mit erheblichem organisatorischem und finanziellem Aufwand verbunden sein.
+
+Unter Umständen lassen sich anstehende Änderungen gar nicht in die vorhandenen Systeme integrieren, sodass eine vollständige Neuentwicklung erforderlich wird. Umso wichtiger ist es, dass sich die Verpflichteten frühzeitig mit der Thematik auseinandersetzen, um Verzögerungen zu vermeiden.
+
+## Schwellenwerte und Methodik: Art. 19(9) AMLR im Schwebezustand
+
+Der RTS zu Art. 19(9) AMLR regelt die Abgrenzung von Geschäftsbeziehungen von gelegentlichen und verbundenen Transaktionen sowie mögliche Schwellenwerte für erleichterte CDD. Bemerkenswert ist dabei die gewählte Definitionslogik: Der Entwurf definiert die Geschäftsbeziehung positiv über konkrete Kriterien, während die gelegentliche Transaktion negativ definiert wird. Alles, was keine Geschäftsbeziehung darstellt, fällt automatisch darunter.
+
+Diese Systematik ist für die Praxis entscheidend, denn sie bestimmt, ob CDD zwingend oder nur oberhalb bestimmter Schwellenwerte greift. Zugleich hat sich die AMLA bewusst gegen die Ausübung ihrer Befugnis entschieden, niedrigere CDD-Schwellenwerte für gelegentliche Transaktionen festzulegen. Eine Entscheidung, die den risikobasierten Ansatz stärkt, Verpflichteten aber auch mehr eigene Bewertungsspielräume und damit Auslegungsrisiken überlässt.
+
+Der Entwurf enthält zudem Kriterien zur Erkennung verbundener Transaktionen, die verhindern sollen, dass Schwellenwerte durch künstliche Aufsplittung umgangen werden (sogenantes Smurfing), ein Punkt mit unmittelbarer Relevanz für Transaktionsmonitoring-Systeme.
+
+Compliance-Teams sollten die Klassifizierungslogik schon jetzt in ihre Onboarding- und Monitoring-Prozesse übernehmen, um spätere Anpassungen auf ein Minimum zu reduzieren.
+
+## Gruppenanforderungen Art. 16(4)/17(3) AMLR: Einreichung bei der Kommission erst im September 2026
+
+Für international aufgestellte Finanzgruppen ist der Zeitplan besonders angespannt. Die AMLA eröffnete am 16. April 2026 die Konsultation zu den Draft-RTS unter Art. 16(4) und 17(3) AMLR, den Mindeststandards für gruppenweite AML/CFT-Rahmenwerke und Drittlandmaßnahmen. Die Einreichung bei der Kommission ist für den 30. September 2026 geplant. Das heißt konkret: dieser RTS wird frühestens Ende 2026 oder Anfang 2027 Rechtswirkung entfalten. Der RTS adressiert dabei auch die kritische Frage, was passiert, wenn lokale Drittlandgesetze die Einhaltung der AMLR verhindern. Folgen hiervon umfassen Einschränkungen von Geschäftsbeziehungen oder Schließung von Niederlassungen. Für Gruppen-Compliance-Teams gilt deshalb schon jetzt, dass Gap-Analyse ihrer Drittlandtöchter angestoßen werden sollten, um auch dort rechtzeitig für Anpassungen zu sorgen.
+
+## Business-Wide Risk Assessment (BWRA) nach Art. 10(4) AMLR: Guidelines statt RTS
+
+Ein Detail mit erheblicher praktischer Tragweite: Anders als bei den CDD-Anforderungen hat die AMLA für das Business-Wide Risk Assessment (BWRA) nicht den Weg über RTS gewählt, sondern über Guidelines. Das ist kein rein technischer Unterschied, sondern signalisiert einen stärker prinzipienbasierten Ansatz, der Verhältnismäßigkeit und Eigenverantwortung der Verpflichteten betont.
+
+Die Draft Guidelines unter Art. 10(4) AMLR legen vier Mindestanforderungen für alle Verpflichteten fest, für den Finanz- wie Nicht-Finanzsektor gleichermaßen.
+
+Der Entwurf folgt einem dreistufigen Bewertungsmodell: inhärentes Risiko, Kontrollqualität, Restrisiko.
+
+Bis zur finalen Annahme der Guideline durch die Kommission dürfte noch etwas Zeit vergehen. Von da an bis zum Inkrafttreten im Juli 2027 bleibt nur wenig Zeit. Für viele Organisationen wird dies absehbar zu knapp bemessen sein, um grundlegende Prozesse und Dokumentationsstrukturen rein mit internen Ressourcen neu aufzusetzen.  Sobald die finale Guideline veröffentlicht wird, sollte die Zeit- und Ressourcenplanung konkret beginnen – sowie die Suche nach externen Umsetzungspartnern, sollten die internen Ressourcen absehbar nicht ausreichen.
+
+## Laufende Überwachung nach Art. 26(5) AMLR: Guidelines statt RTS
+
+Auch bei der laufenden Überwachung von Geschäftsbeziehungen hat sich die AMLA für Guidelines statt für RTS entschieden und lässt mit diesem Ansatz den Verpflichteten mehr Auslegungsspielraum, verlangt aber zugleich auch mehr Eigenverantwortung bei der Ausgestaltung konkreter Kontrollprozesse. Die Draft Guidelines unter Art. 26(5) AMLR konkretisiert, wie Kundendaten aktuell zu halten sind und wie Transaktionen sowie Aktivitäten kontinuierlich auf Auffälligkeiten zu prüfen sind. Anforderungen, die eng mit den Aktualisierungsfristen aus Art. 26(2) AMLR verzahnt sind (ein Jahr bei Hochrisikokunden, fünf Jahre bei allen übrigen).
+
+Praktisch bedeutet das: Monitoring-Systeme müssen künftig nicht nur Transaktionsmuster erkennen, sondern auch automatisiert Flags auslösen, wenn Kundendaten fällig zur Aktualisierung sind: eine Verzahnung von Transaktionsüberwachung und Datenpflege, die viele bestehende IT-Architekturen bislang nicht abbilden. Da Guidelines anders als RTS nicht direkt anwendbar, sondern als Auslegungshilfe konzipiert sind, greift hier zusätzlich das Prinzip „comply or explain“:
+
+Wer von den Guidelines abweicht, muss dies gegenüber der Aufsicht begründen können. Für Compliance-Teams verschiebt sich damit der Fokus von reiner Umsetzung hin zu dokumentierter Risikoabwägung.
+
+## RTS-Sanktionen nach Art. 53(10) AMLD: Ein neues Preisschild für Compliance-Verstöße
+
+Der RTS zu Art. 53(10) AMLD legt fest, nach welchen Indikatoren die Schwere von Verstößen eingestuft wird, welche Kriterien bei der Bemessung von Geldbußen oder verwaltungsrechtlichen Maßnahmen gelten und nach welcher Methodik Periodic Penalty Payments, das heißt tägliche Zwangsgelder bis zur Behebung eines Verstoßes, berechnet werden.
+
+Inhaltlich zeichnet sich ein Kategoriensystem von der Verwarnung bis zum Lizenzentzug ab, das systemische Versäumnisse bei der Kundenaktualisierung besonders hart bestraft.
+
+Für Verpflichtete heißt das: Das finanzielle Risiko wird kalkulierbarer, aber absehbar strenger. Wer die interne Verstoß-Einstufung jetzt mit der AMLA-Logik abgleicht, vermeidet böse Überraschungen, wenn Anpassungen kaum noch rechtzeitig möglich sind.
+
+## Wenn der Stichtag kommt, bevor die Standards stehen
+
+Was passiert rechtlich, wenn die AMLR am 10. Juli 2027 in Kraft tritt und die AMLD in nationales Recht umgesetzt werden muss, aber bestimmte RTS und Guidelines noch nicht in Kraft sind? Die Regelungen gelten trotzdem. Ohne die finalen Detailvorgaben müssen sich Unternehmen auf die Prinzipien der Verordnung, auf Konsultationsentwürfe als faktischen Orientierungsrahmen und, wo noch kompatibel, auf bestehende EBA-Guidelines stützen.
+
+Die AMLA hat klargestellt, dass bestimmte EBA-Guidelines weiter gelten, bis eigene Instrumente in Kraft treten. Das schafft eine Übergangsbrücke, aber keine vollständige Rechtssicherheit. Entscheidend ist die Dokumentation: Wer nachweisen kann, auf Basis verfügbarer Informationen nach bestem Wissen gehandelt zu haben, steht aufsichtsrechtlich deutlich besser da als jemand, der schlicht abgewartet hat.
+
+Compliance-Lücken durch Ignorieren von zukünftigen Standards birgt erheblichen Risiken und kann zu Sanktionen führen. In jedem Fall erzeugt es einen starken Handlungsdruck, welcher nur mit dem Einsatz von erheblichen Mittel zu bewältigen ist. Unternehmen stehen hier in der Eigenverantwortung den zukünftigen Anforderungen zu genügen.
+
+## Praxisleitfaden: Handlungsfähigkeit trotz regulatorischer Lücken
+
+Die entscheidende Frage für Compliance-Verantwortliche lautet nicht, wann die Standards kommen, sondern wie man trotzdem handlungsfähig bleibt. Das setzt vier Dinge voraus:
+
+Erstens: eine laufend gepflegte Übersicht des RTS-Status: Was ist final, was liegt bei der Kommission, was ist noch in Konsultation, was fehlt ganz. Wichtig ist hierbei, dass diese Übersicht stets aktualisiert und erweitert wird.
+
+Zweitens: die konsequente Nutzung von Konsultationsentwürfen als Planungsgrundlage: Inhaltliche Überraschungen im Finaltext sind erfahrungsgemäß die Ausnahme, nicht die Regel.
+
+Drittens: eine Implementierungsarchitektur, die Anpassungen ermöglicht, ohne das Gesamtgefüge neu aufzubauen.
+
+Viertens: das Treffen und das Dokumentieren von klaren Entscheidungen durch die Geschäftsleitung, um Mitarbeitern auch bei unsicheren Entscheidungen, den Rücken zu stärken und Sicherheit zu geben.
+
+Grundsätzlich sollte sich auch gefragt werden, ob mit Inkrafttreten der Verordnung interne Prozesse ausgelagert werden können. Die Zentralisierung der Geldwäscheprävention über das AML-Paket birgt für Verpflichtete auch Vorteile. Das gerade in Deutschland vorherrschende Klein-Klein in der Auslegung und Anwendbarkeit der Vorgaben des Geldwäschegesetzes fällt größtenteils weg. Allgemeingültige – wenn auch weiterhin branchenspezifische – Vorgaben schaffen mehr Raum für zentrale Lösungen.
+
+Kerberos Compliance steht Ihnen hier mit Software und Expertise zur Verfügung. Von einfachen Lösungen zur Kundenidentifizierung bis hin zur Stellung von Geldwäschebeauftragten – alles koordiniert über eine zentrale Plattform: Dem AML desk.
+
+## Kontakt aufnehmen
+
+Nadin Dósa Trainee AML Compliance - Financial & Payment Services
+
+Thomas Manzey Head of AML Compliance - Financial & Payment Services
+
+---
+
+## 116. Russland-Sanktionen - 5 Tipps zur Risikoreduzierung
 
 **Autor:**   
 **Datum:**   
@@ -9595,7 +9714,7 @@ Wichtig bei Sanktionen zu beachten ist, dass sie auch dann gelten, wenn die Gesc
 
 ---
 
-## 116. Sanktionen und was sie bedeuten
+## 117. Sanktionen und was sie bedeuten
 
 **Autor:**   
 **Datum:**   
@@ -9714,7 +9833,7 @@ Am 16. Dezember 2022 verabschiedete die EU schon das neunte Sanktionspaket. Stan
 
 ---
 
-## 117. Schleswig-Holstein: Bußgelder in der Geldwäscheaufsicht steigen um 115 Prozent
+## 118. Schleswig-Holstein: Bußgelder in der Geldwäscheaufsicht steigen um 115 Prozent
 
 **Autor:**   
 **Datum:**   
@@ -9850,7 +9969,7 @@ Frank Lässig Senior AML Compliance Manager
 
 ---
 
-## 118. “Schutzmaßnahmen „auslaufen“ zu lassen, scheint mir gefährlich” - Interview mit dem Compliance Beauftragten der thyssenkrupp AG
+## 119. “Schutzmaßnahmen „auslaufen“ zu lassen, scheint mir gefährlich” - Interview mit dem Compliance Beauftragten der thyssenkrupp AG
 
 **Autor:**   
 **Datum:**   
@@ -9899,7 +10018,7 @@ Otis Benning Senior Associate Marketing
 
 ---
 
-## 119. Stärkung Ihrer Cyber-Abwehr
+## 120. Stärkung Ihrer Cyber-Abwehr
 
 **Autor:**   
 **Datum:**   
@@ -9938,7 +10057,7 @@ Bei Phishing-Simulationen ist auch das Thema Beschäftigtendatenschutz zu beacht
 
 ---
 
-## 120. Terrorismusfinanzierung in der Risikoanalyse: Was Verpflichtete jetzt getrennt bewerten müssen
+## 121. Terrorismusfinanzierung in der Risikoanalyse: Was Verpflichtete jetzt getrennt bewerten müssen
 
 **Autor:**   
 **Datum:**   
@@ -10052,7 +10171,7 @@ Fabian Müller Manager AML Compliance
 
 ---
 
-## 121. Transparenzregister, koordinierte Aufsicht, erweiterter Datenaustausch: Die systemischen GwG-Änderungen des ZFG-Referentenentwurfs
+## 122. Transparenzregister, koordinierte Aufsicht, erweiterter Datenaustausch: Die systemischen GwG-Änderungen des ZFG-Referentenentwurfs
 
 **Autor:**   
 **Datum:**   
@@ -10173,7 +10292,7 @@ Frank Lässig Senior AML Compliance Manager
 
 ---
 
-## 122. Transparenzregistereintragung: 1.415 Unternehmen am Pranger
+## 123. Transparenzregistereintragung: 1.415 Unternehmen am Pranger
 
 **Autor:**   
 **Datum:**   
@@ -10230,7 +10349,7 @@ Unseren Kund:innen stellen wir überdies auch einfache Video-Anleitungen für di
 
 ---
 
-## 123. Übergangsregelungen: Transparenzregister – Noch auf dem neuesten Stand?
+## 124. Übergangsregelungen: Transparenzregister – Noch auf dem neuesten Stand?
 
 **Autor:**   
 **Datum:**   
@@ -10261,7 +10380,7 @@ Sollten sie dies bislang nicht gemacht haben, wird es Zeit. Aus den veröffentli
 
 ---
 
-## 124. UBO-Identifizierung nach der EU-AML-Verordnung: Was sich ab Juli 2027 grundlegend ändert
+## 125. UBO-Identifizierung nach der EU-AML-Verordnung: Was sich ab Juli 2027 grundlegend ändert
 
 **Autor:**   
 **Datum:**   
@@ -10391,7 +10510,7 @@ Frank Lässig Senior AML Compliance Manager
 
 ---
 
-## 125. „Unverzüglichkeit“ und „Vollständigkeit“ – Gemeinsame Orientierungshilfe der BaFin und FIU
+## 126. „Unverzüglichkeit“ und „Vollständigkeit“ – Gemeinsame Orientierungshilfe der BaFin und FIU
 
 **Autor:**   
 **Datum:**   
@@ -10433,7 +10552,7 @@ Tobias Lequen Manager AML Compliance
 
 ---
 
-## 126. US-Cloud-Anbieter im Fokus: Datenschutzrisiken und Handlungsempfehlungen
+## 127. US-Cloud-Anbieter im Fokus: Datenschutzrisiken und Handlungsempfehlungen
 
 **Autor:**   
 **Datum:**   
@@ -10505,7 +10624,7 @@ Lena Pütz Head of Projects (Compliance) [lena.puetz@kerberos-cms.com](mailto:le
 
 ---
 
-## 127. Verdachtsmeldungen nach § 43 GwG: Was die BaFin/FIU-Orientierungshilfe konkret bedeutet
+## 128. Verdachtsmeldungen nach § 43 GwG: Was die BaFin/FIU-Orientierungshilfe konkret bedeutet
 
 **Autor:**   
 **Datum:**   
@@ -10607,7 +10726,7 @@ Maren Adam Principal AML Compliance
 
 ---
 
-## 128. Vermögensentzug ohne Strafurteil: Was §§ 52a–52n ZFG-Referentenentwurf für Verpflichtete bedeuten
+## 129. Vermögensentzug ohne Strafurteil: Was §§ 52a–52n ZFG-Referentenentwurf für Verpflichtete bedeuten
 
 **Autor:**   
 **Datum:**   
@@ -10719,7 +10838,7 @@ Laura Schäfer Managerin AML Compliance
 
 ---
 
-## 129. Verschärfte Meldepflichten bei Immobilientransaktionen - die wichtigsten Änderungen der GwGMeldV-Immobilien 2025
+## 130. Verschärfte Meldepflichten bei Immobilientransaktionen - die wichtigsten Änderungen der GwGMeldV-Immobilien 2025
 
 **Autor:**   
 **Datum:**   
@@ -10792,7 +10911,7 @@ Otis Benning Senior Associate Marketing
 
 ---
 
-## 130. Verstöße gegen das Geldwäschegesetz - Bußgelder und Prüfungen von 2017-2022
+## 131. Verstöße gegen das Geldwäschegesetz - Bußgelder und Prüfungen von 2017-2022
 
 **Autor:**   
 **Datum:**   
@@ -10845,7 +10964,7 @@ Vor diesem Hintergrund lassen sich die Forderungen der EU-Richtlinie zur Einrich
 
 ---
 
-## 131. Vom Krisenherd zum Vertrauensturbo: Umgang mit Datenschutzbeschwerden
+## 132. Vom Krisenherd zum Vertrauensturbo: Umgang mit Datenschutzbeschwerden
 
 **Autor:**   
 **Datum:**   
@@ -10936,7 +11055,7 @@ Sven Fus Senior Manager GDPR Compliance
 
 ---
 
-## 132. Von Sommerloch keine Spur - der Kampf gegen Finanzkriminalität in den Medien
+## 133. Von Sommerloch keine Spur - der Kampf gegen Finanzkriminalität in den Medien
 
 **Autor:**   
 **Datum:**   
@@ -11094,7 +11213,7 @@ Otis Benning Senior Associate Marketing
 
 ---
 
-## 133. Vonovia – Korruptionsskandal mit Vorbildcharakter
+## 134. Vonovia – Korruptionsskandal mit Vorbildcharakter
 
 **Autor:**   
 **Datum:**   
@@ -11175,7 +11294,7 @@ Hinweisgebersysteme zu betreiben ist unkompliziert. Kerberos bietet kostengünst
 
 ---
 
-## 134. Warum sind Risikoanalysen nach dem Geldwäschegesetz (GwG) so wichtig?
+## 135. Warum sind Risikoanalysen nach dem Geldwäschegesetz (GwG) so wichtig?
 
 **Autor:**   
 **Datum:**   
@@ -11227,7 +11346,7 @@ Daneben bieten insbesondere digitale Lösungen zur automatisierten Abfrage geldw
 
 ---
 
-## 135. Weihnachtsgrüße von Christian Tsambikakis - Geschäftsführer
+## 136. Weihnachtsgrüße von Christian Tsambikakis - Geschäftsführer
 
 **Autor:**   
 **Datum:**   
@@ -11262,7 +11381,7 @@ Christian Tsambikakis, Geschäftsführer
 
 ---
 
-## 136. Wie steht es um die Bekämpfung von Geldwäsche in Deutschland? Und warum?
+## 137. Wie steht es um die Bekämpfung von Geldwäsche in Deutschland? Und warum?
 
 **Autor:**   
 **Datum:**   
@@ -11321,7 +11440,7 @@ Anhand der Ergebnisse des Follow-Up-Reports lassen sich also die gröbsten Herau
 
 ---
 
-## 137. Wiederkehrende Pflichten zur Geldwäscheprävention – Update Ende 2025
+## 138. Wiederkehrende Pflichten zur Geldwäscheprävention – Update Ende 2025
 
 **Autor:**   
 **Datum:**   
@@ -11406,7 +11525,7 @@ Otis Benning Senior Associate Marketing
 
 ---
 
-## 138. Wiederkehrende Pflichten zur Geldwäscheprävention
+## 139. Wiederkehrende Pflichten zur Geldwäscheprävention
 
 **Autor:**   
 **Datum:**   
@@ -11451,7 +11570,7 @@ Um die Zertifizierung als Geldwäschebeauftragte, soweit diese vorhanden ist, zu
 
 ---
 
-## 139. Zwischen Innovation und Risiko - Kryptowährungen im Fokus des Geldwäschebeauftragten
+## 140. Zwischen Innovation und Risiko - Kryptowährungen im Fokus des Geldwäschebeauftragten
 
 **Autor:**   
 **Datum:**   
