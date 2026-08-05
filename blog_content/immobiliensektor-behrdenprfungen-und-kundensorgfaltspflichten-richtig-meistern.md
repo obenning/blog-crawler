@@ -4,7 +4,7 @@ author: ""
 date: ""
 url: "https://www.kerberos-compliance.com/wissen/blog/immobiliensektor-behrdenprfungen-und-kundensorgfaltspflichten-richtig-meistern"
 excerpt: ""
-crawled_at: "2026-08-04T05:21:55.863432"
+crawled_at: "2026-08-05T05:22:08.586430"
 ---
 
 # Immobiliensektor: Behördenprüfungen und Kundensorgfaltspflichten richtig meistern
@@ -20,6 +20,12 @@ Veröffentlicht: 2025-03-26
 Als Immobilienmakler gehören Sie zu den nach dem Geldwäschegesetz (GwG) verpflichteten Unternehmen. Die gesetzlichen Anforderungen an die Geldwäscheprävention sind komplex und erfordern ein strukturiertes Vorgehen. In diesem Beitrag geben wir Ihnen einen praxisnahen Überblick über die wichtigsten Compliance-Anforderungen für Ihre tägliche Arbeit.
 
 Dazu informieren unsere Expert:innen in regelmäßigen Webinaren über Pflichten & Lösungsansätze für Verpflichtete nach dem Geldwäschegesetz. Stellen Sie unseren Expert:innen live & kostenfrei Ihre Fragen:
+
+Die EU-AMLR macht Fußballklubs und Spielervermittler ab Juli 2029 zu Verpflichteten. Warum ist Fußball ein Geldwäscherisiko? Transfergeschäfte, Spielervermittlung und Sorgfaltspflichten für Klubs. Zeitplan zur Vorbereitung und Best Practices aus anderen Branchen – jetzt handeln!
+
+Die EU-AMLR integriert Sanktionscompliance erstmals als festen Bestandteil der Geldwäscheprävention. Screening-Prozesse (automatisiert vs. manuell), 5-Tages-Frist für FIU-Anfragen, EU- vs. nationale Sanktionslisten und Integration in bestehende Prozesse. Neue Pflichten für alle Verpflichteten - ein Deep-Dive zu anstehenden Änderungen.
+
+Erfahren Sie von Dr. Anna Bolz , zertifizierte Geldwäschebeauftragte, wie Sie Ihre Pflichten nach dem Geldwäschegesetz (GwG) effizient und rechtssicher umsetzen. Das Webinar fokussiert auf die praktischen Herausforderungen bei Kataloggeschäften und bietet konkrete Lösungsansätze für den Berufsalltag.
 
 ## Geldwäsche treibt Immobilienpreise nachweislich in die Höhe
 
