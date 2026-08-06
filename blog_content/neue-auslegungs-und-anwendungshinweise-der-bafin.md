@@ -4,7 +4,7 @@ author: ""
 date: ""
 url: "https://www.kerberos-compliance.com/wissen/blog/neue-auslegungs-und-anwendungshinweise-der-bafin"
 excerpt: ""
-crawled_at: "2026-08-05T05:22:30.727960"
+crawled_at: "2026-08-06T05:24:29.015719"
 ---
 
 # Neue Auslegungs- und Anwendungshinweise der BaFin
