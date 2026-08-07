@@ -4,7 +4,7 @@ author: ""
 date: ""
 url: "https://www.kerberos-compliance.com/wissen/blog/zwischen-innovation-und-risiko-kryptowaehrungen-im-fokus-des-geldwaeschebeauftragten"
 excerpt: ""
-crawled_at: "2026-08-06T05:23:47.407136"
+crawled_at: "2026-08-07T04:30:46.348849"
 ---
 
 # Zwischen Innovation und Risiko - Kryptowährungen im Fokus des Geldwäschebeauftragten

@@ -4,7 +4,7 @@ author: ""
 date: ""
 url: "https://www.kerberos-compliance.com/wissen/blog/bautraeger-und-makler-was-geldwaeschepraevention-fuer-sie-bedeutet"
 excerpt: ""
-crawled_at: "2026-08-06T05:24:53.448073"
+crawled_at: "2026-08-07T04:31:51.501255"
 ---
 
 # Bauträger/Immobilienentwickler und Makler – Was Geldwäscheprävention für sie bedeutet

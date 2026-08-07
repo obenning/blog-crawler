@@ -4,7 +4,7 @@ author: ""
 date: ""
 url: "https://www.kerberos-compliance.com/wissen/blog/gwgmeldv-2026-was-aendert-sich-bei-geldwaescheverdachtsmeldungen"
 excerpt: ""
-crawled_at: "2026-08-06T05:23:36.825770"
+crawled_at: "2026-08-07T04:30:35.200150"
 ---
 
 # GwGMeldV 2026: Was ändert sich bei Geldwäscheverdachtsmeldungen?

@@ -4,7 +4,7 @@ author: ""
 date: ""
 url: "https://www.kerberos-compliance.com/wissen/blog/kapitalverwaltungsgesellschaften-aml-faktoren-bei-der-jahres-abschlussprfung"
 excerpt: ""
-crawled_at: "2026-08-06T05:24:56.316669"
+crawled_at: "2026-08-07T04:31:53.904969"
 ---
 
 # Kapitalverwaltungsgesellschaften: AML-Faktoren bei der Jahres-Abschlussprüfung

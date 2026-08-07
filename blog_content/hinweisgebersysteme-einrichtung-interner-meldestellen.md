@@ -4,7 +4,7 @@ author: ""
 date: ""
 url: "https://www.kerberos-compliance.com/wissen/blog/hinweisgebersysteme-einrichtung-interner-meldestellen"
 excerpt: ""
-crawled_at: "2026-08-06T05:25:22.108265"
+crawled_at: "2026-08-07T04:32:20.126700"
 ---
 
 # Übergangsregelungen: Hinweisgebersysteme  - Einrichtung interner Meldestellen
