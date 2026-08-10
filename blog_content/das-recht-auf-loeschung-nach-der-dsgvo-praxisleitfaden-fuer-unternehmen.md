@@ -4,7 +4,7 @@ author: ""
 date: ""
 url: "https://www.kerberos-compliance.com/wissen/blog/das-recht-auf-loeschung-nach-der-dsgvo-praxisleitfaden-fuer-unternehmen"
 excerpt: ""
-crawled_at: "2026-08-09T03:49:11.932018"
+crawled_at: "2026-08-10T04:02:37.237391"
 ---
 
 # Das Recht auf Löschung nach der DSGVO: Praxisleitfaden für Unternehmen

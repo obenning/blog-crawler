@@ -4,7 +4,7 @@ author: ""
 date: ""
 url: "https://www.kerberos-compliance.com/wissen/blog/die-entwicklung-der-geldaewsche-in-deutschland-2014-2024-ein-alarmierender-trend"
 excerpt: ""
-crawled_at: "2026-08-09T03:49:29.016686"
+crawled_at: "2026-08-10T04:02:52.640612"
 ---
 
 # Die Entwicklung der Geldwäsche in Deutschland 2014-2024: Ein alarmierender Trend

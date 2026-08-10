@@ -4,7 +4,7 @@ author: ""
 date: ""
 url: "https://www.kerberos-compliance.com/wissen/blog/clan-spitzel-bei-der-fiu"
 excerpt: ""
-crawled_at: "2026-08-09T03:50:28.649654"
+crawled_at: "2026-08-10T04:03:48.941899"
 ---
 
 # Clan-Spitzel bei der Geldwäsche-Spezialeinheit

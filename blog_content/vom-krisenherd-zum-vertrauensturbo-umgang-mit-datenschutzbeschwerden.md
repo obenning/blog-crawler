@@ -4,7 +4,7 @@ author: ""
 date: ""
 url: "https://www.kerberos-compliance.com/wissen/blog/vom-krisenherd-zum-vertrauensturbo-umgang-mit-datenschutzbeschwerden"
 excerpt: ""
-crawled_at: "2026-08-09T03:50:12.448422"
+crawled_at: "2026-08-10T04:03:34.465226"
 ---
 
 # Vom Krisenherd zum Vertrauensturbo: Umgang mit Datenschutzbeschwerden

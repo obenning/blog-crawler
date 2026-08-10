@@ -4,7 +4,7 @@ author: ""
 date: ""
 url: "https://www.kerberos-compliance.com/wissen/blog/geldwaescheprvaention-eine-strategische-notwendigkeit-fuer-moderne-unternehmen"
 excerpt: ""
-crawled_at: "2026-08-09T03:50:04.829981"
+crawled_at: "2026-08-10T04:03:27.619331"
 ---
 
 # Geldwäscheprävention: Eine strategische Notwendigkeit für moderne Unternehmen

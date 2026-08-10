@@ -4,7 +4,7 @@ author: ""
 date: ""
 url: "https://www.kerberos-compliance.com/wissen/blog/aml-2026-fuer-kapitalverwaltungsgesellschaften-eu-aml-verordnung-und-bafin-praxis"
 excerpt: ""
-crawled_at: "2026-08-09T03:48:28.822699"
+crawled_at: "2026-08-10T04:01:58.924667"
 ---
 
 # AML 2026 für Kapitalverwaltungsgesellschaften: EU-AML-Verordnung und BaFin-Praxis

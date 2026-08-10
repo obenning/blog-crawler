@@ -4,7 +4,7 @@ author: ""
 date: ""
 url: "https://www.kerberos-compliance.com/wissen/blog/neue-eu-vorschriften-zur-bekmpfung-von-geldwsche"
 excerpt: ""
-crawled_at: "2026-08-09T03:50:24.186028"
+crawled_at: "2026-08-10T04:03:44.842299"
 ---
 
 # Neue EU-Vorschriften zur Bekämpfung von Geldwäsche und Terrorismusfinanzierung: Ein erster Überblick

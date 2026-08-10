@@ -4,7 +4,7 @@ author: ""
 date: ""
 url: "https://www.kerberos-compliance.com/wissen/blog/ein-vertrauensvorschuss-fr-deutschland-die-amla-kommt-nach-frankfurt"
 excerpt: ""
-crawled_at: "2026-08-09T03:50:30.166456"
+crawled_at: "2026-08-10T04:03:50.308596"
 ---
 
 # Ein Vertrauensvorschuss für Deutschland – die AMLA kommt nach Frankfurt

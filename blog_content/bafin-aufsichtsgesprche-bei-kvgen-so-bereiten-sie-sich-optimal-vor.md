@@ -4,7 +4,7 @@ author: ""
 date: ""
 url: "https://www.kerberos-compliance.com/wissen/blog/bafin-aufsichtsgesprche-bei-kvgen-so-bereiten-sie-sich-optimal-vor"
 excerpt: ""
-crawled_at: "2026-08-09T03:48:46.776449"
+crawled_at: "2026-08-10T04:02:15.385442"
 ---
 
 # BaFin-Aufsichtsgespräche bei KVGen: So bereiten Sie sich optimal vor

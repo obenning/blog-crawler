@@ -4,7 +4,7 @@ author: ""
 date: ""
 url: "https://www.kerberos-compliance.com/wissen/blog/neue-gwg-meldeverordnung-standardisierung-von-verdachtsmeldungen-ab-oktober-2025"
 excerpt: ""
-crawled_at: "2026-08-09T03:49:25.998200"
+crawled_at: "2026-08-10T04:02:49.882753"
 ---
 
 # Neue GwG-Meldeverordnung: Standardisierung von Verdachtsmeldungen ab Oktober 2025
