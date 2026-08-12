@@ -1,11 +1,11 @@
 # Blog Content Archive
 
-Automatisch gecrawlt am: 2026-08-11 03:52:58
+Automatisch gecrawlt am: 2026-08-12 04:15:14
 
 **Statistik:**
 - Gesamt Artikel: 136
-- Erfolgreich gecrawlt: 135
-- Fehlgeschlagen: 1
+- Erfolgreich gecrawlt: 136
+- Fehlgeschlagen: 0
 
 **Quelle:** https://www.kerberos-compliance.com/wissen/blog
 

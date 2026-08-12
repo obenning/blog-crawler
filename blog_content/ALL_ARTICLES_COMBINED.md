@@ -1,6 +1,6 @@
 # 📚 Kerberos Compliance Blog - Alle Artikel
 
-**Generiert:** 11.08.2026 03:52
+**Generiert:** 12.08.2026 04:15
 **Anzahl Artikel:** 140
 **Gesamtwortanzahl:** 121,308
 
@@ -335,12 +335,12 @@ Die drei Tage können nur abgekürzt werden, wenn eine Staatsanwaltschaft oder d
 
 # Blog Content Archive
 
-Automatisch gecrawlt am: 2026-08-11 03:52:58
+Automatisch gecrawlt am: 2026-08-12 04:15:14
 
 **Statistik:**
 - Gesamt Artikel: 136
-- Erfolgreich gecrawlt: 135
-- Fehlgeschlagen: 1
+- Erfolgreich gecrawlt: 136
+- Fehlgeschlagen: 0
 
 **Quelle:** https://www.kerberos-compliance.com/wissen/blog
 
