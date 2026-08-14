@@ -4,7 +4,7 @@ author: ""
 date: ""
 url: "https://www.kerberos-compliance.com/wissen/blog/geldwaesche-im-immobiliensektor-was-makler-jetzt-wissen-muessen"
 excerpt: ""
-crawled_at: "2026-08-13T04:17:32.966057"
+crawled_at: "2026-08-14T04:14:12.064236"
 ---
 
 # Geldwäsche im Immobiliensektor: Was Makler jetzt wissen müssen

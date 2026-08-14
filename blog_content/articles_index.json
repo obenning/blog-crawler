@@ -1,6 +1,6 @@
 {
-  "generated": "2026-08-13T04:20:09.806257",
-  "total_articles": 139,
+  "generated": "2026-08-14T04:16:58.473819",
+  "total_articles": 140,
   "articles": [
     {
       "filename": "21-jahriger-sohn-von-clanchef-abou-chaker-ersteigert-villen-fur-uber-7-millionen-euro.md",
@@ -1351,6 +1351,16 @@
       "excerpt": "# Weihnachtsgrüße von Christian Tsambikakis - Geschäftsführer\n\n**Autor:**   \n**Datum:**   \n**URL:** https://www.kerberos-compliance.com/wissen/blog/weihnachtsgruesse-von-christian-tsambikakis-geschaef...",
       "raw_url": "https://raw.githubusercontent.com/obenning/blog-crawler/main/blog_content/weihnachtsgruesse-von-christian-tsambikakis-geschaeftsfuehrer.md",
       "word_count": 163
+    },
+    {
+      "filename": "wer-sich-bei-der-fiu-registrieren-muss.md",
+      "title": "Wer sich bei der FIU registrieren muss - und warum die Aufsicht bald mitzählen kann",
+      "author": "",
+      "date": "",
+      "url": "https://www.kerberos-compliance.com/wissen/blog/wer-sich-bei-der-fiu-registrieren-muss",
+      "excerpt": "# Wer sich bei der FIU registrieren muss - und warum die Aufsicht bald mitzählen kann\n\n**Autor:**   \n**Datum:**   \n**URL:** https://www.kerberos-compliance.com/wissen/blog/wer-sich-bei-der-fiu-registr...",
+      "raw_url": "https://raw.githubusercontent.com/obenning/blog-crawler/main/blog_content/wer-sich-bei-der-fiu-registrieren-muss.md",
+      "word_count": 750
     },
     {
       "filename": "wie-steht-es-um-die-bekmpfung-von-geldwsche-in-deutschland-und-warum.md",
