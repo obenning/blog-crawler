@@ -4,7 +4,7 @@ author: ""
 date: ""
 url: "https://www.kerberos-compliance.com/wissen/blog/neue-auslegungs-und-anwendungshinweise-zum-geldwaeschegesetz-fuer-die-anwaltschaft"
 excerpt: ""
-crawled_at: "2026-08-16T03:07:58.753982"
+crawled_at: "2026-08-17T03:07:44.565798"
 ---
 
 # Neue Auslegungs- und Anwendungshinweise zum Geldwäschegesetz für die Anwaltschaft

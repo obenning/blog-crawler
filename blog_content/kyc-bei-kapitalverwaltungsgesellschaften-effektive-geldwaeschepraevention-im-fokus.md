@@ -4,7 +4,7 @@ author: ""
 date: ""
 url: "https://www.kerberos-compliance.com/wissen/blog/kyc-bei-kapitalverwaltungsgesellschaften-effektive-geldwaeschepraevention-im-fokus"
 excerpt: ""
-crawled_at: "2026-08-16T03:07:36.967494"
+crawled_at: "2026-08-17T03:07:22.314032"
 ---
 
 # KYC bei Kapitalverwaltungsgesellschaften: Effektive Geldwäscheprävention im Fokus

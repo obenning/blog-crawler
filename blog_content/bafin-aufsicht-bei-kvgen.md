@@ -4,7 +4,7 @@ author: ""
 date: ""
 url: "https://www.kerberos-compliance.com/wissen/blog/bafin-aufsicht-bei-kvgen"
 excerpt: ""
-crawled_at: "2026-08-16T03:06:08.843537"
+crawled_at: "2026-08-17T03:05:51.479771"
 ---
 
 # BaFin-Aufsicht bei KVGen: Was sich 2026 verändert hat – und was 2027 konkret kommt

@@ -4,7 +4,7 @@ author: ""
 date: ""
 url: "https://www.kerberos-compliance.com/wissen/blog/das-muessen-rechtsanwaelte-und-kanzleien-zur-ihren-pflichten-nach-dem-geldwaeschegesetz-wissen"
 excerpt: ""
-crawled_at: "2026-08-16T03:08:08.047832"
+crawled_at: "2026-08-17T03:07:54.057416"
 ---
 
 # Das müssen Rechtsanwälte und Kanzleien zur Ihren Pflichten nach dem Geldwäschegesetz wissen.

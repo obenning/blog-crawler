@@ -4,7 +4,7 @@ author: ""
 date: ""
 url: "https://www.kerberos-compliance.com/wissen/blog/wer-sich-bei-der-fiu-registrieren-muss"
 excerpt: ""
-crawled_at: "2026-08-16T03:06:02.375091"
+crawled_at: "2026-08-17T03:05:44.744965"
 ---
 
 # Wer sich bei der FIU registrieren muss - und warum die Aufsicht bald mitzählen kann

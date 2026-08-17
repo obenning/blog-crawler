@@ -4,7 +4,7 @@ author: ""
 date: ""
 url: "https://www.kerberos-compliance.com/wissen/blog/rechnungsversand-per-e-mail-neue-rechtslage-nach-olg-urteil"
 excerpt: ""
-crawled_at: "2026-08-16T03:07:29.030790"
+crawled_at: "2026-08-17T03:07:14.345592"
 ---
 
 # Rechnungsversand per E-Mail: Neue Rechtslage nach OLG-Urteil

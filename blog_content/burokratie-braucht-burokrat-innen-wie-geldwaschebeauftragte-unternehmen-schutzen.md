@@ -4,7 +4,7 @@ author: ""
 date: ""
 url: "https://www.kerberos-compliance.com/wissen/blog/burokratie-braucht-burokrat-innen-wie-geldwaschebeauftragte-unternehmen-schutzen"
 excerpt: ""
-crawled_at: "2026-08-16T03:08:52.502975"
+crawled_at: "2026-08-17T03:08:39.604340"
 ---
 
 # Bürokratie braucht Bürokrat:innen – Wie Geldwäschebeauftragte Unternehmen schützen
