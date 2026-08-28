@@ -4,7 +4,7 @@ author: ""
 date: ""
 url: "https://www.kerberos-compliance.com/wissen/blog/eu-aml-vor-neue-kyc-pruefpflichten-fuer-kapitalverwaltungsgesellschaften"
 excerpt: ""
-crawled_at: "2026-08-27T12:42:09.835092"
+crawled_at: "2026-08-28T14:15:39.139494"
 ---
 
 # EU AML VO: Neue KYC-Prüfpflichten für Kapitalverwaltungsgesellschaften – Was Sie jetzt wissen müssen

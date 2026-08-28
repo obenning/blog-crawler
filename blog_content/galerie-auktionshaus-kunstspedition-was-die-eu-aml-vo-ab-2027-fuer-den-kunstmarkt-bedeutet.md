@@ -4,7 +4,7 @@ author: ""
 date: ""
 url: "https://www.kerberos-compliance.com/wissen/blog/galerie-auktionshaus-kunstspedition-was-die-eu-aml-vo-ab-2027-fuer-den-kunstmarkt-bedeutet"
 excerpt: ""
-crawled_at: "2026-08-27T12:41:38.999116"
+crawled_at: "2026-08-28T14:15:06.072911"
 ---
 
 # Galerie, Auktionshaus, Kunstspedition: Was die EU-AML-VO ab 2027 für den Kunstmarkt bedeutet

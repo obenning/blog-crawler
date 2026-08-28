@@ -4,7 +4,7 @@ author: ""
 date: ""
 url: "https://www.kerberos-compliance.com/wissen/blog/schleswig-holstein-bugelder-in-der-geldwscheaufsicht-steigen-um-115-prozent"
 excerpt: ""
-crawled_at: "2026-08-27T12:41:55.258589"
+crawled_at: "2026-08-28T14:15:22.749713"
 ---
 
 # Schleswig-Holstein: Bußgelder in der Geldwäscheaufsicht steigen um 115 Prozent
