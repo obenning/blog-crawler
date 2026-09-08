@@ -4,7 +4,7 @@ author: ""
 date: ""
 url: "https://www.kerberos-compliance.com/wissen/blog/geldwasche-im-profisport-interview-mit-bvgb-vorstandin-lena-olschewski"
 excerpt: ""
-crawled_at: "2026-09-07T07:16:28.527965"
+crawled_at: "2026-09-08T07:12:22.017755"
 ---
 
 # Geldwäsche im Profisport - Interview mit Vorstandsvorsitzenden des Bundesverbands der Geldwäschebeauftragten e.V. Lena Olschewski
@@ -25,7 +25,7 @@ Gerne, zum einen erläutern wir die Geldwäscherisiken im Profifußball. Diese s
 
 Für den Aufsatz habt ihr auch Beispiele gesammelt, wie in der Vergangenheit über den Profi-Sport Geld gewaschen wurde. Kannst du uns Geldwäsche im bzw. durch den Profi-Sport einmal anhand eines Beispiels erläutern?
 
-Es gibt unterschiedliche Möglichkeiten wie zum Beispiel Investitionen in Vereine, Sponsoring oder Spielertransfers. Nehmen wir die Spielertransfers: hier werden große Geldmengen global gezahlt und die Gelder teilweise schnell über mehrere Länder transferiert. Dadurch sind die Geldbewegungen für Aufsichtsbehörden und Verbände schwierig zu kontrollieren. Aufgrund der schwer zu bestimmenden Marktwerte von Spielern besteht ein hohes Risiko, dass Geldwäscher sich die aus dem Güterhandel bekannte Typologie des „over- / under-invoicing“ bedienen. Also der künstlichen Erhöhung oder Verringerung des Kaufpreises über den realen Wert. Die Methodik mag beispielsweise auch in dem Fall des Spieler Marko Hanuljak eine Rolle gespielt haben. Der Kicker hat Ende März 2022 einen Artikel über den Spielerberater Pini Zahavi veröffentlich. In diesem Artikel geht es um die Arbeit des Agenten für den Club Royal Excel Mouscron, welcher im Jahr 2018 den Spieler Marko Hanuljak kostenlos verpflichtet und wenige Tage später an den AC Florenz für 1,5 Millionen Euro weiterverkauft habe, ohne dass dieser je ein Spiel für den Verein bestritten hätte. Der Kicker kommt zu der Erkenntnis, dass es nicht nachvollziehbar sei, woher eine solche Geldvermehrung kommen solle.
+Es gibt unterschiedliche Möglichkeiten wie zum Beispiel Investitionen in Vereine, Sponsoring oder Spielertransfers. Nehmen wir die Spielertransfers: hier werden große Geldmengen global gezahlt und die Gelder teilweise schnell über mehrere Länder transferiert. Dadurch sind die Geldbewegungen für Aufsichtsbehörden und Verbände schwierig zu kontrollieren. Aufgrund der schwer zu bestimmenden Marktwerte von Spielern besteht ein hohes Risiko, dass Geldwäscher sich die aus dem Güterhandel bekannte Typologie des „over- / under-invoicing“ bedienen. Also der künstlichen Erhöhung oder Verringerung des Kaufpreises über den realen Wert. Die Methodik mag beispielsweise auch in dem Fall des Spieler Marko Hanuljak eine Rolle gespielt haben. Der Kicker hat Ende März 2022 einen Artikel über den Spielerberater Pini Zahavi veröffentlicht. In diesem Artikel geht es um die Arbeit des Agenten für den Club Royal Excel Mouscron, welcher im Jahr 2018 den Spieler Marko Hanuljak kostenlos verpflichtet und wenige Tage später an den AC Florenz für 1,5 Millionen Euro weiterverkauft habe, ohne dass dieser je ein Spiel für den Verein bestritten hätte. Der Kicker kommt zu der Erkenntnis, dass es nicht nachvollziehbar sei, woher eine solche Geldvermehrung kommen solle.
 
 Inwiefern hätten Maßnahmen zur Geldwäsche-Compliance hier gegriffen?
 

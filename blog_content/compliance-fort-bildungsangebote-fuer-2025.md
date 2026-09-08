@@ -4,7 +4,7 @@ author: ""
 date: ""
 url: "https://www.kerberos-compliance.com/wissen/blog/compliance-fort-bildungsangebote-fuer-2025"
 excerpt: ""
-crawled_at: "2026-09-07T07:15:14.825014"
+crawled_at: "2026-09-08T07:11:03.749917"
 ---
 
 # Compliance (Fort-)Bildungsangebote für 2025
@@ -46,15 +46,5 @@ BaFin fordert seit März 2025 getrennte Risikoanalysen für Geldwäsche und Terr
 Die AMLA startete im Februar 2025 mit Sitz in Frankfurt. Ab 2027 übernimmt sie die direkte Aufsicht über Hochrisiko-Institute. Was bedeutet „Supervisor of Supervisors"? RTS & Guidelines im Zeitplan bis 2027. Wie bereiten Sie sich auf AMLA-Prüfungen vor? Aufbau, Befugnisse und Auswirkungen für größere Institute.
 
 Weitere Webinare kommen im Laufe der Zeit dazu. Folgen Sie uns auf [LinkedIn](https://www.linkedin.com/company/kerberos-compliance) , Abonnieren Sie unseren [Newsletter](https://www.kerberos-compliance.com/wissen/newsletter-anmeldung) oder besuchen Sie unsere Website um über unser aktuelles Angebot informiert zu bleiben.
-
-## Whitepaper & Mediathek
-
-Dazu bauen wir unser Angebot an [Whitepapern](https://www.kerberos-compliance.com/wissen/whitepaper) und unsere [Webinar-Mediathek](https://www.kerberos-compliance.com/wissen/veranstaltungen#mediathek) stetig aus. Informieren Sie sich über die Nutzung des Verdachtsmeldeportals goAML, die Erstellung von Risikoanalysen, Hinweisgebersysteme, Behördenprüfungen und viele weitere Themen.
-
-Die Möglichkeit, weltweit und innerhalb von Sekunden vermeintlich sicher mit Kryptowerten zu zahlen, bietet das Potential einer Revolution für das Finanzwesen, aber auch für Geldwäscher. Umso wichtiger ist es, Verdachtsmomente zu erkennen und sich effektiv zu schützen. Woran Sie Geldwäsche erkennen und wer zu den Verpflichteten nach dem Geldwäschegesetz in der Krypto-Welt gehört, erfahren Sie in unserem Whitepaper.
-
-Die Risikoanalyse gehört zu den zentralen Pflichten des Geldwäschegesetzes und ist ein wichtiger Bestandteil zur Prävention von Geldwäsche. Unterbleibt die Risikoanalyse, droht ein Bußgeld. Warum die Risikoanalyse so wichtig ist und was bei der Erstellung beachten werden muss, erfahren Sie im Whitepaper.
-
-In Deutschland wird Geld gewaschen - viel Geld. Nach Schätzungen der Bundesministerium der Finanzen 100 Millarden pro Jahr. Angesichts der hohen Summe ist klar: unbedarfte Unternehmer leisten unwissentlich Beihilfe zu Geldwäsche. Warum das so ist und wie Sie das verhindern können zeigt das Whitepaper.
 
 Otis Benning Senior Associate Marketing

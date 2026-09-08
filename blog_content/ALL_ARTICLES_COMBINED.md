@@ -1,8 +1,8 @@
 # 📚 Kerberos Compliance Blog - Alle Artikel
 
-**Generiert:** 07.09.2026 07:16
+**Generiert:** 08.09.2026 07:12
 **Anzahl Artikel:** 141
-**Gesamtwortanzahl:** 122,412
+**Gesamtwortanzahl:** 122,233
 
 ---
 
@@ -336,7 +336,7 @@ Die drei Tage können nur abgekürzt werden, wenn eine Staatsanwaltschaft oder d
 
 # Blog Content Archive
 
-Automatisch gecrawlt am: 2026-09-07 07:16:32
+Automatisch gecrawlt am: 2026-09-08 07:12:25
 
 **Statistik:**
 - Gesamt Artikel: 137
@@ -2331,7 +2331,7 @@ Vielen Dank.
 
 **Autor:**   
 **Datum:**   
-**Wortanzahl:** 644  
+**Wortanzahl:** 465  
 **Original:** https://www.kerberos-compliance.com/wissen/blog/compliance-fort-bildungsangebote-fuer-2025  
 
 ---
@@ -2375,16 +2375,6 @@ BaFin fordert seit März 2025 getrennte Risikoanalysen für Geldwäsche und Terr
 Die AMLA startete im Februar 2025 mit Sitz in Frankfurt. Ab 2027 übernimmt sie die direkte Aufsicht über Hochrisiko-Institute. Was bedeutet „Supervisor of Supervisors"? RTS & Guidelines im Zeitplan bis 2027. Wie bereiten Sie sich auf AMLA-Prüfungen vor? Aufbau, Befugnisse und Auswirkungen für größere Institute.
 
 Weitere Webinare kommen im Laufe der Zeit dazu. Folgen Sie uns auf [LinkedIn](https://www.linkedin.com/company/kerberos-compliance) , Abonnieren Sie unseren [Newsletter](https://www.kerberos-compliance.com/wissen/newsletter-anmeldung) oder besuchen Sie unsere Website um über unser aktuelles Angebot informiert zu bleiben.
-
-## Whitepaper & Mediathek
-
-Dazu bauen wir unser Angebot an [Whitepapern](https://www.kerberos-compliance.com/wissen/whitepaper) und unsere [Webinar-Mediathek](https://www.kerberos-compliance.com/wissen/veranstaltungen#mediathek) stetig aus. Informieren Sie sich über die Nutzung des Verdachtsmeldeportals goAML, die Erstellung von Risikoanalysen, Hinweisgebersysteme, Behördenprüfungen und viele weitere Themen.
-
-Die Möglichkeit, weltweit und innerhalb von Sekunden vermeintlich sicher mit Kryptowerten zu zahlen, bietet das Potential einer Revolution für das Finanzwesen, aber auch für Geldwäscher. Umso wichtiger ist es, Verdachtsmomente zu erkennen und sich effektiv zu schützen. Woran Sie Geldwäsche erkennen und wer zu den Verpflichteten nach dem Geldwäschegesetz in der Krypto-Welt gehört, erfahren Sie in unserem Whitepaper.
-
-Die Risikoanalyse gehört zu den zentralen Pflichten des Geldwäschegesetzes und ist ein wichtiger Bestandteil zur Prävention von Geldwäsche. Unterbleibt die Risikoanalyse, droht ein Bußgeld. Warum die Risikoanalyse so wichtig ist und was bei der Erstellung beachten werden muss, erfahren Sie im Whitepaper.
-
-In Deutschland wird Geld gewaschen - viel Geld. Nach Schätzungen der Bundesministerium der Finanzen 100 Millarden pro Jahr. Angesichts der hohen Summe ist klar: unbedarfte Unternehmer leisten unwissentlich Beihilfe zu Geldwäsche. Warum das so ist und wie Sie das verhindern können zeigt das Whitepaper.
 
 Otis Benning Senior Associate Marketing
 
@@ -4736,7 +4726,7 @@ Für Verpflichtete aus dem Finanzsektor geht die Rechnung eher auf als für Verp
 
 Dabei liegt deren Anteil an registrierten Nutzern des Meldeportals goAML laut FIU 2023 bei nur 14-20%. Zahlenmäßig stellt der Nicht-Finanzsektor mit bis zu 44.000 Registrierten die weitaus größere Gruppe potenziell Meldender dar.
 
-Diese Zahlen sind aktuelle Schätzungen, die Kerberos auf Basis der bisherigen FIU-Berichte und anderer Quellen anstellt. Die konkreten Zahlen werden von der FIU nicht veröffentlich. Worauf sie jedoch hinweist, ist der insgesamt starke Anstieg an Registrierungen.
+Diese Zahlen sind aktuelle Schätzungen, die Kerberos auf Basis der bisherigen FIU-Berichte und anderer Quellen anstellt. Die konkreten Zahlen werden von der FIU nicht veröffentlicht. Worauf sie jedoch hinweist, ist der insgesamt starke Anstieg an Registrierungen.
 
 Dies dürfte auch mit der Verpflichtung zur Registrierung zusammenhängen, für die Ende 2023 eine Übergangsfrist auslief. Demnach stieg die Zahl der registrierten Verpflichteten folgerichtig auf über 50.000. Eine mehr-als-Verdoppelung zu 2022. Der größte Teil der Neuregistrierungen kam aus dem Nicht-Finanzsektor.
 
@@ -5617,7 +5607,7 @@ Gerne, zum einen erläutern wir die Geldwäscherisiken im Profifußball. Diese s
 
 Für den Aufsatz habt ihr auch Beispiele gesammelt, wie in der Vergangenheit über den Profi-Sport Geld gewaschen wurde. Kannst du uns Geldwäsche im bzw. durch den Profi-Sport einmal anhand eines Beispiels erläutern?
 
-Es gibt unterschiedliche Möglichkeiten wie zum Beispiel Investitionen in Vereine, Sponsoring oder Spielertransfers. Nehmen wir die Spielertransfers: hier werden große Geldmengen global gezahlt und die Gelder teilweise schnell über mehrere Länder transferiert. Dadurch sind die Geldbewegungen für Aufsichtsbehörden und Verbände schwierig zu kontrollieren. Aufgrund der schwer zu bestimmenden Marktwerte von Spielern besteht ein hohes Risiko, dass Geldwäscher sich die aus dem Güterhandel bekannte Typologie des „over- / under-invoicing“ bedienen. Also der künstlichen Erhöhung oder Verringerung des Kaufpreises über den realen Wert. Die Methodik mag beispielsweise auch in dem Fall des Spieler Marko Hanuljak eine Rolle gespielt haben. Der Kicker hat Ende März 2022 einen Artikel über den Spielerberater Pini Zahavi veröffentlich. In diesem Artikel geht es um die Arbeit des Agenten für den Club Royal Excel Mouscron, welcher im Jahr 2018 den Spieler Marko Hanuljak kostenlos verpflichtet und wenige Tage später an den AC Florenz für 1,5 Millionen Euro weiterverkauft habe, ohne dass dieser je ein Spiel für den Verein bestritten hätte. Der Kicker kommt zu der Erkenntnis, dass es nicht nachvollziehbar sei, woher eine solche Geldvermehrung kommen solle.
+Es gibt unterschiedliche Möglichkeiten wie zum Beispiel Investitionen in Vereine, Sponsoring oder Spielertransfers. Nehmen wir die Spielertransfers: hier werden große Geldmengen global gezahlt und die Gelder teilweise schnell über mehrere Länder transferiert. Dadurch sind die Geldbewegungen für Aufsichtsbehörden und Verbände schwierig zu kontrollieren. Aufgrund der schwer zu bestimmenden Marktwerte von Spielern besteht ein hohes Risiko, dass Geldwäscher sich die aus dem Güterhandel bekannte Typologie des „over- / under-invoicing“ bedienen. Also der künstlichen Erhöhung oder Verringerung des Kaufpreises über den realen Wert. Die Methodik mag beispielsweise auch in dem Fall des Spieler Marko Hanuljak eine Rolle gespielt haben. Der Kicker hat Ende März 2022 einen Artikel über den Spielerberater Pini Zahavi veröffentlicht. In diesem Artikel geht es um die Arbeit des Agenten für den Club Royal Excel Mouscron, welcher im Jahr 2018 den Spieler Marko Hanuljak kostenlos verpflichtet und wenige Tage später an den AC Florenz für 1,5 Millionen Euro weiterverkauft habe, ohne dass dieser je ein Spiel für den Verein bestritten hätte. Der Kicker kommt zu der Erkenntnis, dass es nicht nachvollziehbar sei, woher eine solche Geldvermehrung kommen solle.
 
 Inwiefern hätten Maßnahmen zur Geldwäsche-Compliance hier gegriffen?
 
@@ -8551,7 +8541,7 @@ Welche Vorschriften sind für Kfz-Händler relevant?
 - Abgabe von schwellenwertabhängigen FIU-Meldungen gem. Art. 54 a EU AML VO.
 Wie geht es weiter? - Nächste Schritte
 
-Die finalen Texte des AML-Pakets müssen noch förmlich angenommen und verabschiedet werden. Die Abstimmung im Europäischen Parlament ist für Ende April geplant, gefolgt von der Veröffentlichung im Amtsblatt der Europäischen Union. Die EU-Verordnung tritt dann am zwanzigsten Tag nach ihrer Veröffentlich im Amtsblatt der Europäischen Union und gilt drei Jahre nach dem Inkrafttreten. Somit wird sie voraussichtlich ab Mitte 2027 anwendbar sein.
+Die finalen Texte des AML-Pakets müssen noch förmlich angenommen und verabschiedet werden. Die Abstimmung im Europäischen Parlament ist für Ende April geplant, gefolgt von der Veröffentlichung im Amtsblatt der Europäischen Union. Die EU-Verordnung tritt dann am zwanzigsten Tag nach ihrer Veröffentlichung im Amtsblatt der Europäischen Union und gilt drei Jahre nach dem Inkrafttreten. Somit wird sie voraussichtlich ab Mitte 2027 anwendbar sein.
 
 ---
 

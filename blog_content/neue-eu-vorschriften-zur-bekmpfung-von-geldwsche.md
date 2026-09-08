@@ -4,7 +4,7 @@ author: ""
 date: ""
 url: "https://www.kerberos-compliance.com/wissen/blog/neue-eu-vorschriften-zur-bekmpfung-von-geldwsche"
 excerpt: ""
-crawled_at: "2026-09-07T07:15:47.342952"
+crawled_at: "2026-09-08T07:11:37.183282"
 ---
 
 # Neue EU-Vorschriften zur Bekämpfung von Geldwäsche und Terrorismusfinanzierung: Ein erster Überblick
@@ -88,4 +88,4 @@ Welche Vorschriften sind für Kfz-Händler relevant?
 - Abgabe von schwellenwertabhängigen FIU-Meldungen gem. Art. 54 a EU AML VO.
 Wie geht es weiter? - Nächste Schritte
 
-Die finalen Texte des AML-Pakets müssen noch förmlich angenommen und verabschiedet werden. Die Abstimmung im Europäischen Parlament ist für Ende April geplant, gefolgt von der Veröffentlichung im Amtsblatt der Europäischen Union. Die EU-Verordnung tritt dann am zwanzigsten Tag nach ihrer Veröffentlich im Amtsblatt der Europäischen Union und gilt drei Jahre nach dem Inkrafttreten. Somit wird sie voraussichtlich ab Mitte 2027 anwendbar sein.
+Die finalen Texte des AML-Pakets müssen noch förmlich angenommen und verabschiedet werden. Die Abstimmung im Europäischen Parlament ist für Ende April geplant, gefolgt von der Veröffentlichung im Amtsblatt der Europäischen Union. Die EU-Verordnung tritt dann am zwanzigsten Tag nach ihrer Veröffentlichung im Amtsblatt der Europäischen Union und gilt drei Jahre nach dem Inkrafttreten. Somit wird sie voraussichtlich ab Mitte 2027 anwendbar sein.

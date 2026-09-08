@@ -4,7 +4,7 @@ author: ""
 date: ""
 url: "https://www.kerberos-compliance.com/wissen/blog/fiu-jahresbericht-es-gibt-sie-noch-die-guten-nachrichten-oder"
 excerpt: ""
-crawled_at: "2026-09-07T07:15:18.639097"
+crawled_at: "2026-09-08T07:11:07.793729"
 ---
 
 # FIU Jahresbericht 2023: Es gibt sie noch, die guten Nachrichten – oder?
@@ -57,7 +57,7 @@ Für Verpflichtete aus dem Finanzsektor geht die Rechnung eher auf als für Verp
 
 Dabei liegt deren Anteil an registrierten Nutzern des Meldeportals goAML laut FIU 2023 bei nur 14-20%. Zahlenmäßig stellt der Nicht-Finanzsektor mit bis zu 44.000 Registrierten die weitaus größere Gruppe potenziell Meldender dar.
 
-Diese Zahlen sind aktuelle Schätzungen, die Kerberos auf Basis der bisherigen FIU-Berichte und anderer Quellen anstellt. Die konkreten Zahlen werden von der FIU nicht veröffentlich. Worauf sie jedoch hinweist, ist der insgesamt starke Anstieg an Registrierungen.
+Diese Zahlen sind aktuelle Schätzungen, die Kerberos auf Basis der bisherigen FIU-Berichte und anderer Quellen anstellt. Die konkreten Zahlen werden von der FIU nicht veröffentlicht. Worauf sie jedoch hinweist, ist der insgesamt starke Anstieg an Registrierungen.
 
 Dies dürfte auch mit der Verpflichtung zur Registrierung zusammenhängen, für die Ende 2023 eine Übergangsfrist auslief. Demnach stieg die Zahl der registrierten Verpflichteten folgerichtig auf über 50.000. Eine mehr-als-Verdoppelung zu 2022. Der größte Teil der Neuregistrierungen kam aus dem Nicht-Finanzsektor.
 
