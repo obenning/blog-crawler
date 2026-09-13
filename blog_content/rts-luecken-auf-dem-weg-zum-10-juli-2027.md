@@ -4,7 +4,7 @@ author: ""
 date: ""
 url: "https://www.kerberos-compliance.com/wissen/blog/rts-luecken-auf-dem-weg-zum-10-juli-2027"
 excerpt: ""
-crawled_at: "2026-09-12T07:03:52.628154"
+crawled_at: "2026-09-13T07:22:59.392189"
 ---
 
 # Die Standards kommen - aber rechtzeitig? RTS-Lücken auf dem Weg zum 10. Juli 2027

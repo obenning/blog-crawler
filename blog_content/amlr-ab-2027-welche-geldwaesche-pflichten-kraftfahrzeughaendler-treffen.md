@@ -4,7 +4,7 @@ author: ""
 date: ""
 url: "https://www.kerberos-compliance.com/wissen/blog/amlr-ab-2027-welche-geldwaesche-pflichten-kraftfahrzeughaendler-treffen"
 excerpt: ""
-crawled_at: "2026-09-12T07:03:57.017965"
+crawled_at: "2026-09-13T07:23:03.989276"
 ---
 
 # AMLR ab 2027: Welche Geldwäsche-Pflichten Kraftfahrzeughändler treffen
