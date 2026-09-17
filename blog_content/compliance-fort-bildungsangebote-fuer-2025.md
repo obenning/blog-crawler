@@ -4,7 +4,7 @@ author: ""
 date: ""
 url: "https://www.kerberos-compliance.com/wissen/blog/compliance-fort-bildungsangebote-fuer-2025"
 excerpt: ""
-crawled_at: "2026-09-16T07:33:55.655683"
+crawled_at: "2026-09-17T07:30:25.361732"
 ---
 
 # Compliance (Fort-)Bildungsangebote für 2025
@@ -20,8 +20,6 @@ Immobilienmakler, Kapitalverwaltungsgesellschaften, Güterhändler, Compliance-V
 ## (Re-)Zertifizierungen:
 
 Lassen Sie sich zum/zur DEKRA-zertifizierten Geldwäschebeauftragten ausbilden oder Rezertifizieren. Übernehme Sie in Ihrem Unternehmen die Verantwortung für die Umsetzung und Einhaltung der gesetzlichen Maßnahmen zur Geldwäscheprävention. Unsere viertägigen Kurse finden Online statt und werden von Praxis-Expert:innen von Kerberos, Verpflichteten und der Strafverfolgung angeleitet. Unsere Termine:
-
-Frischen Sie Ihre Zertifizierung zum Geldwäschebeauftragten innerhalb nur eines Tages auf. Lassen Sie sich von Kerberos Rezertifizieren, unabhängig davon, wo Sie Ihre Erstzertifizierung vorgenommen haben. [→ Jetzt buchen](https://www.kerberos-compliance.com/loesungen/zertifizierungen/geldwaschebeauftragte/16-09-2026)
 
 Lassen Sie sich in 4 Tagen zum DEKRA-zertifizierten Geldwäschebeauftragten ausbilden. Profitieren Sie von einem breiten Netzwerk aus Compliance-Expert:innen aus der Praxis. [→ Jetzt buchen](https://www.kerberos-compliance.com/loesungen/zertifizierungen/geldwaschebeauftragte/21-09-2026)
 
