@@ -4,7 +4,7 @@ author: ""
 date: ""
 url: "https://www.kerberos-compliance.com/wissen/blog/transparenzregistereintragung-1415-unternehmen-am-pranger"
 excerpt: ""
-crawled_at: "2026-09-18T07:19:36.909013"
+crawled_at: "2026-09-19T07:16:33.358200"
 ---
 
 # Transparenzregistereintragung: 1.415 Unternehmen am Pranger
