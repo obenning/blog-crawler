@@ -4,7 +4,7 @@ author: ""
 date: ""
 url: "https://www.kerberos-compliance.com/wissen/blog/geldwasche-am-beispiel-des-menschenhandels"
 excerpt: ""
-crawled_at: "2026-09-26T07:28:27.135424"
+crawled_at: "2026-09-27T07:59:28.060297"
 ---
 
 # Geldwäsche am Beispiel des Menschenhandels
