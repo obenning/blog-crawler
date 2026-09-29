@@ -4,7 +4,7 @@ author: ""
 date: ""
 url: "https://www.kerberos-compliance.com/wissen/blog/transparenzregister-koordinierte-aufsicht-erweiterter-datenaustausch-die-systemischen-gwg-aenderungen-des-zollfinanzgerechtigkeitsgesetz-referentenentwurf"
 excerpt: ""
-crawled_at: "2026-09-28T08:32:45.172309"
+crawled_at: "2026-09-29T08:16:15.521160"
 ---
 
 # Transparenzregister, koordinierte Aufsicht, erweiterter Datenaustausch: Die systemischen GwG-Änderungen des ZFG-Referentenentwurfs
