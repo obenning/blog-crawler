@@ -4,7 +4,7 @@ author: ""
 date: ""
 url: "https://www.kerberos-compliance.com/wissen/blog/erfahrungsbericht-ich-bin-zertifizierte-geldwschebeauftragte-geworden"
 excerpt: ""
-crawled_at: "2026-09-29T08:17:51.055043"
+crawled_at: "2026-09-30T08:18:27.994027"
 ---
 
 # Erfahrungsbericht: Ich bin zertifizierte Geldwäschebeauftragte (geworden)
@@ -20,8 +20,6 @@ Veröffentlicht: 2024-10-28
 Kerberos bietet neben der Auslagerung von Geldwäschebeauftragten sowie deren Stellvertreter:innen ebenso die Möglichkeit an, sich zu [Geldwäschebeauftragten Aus- und Fortbilden](https://www.kerberos-compliance.com/loesungen/zertifizierungen) zu lassen. Hierfür kooperiert Kerberos sowohl mit der DEKRA, als Zertifizierungspartner, als auch mit externen Expert:innen, die Schulungsteilnehmenden ein praxisnahes Bild aus unterschiedlichen Perspektiven vermitteln.
 
 Auch Mitarbeitende von Kerberos, die als externe Geldwäschebeauftragte für Kund:innen eingesetzt werden, durchlaufen diese Zertifizierung – sowie Auffrischungsschulungen. Was die Schulung besonders macht, berichtet eine frisch zertifizierte Geldwäschebeauftragte und Schulungsteilnehmerin.
-
-Lassen Sie sich in 4 Tagen zum DEKRA-zertifizierten Geldwäschebeauftragten ausbilden. Profitieren Sie von einem breiten Netzwerk aus Compliance-Expert:innen aus der Praxis. [→ Jetzt buchen](https://www.kerberos-compliance.com/loesungen/zertifizierungen/geldwaschebeauftragte/21-09-2026)
 
 Lassen Sie sich in 4 Tagen zum DEKRA-zertifizierten Geldwäschebeauftragten ausbilden. Profitieren Sie von einem breiten Netzwerk aus Compliance-Expert:innen aus der Praxis. [→ Jetzt buchen](https://www.kerberos-compliance.com/loesungen/zertifizierungen/geldwaschebeauftragte/16-11-2026)
 
