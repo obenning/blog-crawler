@@ -1,8 +1,8 @@
 # 📚 Kerberos Compliance Blog - Alle Artikel
 
-**Generiert:** 30.09.2026 08:19
+**Generiert:** 01.10.2026 08:43
 **Anzahl Artikel:** 141
-**Gesamtwortanzahl:** 122,129
+**Gesamtwortanzahl:** 121,993
 
 ---
 
@@ -336,7 +336,7 @@ Die drei Tage können nur abgekürzt werden, wenn eine Staatsanwaltschaft oder d
 
 # Blog Content Archive
 
-Automatisch gecrawlt am: 2026-09-30 08:19:45
+Automatisch gecrawlt am: 2026-10-01 08:43:01
 
 **Statistik:**
 - Gesamt Artikel: 137
@@ -2331,7 +2331,7 @@ Vielen Dank.
 
 **Autor:**   
 **Datum:**   
-**Wortanzahl:** 413  
+**Wortanzahl:** 379  
 **Original:** https://www.kerberos-compliance.com/wissen/blog/compliance-fort-bildungsangebote-fuer-2025  
 
 ---
@@ -2359,8 +2359,6 @@ Frischen Sie Ihre Zertifizierung zum Geldwäschebeauftragten innerhalb nur eines
 Als Verpflichtete nach dem Geldwäschegesetz besteht für Sie und Ihre Mitarbeiter:innen eine fortlaufende Weiterbildungspflicht. Über unsere Kerberos Academy bieten wir branchenspezifische Mitarbeiterschulungen für alle nach dem GwG verpflichteten Branchen an. Für jede bestandenen Kurs erhalten Sie und Ihre Mitarbeiter:innen Schulungszertifikate, die als Nachweis zur Einhaltung der Weiterbildungspflicht vorgelegt werden können. Informieren Sie sich hier über unsere Schulungen und Angebote. [Zur Kerberos Academy](https://www.kerberos-compliance.com/loesungen/mitarbeiterschulungen)
 
 ## Webinare:
-
-Die EU-AMLR macht Fußballklubs und Spielervermittler ab Juli 2029 zu Verpflichteten. Warum ist Fußball ein Geldwäscherisiko? Transfergeschäfte, Spielervermittlung und Sorgfaltspflichten für Klubs. Zeitplan zur Vorbereitung und Best Practices aus anderen Branchen – jetzt handeln!
 
 Die EU-AMLR integriert Sanktionscompliance erstmals als festen Bestandteil der Geldwäscheprävention. Screening-Prozesse (automatisiert vs. manuell), 5-Tages-Frist für FIU-Anfragen, EU- vs. nationale Sanktionslisten und Integration in bestehende Prozesse. Neue Pflichten für alle Verpflichteten - ein Deep-Dive zu anstehenden Änderungen.
 
@@ -4663,7 +4661,7 @@ Otis Benning Senior Associate Marketing
 
 **Autor:**   
 **Datum:**   
-**Wortanzahl:** 1,114  
+**Wortanzahl:** 1,080  
 **Original:** https://www.kerberos-compliance.com/wissen/blog/fiu-jahresbericht-es-gibt-sie-noch-die-guten-nachrichten-oder  
 
 ---
@@ -4741,8 +4739,6 @@ Hierzu schreibt der Leiter der FIU im Vorwort des Jahresberichts 2023: „Ich se
 Auch wir von Kerberos sind hier aktiv – beispielsweise durch regelmäßige Informationsangebote für Verpflichtete zur effektiven Abgabe von Verdachtsmeldungen sowie der Einhaltung weiterer Pflichten nach dem Geldwäschegesetz.
 
 Alle aktuellen Webinar-Angebote finden Sie hier: [Unsere Veranstaltungen](https://www.kerberos-compliance.com/wissen/veranstaltungen)
-
-Die EU-AMLR macht Fußballklubs und Spielervermittler ab Juli 2029 zu Verpflichteten. Warum ist Fußball ein Geldwäscherisiko? Transfergeschäfte, Spielervermittlung und Sorgfaltspflichten für Klubs. Zeitplan zur Vorbereitung und Best Practices aus anderen Branchen – jetzt handeln!
 
 Die EU-AMLR integriert Sanktionscompliance erstmals als festen Bestandteil der Geldwäscheprävention. Screening-Prozesse (automatisiert vs. manuell), 5-Tages-Frist für FIU-Anfragen, EU- vs. nationale Sanktionslisten und Integration in bestehende Prozesse. Neue Pflichten für alle Verpflichteten - ein Deep-Dive zu anstehenden Änderungen.
 
@@ -5013,7 +5009,7 @@ Otis Benning Senior Associate Marketing
 
 **Autor:**   
 **Datum:**   
-**Wortanzahl:** 1,059  
+**Wortanzahl:** 1,025  
 **Original:** https://www.kerberos-compliance.com/wissen/blog/geldwaesche-im-deutschen-immobiliensektor-bleibt-milliardenproblem  
 
 ---
@@ -5027,8 +5023,6 @@ Otis Benning Senior Associate Marketing
 ---
 
 Veröffentlicht: 2025-06-20
-
-Die EU-AMLR macht Fußballklubs und Spielervermittler ab Juli 2029 zu Verpflichteten. Warum ist Fußball ein Geldwäscherisiko? Transfergeschäfte, Spielervermittlung und Sorgfaltspflichten für Klubs. Zeitplan zur Vorbereitung und Best Practices aus anderen Branchen – jetzt handeln!
 
 Die EU-AMLR integriert Sanktionscompliance erstmals als festen Bestandteil der Geldwäscheprävention. Screening-Prozesse (automatisiert vs. manuell), 5-Tages-Frist für FIU-Anfragen, EU- vs. nationale Sanktionslisten und Integration in bestehende Prozesse. Neue Pflichten für alle Verpflichteten - ein Deep-Dive zu anstehenden Änderungen.
 
@@ -6734,7 +6728,7 @@ Dann melde Sie sich gerne bei uns. [Unsere Expert:innen helfen Ihnen gerne weite
 
 **Autor:**   
 **Datum:**   
-**Wortanzahl:** 924  
+**Wortanzahl:** 890  
 **Original:** https://www.kerberos-compliance.com/wissen/blog/immobiliensektor-behrdenprfungen-und-kundensorgfaltspflichten-richtig-meistern  
 
 ---
@@ -6752,8 +6746,6 @@ Veröffentlicht: 2025-03-26
 Als Immobilienmakler gehören Sie zu den nach dem Geldwäschegesetz (GwG) verpflichteten Unternehmen. Die gesetzlichen Anforderungen an die Geldwäscheprävention sind komplex und erfordern ein strukturiertes Vorgehen. In diesem Beitrag geben wir Ihnen einen praxisnahen Überblick über die wichtigsten Compliance-Anforderungen für Ihre tägliche Arbeit.
 
 Dazu informieren unsere Expert:innen in regelmäßigen Webinaren über Pflichten & Lösungsansätze für Verpflichtete nach dem Geldwäschegesetz. Stellen Sie unseren Expert:innen live & kostenfrei Ihre Fragen:
-
-Die EU-AMLR macht Fußballklubs und Spielervermittler ab Juli 2029 zu Verpflichteten. Warum ist Fußball ein Geldwäscherisiko? Transfergeschäfte, Spielervermittlung und Sorgfaltspflichten für Klubs. Zeitplan zur Vorbereitung und Best Practices aus anderen Branchen – jetzt handeln!
 
 Die EU-AMLR integriert Sanktionscompliance erstmals als festen Bestandteil der Geldwäscheprävention. Screening-Prozesse (automatisiert vs. manuell), 5-Tages-Frist für FIU-Anfragen, EU- vs. nationale Sanktionslisten und Integration in bestehende Prozesse. Neue Pflichten für alle Verpflichteten - ein Deep-Dive zu anstehenden Änderungen.
 
