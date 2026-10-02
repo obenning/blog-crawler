@@ -1,10 +1,10 @@
 # Blog Content Archive
 
-Automatisch gecrawlt am: 2026-10-01 08:43:01
+Automatisch gecrawlt am: 2026-10-02 08:20:37
 
 **Statistik:**
-- Gesamt Artikel: 137
-- Erfolgreich gecrawlt: 137
+- Gesamt Artikel: 138
+- Erfolgreich gecrawlt: 138
 - Fehlgeschlagen: 0
 
 **Quelle:** https://www.kerberos-compliance.com/wissen/blog
@@ -107,6 +107,7 @@ Automatisch gecrawlt am: 2026-10-01 08:43:01
 - [Sanktionen und was sie bedeuten](sanktionen-und-was-sie-bedeuten.md) -  ()
 - [Geldwäscheprävention 2025: Ein halbes Jahr zwischen Fortschritten und Rückschlägen](geldwscheprvention-2025-ein-halbes-jahr-zwischen-fortschritten-und-rckschlgen.md) -  ()
 - [Verdachtsmeldungen nach § 43 GwG: Was die BaFin/FIU-Orientierungshilfe konkret bedeutet](verdachtsmeldungen-nach-43-gwg-was-die-bafin-fiu-orientierungshilfe-konkret-bedeutet.md) -  ()
+- [Fußballklubs als Verpflichtete ab 2029: Was Profivereine jetzt für die Geldwäscheprävention vorbereiten sollten](fussballklubs-als-verpflichtete-ab-2029.md) -  ()
 - [Übergangsregelungen: Pflicht zur Registrierung im Meldeportal goAML](pflicht-zur-registrierung-im-meldeportal-goaml.md) -  ()
 - [In meinen Gesprächen höre ich fast immer, dass Geldwäscheprävention und das Gesetz Unsinn sind](blog-post-title-two-stplb.md) -  ()
 - [Stärkung Ihrer Cyber-Abwehr](starkung-ihrer-cyber-abwehr.md) -  ()

@@ -1,8 +1,8 @@
 {
-  "crawled_at": "2026-10-01T08:43:01.024961",
+  "crawled_at": "2026-10-02T08:20:37.435753",
   "base_url": "https://www.kerberos-compliance.com/wissen/blog",
-  "total_articles": 137,
-  "successful": 137,
+  "total_articles": 138,
+  "successful": 138,
   "failed": 0,
   "articles": [
     {
@@ -676,6 +676,13 @@
       "author": "",
       "date": "",
       "url": "https://www.kerberos-compliance.com/wissen/blog/verdachtsmeldungen-nach-43-gwg-was-die-bafin-fiu-orientierungshilfe-konkret-bedeutet"
+    },
+    {
+      "filename": "fussballklubs-als-verpflichtete-ab-2029.md",
+      "title": "Fußballklubs als Verpflichtete ab 2029: Was Profivereine jetzt für die Geldwäscheprävention vorbereiten sollten",
+      "author": "",
+      "date": "",
+      "url": "https://www.kerberos-compliance.com/wissen/blog/fussballklubs-als-verpflichtete-ab-2029"
     },
     {
       "filename": "pflicht-zur-registrierung-im-meldeportal-goaml.md",
