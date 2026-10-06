@@ -1,8 +1,8 @@
 # 📚 Kerberos Compliance Blog - Alle Artikel
 
-**Generiert:** 05.10.2026 08:50
+**Generiert:** 06.10.2026 08:52
 **Anzahl Artikel:** 142
-**Gesamtwortanzahl:** 122,757
+**Gesamtwortanzahl:** 122,683
 
 ---
 
@@ -337,7 +337,7 @@ Die drei Tage können nur abgekürzt werden, wenn eine Staatsanwaltschaft oder d
 
 # Blog Content Archive
 
-Automatisch gecrawlt am: 2026-10-05 08:50:45
+Automatisch gecrawlt am: 2026-10-06 08:52:46
 
 **Statistik:**
 - Gesamt Artikel: 138
@@ -2333,7 +2333,7 @@ Vielen Dank.
 
 **Autor:**   
 **Datum:**   
-**Wortanzahl:** 379  
+**Wortanzahl:** 342  
 **Original:** https://www.kerberos-compliance.com/wissen/blog/compliance-fort-bildungsangebote-fuer-2025  
 
 ---
@@ -2361,8 +2361,6 @@ Frischen Sie Ihre Zertifizierung zum Geldwäschebeauftragten innerhalb nur eines
 Als Verpflichtete nach dem Geldwäschegesetz besteht für Sie und Ihre Mitarbeiter:innen eine fortlaufende Weiterbildungspflicht. Über unsere Kerberos Academy bieten wir branchenspezifische Mitarbeiterschulungen für alle nach dem GwG verpflichteten Branchen an. Für jede bestandenen Kurs erhalten Sie und Ihre Mitarbeiter:innen Schulungszertifikate, die als Nachweis zur Einhaltung der Weiterbildungspflicht vorgelegt werden können. Informieren Sie sich hier über unsere Schulungen und Angebote. [Zur Kerberos Academy](https://www.kerberos-compliance.com/loesungen/mitarbeiterschulungen)
 
 ## Webinare:
-
-Die EU-AMLR integriert Sanktionscompliance erstmals als festen Bestandteil der Geldwäscheprävention. Screening-Prozesse (automatisiert vs. manuell), 5-Tages-Frist für FIU-Anfragen, EU- vs. nationale Sanktionslisten und Integration in bestehende Prozesse. Neue Pflichten für alle Verpflichteten - ein Deep-Dive zu anstehenden Änderungen.
 
 Erfahren Sie von Dr. Anna Bolz , zertifizierte Geldwäschebeauftragte, wie Sie Ihre Pflichten nach dem Geldwäschegesetz (GwG) effizient und rechtssicher umsetzen. Das Webinar fokussiert auf die praktischen Herausforderungen bei Kataloggeschäften und bietet konkrete Lösungsansätze für den Berufsalltag.
 
@@ -6785,7 +6783,7 @@ Dann melde Sie sich gerne bei uns. [Unsere Expert:innen helfen Ihnen gerne weite
 
 **Autor:**   
 **Datum:**   
-**Wortanzahl:** 890  
+**Wortanzahl:** 853  
 **Original:** https://www.kerberos-compliance.com/wissen/blog/immobiliensektor-behrdenprfungen-und-kundensorgfaltspflichten-richtig-meistern  
 
 ---
@@ -6803,8 +6801,6 @@ Veröffentlicht: 2025-03-26
 Als Immobilienmakler gehören Sie zu den nach dem Geldwäschegesetz (GwG) verpflichteten Unternehmen. Die gesetzlichen Anforderungen an die Geldwäscheprävention sind komplex und erfordern ein strukturiertes Vorgehen. In diesem Beitrag geben wir Ihnen einen praxisnahen Überblick über die wichtigsten Compliance-Anforderungen für Ihre tägliche Arbeit.
 
 Dazu informieren unsere Expert:innen in regelmäßigen Webinaren über Pflichten & Lösungsansätze für Verpflichtete nach dem Geldwäschegesetz. Stellen Sie unseren Expert:innen live & kostenfrei Ihre Fragen:
-
-Die EU-AMLR integriert Sanktionscompliance erstmals als festen Bestandteil der Geldwäscheprävention. Screening-Prozesse (automatisiert vs. manuell), 5-Tages-Frist für FIU-Anfragen, EU- vs. nationale Sanktionslisten und Integration in bestehende Prozesse. Neue Pflichten für alle Verpflichteten - ein Deep-Dive zu anstehenden Änderungen.
 
 Erfahren Sie von Dr. Anna Bolz , zertifizierte Geldwäschebeauftragte, wie Sie Ihre Pflichten nach dem Geldwäschegesetz (GwG) effizient und rechtssicher umsetzen. Das Webinar fokussiert auf die praktischen Herausforderungen bei Kataloggeschäften und bietet konkrete Lösungsansätze für den Berufsalltag.
 

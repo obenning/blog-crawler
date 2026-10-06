@@ -4,7 +4,7 @@ author: ""
 date: ""
 url: "https://www.kerberos-compliance.com/wissen/blog/compliance-fort-bildungsangebote-fuer-2025"
 excerpt: ""
-crawled_at: "2026-10-05T08:49:12.623600"
+crawled_at: "2026-10-06T08:51:26.666869"
 ---
 
 # Compliance (Fort-)Bildungsangebote für 2025
@@ -30,8 +30,6 @@ Frischen Sie Ihre Zertifizierung zum Geldwäschebeauftragten innerhalb nur eines
 Als Verpflichtete nach dem Geldwäschegesetz besteht für Sie und Ihre Mitarbeiter:innen eine fortlaufende Weiterbildungspflicht. Über unsere Kerberos Academy bieten wir branchenspezifische Mitarbeiterschulungen für alle nach dem GwG verpflichteten Branchen an. Für jede bestandenen Kurs erhalten Sie und Ihre Mitarbeiter:innen Schulungszertifikate, die als Nachweis zur Einhaltung der Weiterbildungspflicht vorgelegt werden können. Informieren Sie sich hier über unsere Schulungen und Angebote. [Zur Kerberos Academy](https://www.kerberos-compliance.com/loesungen/mitarbeiterschulungen)
 
 ## Webinare:
-
-Die EU-AMLR integriert Sanktionscompliance erstmals als festen Bestandteil der Geldwäscheprävention. Screening-Prozesse (automatisiert vs. manuell), 5-Tages-Frist für FIU-Anfragen, EU- vs. nationale Sanktionslisten und Integration in bestehende Prozesse. Neue Pflichten für alle Verpflichteten - ein Deep-Dive zu anstehenden Änderungen.
 
 Erfahren Sie von Dr. Anna Bolz , zertifizierte Geldwäschebeauftragte, wie Sie Ihre Pflichten nach dem Geldwäschegesetz (GwG) effizient und rechtssicher umsetzen. Das Webinar fokussiert auf die praktischen Herausforderungen bei Kataloggeschäften und bietet konkrete Lösungsansätze für den Berufsalltag.
 

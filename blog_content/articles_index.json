@@ -1,5 +1,5 @@
 {
-  "generated": "2026-10-05T08:50:45.389019",
+  "generated": "2026-10-06T08:52:47.030501",
   "total_articles": 141,
   "articles": [
     {
@@ -250,7 +250,7 @@
       "url": "https://www.kerberos-compliance.com/wissen/blog/compliance-fort-bildungsangebote-fuer-2025",
       "excerpt": "# Compliance (Fort-)Bildungsangebote für 2025\n\n**Autor:**   \n**Datum:**   \n**URL:** https://www.kerberos-compliance.com/wissen/blog/compliance-fort-bildungsangebote-fuer-2025\n\n---\n\nImmobilienmakler, K...",
       "raw_url": "https://raw.githubusercontent.com/obenning/blog-crawler/main/blog_content/compliance-fort-bildungsangebote-fuer-2025.md",
-      "word_count": 379
+      "word_count": 342
     },
     {
       "filename": "das-eu-aml-paket-neue-herausforderungen-fuer-die-geldwaeschepraevention.md",
@@ -800,7 +800,7 @@
       "url": "https://www.kerberos-compliance.com/wissen/blog/immobiliensektor-behrdenprfungen-und-kundensorgfaltspflichten-richtig-meistern",
       "excerpt": "# Immobiliensektor: Behördenprüfungen und Kundensorgfaltspflichten richtig meistern\n\n**Autor:**   \n**Datum:**   \n**URL:** https://www.kerberos-compliance.com/wissen/blog/immobiliensektor-behrdenprfung...",
       "raw_url": "https://raw.githubusercontent.com/obenning/blog-crawler/main/blog_content/immobiliensektor-behrdenprfungen-und-kundensorgfaltspflichten-richtig-meistern.md",
-      "word_count": 890
+      "word_count": 853
     },
     {
       "filename": "interview-die-moderne-rolle-des-geldwschebeauftragten.md",
