@@ -1,8 +1,8 @@
 # 📚 Kerberos Compliance Blog - Alle Artikel
 
-**Generiert:** 06.10.2026 08:52
-**Anzahl Artikel:** 142
-**Gesamtwortanzahl:** 122,683
+**Generiert:** 07.10.2026 08:31
+**Anzahl Artikel:** 143
+**Gesamtwortanzahl:** 124,218
 
 ---
 
@@ -126,30 +126,31 @@
 116. [Die Standards kommen - aber rechtzeitig? RTS-Lücken auf dem Weg zum 10. Juli 2027](#die-standards-kommen--aber-rechtzeitig-rtslücken-auf-dem-weg-zum-10-juli-2027)
 117. [Russland-Sanktionen - 5 Tipps zur Risikoreduzierung](#russlandsanktionen--5-tipps-zur-risikoreduzierung)
 118. [Sanktionen und was sie bedeuten](#sanktionen-und-was-sie-bedeuten)
-119. [Schleswig-Holstein: Bußgelder in der Geldwäscheaufsicht steigen um 115 Prozent](#schleswigholstein-bußgelder-in-der-geldwäscheaufsicht-steigen-um-115-prozent)
-120. [“Schutzmaßnahmen „auslaufen“ zu lassen, scheint mir gefährlich” - Interview mit dem Compliance Beauftragten der thyssenkrupp AG](#schutzmaßnahmen-auslaufen-zu-lassen-scheint-mir-gefährlich--interview-mit-dem-compliance-beauftragten-der-thyssenkrupp-ag)
-121. [Stärkung Ihrer Cyber-Abwehr](#stärkung-ihrer-cyberabwehr)
-122. [Terrorismusfinanzierung in der Risikoanalyse: Was Verpflichtete jetzt getrennt bewerten müssen](#terrorismusfinanzierung-in-der-risikoanalyse-was-verpflichtete-jetzt-getrennt-bewerten-müssen)
-123. [Transparenzregister, koordinierte Aufsicht, erweiterter Datenaustausch: Die systemischen GwG-Änderungen des ZFG-Referentenentwurfs](#transparenzregister-koordinierte-aufsicht-erweiterter-datenaustausch-die-systemischen-gwgänderungen-des-zfgreferentenentwurfs)
-124. [Transparenzregistereintragung: 1.415 Unternehmen am Pranger](#transparenzregistereintragung-1415-unternehmen-am-pranger)
-125. [Übergangsregelungen: Transparenzregister – Noch auf dem neuesten Stand?](#übergangsregelungen-transparenzregister--noch-auf-dem-neuesten-stand)
-126. [UBO-Identifizierung nach der EU-AML-Verordnung: Was sich ab Juli 2027 grundlegend ändert](#uboidentifizierung-nach-der-euamlverordnung-was-sich-ab-juli-2027-grundlegend-ändert)
-127. [„Unverzüglichkeit“ und „Vollständigkeit“ – Gemeinsame Orientierungshilfe der BaFin und FIU](#unverzüglichkeit-und-vollständigkeit--gemeinsame-orientierungshilfe-der-bafin-und-fiu)
-128. [US-Cloud-Anbieter im Fokus: Datenschutzrisiken und Handlungsempfehlungen](#uscloudanbieter-im-fokus-datenschutzrisiken-und-handlungsempfehlungen)
-129. [Verdachtsmeldungen nach § 43 GwG: Was die BaFin/FIU-Orientierungshilfe konkret bedeutet](#verdachtsmeldungen-nach--43-gwg-was-die-bafinfiuorientierungshilfe-konkret-bedeutet)
-130. [Vermögensentzug ohne Strafurteil: Was §§ 52a–52n ZFG-Referentenentwurf für Verpflichtete bedeuten](#vermögensentzug-ohne-strafurteil-was--52a52n-zfgreferentenentwurf-für-verpflichtete-bedeuten)
-131. [Verschärfte Meldepflichten bei Immobilientransaktionen - die wichtigsten Änderungen der GwGMeldV-Immobilien 2025](#verschärfte-meldepflichten-bei-immobilientransaktionen--die-wichtigsten-änderungen-der-gwgmeldvimmobilien-2025)
-132. [Verstöße gegen das Geldwäschegesetz - Bußgelder und Prüfungen von 2017-2022](#verstöße-gegen-das-geldwäschegesetz--bußgelder-und-prüfungen-von-20172022)
-133. [Vom Krisenherd zum Vertrauensturbo: Umgang mit Datenschutzbeschwerden](#vom-krisenherd-zum-vertrauensturbo-umgang-mit-datenschutzbeschwerden)
-134. [Von Sommerloch keine Spur - der Kampf gegen Finanzkriminalität in den Medien](#von-sommerloch-keine-spur--der-kampf-gegen-finanzkriminalität-in-den-medien)
-135. [Vonovia – Korruptionsskandal mit Vorbildcharakter](#vonovia--korruptionsskandal-mit-vorbildcharakter)
-136. [Warum sind Risikoanalysen nach dem Geldwäschegesetz (GwG) so wichtig?](#warum-sind-risikoanalysen-nach-dem-geldwäschegesetz-gwg-so-wichtig)
-137. [Weihnachtsgrüße von Christian Tsambikakis - Geschäftsführer](#weihnachtsgrüße-von-christian-tsambikakis--geschäftsführer)
-138. [Wer sich bei der FIU registrieren muss - und warum die Aufsicht bald mitzählen kann](#wer-sich-bei-der-fiu-registrieren-muss--und-warum-die-aufsicht-bald-mitzählen-kann)
-139. [Wie steht es um die Bekämpfung von Geldwäsche in Deutschland? Und warum?](#wie-steht-es-um-die-bekämpfung-von-geldwäsche-in-deutschland-und-warum)
-140. [Wiederkehrende Pflichten zur Geldwäscheprävention – Update Ende 2025](#wiederkehrende-pflichten-zur-geldwäscheprävention--update-ende-2025)
-141. [Wiederkehrende Pflichten zur Geldwäscheprävention](#wiederkehrende-pflichten-zur-geldwäscheprävention)
-142. [Zwischen Innovation und Risiko - Kryptowährungen im Fokus des Geldwäschebeauftragten](#zwischen-innovation-und-risiko--kryptowährungen-im-fokus-des-geldwäschebeauftragten)
+119. [Sanktionscompliance ab Juli 2027: Was die EU-AML-VO neu von Ihnen verlangt](#sanktionscompliance-ab-juli-2027-was-die-euamlvo-neu-von-ihnen-verlangt)
+120. [Schleswig-Holstein: Bußgelder in der Geldwäscheaufsicht steigen um 115 Prozent](#schleswigholstein-bußgelder-in-der-geldwäscheaufsicht-steigen-um-115-prozent)
+121. [“Schutzmaßnahmen „auslaufen“ zu lassen, scheint mir gefährlich” - Interview mit dem Compliance Beauftragten der thyssenkrupp AG](#schutzmaßnahmen-auslaufen-zu-lassen-scheint-mir-gefährlich--interview-mit-dem-compliance-beauftragten-der-thyssenkrupp-ag)
+122. [Stärkung Ihrer Cyber-Abwehr](#stärkung-ihrer-cyberabwehr)
+123. [Terrorismusfinanzierung in der Risikoanalyse: Was Verpflichtete jetzt getrennt bewerten müssen](#terrorismusfinanzierung-in-der-risikoanalyse-was-verpflichtete-jetzt-getrennt-bewerten-müssen)
+124. [Transparenzregister, koordinierte Aufsicht, erweiterter Datenaustausch: Die systemischen GwG-Änderungen des ZFG-Referentenentwurfs](#transparenzregister-koordinierte-aufsicht-erweiterter-datenaustausch-die-systemischen-gwgänderungen-des-zfgreferentenentwurfs)
+125. [Transparenzregistereintragung: 1.415 Unternehmen am Pranger](#transparenzregistereintragung-1415-unternehmen-am-pranger)
+126. [Übergangsregelungen: Transparenzregister – Noch auf dem neuesten Stand?](#übergangsregelungen-transparenzregister--noch-auf-dem-neuesten-stand)
+127. [UBO-Identifizierung nach der EU-AML-Verordnung: Was sich ab Juli 2027 grundlegend ändert](#uboidentifizierung-nach-der-euamlverordnung-was-sich-ab-juli-2027-grundlegend-ändert)
+128. [„Unverzüglichkeit“ und „Vollständigkeit“ – Gemeinsame Orientierungshilfe der BaFin und FIU](#unverzüglichkeit-und-vollständigkeit--gemeinsame-orientierungshilfe-der-bafin-und-fiu)
+129. [US-Cloud-Anbieter im Fokus: Datenschutzrisiken und Handlungsempfehlungen](#uscloudanbieter-im-fokus-datenschutzrisiken-und-handlungsempfehlungen)
+130. [Verdachtsmeldungen nach § 43 GwG: Was die BaFin/FIU-Orientierungshilfe konkret bedeutet](#verdachtsmeldungen-nach--43-gwg-was-die-bafinfiuorientierungshilfe-konkret-bedeutet)
+131. [Vermögensentzug ohne Strafurteil: Was §§ 52a–52n ZFG-Referentenentwurf für Verpflichtete bedeuten](#vermögensentzug-ohne-strafurteil-was--52a52n-zfgreferentenentwurf-für-verpflichtete-bedeuten)
+132. [Verschärfte Meldepflichten bei Immobilientransaktionen - die wichtigsten Änderungen der GwGMeldV-Immobilien 2025](#verschärfte-meldepflichten-bei-immobilientransaktionen--die-wichtigsten-änderungen-der-gwgmeldvimmobilien-2025)
+133. [Verstöße gegen das Geldwäschegesetz - Bußgelder und Prüfungen von 2017-2022](#verstöße-gegen-das-geldwäschegesetz--bußgelder-und-prüfungen-von-20172022)
+134. [Vom Krisenherd zum Vertrauensturbo: Umgang mit Datenschutzbeschwerden](#vom-krisenherd-zum-vertrauensturbo-umgang-mit-datenschutzbeschwerden)
+135. [Von Sommerloch keine Spur - der Kampf gegen Finanzkriminalität in den Medien](#von-sommerloch-keine-spur--der-kampf-gegen-finanzkriminalität-in-den-medien)
+136. [Vonovia – Korruptionsskandal mit Vorbildcharakter](#vonovia--korruptionsskandal-mit-vorbildcharakter)
+137. [Warum sind Risikoanalysen nach dem Geldwäschegesetz (GwG) so wichtig?](#warum-sind-risikoanalysen-nach-dem-geldwäschegesetz-gwg-so-wichtig)
+138. [Weihnachtsgrüße von Christian Tsambikakis - Geschäftsführer](#weihnachtsgrüße-von-christian-tsambikakis--geschäftsführer)
+139. [Wer sich bei der FIU registrieren muss - und warum die Aufsicht bald mitzählen kann](#wer-sich-bei-der-fiu-registrieren-muss--und-warum-die-aufsicht-bald-mitzählen-kann)
+140. [Wie steht es um die Bekämpfung von Geldwäsche in Deutschland? Und warum?](#wie-steht-es-um-die-bekämpfung-von-geldwäsche-in-deutschland-und-warum)
+141. [Wiederkehrende Pflichten zur Geldwäscheprävention – Update Ende 2025](#wiederkehrende-pflichten-zur-geldwäscheprävention--update-ende-2025)
+142. [Wiederkehrende Pflichten zur Geldwäscheprävention](#wiederkehrende-pflichten-zur-geldwäscheprävention)
+143. [Zwischen Innovation und Risiko - Kryptowährungen im Fokus des Geldwäschebeauftragten](#zwischen-innovation-und-risiko--kryptowährungen-im-fokus-des-geldwäschebeauftragten)
 
 ---
 
@@ -331,17 +332,17 @@ Die drei Tage können nur abgekürzt werden, wenn eine Staatsanwaltschaft oder d
 
 **Autor:** Unknown  
 **Datum:**   
-**Wortanzahl:** 1,688  
+**Wortanzahl:** 1,702  
 
 ---
 
 # Blog Content Archive
 
-Automatisch gecrawlt am: 2026-10-06 08:52:46
+Automatisch gecrawlt am: 2026-10-07 08:31:46
 
 **Statistik:**
-- Gesamt Artikel: 138
-- Erfolgreich gecrawlt: 138
+- Gesamt Artikel: 139
+- Erfolgreich gecrawlt: 139
 - Fehlgeschlagen: 0
 
 **Quelle:** https://www.kerberos-compliance.com/wissen/blog
@@ -433,6 +434,7 @@ Automatisch gecrawlt am: 2026-10-06 08:52:46
 - [Terrorismusfinanzierung in der Risikoanalyse: Was Verpflichtete jetzt getrennt bewerten müssen](terrorismusfinanzierung-in-der-risikoanalyse-was-verpflichtete-jetzt-getrennt-bewerten-muessen.md) -  ()
 - [Der blinde Fleck der Geldwäscheprävention.](der-blinde-fleck-der-geldwaschepravention.md) -  ()
 - [Geldwäsche am Beispiel des Menschenhandels](geldwasche-am-beispiel-des-menschenhandels.md) -  ()
+- [Sanktionscompliance ab Juli 2027: Was die EU-AML-VO neu von Ihnen verlangt](sanktionscompliance-ab-juli-2027.md) -  ()
 - [GwGMeldV 2026: Was ändert sich bei Geldwäscheverdachtsmeldungen?](gwgmeldv-2026-was-aendert-sich-bei-geldwaescheverdachtsmeldungen.md) -  ()
 - [Betroffenenrecht auf Auskunft: Vermeiden Sie Bußgelder, Abmahnungen und Schadensersatz-Forderungen!](betroffenenrecht-auf-auskunft-vermeiden-sie-bussgelder-abmahnungen-und-schadensersatz-forderungen.md) -  ()
 - [Neue Auslegungs- und Anwendungshinweise der BaFin](neue-auslegungs-und-anwendungshinweise-der-bafin.md) -  ()
@@ -4661,7 +4663,7 @@ Otis Benning Senior Associate Marketing
 
 **Autor:**   
 **Datum:**   
-**Wortanzahl:** 1,080  
+**Wortanzahl:** 1,043  
 **Original:** https://www.kerberos-compliance.com/wissen/blog/fiu-jahresbericht-es-gibt-sie-noch-die-guten-nachrichten-oder  
 
 ---
@@ -4739,8 +4741,6 @@ Hierzu schreibt der Leiter der FIU im Vorwort des Jahresberichts 2023: „Ich se
 Auch wir von Kerberos sind hier aktiv – beispielsweise durch regelmäßige Informationsangebote für Verpflichtete zur effektiven Abgabe von Verdachtsmeldungen sowie der Einhaltung weiterer Pflichten nach dem Geldwäschegesetz.
 
 Alle aktuellen Webinar-Angebote finden Sie hier: [Unsere Veranstaltungen](https://www.kerberos-compliance.com/wissen/veranstaltungen)
-
-Die EU-AMLR integriert Sanktionscompliance erstmals als festen Bestandteil der Geldwäscheprävention. Screening-Prozesse (automatisiert vs. manuell), 5-Tages-Frist für FIU-Anfragen, EU- vs. nationale Sanktionslisten und Integration in bestehende Prozesse. Neue Pflichten für alle Verpflichteten - ein Deep-Dive zu anstehenden Änderungen.
 
 Erfahren Sie von Dr. Anna Bolz , zertifizierte Geldwäschebeauftragte, wie Sie Ihre Pflichten nach dem Geldwäschegesetz (GwG) effizient und rechtssicher umsetzen. Das Webinar fokussiert auf die praktischen Herausforderungen bei Kataloggeschäften und bietet konkrete Lösungsansätze für den Berufsalltag.
 
@@ -5064,7 +5064,7 @@ Otis Benning Senior Associate Marketing
 
 **Autor:**   
 **Datum:**   
-**Wortanzahl:** 1,025  
+**Wortanzahl:** 988  
 **Original:** https://www.kerberos-compliance.com/wissen/blog/geldwaesche-im-deutschen-immobiliensektor-bleibt-milliardenproblem  
 
 ---
@@ -5078,8 +5078,6 @@ Otis Benning Senior Associate Marketing
 ---
 
 Veröffentlicht: 2025-06-20
-
-Die EU-AMLR integriert Sanktionscompliance erstmals als festen Bestandteil der Geldwäscheprävention. Screening-Prozesse (automatisiert vs. manuell), 5-Tages-Frist für FIU-Anfragen, EU- vs. nationale Sanktionslisten und Integration in bestehende Prozesse. Neue Pflichten für alle Verpflichteten - ein Deep-Dive zu anstehenden Änderungen.
 
 Erfahren Sie von Dr. Anna Bolz , zertifizierte Geldwäschebeauftragte, wie Sie Ihre Pflichten nach dem Geldwäschegesetz (GwG) effizient und rechtssicher umsetzen. Das Webinar fokussiert auf die praktischen Herausforderungen bei Kataloggeschäften und bietet konkrete Lösungsansätze für den Berufsalltag.
 
@@ -9886,7 +9884,122 @@ Am 16. Dezember 2022 verabschiedete die EU schon das neunte Sanktionspaket. Stan
 
 ---
 
-## 119. Schleswig-Holstein: Bußgelder in der Geldwäscheaufsicht steigen um 115 Prozent
+## 119. Sanktionscompliance ab Juli 2027: Was die EU-AML-VO neu von Ihnen verlangt
+
+**Autor:**   
+**Datum:**   
+**Wortanzahl:** 1,595  
+**Original:** https://www.kerberos-compliance.com/wissen/blog/sanktionscompliance-ab-juli-2027  
+
+---
+
+# Sanktionscompliance ab Juli 2027: Was die EU-AML-VO neu von Ihnen verlangt
+
+**Autor:**   
+**Datum:**   
+**URL:** https://www.kerberos-compliance.com/wissen/blog/sanktionscompliance-ab-juli-2027
+
+---
+
+Datum: 2026-10-07
+
+Für Banken gehört der Abgleich mit Sanktionslisten längst zum Alltag, für viele Unternehmen aus dem Nichtfinanzsektor ist er Neuland. Das ändert sich mit der EU-AML-VO ( [VO (EU) 2024/1624](https://eur-lex.europa.eu/legal-content/DE/TXT/HTML/?uri=OJ:L_202401624) ): Ab dem 10. Juli 2027 – für Fußballvermittler und Profifußballvereine ab dem 10. Juli 2029 ( [Art. 90](https://eur-lex.europa.eu/legal-content/DE/TXT/HTML/?uri=OJ:L_202401624) ) – kommt neben der Bekämpfung von Geldwäsche und Terrorismusfinanzierung eine dritte Säule hinzu. Alle Verpflichteten müssen dann auch das Risiko mindern, dass gezielte Finanzsanktionen nicht umgesetzt oder umgangen werden. Wir zeigen, womit Sie jetzt beginnen sollten.
+
+## Was verlangt die EU-AML-VO bei Sanktionen?
+
+Die Verordnung verpflichtet Sie, das Risiko der Nichtumsetzung und Umgehung gezielter Finanzsanktionen zu mindern und zu steuern – und zwar zusätzlich zu der Pflicht, Sanktionen anzuwenden ( [Art. 9 Abs. 1 lit. b](https://eur-lex.europa.eu/legal-content/DE/TXT/HTML/?uri=OJ:L_202401624#009.001) ). Das Thema gehört damit künftig in dieselben Strategien, Verfahren und Kontrollen wie Ihre Geldwäscheprävention.
+
+Die Gesamtverantwortung trägt der Compliance-Manager im Leitungsorgan ( [Art. 11 Abs. 1](https://eur-lex.europa.eu/legal-content/DE/TXT/HTML/?uri=OJ:L_202401624#011.001) ). Für die Umsetzung der Finanzsanktionen ist ausdrücklich der Geldwäschebeauftragte (MLRO) zuständig ( [Art. 11 Abs. 2](https://eur-lex.europa.eu/legal-content/DE/TXT/HTML/?uri=OJ:L_202401624#011.002) ). Die Einfrier- und Bereitstellungsverbote der Sanktionsverordnungen, etwa der [Russland-Verordnung](https://eur-lex.europa.eu/legal-content/DE/TXT/HTML/?uri=CELEX:32014R0269) , gelten dabei schon heute für jedermann. Die EU-AML-VO ergänzt sie um organisatorische Pflichten.
+
+## Muss das Sanktions-Screening automatisiert sein?
+
+Nein, eine ausdrückliche Pflicht zur Automatisierung enthält die Verordnung nicht. Bei sehr wenigen, stabilen Kundenbeziehungen kann ein manueller Abgleich vertretbar sein. Für die meisten Verpflichteten halten wir ihn aber für kaum praktikabel, denn jede neue Listung kann den gesamten Kundenbestand betreffen, und neue Sanktionen müssen unverzüglich umgesetzt werden.
+
+Ein Treffer ist bei einem automatisierten Abgleich zunächst nur ein Verdacht. Eine unscharfe Suche (Fuzzy Logic) erkennt auch abweichende Schreibweisen eines Namens. Ob es sich wirklich um dieselbe Person handelt, entscheidet anschließend meist ein Mensch anhand von Geburtsdatum, Adresse und Nationalität. Ihr Screening sollten Sie zudem laufend validieren – Orientierung gibt das [Merkblatt der Bundesbank](https://www.bundesbank.de/resource/blob/843142/1bf4bcbf0319c8d0bb8269841f0f9c4a/472B63F073F071307366337C94F8C870/merkblatt-einhaltung-data.pdf) .
+
+## Wen und wie oft müssen Sie prüfen?
+
+Geprüft werden Ihr Kunde und seine wirtschaftlichen Eigentümer. Bei juristischen Personen klären Sie außerdem, ob gelistete Personen das Unternehmen kontrollieren. Das ist auch dann der Fall, wenn sie – allein oder zusammen – mehr als 50 % der Eigentumsrechte oder eine Mehrheitsbeteiligung halten ( [Art. 20 Abs. 1 lit. d](https://eur-lex.europa.eu/legal-content/DE/TXT/HTML/?uri=OJ:L_202401624#020.001) ).
+
+Diese Prüfung wiederholen Sie regelmäßig. Kredit- und Finanzinstitute müssen sie ausdrücklich auch bei jeder neuen Listung durchführen ( [Art. 26 Abs. 4](https://eur-lex.europa.eu/legal-content/DE/TXT/HTML/?uri=OJ:L_202401624#026.004) ). Wir empfehlen das allen Verpflichteten, denn eine Neulistung kann jede bestehende Kundenbeziehung betreffen.
+
+## Welche Sanktionslisten müssen Sie abgleichen?
+
+Maßgeblich ist die konsolidierte Sanktionsliste der EU – eine eigene deutsche Namensliste gibt es nicht. Allerdings können deutsche Behörden im Einzelfall Anordnungen nach [§ 6 AWG](https://www.gesetze-im-internet.de/awg_2013/__6.html) erlassen, die BaFin bei Verdacht auf Terrorismusfinanzierung nach [§ 6a KWG](https://www.gesetze-im-internet.de/kredwg/__6a.html) .
+
+Eine Besonderheit gilt für Listungen durch den UN-Sicherheitsrat. Bis die EU sie umgesetzt hat, gelten in Deutschland vorläufige Verfügungs- und Bereitstellungsverbote, und zwar ab der Veröffentlichung durch die Vereinten Nationen ( [§ 5a AWG](https://www.gesetze-im-internet.de/awg_2013/__5a.html) ). Sie gelten, bis eine nationale Allgemeinverfügung bekannt gegeben wird oder der EU-Rechtsakt in Kraft tritt, längstens jedoch fünf Tage nach Wirksamwerden. Für diese Übergangszeit verlangt die EU-AML-VO außerdem, dass Sie die Gelder der betroffenen Personen sowie versuchte und durchgeführte Transaktionen aufzeichnen ( [Art. 27 Abs. 1](https://eur-lex.europa.eu/legal-content/DE/TXT/HTML/?uri=OJ:L_202401624#027.001) ).
+
+US-Sanktionslisten wie die des OFAC sind keine EU-Rechtspflicht, können aber bei Zahlungen in US-Dollar oder mit US-Geschäftspartnern relevant werden. Wer sie zusätzlich abgleicht, sollte die [EU-Blocking-Verordnung](https://eur-lex.europa.eu/legal-content/DE/TXT/HTML/?uri=CELEX:31996R2271) im Blick behalten.
+
+## Warum gibt es keine Schonfrist mehr?
+
+Bis Anfang 2026 enthielt das Außenwirtschaftsgesetz eine Art Schonfrist: Wer einen neuen EU-Sanktionsrechtsakt in den ersten zwei Werktagen unwissentlich nicht beachtete, blieb straffrei. Diese Regel hat die [AWG-Novelle vom Februar 2026](https://www.recht.bund.de/bgbl/1/2026/27/VO.html) gestrichen, mit der Deutschland die [Richtlinie (EU) 2024/1226](https://eur-lex.europa.eu/legal-content/DE/TXT/HTML/?uri=OJ:L_202401226) umgesetzt hat. Neue EU-Sanktionen müssen Sie deshalb unverzüglich umsetzen, auch an Wochenenden und Feiertagen.
+
+Weiter gilt die Zwei-Werktage-Regel nur für nationale Einzelanordnungen, die im Bundesanzeiger bekannt gemacht werden – und auch dann nur für den, der von der Beschränkung tatsächlich nichts wusste und das glaubhaft machen kann ( [§ 6 Abs. 1a](https://www.gesetze-im-internet.de/awg_2013/__6.html) , [§ 18 Abs. 12 AWG](https://www.gesetze-im-internet.de/awg_2013/__18.html) ).
+
+## Was droht bei Verstößen?
+
+Vorsätzliche Verstöße gegen die Verbote der EU-Sanktionsverordnungen, etwa gegen das Bereitstellungsverbot, sind Straftaten. Sie werden mit Freiheitsstrafe von drei Monaten bis zu fünf Jahren geahndet ( [§ 18 Abs. 1 AWG](https://www.gesetze-im-internet.de/awg_2013/__18.html) ), und gegen das Unternehmen kann zusätzlich eine Verbandsgeldbuße von bis zu 40 Millionen Euro verhängt werden ( [§ 19 Abs. 7 AWG](https://www.gesetze-im-internet.de/awg_2013/__19.html) ). Wer fahrlässig handelt, begeht eine Ordnungswidrigkeit, die mit bis zu 500.000 Euro geahndet werden kann ( [§ 19 Abs. 1 und 6 AWG](https://www.gesetze-im-internet.de/awg_2013/__19.html) ).
+
+Hinzu kommt das Aufsichtsrecht: Für schwerwiegende, wiederholte oder systematische Verstöße gegen zentrale Pflichten der EU-AML-VO sieht die AML-Richtlinie Höchstbußgelder von mindestens 1 Million Euro oder dem Zweifachen des Gewinns vor ( [Art. 55 Abs. 2](https://eur-lex.europa.eu/legal-content/DE/TXT/HTML/?uri=OJ:L_202401640#055.002) ). Für Kredit- und Finanzinstitute, die juristische Personen sind, liegen sie bei mindestens 10 Millionen Euro oder 10 % des Jahresumsatzes ( [Art. 55 Abs. 3](https://eur-lex.europa.eu/legal-content/DE/TXT/HTML/?uri=OJ:L_202401640#055.003) ) – maßgeblich ist jeweils der höhere Betrag.
+
+## Was bedeutet die 50-%-Regel für Ihre Sorgfaltsprüfung?
+
+Die 50-%-Regel sorgt dafür, dass Sanktionen nicht an der Unternehmensgrenze enden. Gehört eine Gesellschaft zu mindestens 50 % gelisteten Personen, wird vermutet, dass diese die Gesellschaft und ihre Gelder kontrollieren. Die Gesellschaft ist dann mittelbar von den Sanktionen erfasst, obwohl weder sie selbst noch ihre Geschäftsführer auf einer Liste stehen. Der EuGH hat diese Vermutung in seinem Urteil vom 12. März 2026 bestätigt (Rs. C-84/24). Im zugrunde liegenden Fall hatte die Bank eines Unternehmens dessen Konten eingefroren, weil eine sanktionierte Gesellschaft 50 % der Anteile hielt.
+
+Die Anteile mehrerer Gelisteter können dabei zusammengerechnet werden (Bundesbank-FAQ, B.6). Halten drei gelistete Personen jeweils 20 %, kontrollieren sie gemeinsam 60 % – die Gesellschaft fällt also unter die Regel, obwohl keiner der drei allein die Schwelle erreicht.
+
+Diese Vermutung ist widerlegbar. Dafür müssen die Betroffenen glaubhaft darlegen, dass die gelisteten Personen weder direkt noch indirekt Einfluss darauf nehmen können, wie die Gelder und wirtschaftlichen Ressourcen verwendet werden. Bis dahin behandeln Sie die Gelder als eingefroren (Bundesbank-FAQ, B.4a), und Freigaben sind nur mit Genehmigung der Bundesbank möglich.
+
+Umgekehrt kann Kontrolle auch unterhalb von 50 % vorliegen, wenn es klare Anhaltspunkte dafür gibt – etwa eine Vollmacht oder eine enge familiäre oder wirtschaftliche Nähe zu den Entscheidungsträgern. Typisch ist der Fall, dass eine gelistete Person ihre Anteile auf Vertraute oder Familienmitglieder überträgt, die tatsächliche Kontrolle und den wirtschaftlichen Nutzen aber behält.
+
+Davon zu unterscheiden ist die Stellung als wirtschaftlicher Eigentümer. Natürliche Personen, die 25 % oder mehr halten, sind zwar geldwäscherechtlich wirtschaftliche Eigentümer (Art. 52 Abs. 1). Ist ein solcher wirtschaftlicher Eigentümer gelistet, gilt die Gesellschaft deshalb aber nicht automatisch als sanktioniert, hier bedarf es der weiteren Prüfung der Kontrolle iSd Sanktionsrechts (Bundesbank-FAQ, B.5c).
+
+Unsere Empfehlung: Art. 20 Abs. 1 lit. d spricht zwar von „mehr als 50 %", die Kontrollvermutung greift aber schon bei genau 50 %. Setzen Sie die Screening-Schwelle deshalb bei 50 % an und beziehen Sie alle Gesellschafter ein, nicht nur die wirtschaftlichen Eigentümer.
+
+## Woran erkennen Sie Umgehungsversuche?
+
+Umgehung lebt davon, zu verschleiern, woher das Geld kommt oder wer hinter einem Unternehmen steht. Vier Muster sind typisch:
+
+- Zahlungsmittler: Das Geld kommt nicht von Ihrem Vertragspartner, sondern über einen zwischengeschalteten Zahlungsagenten, häufig aus Ländern wie den Vereinigten Arabischen Emiraten, der Türkei oder Hongkong.
+- Verschleierte Kontrolle: Nominees, Trusts oder Beteiligungen knapp unter 50 % beziehungsweise 25 % verdecken den tatsächlichen Einfluss. Auch Umstrukturierungen kurz vor oder nach einer Listung sind ein Warnsignal.
+- Mittelbare Bereitstellung: Gelder fließen an Ehepartner, Kinder oder Geschäftspartner einer gelisteten Person, der wirtschaftliche Nutzen landet aber letztlich bei ihr.
+- Verschachtelte Zahlungsketten: Zahlungen laufen über mehrere Banken und Drittländer, Angaben fehlen oder wurden verändert.
+
+## Was sollten Sie bis zum 10. Juli 2027 erledigen?
+
+Beginnen Sie mit einer Bestandsaufnahme, einem Maßnahmenplan und klaren Verantwortlichen. Danach:
+
+- Erweitern Sie die Risikoanalyse um das Umgehungsrisiko ( [Art. 10 Abs. 1](https://eur-lex.europa.eu/legal-content/DE/TXT/HTML/?uri=OJ:L_202401624#010.001) ); Vorschlag und Billigung können Sie nicht auslagern ( [Art. 18 Abs. 3 lit. a](https://eur-lex.europa.eu/legal-content/DE/TXT/HTML/?uri=OJ:L_202401624#018.003) ).
+- Legen Sie den Prozess für eventuelle Sanktionstreffer und die dazugehörige Dokumentation fest.
+- Verfolgen Sie Beteiligungsketten bis zur kontrollierenden Person, inklusive Aggregation.
+- Richten Sie die Aufzeichnung für UN-Listungen ein ( [Art. 27 Abs. 1](https://eur-lex.europa.eu/legal-content/DE/TXT/HTML/?uri=OJ:L_202401624#027.001) ).
+- Regeln Sie Vertretung an Wochenenden und Feiertagen.
+- Teilen Sie eine Auslagerung dem Aufseher vorab mit ( [Art. 18 Abs. 1](https://eur-lex.europa.eu/legal-content/DE/TXT/HTML/?uri=OJ:L_202401624#018.001) ).
+
+## Ausblick
+
+Die neuen Pflichten bedeuten zunächst Mehraufwand, sind aber auch eine Gelegenheit, Sanktions- und Geldwäscheprüfung schlank zusammenzuführen. Dabei unterstützen wir Sie mit dem AML desk: Dort führen Sie KYC- und KYB-Prüfungen, Screenings und das laufende Monitoring durch. Bei unklaren Treffern oder verschachtelten Beteiligungen ziehen Sie unsere Experten hinzu – im selben System, ohne Anbieterwechsel. Auch Ihre Risikoanalyse, Ihre internen Richtlinien und E-Learning-Schulungen setzen Sie im AML desk um, je nach Paket mit unserer persönlichen Begleitung. Wer die Funktion des Geldwäschebeauftragten ganz auslagern möchte, kann unser MLRO-as-a-Service ebenfalls tun.
+
+Quellen:
+
+- [VO (EU) 2024/1624 (EU-AML-VO), Art. 9, 10, 11, 18, 20, 26, 27, 90 – EUR-Lex](https://eur-lex.europa.eu/legal-content/DE/TXT/HTML/?uri=OJ:L_202401624)
+- [RL (EU) 2024/1640 (AMLD6), Art. 55 – EUR-Lex](https://eur-lex.europa.eu/legal-content/DE/TXT/HTML/?uri=OJ:L_202401640)
+- [§ 5a](https://www.gesetze-im-internet.de/awg_2013/__5a.html) , [§ 6](https://www.gesetze-im-internet.de/awg_2013/__6.html) , [§ 18](https://www.gesetze-im-internet.de/awg_2013/__18.html) , [§ 19 AWG](https://www.gesetze-im-internet.de/awg_2013/__19.html) · [§ 6a KWG](https://www.gesetze-im-internet.de/kredwg/__6a.html) – [gesetze-im-internet.de](http://gesetze-im-internet.de)
+- [RL (EU) 2024/1226 – EUR-Lex](https://eur-lex.europa.eu/legal-content/DE/TXT/HTML/?uri=OJ:L_202401226) · [VO (EU) Nr. 269/2014 – EUR-Lex](https://eur-lex.europa.eu/legal-content/DE/TXT/HTML/?uri=CELEX:32014R0269) · [VO (EG) Nr. 2271/96 (Blocking-VO) – EUR-Lex](https://eur-lex.europa.eu/legal-content/DE/TXT/HTML/?uri=CELEX:31996R2271)
+- [EuGH, Urteil vom 12.03.2026, C-84/24 – EUR-Lex](https://eur-lex.europa.eu/legal-content/DE/TXT/HTML/?uri=CELEX:62024CJ0084)
+- [BGBl. 2026 I Nr. 27 (AWG-Novelle, Gesetz vom 03.02.2026)](https://www.recht.bund.de/bgbl/1/2026/27/VO.html) · [BT-Drs. 21/3637 (Beschlussempfehlung Wirtschaftsausschuss)](https://dserver.bundestag.de/btd/21/036/2103637.pdf)
+- [Bundesbank: Merkblatt zur Einhaltung von Finanzsanktionen (Stand Juni 2024)](https://www.bundesbank.de/resource/blob/843142/1bf4bcbf0319c8d0bb8269841f0f9c4a/472B63F073F071307366337C94F8C870/merkblatt-einhaltung-data.pdf) · [Bundesbank: FAQ Finanzsanktionen (Stand Juni 2026)](https://www.bundesbank.de/resource/blob/886614/d23c7002f5aed9e9fdcea61c19a4092a/mL/faq-finanzsanktionen-data.pdf)
+
+## Kontakt aufnehmen
+
+Fabian Müller Manager AML Compliance
+
+Frank Lässig Senior AML Compliance Manager
+
+---
+
+## 120. Schleswig-Holstein: Bußgelder in der Geldwäscheaufsicht steigen um 115 Prozent
 
 **Autor:**   
 **Datum:**   
@@ -10022,7 +10135,7 @@ Frank Lässig Senior AML Compliance Manager
 
 ---
 
-## 120. “Schutzmaßnahmen „auslaufen“ zu lassen, scheint mir gefährlich” - Interview mit dem Compliance Beauftragten der thyssenkrupp AG
+## 121. “Schutzmaßnahmen „auslaufen“ zu lassen, scheint mir gefährlich” - Interview mit dem Compliance Beauftragten der thyssenkrupp AG
 
 **Autor:**   
 **Datum:**   
@@ -10071,7 +10184,7 @@ Otis Benning Senior Associate Marketing
 
 ---
 
-## 121. Stärkung Ihrer Cyber-Abwehr
+## 122. Stärkung Ihrer Cyber-Abwehr
 
 **Autor:**   
 **Datum:**   
@@ -10110,7 +10223,7 @@ Bei Phishing-Simulationen ist auch das Thema Beschäftigtendatenschutz zu beacht
 
 ---
 
-## 122. Terrorismusfinanzierung in der Risikoanalyse: Was Verpflichtete jetzt getrennt bewerten müssen
+## 123. Terrorismusfinanzierung in der Risikoanalyse: Was Verpflichtete jetzt getrennt bewerten müssen
 
 **Autor:**   
 **Datum:**   
@@ -10224,7 +10337,7 @@ Fabian Müller Manager AML Compliance
 
 ---
 
-## 123. Transparenzregister, koordinierte Aufsicht, erweiterter Datenaustausch: Die systemischen GwG-Änderungen des ZFG-Referentenentwurfs
+## 124. Transparenzregister, koordinierte Aufsicht, erweiterter Datenaustausch: Die systemischen GwG-Änderungen des ZFG-Referentenentwurfs
 
 **Autor:**   
 **Datum:**   
@@ -10345,7 +10458,7 @@ Frank Lässig Senior AML Compliance Manager
 
 ---
 
-## 124. Transparenzregistereintragung: 1.415 Unternehmen am Pranger
+## 125. Transparenzregistereintragung: 1.415 Unternehmen am Pranger
 
 **Autor:**   
 **Datum:**   
@@ -10402,7 +10515,7 @@ Unseren Kund:innen stellen wir überdies auch einfache Video-Anleitungen für di
 
 ---
 
-## 125. Übergangsregelungen: Transparenzregister – Noch auf dem neuesten Stand?
+## 126. Übergangsregelungen: Transparenzregister – Noch auf dem neuesten Stand?
 
 **Autor:**   
 **Datum:**   
@@ -10433,7 +10546,7 @@ Sollten sie dies bislang nicht gemacht haben, wird es Zeit. Aus den veröffentli
 
 ---
 
-## 126. UBO-Identifizierung nach der EU-AML-Verordnung: Was sich ab Juli 2027 grundlegend ändert
+## 127. UBO-Identifizierung nach der EU-AML-Verordnung: Was sich ab Juli 2027 grundlegend ändert
 
 **Autor:**   
 **Datum:**   
@@ -10563,7 +10676,7 @@ Frank Lässig Senior AML Compliance Manager
 
 ---
 
-## 127. „Unverzüglichkeit“ und „Vollständigkeit“ – Gemeinsame Orientierungshilfe der BaFin und FIU
+## 128. „Unverzüglichkeit“ und „Vollständigkeit“ – Gemeinsame Orientierungshilfe der BaFin und FIU
 
 **Autor:**   
 **Datum:**   
@@ -10605,7 +10718,7 @@ Tobias Lequen Manager AML Compliance
 
 ---
 
-## 128. US-Cloud-Anbieter im Fokus: Datenschutzrisiken und Handlungsempfehlungen
+## 129. US-Cloud-Anbieter im Fokus: Datenschutzrisiken und Handlungsempfehlungen
 
 **Autor:**   
 **Datum:**   
@@ -10677,7 +10790,7 @@ Lena Pütz Head of Projects (Compliance) [lena.puetz@kerberos-cms.com](mailto:le
 
 ---
 
-## 129. Verdachtsmeldungen nach § 43 GwG: Was die BaFin/FIU-Orientierungshilfe konkret bedeutet
+## 130. Verdachtsmeldungen nach § 43 GwG: Was die BaFin/FIU-Orientierungshilfe konkret bedeutet
 
 **Autor:**   
 **Datum:**   
@@ -10779,7 +10892,7 @@ Maren Adam Principal AML Compliance
 
 ---
 
-## 130. Vermögensentzug ohne Strafurteil: Was §§ 52a–52n ZFG-Referentenentwurf für Verpflichtete bedeuten
+## 131. Vermögensentzug ohne Strafurteil: Was §§ 52a–52n ZFG-Referentenentwurf für Verpflichtete bedeuten
 
 **Autor:**   
 **Datum:**   
@@ -10891,7 +11004,7 @@ Laura Schäfer Managerin AML Compliance
 
 ---
 
-## 131. Verschärfte Meldepflichten bei Immobilientransaktionen - die wichtigsten Änderungen der GwGMeldV-Immobilien 2025
+## 132. Verschärfte Meldepflichten bei Immobilientransaktionen - die wichtigsten Änderungen der GwGMeldV-Immobilien 2025
 
 **Autor:**   
 **Datum:**   
@@ -10964,7 +11077,7 @@ Otis Benning Senior Associate Marketing
 
 ---
 
-## 132. Verstöße gegen das Geldwäschegesetz - Bußgelder und Prüfungen von 2017-2022
+## 133. Verstöße gegen das Geldwäschegesetz - Bußgelder und Prüfungen von 2017-2022
 
 **Autor:**   
 **Datum:**   
@@ -11017,7 +11130,7 @@ Vor diesem Hintergrund lassen sich die Forderungen der EU-Richtlinie zur Einrich
 
 ---
 
-## 133. Vom Krisenherd zum Vertrauensturbo: Umgang mit Datenschutzbeschwerden
+## 134. Vom Krisenherd zum Vertrauensturbo: Umgang mit Datenschutzbeschwerden
 
 **Autor:**   
 **Datum:**   
@@ -11108,7 +11221,7 @@ Sven Fus Senior Manager GDPR Compliance
 
 ---
 
-## 134. Von Sommerloch keine Spur - der Kampf gegen Finanzkriminalität in den Medien
+## 135. Von Sommerloch keine Spur - der Kampf gegen Finanzkriminalität in den Medien
 
 **Autor:**   
 **Datum:**   
@@ -11266,7 +11379,7 @@ Otis Benning Senior Associate Marketing
 
 ---
 
-## 135. Vonovia – Korruptionsskandal mit Vorbildcharakter
+## 136. Vonovia – Korruptionsskandal mit Vorbildcharakter
 
 **Autor:**   
 **Datum:**   
@@ -11347,7 +11460,7 @@ Hinweisgebersysteme zu betreiben ist unkompliziert. Kerberos bietet kostengünst
 
 ---
 
-## 136. Warum sind Risikoanalysen nach dem Geldwäschegesetz (GwG) so wichtig?
+## 137. Warum sind Risikoanalysen nach dem Geldwäschegesetz (GwG) so wichtig?
 
 **Autor:**   
 **Datum:**   
@@ -11399,7 +11512,7 @@ Daneben bieten insbesondere digitale Lösungen zur automatisierten Abfrage geldw
 
 ---
 
-## 137. Weihnachtsgrüße von Christian Tsambikakis - Geschäftsführer
+## 138. Weihnachtsgrüße von Christian Tsambikakis - Geschäftsführer
 
 **Autor:**   
 **Datum:**   
@@ -11434,7 +11547,7 @@ Christian Tsambikakis, Geschäftsführer
 
 ---
 
-## 138. Wer sich bei der FIU registrieren muss - und warum die Aufsicht bald mitzählen kann
+## 139. Wer sich bei der FIU registrieren muss - und warum die Aufsicht bald mitzählen kann
 
 **Autor:**   
 **Datum:**   
@@ -11502,7 +11615,7 @@ Otis Benning Senior Associate Marketing
 
 ---
 
-## 139. Wie steht es um die Bekämpfung von Geldwäsche in Deutschland? Und warum?
+## 140. Wie steht es um die Bekämpfung von Geldwäsche in Deutschland? Und warum?
 
 **Autor:**   
 **Datum:**   
@@ -11561,7 +11674,7 @@ Anhand der Ergebnisse des Follow-Up-Reports lassen sich also die gröbsten Herau
 
 ---
 
-## 140. Wiederkehrende Pflichten zur Geldwäscheprävention – Update Ende 2025
+## 141. Wiederkehrende Pflichten zur Geldwäscheprävention – Update Ende 2025
 
 **Autor:**   
 **Datum:**   
@@ -11646,7 +11759,7 @@ Otis Benning Senior Associate Marketing
 
 ---
 
-## 141. Wiederkehrende Pflichten zur Geldwäscheprävention
+## 142. Wiederkehrende Pflichten zur Geldwäscheprävention
 
 **Autor:**   
 **Datum:**   
@@ -11691,7 +11804,7 @@ Um die Zertifizierung als Geldwäschebeauftragte, soweit diese vorhanden ist, zu
 
 ---
 
-## 142. Zwischen Innovation und Risiko - Kryptowährungen im Fokus des Geldwäschebeauftragten
+## 143. Zwischen Innovation und Risiko - Kryptowährungen im Fokus des Geldwäschebeauftragten
 
 **Autor:**   
 **Datum:**   

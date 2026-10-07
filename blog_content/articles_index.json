@@ -1,6 +1,6 @@
 {
-  "generated": "2026-10-06T08:52:47.030501",
-  "total_articles": 141,
+  "generated": "2026-10-07T08:31:46.948925",
+  "total_articles": 142,
   "articles": [
     {
       "filename": "21-jahriger-sohn-von-clanchef-abou-chaker-ersteigert-villen-fur-uber-7-millionen-euro.md",
@@ -540,7 +540,7 @@
       "url": "https://www.kerberos-compliance.com/wissen/blog/fiu-jahresbericht-es-gibt-sie-noch-die-guten-nachrichten-oder",
       "excerpt": "# FIU Jahresbericht 2023: Es gibt sie noch, die guten Nachrichten – oder?\n\n**Autor:**   \n**Datum:**   \n**URL:** https://www.kerberos-compliance.com/wissen/blog/fiu-jahresbericht-es-gibt-sie-noch-die-g...",
       "raw_url": "https://raw.githubusercontent.com/obenning/blog-crawler/main/blog_content/fiu-jahresbericht-es-gibt-sie-noch-die-guten-nachrichten-oder.md",
-      "word_count": 1080
+      "word_count": 1043
     },
     {
       "filename": "folgen-des-ampel-aus-fuer-die-geldwaeschebekaempfung.md",
@@ -590,7 +590,7 @@
       "url": "https://www.kerberos-compliance.com/wissen/blog/geldwaesche-im-deutschen-immobiliensektor-bleibt-milliardenproblem",
       "excerpt": "# Geldwäsche im deutschen Immobiliensektor bleibt Milliardenproblem\n\n**Autor:**   \n**Datum:**   \n**URL:** https://www.kerberos-compliance.com/wissen/blog/geldwaesche-im-deutschen-immobiliensektor-blei...",
       "raw_url": "https://raw.githubusercontent.com/obenning/blog-crawler/main/blog_content/geldwaesche-im-deutschen-immobiliensektor-bleibt-milliardenproblem.md",
-      "word_count": 1025
+      "word_count": 988
     },
     {
       "filename": "geldwaesche-im-immobiliensektor-was-makler-jetzt-wissen-muessen.md",
@@ -1171,6 +1171,16 @@
       "excerpt": "# Sanktionen und was sie bedeuten\n\n**Autor:**   \n**Datum:**   \n**URL:** https://www.kerberos-compliance.com/wissen/blog/sanktionen-und-was-sie-bedeuten\n\n---\n\nVeröffentlicht: 2024-02-02\n\nDer russische ...",
       "raw_url": "https://raw.githubusercontent.com/obenning/blog-crawler/main/blog_content/sanktionen-und-was-sie-bedeuten.md",
       "word_count": 1587
+    },
+    {
+      "filename": "sanktionscompliance-ab-juli-2027.md",
+      "title": "Sanktionscompliance ab Juli 2027: Was die EU-AML-VO neu von Ihnen verlangt",
+      "author": "",
+      "date": "",
+      "url": "https://www.kerberos-compliance.com/wissen/blog/sanktionscompliance-ab-juli-2027",
+      "excerpt": "# Sanktionscompliance ab Juli 2027: Was die EU-AML-VO neu von Ihnen verlangt\n\n**Autor:**   \n**Datum:**   \n**URL:** https://www.kerberos-compliance.com/wissen/blog/sanktionscompliance-ab-juli-2027\n\n---...",
+      "raw_url": "https://raw.githubusercontent.com/obenning/blog-crawler/main/blog_content/sanktionscompliance-ab-juli-2027.md",
+      "word_count": 1595
     },
     {
       "filename": "schleswig-holstein-bugelder-in-der-geldwscheaufsicht-steigen-um-115-prozent.md",
