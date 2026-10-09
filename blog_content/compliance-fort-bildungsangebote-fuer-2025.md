@@ -4,7 +4,7 @@ author: ""
 date: ""
 url: "https://www.kerberos-compliance.com/wissen/blog/compliance-fort-bildungsangebote-fuer-2025"
 excerpt: ""
-crawled_at: "2026-10-08T08:45:57.516121"
+crawled_at: "2026-10-09T08:50:04.121110"
 ---
 
 # Compliance (Fort-)Bildungsangebote für 2025
