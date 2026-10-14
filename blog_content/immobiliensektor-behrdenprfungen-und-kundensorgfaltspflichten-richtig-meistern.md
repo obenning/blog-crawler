@@ -4,7 +4,7 @@ author: ""
 date: ""
 url: "https://www.kerberos-compliance.com/wissen/blog/immobiliensektor-behrdenprfungen-und-kundensorgfaltspflichten-richtig-meistern"
 excerpt: ""
-crawled_at: "2026-10-13T09:14:55.294688"
+crawled_at: "2026-10-14T07:25:22.185970"
 ---
 
 # Immobiliensektor: Behördenprüfungen und Kundensorgfaltspflichten richtig meistern
@@ -20,8 +20,6 @@ Veröffentlicht: 2025-03-26
 Als Immobilienmakler gehören Sie zu den nach dem Geldwäschegesetz (GwG) verpflichteten Unternehmen. Die gesetzlichen Anforderungen an die Geldwäscheprävention sind komplex und erfordern ein strukturiertes Vorgehen. In diesem Beitrag geben wir Ihnen einen praxisnahen Überblick über die wichtigsten Compliance-Anforderungen für Ihre tägliche Arbeit.
 
 Dazu informieren unsere Expert:innen in regelmäßigen Webinaren über Pflichten & Lösungsansätze für Verpflichtete nach dem Geldwäschegesetz. Stellen Sie unseren Expert:innen live & kostenfrei Ihre Fragen:
-
-Erfahren Sie von Dr. Anna Bolz , zertifizierte Geldwäschebeauftragte, wie Sie Ihre Pflichten nach dem Geldwäschegesetz (GwG) effizient und rechtssicher umsetzen. Das Webinar fokussiert auf die praktischen Herausforderungen bei Kataloggeschäften und bietet konkrete Lösungsansätze für den Berufsalltag.
 
 BaFin fordert seit März 2025 getrennte Risikoanalysen für Geldwäsche und Terrorismusfinanzierung. Die AMLA-Guidelines kommen im Juli 2027. Neue Risikobereiche (Crowdfunding, NPOs), risikobasierter Ansatz in der Praxis und Update bestehender Risikoanalysen für Compliance-Beauftragte.
 

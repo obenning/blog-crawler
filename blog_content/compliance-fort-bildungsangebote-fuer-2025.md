@@ -4,7 +4,7 @@ author: ""
 date: ""
 url: "https://www.kerberos-compliance.com/wissen/blog/compliance-fort-bildungsangebote-fuer-2025"
 excerpt: ""
-crawled_at: "2026-10-13T09:15:12.690297"
+crawled_at: "2026-10-14T07:25:40.825429"
 ---
 
 # Compliance (Fort-)Bildungsangebote für 2025
@@ -30,8 +30,6 @@ Frischen Sie Ihre Zertifizierung zum Geldwäschebeauftragten innerhalb nur eines
 Als Verpflichtete nach dem Geldwäschegesetz besteht für Sie und Ihre Mitarbeiter:innen eine fortlaufende Weiterbildungspflicht. Über unsere Kerberos Academy bieten wir branchenspezifische Mitarbeiterschulungen für alle nach dem GwG verpflichteten Branchen an. Für jede bestandenen Kurs erhalten Sie und Ihre Mitarbeiter:innen Schulungszertifikate, die als Nachweis zur Einhaltung der Weiterbildungspflicht vorgelegt werden können. Informieren Sie sich hier über unsere Schulungen und Angebote. [Zur Kerberos Academy](https://www.kerberos-compliance.com/loesungen/mitarbeiterschulungen)
 
 ## Webinare:
-
-Erfahren Sie von Dr. Anna Bolz , zertifizierte Geldwäschebeauftragte, wie Sie Ihre Pflichten nach dem Geldwäschegesetz (GwG) effizient und rechtssicher umsetzen. Das Webinar fokussiert auf die praktischen Herausforderungen bei Kataloggeschäften und bietet konkrete Lösungsansätze für den Berufsalltag.
 
 BaFin fordert seit März 2025 getrennte Risikoanalysen für Geldwäsche und Terrorismusfinanzierung. Die AMLA-Guidelines kommen im Juli 2027. Neue Risikobereiche (Crowdfunding, NPOs), risikobasierter Ansatz in der Praxis und Update bestehender Risikoanalysen für Compliance-Beauftragte.
 

@@ -4,7 +4,7 @@ author: ""
 date: ""
 url: "https://www.kerberos-compliance.com/wissen/blog/fiu-jahresbericht-es-gibt-sie-noch-die-guten-nachrichten-oder"
 excerpt: ""
-crawled_at: "2026-10-13T09:15:16.785516"
+crawled_at: "2026-10-14T07:25:44.802043"
 ---
 
 # FIU Jahresbericht 2023: Es gibt sie noch, die guten Nachrichten – oder?
@@ -80,8 +80,6 @@ Hierzu schreibt der Leiter der FIU im Vorwort des Jahresberichts 2023: „Ich se
 Auch wir von Kerberos sind hier aktiv – beispielsweise durch regelmäßige Informationsangebote für Verpflichtete zur effektiven Abgabe von Verdachtsmeldungen sowie der Einhaltung weiterer Pflichten nach dem Geldwäschegesetz.
 
 Alle aktuellen Webinar-Angebote finden Sie hier: [Unsere Veranstaltungen](https://www.kerberos-compliance.com/wissen/veranstaltungen)
-
-Erfahren Sie von Dr. Anna Bolz , zertifizierte Geldwäschebeauftragte, wie Sie Ihre Pflichten nach dem Geldwäschegesetz (GwG) effizient und rechtssicher umsetzen. Das Webinar fokussiert auf die praktischen Herausforderungen bei Kataloggeschäften und bietet konkrete Lösungsansätze für den Berufsalltag.
 
 BaFin fordert seit März 2025 getrennte Risikoanalysen für Geldwäsche und Terrorismusfinanzierung. Die AMLA-Guidelines kommen im Juli 2027. Neue Risikobereiche (Crowdfunding, NPOs), risikobasierter Ansatz in der Praxis und Update bestehender Risikoanalysen für Compliance-Beauftragte.
 

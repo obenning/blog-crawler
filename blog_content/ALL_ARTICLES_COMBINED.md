@@ -1,8 +1,8 @@
 # 📚 Kerberos Compliance Blog - Alle Artikel
 
-**Generiert:** 13.10.2026 09:16
+**Generiert:** 14.10.2026 07:27
 **Anzahl Artikel:** 143
-**Gesamtwortanzahl:** 124,218
+**Gesamtwortanzahl:** 124,070
 
 ---
 
@@ -338,7 +338,7 @@ Die drei Tage können nur abgekürzt werden, wenn eine Staatsanwaltschaft oder d
 
 # Blog Content Archive
 
-Automatisch gecrawlt am: 2026-10-13 09:16:32
+Automatisch gecrawlt am: 2026-10-14 07:27:05
 
 **Statistik:**
 - Gesamt Artikel: 139
@@ -2335,7 +2335,7 @@ Vielen Dank.
 
 **Autor:**   
 **Datum:**   
-**Wortanzahl:** 342  
+**Wortanzahl:** 305  
 **Original:** https://www.kerberos-compliance.com/wissen/blog/compliance-fort-bildungsangebote-fuer-2025  
 
 ---
@@ -2363,8 +2363,6 @@ Frischen Sie Ihre Zertifizierung zum Geldwäschebeauftragten innerhalb nur eines
 Als Verpflichtete nach dem Geldwäschegesetz besteht für Sie und Ihre Mitarbeiter:innen eine fortlaufende Weiterbildungspflicht. Über unsere Kerberos Academy bieten wir branchenspezifische Mitarbeiterschulungen für alle nach dem GwG verpflichteten Branchen an. Für jede bestandenen Kurs erhalten Sie und Ihre Mitarbeiter:innen Schulungszertifikate, die als Nachweis zur Einhaltung der Weiterbildungspflicht vorgelegt werden können. Informieren Sie sich hier über unsere Schulungen und Angebote. [Zur Kerberos Academy](https://www.kerberos-compliance.com/loesungen/mitarbeiterschulungen)
 
 ## Webinare:
-
-Erfahren Sie von Dr. Anna Bolz , zertifizierte Geldwäschebeauftragte, wie Sie Ihre Pflichten nach dem Geldwäschegesetz (GwG) effizient und rechtssicher umsetzen. Das Webinar fokussiert auf die praktischen Herausforderungen bei Kataloggeschäften und bietet konkrete Lösungsansätze für den Berufsalltag.
 
 BaFin fordert seit März 2025 getrennte Risikoanalysen für Geldwäsche und Terrorismusfinanzierung. Die AMLA-Guidelines kommen im Juli 2027. Neue Risikobereiche (Crowdfunding, NPOs), risikobasierter Ansatz in der Praxis und Update bestehender Risikoanalysen für Compliance-Beauftragte.
 
@@ -4663,7 +4661,7 @@ Otis Benning Senior Associate Marketing
 
 **Autor:**   
 **Datum:**   
-**Wortanzahl:** 1,043  
+**Wortanzahl:** 1,006  
 **Original:** https://www.kerberos-compliance.com/wissen/blog/fiu-jahresbericht-es-gibt-sie-noch-die-guten-nachrichten-oder  
 
 ---
@@ -4741,8 +4739,6 @@ Hierzu schreibt der Leiter der FIU im Vorwort des Jahresberichts 2023: „Ich se
 Auch wir von Kerberos sind hier aktiv – beispielsweise durch regelmäßige Informationsangebote für Verpflichtete zur effektiven Abgabe von Verdachtsmeldungen sowie der Einhaltung weiterer Pflichten nach dem Geldwäschegesetz.
 
 Alle aktuellen Webinar-Angebote finden Sie hier: [Unsere Veranstaltungen](https://www.kerberos-compliance.com/wissen/veranstaltungen)
-
-Erfahren Sie von Dr. Anna Bolz , zertifizierte Geldwäschebeauftragte, wie Sie Ihre Pflichten nach dem Geldwäschegesetz (GwG) effizient und rechtssicher umsetzen. Das Webinar fokussiert auf die praktischen Herausforderungen bei Kataloggeschäften und bietet konkrete Lösungsansätze für den Berufsalltag.
 
 BaFin fordert seit März 2025 getrennte Risikoanalysen für Geldwäsche und Terrorismusfinanzierung. Die AMLA-Guidelines kommen im Juli 2027. Neue Risikobereiche (Crowdfunding, NPOs), risikobasierter Ansatz in der Praxis und Update bestehender Risikoanalysen für Compliance-Beauftragte.
 
@@ -5064,7 +5060,7 @@ Otis Benning Senior Associate Marketing
 
 **Autor:**   
 **Datum:**   
-**Wortanzahl:** 988  
+**Wortanzahl:** 951  
 **Original:** https://www.kerberos-compliance.com/wissen/blog/geldwaesche-im-deutschen-immobiliensektor-bleibt-milliardenproblem  
 
 ---
@@ -5078,8 +5074,6 @@ Otis Benning Senior Associate Marketing
 ---
 
 Veröffentlicht: 2025-06-20
-
-Erfahren Sie von Dr. Anna Bolz , zertifizierte Geldwäschebeauftragte, wie Sie Ihre Pflichten nach dem Geldwäschegesetz (GwG) effizient und rechtssicher umsetzen. Das Webinar fokussiert auf die praktischen Herausforderungen bei Kataloggeschäften und bietet konkrete Lösungsansätze für den Berufsalltag.
 
 BaFin fordert seit März 2025 getrennte Risikoanalysen für Geldwäsche und Terrorismusfinanzierung. Die AMLA-Guidelines kommen im Juli 2027. Neue Risikobereiche (Crowdfunding, NPOs), risikobasierter Ansatz in der Praxis und Update bestehender Risikoanalysen für Compliance-Beauftragte.
 
@@ -6781,7 +6775,7 @@ Dann melde Sie sich gerne bei uns. [Unsere Expert:innen helfen Ihnen gerne weite
 
 **Autor:**   
 **Datum:**   
-**Wortanzahl:** 853  
+**Wortanzahl:** 816  
 **Original:** https://www.kerberos-compliance.com/wissen/blog/immobiliensektor-behrdenprfungen-und-kundensorgfaltspflichten-richtig-meistern  
 
 ---
@@ -6799,8 +6793,6 @@ Veröffentlicht: 2025-03-26
 Als Immobilienmakler gehören Sie zu den nach dem Geldwäschegesetz (GwG) verpflichteten Unternehmen. Die gesetzlichen Anforderungen an die Geldwäscheprävention sind komplex und erfordern ein strukturiertes Vorgehen. In diesem Beitrag geben wir Ihnen einen praxisnahen Überblick über die wichtigsten Compliance-Anforderungen für Ihre tägliche Arbeit.
 
 Dazu informieren unsere Expert:innen in regelmäßigen Webinaren über Pflichten & Lösungsansätze für Verpflichtete nach dem Geldwäschegesetz. Stellen Sie unseren Expert:innen live & kostenfrei Ihre Fragen:
-
-Erfahren Sie von Dr. Anna Bolz , zertifizierte Geldwäschebeauftragte, wie Sie Ihre Pflichten nach dem Geldwäschegesetz (GwG) effizient und rechtssicher umsetzen. Das Webinar fokussiert auf die praktischen Herausforderungen bei Kataloggeschäften und bietet konkrete Lösungsansätze für den Berufsalltag.
 
 BaFin fordert seit März 2025 getrennte Risikoanalysen für Geldwäsche und Terrorismusfinanzierung. Die AMLA-Guidelines kommen im Juli 2027. Neue Risikobereiche (Crowdfunding, NPOs), risikobasierter Ansatz in der Praxis und Update bestehender Risikoanalysen für Compliance-Beauftragte.
 
