@@ -1,8 +1,8 @@
 # 📚 Kerberos Compliance Blog - Alle Artikel
 
-**Generiert:** 14.10.2026 07:27
-**Anzahl Artikel:** 143
-**Gesamtwortanzahl:** 124,070
+**Generiert:** 15.10.2026 07:17
+**Anzahl Artikel:** 144
+**Gesamtwortanzahl:** 125,227
 
 ---
 
@@ -54,103 +54,104 @@
 44. [EU-AML-Verordnung: Was sich für Steuerberater bei UBO-Prüfung, Sanktionsrecht und Geldwäschebeauftragten konkret ändert](#euamlverordnung-was-sich-für-steuerberater-bei-uboprüfung-sanktionsrecht-und-geldwäschebeauftragten-konkret-ändert)
 45. [EU AML VO: Neue KYC-Prüfpflichten für Kapitalverwaltungsgesellschaften – Was Sie jetzt wissen müssen](#eu-aml-vo-neue-kycprüfpflichten-für-kapitalverwaltungsgesellschaften--was-sie-jetzt-wissen-müssen)
 46. [EU Pläne für Anti-Geldwäsche Verordnung - diese Änderungen werden europaweit bindend](#eu-pläne-für-antigeldwäsche-verordnung--diese-änderungen-werden-europaweit-bindend)
-47. [EU-Hochrisikoländer-Liste: Aktualisierung der Delegierten Verordnung (EU) 2025/1184](#euhochrisikoländerliste-aktualisierung-der-delegierten-verordnung-eu-20251184)
-48. [Compliance-Experte Frank Lässig über neue Geldwäsche-Pflichten, verstärkte Sorgfaltspflichten und warum die Praxis sich kaum ändert](#complianceexperte-frank-lässig-über-neue-geldwäschepflichten-verstärkte-sorgfaltspflichten-und-warum-die-praxis-sich-kaum-ändert)
-49. [EU Pläne für Anti-Geldwäsche Richtlinie - diese Punkte müssen in nationales Recht überführt werden](#eu-pläne-für-antigeldwäsche-richtlinie--diese-punkte-müssen-in-nationales-recht-überführt-werden)
-50. [Europaweite Prüfaktion 2025: Das Recht auf Löschung im Fokus der Datenschutzbehörden](#europaweite-prüfaktion-2025-das-recht-auf-löschung-im-fokus-der-datenschutzbehörden)
-51. [“Fakt ist, dass Geldwäscher auch Freie Berufe ausnutzen”](#fakt-ist-dass-geldwäscher-auch-freie-berufe-ausnutzen)
-52. [FATF Follow-Up Report: Aktueller Stand der Geldwäsche-Bekämpfung in Deutschland](#fatf-followup-report-aktueller-stand-der-geldwäschebekämpfung-in-deutschland)
-53. [FATF-Update Oktober 2025: Vier Länder von der Grauen Liste gestrichen](#fatfupdate-oktober-2025-vier-länder-von-der-grauen-liste-gestrichen)
-54. [Final Countdown: Maßnahmen, die Sie bis Ende 2024 aktualisieren sollten](#final-countdown-maßnahmen-die-sie-bis-ende-2024-aktualisieren-sollten)
-55. [FIU Jahresbericht 2023: Es gibt sie noch, die guten Nachrichten – oder?](#fiu-jahresbericht-2023-es-gibt-sie-noch-die-guten-nachrichten--oder)
-56. [Folgen des Ampel-Aus für die Geldwäschebekämpfung](#folgen-des-ampelaus-für-die-geldwäschebekämpfung)
-57. [Fußballklubs als Verpflichtete ab 2029: Was Profivereine jetzt für die Geldwäscheprävention vorbereiten sollten](#fußballklubs-als-verpflichtete-ab-2029-was-profivereine-jetzt-für-die-geldwäscheprävention-vorbereiten-sollten)
-58. [Galerie, Auktionshaus, Kunstspedition: Was die EU-AML-VO ab 2027 für den Kunstmarkt bedeutet](#galerie-auktionshaus-kunstspedition-was-die-euamlvo-ab-2027-für-den-kunstmarkt-bedeutet)
-59. [Geldwäsche in Deutschland: Ein Monat zeigt alle Facetten](#geldwäsche-in-deutschland-ein-monat-zeigt-alle-facetten)
-60. [Geldwäsche im deutschen Immobiliensektor bleibt Milliardenproblem](#geldwäsche-im-deutschen-immobiliensektor-bleibt-milliardenproblem)
-61. [Geldwäsche im Immobiliensektor: Was Makler jetzt wissen müssen](#geldwäsche-im-immobiliensektor-was-makler-jetzt-wissen-müssen)
-62. [Geldwäsche treibt Immobilienpreise: Neue Studie belegt ökonomische Folgen](#geldwäsche-treibt-immobilienpreise-neue-studie-belegt-ökonomische-folgen)
-63. [Geldwäsche über den CO2-Handel - Interview](#geldwäsche-über-den-co2handel--interview)
-64. [Geldwäschebeauftragte für KVGen: Zwischen steigenden Anforderungen und komplexen Strukturen](#geldwäschebeauftragte-für-kvgen-zwischen-steigenden-anforderungen-und-komplexen-strukturen)
-65. [Geldwäschebeauftragte: Schlüsselfiguren im Kampf gegen Finanzkriminalität](#geldwäschebeauftragte-schlüsselfiguren-im-kampf-gegen-finanzkriminalität)
-66. [Geldwäscheprävention: Eine strategische Notwendigkeit für moderne Unternehmen](#geldwäscheprävention-eine-strategische-notwendigkeit-für-moderne-unternehmen)
-67. [Geldwäsche am Beispiel des Menschenhandels](#geldwäsche-am-beispiel-des-menschenhandels)
-68. [Geldwäsche im Profisport - Interview mit Vorstandsvorsitzenden des Bundesverbands der Geldwäschebeauftragten e.V. Lena Olschewski](#geldwäsche-im-profisport--interview-mit-vorstandsvorsitzenden-des-bundesverbands-der-geldwäschebeauftragten-ev-lena-olschewski)
-69. [Geldwäsche in Deutschland – Zahlen, Daten, Fakten](#geldwäsche-in-deutschland--zahlen-daten-fakten)
-70. [Geldwäschebeauftragte leisten einen direkten Beitrag zur Sicherheit des Finanzsystems](#geldwäschebeauftragte-leisten-einen-direkten-beitrag-zur-sicherheit-des-finanzsystems)
-71. [Geldwäsche-Fakten aus der Polizeilichen Kriminalstatistik 2024](#geldwäschefakten-aus-der-polizeilichen-kriminalstatistik-2024)
-72. [Geldwäscheprävention 2026: Diese Fristen und Neuerungen müssen Verpflichtete kennen](#geldwäscheprävention-2026-diese-fristen-und-neuerungen-müssen-verpflichtete-kennen)
-73. [Geldwäscheprävention 2025: Ein halbes Jahr zwischen Fortschritten und Rückschlägen](#geldwäscheprävention-2025-ein-halbes-jahr-zwischen-fortschritten-und-rückschlägen)
-74. [Geschäftspartnerprüfungen: Der Schlüssel zu sicheren und vertrauenswürdigen Geschäftsbeziehungen](#geschäftspartnerprüfungen-der-schlüssel-zu-sicheren-und-vertrauenswürdigen-geschäftsbeziehungen)
-75. [GwG-Bußgelder in der Praxis: Was die BaFin wirklich ahndet – und was ab 2027 zählt](#gwgbußgelder-in-der-praxis-was-die-bafin-wirklich-ahndet--und-was-ab-2027-zählt)
-76. [GwGMeldV 2026: Was ändert sich bei Geldwäscheverdachtsmeldungen?](#gwgmeldv-2026-was-ändert-sich-bei-geldwäscheverdachtsmeldungen)
-77. [Übergangsregelungen: Hinweisgebersysteme  - Einrichtung interner Meldestellen](#übergangsregelungen-hinweisgebersysteme---einrichtung-interner-meldestellen)
-78. [Hinweisgebersysteme nach dem Hinweisgeberschutzgesetz (HinSchG)](#hinweisgebersysteme-nach-dem-hinweisgeberschutzgesetz-hinschg)
-79. [How to: goAML & Geldwäscheverdachtsmeldungen – Webinar-Zusammenfassung](#how-to-goaml--geldwäscheverdachtsmeldungen--webinarzusammenfassung)
-80. [How to: goAML & Geldwäsche Verdachtsmeldungen](#how-to-goaml--geldwäsche-verdachtsmeldungen)
-81. [Immobiliensektor: Behördenprüfungen und Kundensorgfaltspflichten richtig meistern](#immobiliensektor-behördenprüfungen-und-kundensorgfaltspflichten-richtig-meistern)
-82. [Die Realität ist deutlich komplexer als die Theorie. " - Interview mit einem Geldwäschebeauftragten](#die-realität-ist-deutlich-komplexer-als-die-theorie---interview-mit-einem-geldwäschebeauftragten)
-83. [Jahresrückblick und Jahresausblick - Geldwäscheprävention 2025-2027](#jahresrückblick-und-jahresausblick--geldwäscheprävention-20252027)
-84. [Kampf gegen Geldwäsche: „Goldesel“ auf dem Weg zum „Goldstandard“?](#kampf-gegen-geldwäsche-goldesel-auf-dem-weg-zum-goldstandard)
-85. [Kapitalverwaltungsgesellschaften: AML-Faktoren bei der Jahres-Abschlussprüfung](#kapitalverwaltungsgesellschaften-amlfaktoren-bei-der-jahresabschlussprüfung)
-86. [Know Your Customer" für freie Berufe: Herausforderungen und Lösungsansätze für Anwält:innen und Notar:innen](#know-your-customer-für-freie-berufe-herausforderungen-und-lösungsansätze-für-anwältinnen-und-notarinnen)
-87. [Know Your Customer (KYC) – oder was passieren kann, wenn man es nicht tut](#know-your-customer-kyc--oder-was-passieren-kann-wenn-man-es-nicht-tut)
-88. [Kryptowerte im Fokus: Die neuen BaFin-Auslegungshinweise zum Geldwäschegesetz](#kryptowerte-im-fokus-die-neuen-bafinauslegungshinweise-zum-geldwäschegesetz)
-89. [KYC bei Kapitalverwaltungsgesellschaften: Effektive Geldwäscheprävention im Fokus](#kyc-bei-kapitalverwaltungsgesellschaften-effektive-geldwäscheprävention-im-fokus)
-90. [KYC in der Praxis: Digitale Lösungen für effiziente Sorgfaltspflichten](#kyc-in-der-praxis-digitale-lösungen-für-effiziente-sorgfaltspflichten)
-91. [KYC leicht gemacht: Geldwäscheprävention ist digital](#kyc-leicht-gemacht-geldwäscheprävention-ist-digital)
-92. [KYC/AML API: Ergebnisberichte in Sekunden](#kycaml-api-ergebnisberichte-in-sekunden)
-93. [Machen Sie KI zu Ihrem Wettbewerbsvorteil – KI-Schulungen bei Kerberos](#machen-sie-ki-zu-ihrem-wettbewerbsvorteil--kischulungen-bei-kerberos)
-94. [“Ich habe das Gefühl, dass nicht ankommt, das reale Gefahren bestehen.” Interview mit mafianeindanke-Mitglied Eva Blöchl](#ich-habe-das-gefühl-dass-nicht-ankommt-das-reale-gefahren-bestehen-interview-mit-mafianeindankemitglied-eva-blöchl)
-95. [Make-or-Buy: Geldwäschebeauftragte für KVGen effizient organisieren](#makeorbuy-geldwäschebeauftragte-für-kvgen-effizient-organisieren)
-96. [Mehr Aufsicht, bessere Prävention? Was die BaFin-Offensive für Verpflichtete wirklich bedeutet](#mehr-aufsicht-bessere-prävention-was-die-bafinoffensive-für-verpflichtete-wirklich-bedeutet)
-97. [MiCA: Der neue EU-Regulierungsrahmen für Kryptowerte](#mica-der-neue-euregulierungsrahmen-für-kryptowerte)
-98. [MLRO-Strategien für deutsche Finanzdienstleister: CEO-Leitfaden 2025](#mlrostrategien-für-deutsche-finanzdienstleister-ceoleitfaden-2025)
-99. [Neue Auslegungs- und Anwendungshinweise der BaFin](#neue-auslegungs-und-anwendungshinweise-der-bafin)
-100. [Neue Auslegungs- und Anwendungshinweise zum Geldwäschegesetz für die Anwaltschaft](#neue-auslegungs-und-anwendungshinweise-zum-geldwäschegesetz-für-die-anwaltschaft)
-101. [Neue EU-Vorschriften zur Bekämpfung von Geldwäsche und Terrorismusfinanzierung: Ein erster Überblick](#neue-euvorschriften-zur-bekämpfung-von-geldwäsche-und-terrorismusfinanzierung-ein-erster-überblick)
-102. [Neue GwG-Meldeverordnung: Standardisierung von Verdachtsmeldungen ab Oktober 2025](#neue-gwgmeldeverordnung-standardisierung-von-verdachtsmeldungen-ab-oktober-2025)
-103. [Neues Datenschutzabkommen zwischen der EU und den USA beschlossen](#neues-datenschutzabkommen-zwischen-der-eu-und-den-usa-beschlossen)
-104. [Ongoing Monitoring nach Artikel 26 EU-AML VO: Was sich ab Juli 2027 ändert](#ongoing-monitoring-nach-artikel-26-euaml-vo-was-sich-ab-juli-2027-ändert)
-105. [Operation Chargeback: Wenn Compliance-Systeme versagen – Eine Analyse des AML-Experten Frank Lässig](#operation-chargeback-wenn-compliancesysteme-versagen--eine-analyse-des-amlexperten-frank-lässig)
-106. [Übergangsregelungen: Pflicht zur Registrierung im Meldeportal goAML](#übergangsregelungen-pflicht-zur-registrierung-im-meldeportal-goaml)
-107. [DEKRA-Zertifizierung zum KYC-Specialist: Anti-Geldwäsche-Experten teilen in neuer Weiterbildung Praxiswissen](#dekrazertifizierung-zum-kycspecialist-antigeldwäscheexperten-teilen-in-neuer-weiterbildung-praxiswissen)
-108. [Portrait: Daniel Thelesklaf, zukünftiger Leiter der Financial Intelligence Unit (FIU) in Deutschland](#portrait-daniel-thelesklaf-zukünftiger-leiter-der-financial-intelligence-unit-fiu-in-deutschland)
-109. [Präventionsmaßnahmen gegen Geldwäsche und Terrorismusfinanzierung](#präventionsmaßnahmen-gegen-geldwäsche-und-terrorismusfinanzierung)
-110. [Pressekonferenz: FIU stellt Jahresbericht 2024 vor](#pressekonferenz-fiu-stellt-jahresbericht-2024-vor)
-111. [Prüfungen im Nacken - darum lohnt sich Prävention](#prüfungen-im-nacken--darum-lohnt-sich-prävention)
-112. [Rückgang bei Geldwäsche-Verdachtsmeldungen: Was steckt dahinter?](#rückgang-bei-geldwäscheverdachtsmeldungen-was-steckt-dahinter)
-113. [Rechnungsversand per E-Mail: Neue Rechtslage nach OLG-Urteil](#rechnungsversand-per-email-neue-rechtslage-nach-olgurteil)
-114. [Registrieren lohnt sich! FIU-Jahresbericht 2025 - Learnings für Verpflichtete](#registrieren-lohnt-sich-fiujahresbericht-2025--learnings-für-verpflichtete)
-115. [Risikomanagement für Factoring & Leasing-Gesellschaften nach EU-AML-Verordnung](#risikomanagement-für-factoring--leasinggesellschaften-nach-euamlverordnung)
-116. [Die Standards kommen - aber rechtzeitig? RTS-Lücken auf dem Weg zum 10. Juli 2027](#die-standards-kommen--aber-rechtzeitig-rtslücken-auf-dem-weg-zum-10-juli-2027)
-117. [Russland-Sanktionen - 5 Tipps zur Risikoreduzierung](#russlandsanktionen--5-tipps-zur-risikoreduzierung)
-118. [Sanktionen und was sie bedeuten](#sanktionen-und-was-sie-bedeuten)
-119. [Sanktionscompliance ab Juli 2027: Was die EU-AML-VO neu von Ihnen verlangt](#sanktionscompliance-ab-juli-2027-was-die-euamlvo-neu-von-ihnen-verlangt)
-120. [Schleswig-Holstein: Bußgelder in der Geldwäscheaufsicht steigen um 115 Prozent](#schleswigholstein-bußgelder-in-der-geldwäscheaufsicht-steigen-um-115-prozent)
-121. [“Schutzmaßnahmen „auslaufen“ zu lassen, scheint mir gefährlich” - Interview mit dem Compliance Beauftragten der thyssenkrupp AG](#schutzmaßnahmen-auslaufen-zu-lassen-scheint-mir-gefährlich--interview-mit-dem-compliance-beauftragten-der-thyssenkrupp-ag)
-122. [Stärkung Ihrer Cyber-Abwehr](#stärkung-ihrer-cyberabwehr)
-123. [Terrorismusfinanzierung in der Risikoanalyse: Was Verpflichtete jetzt getrennt bewerten müssen](#terrorismusfinanzierung-in-der-risikoanalyse-was-verpflichtete-jetzt-getrennt-bewerten-müssen)
-124. [Transparenzregister, koordinierte Aufsicht, erweiterter Datenaustausch: Die systemischen GwG-Änderungen des ZFG-Referentenentwurfs](#transparenzregister-koordinierte-aufsicht-erweiterter-datenaustausch-die-systemischen-gwgänderungen-des-zfgreferentenentwurfs)
-125. [Transparenzregistereintragung: 1.415 Unternehmen am Pranger](#transparenzregistereintragung-1415-unternehmen-am-pranger)
-126. [Übergangsregelungen: Transparenzregister – Noch auf dem neuesten Stand?](#übergangsregelungen-transparenzregister--noch-auf-dem-neuesten-stand)
-127. [UBO-Identifizierung nach der EU-AML-Verordnung: Was sich ab Juli 2027 grundlegend ändert](#uboidentifizierung-nach-der-euamlverordnung-was-sich-ab-juli-2027-grundlegend-ändert)
-128. [„Unverzüglichkeit“ und „Vollständigkeit“ – Gemeinsame Orientierungshilfe der BaFin und FIU](#unverzüglichkeit-und-vollständigkeit--gemeinsame-orientierungshilfe-der-bafin-und-fiu)
-129. [US-Cloud-Anbieter im Fokus: Datenschutzrisiken und Handlungsempfehlungen](#uscloudanbieter-im-fokus-datenschutzrisiken-und-handlungsempfehlungen)
-130. [Verdachtsmeldungen nach § 43 GwG: Was die BaFin/FIU-Orientierungshilfe konkret bedeutet](#verdachtsmeldungen-nach--43-gwg-was-die-bafinfiuorientierungshilfe-konkret-bedeutet)
-131. [Vermögensentzug ohne Strafurteil: Was §§ 52a–52n ZFG-Referentenentwurf für Verpflichtete bedeuten](#vermögensentzug-ohne-strafurteil-was--52a52n-zfgreferentenentwurf-für-verpflichtete-bedeuten)
-132. [Verschärfte Meldepflichten bei Immobilientransaktionen - die wichtigsten Änderungen der GwGMeldV-Immobilien 2025](#verschärfte-meldepflichten-bei-immobilientransaktionen--die-wichtigsten-änderungen-der-gwgmeldvimmobilien-2025)
-133. [Verstöße gegen das Geldwäschegesetz - Bußgelder und Prüfungen von 2017-2022](#verstöße-gegen-das-geldwäschegesetz--bußgelder-und-prüfungen-von-20172022)
-134. [Vom Krisenherd zum Vertrauensturbo: Umgang mit Datenschutzbeschwerden](#vom-krisenherd-zum-vertrauensturbo-umgang-mit-datenschutzbeschwerden)
-135. [Von Sommerloch keine Spur - der Kampf gegen Finanzkriminalität in den Medien](#von-sommerloch-keine-spur--der-kampf-gegen-finanzkriminalität-in-den-medien)
-136. [Vonovia – Korruptionsskandal mit Vorbildcharakter](#vonovia--korruptionsskandal-mit-vorbildcharakter)
-137. [Warum sind Risikoanalysen nach dem Geldwäschegesetz (GwG) so wichtig?](#warum-sind-risikoanalysen-nach-dem-geldwäschegesetz-gwg-so-wichtig)
-138. [Weihnachtsgrüße von Christian Tsambikakis - Geschäftsführer](#weihnachtsgrüße-von-christian-tsambikakis--geschäftsführer)
-139. [Wer sich bei der FIU registrieren muss - und warum die Aufsicht bald mitzählen kann](#wer-sich-bei-der-fiu-registrieren-muss--und-warum-die-aufsicht-bald-mitzählen-kann)
-140. [Wie steht es um die Bekämpfung von Geldwäsche in Deutschland? Und warum?](#wie-steht-es-um-die-bekämpfung-von-geldwäsche-in-deutschland-und-warum)
-141. [Wiederkehrende Pflichten zur Geldwäscheprävention – Update Ende 2025](#wiederkehrende-pflichten-zur-geldwäscheprävention--update-ende-2025)
-142. [Wiederkehrende Pflichten zur Geldwäscheprävention](#wiederkehrende-pflichten-zur-geldwäscheprävention)
-143. [Zwischen Innovation und Risiko - Kryptowährungen im Fokus des Geldwäschebeauftragten](#zwischen-innovation-und-risiko--kryptowährungen-im-fokus-des-geldwäschebeauftragten)
+47. [EU-Geldwäscheverordnung 2027: Was Kanzleien jetzt umstellen sollten](#eugeldwäscheverordnung-2027-was-kanzleien-jetzt-umstellen-sollten)
+48. [EU-Hochrisikoländer-Liste: Aktualisierung der Delegierten Verordnung (EU) 2025/1184](#euhochrisikoländerliste-aktualisierung-der-delegierten-verordnung-eu-20251184)
+49. [Compliance-Experte Frank Lässig über neue Geldwäsche-Pflichten, verstärkte Sorgfaltspflichten und warum die Praxis sich kaum ändert](#complianceexperte-frank-lässig-über-neue-geldwäschepflichten-verstärkte-sorgfaltspflichten-und-warum-die-praxis-sich-kaum-ändert)
+50. [EU Pläne für Anti-Geldwäsche Richtlinie - diese Punkte müssen in nationales Recht überführt werden](#eu-pläne-für-antigeldwäsche-richtlinie--diese-punkte-müssen-in-nationales-recht-überführt-werden)
+51. [Europaweite Prüfaktion 2025: Das Recht auf Löschung im Fokus der Datenschutzbehörden](#europaweite-prüfaktion-2025-das-recht-auf-löschung-im-fokus-der-datenschutzbehörden)
+52. [“Fakt ist, dass Geldwäscher auch Freie Berufe ausnutzen”](#fakt-ist-dass-geldwäscher-auch-freie-berufe-ausnutzen)
+53. [FATF Follow-Up Report: Aktueller Stand der Geldwäsche-Bekämpfung in Deutschland](#fatf-followup-report-aktueller-stand-der-geldwäschebekämpfung-in-deutschland)
+54. [FATF-Update Oktober 2025: Vier Länder von der Grauen Liste gestrichen](#fatfupdate-oktober-2025-vier-länder-von-der-grauen-liste-gestrichen)
+55. [Final Countdown: Maßnahmen, die Sie bis Ende 2024 aktualisieren sollten](#final-countdown-maßnahmen-die-sie-bis-ende-2024-aktualisieren-sollten)
+56. [FIU Jahresbericht 2023: Es gibt sie noch, die guten Nachrichten – oder?](#fiu-jahresbericht-2023-es-gibt-sie-noch-die-guten-nachrichten--oder)
+57. [Folgen des Ampel-Aus für die Geldwäschebekämpfung](#folgen-des-ampelaus-für-die-geldwäschebekämpfung)
+58. [Fußballklubs als Verpflichtete ab 2029: Was Profivereine jetzt für die Geldwäscheprävention vorbereiten sollten](#fußballklubs-als-verpflichtete-ab-2029-was-profivereine-jetzt-für-die-geldwäscheprävention-vorbereiten-sollten)
+59. [Galerie, Auktionshaus, Kunstspedition: Was die EU-AML-VO ab 2027 für den Kunstmarkt bedeutet](#galerie-auktionshaus-kunstspedition-was-die-euamlvo-ab-2027-für-den-kunstmarkt-bedeutet)
+60. [Geldwäsche in Deutschland: Ein Monat zeigt alle Facetten](#geldwäsche-in-deutschland-ein-monat-zeigt-alle-facetten)
+61. [Geldwäsche im deutschen Immobiliensektor bleibt Milliardenproblem](#geldwäsche-im-deutschen-immobiliensektor-bleibt-milliardenproblem)
+62. [Geldwäsche im Immobiliensektor: Was Makler jetzt wissen müssen](#geldwäsche-im-immobiliensektor-was-makler-jetzt-wissen-müssen)
+63. [Geldwäsche treibt Immobilienpreise: Neue Studie belegt ökonomische Folgen](#geldwäsche-treibt-immobilienpreise-neue-studie-belegt-ökonomische-folgen)
+64. [Geldwäsche über den CO2-Handel - Interview](#geldwäsche-über-den-co2handel--interview)
+65. [Geldwäschebeauftragte für KVGen: Zwischen steigenden Anforderungen und komplexen Strukturen](#geldwäschebeauftragte-für-kvgen-zwischen-steigenden-anforderungen-und-komplexen-strukturen)
+66. [Geldwäschebeauftragte: Schlüsselfiguren im Kampf gegen Finanzkriminalität](#geldwäschebeauftragte-schlüsselfiguren-im-kampf-gegen-finanzkriminalität)
+67. [Geldwäscheprävention: Eine strategische Notwendigkeit für moderne Unternehmen](#geldwäscheprävention-eine-strategische-notwendigkeit-für-moderne-unternehmen)
+68. [Geldwäsche am Beispiel des Menschenhandels](#geldwäsche-am-beispiel-des-menschenhandels)
+69. [Geldwäsche im Profisport - Interview mit Vorstandsvorsitzenden des Bundesverbands der Geldwäschebeauftragten e.V. Lena Olschewski](#geldwäsche-im-profisport--interview-mit-vorstandsvorsitzenden-des-bundesverbands-der-geldwäschebeauftragten-ev-lena-olschewski)
+70. [Geldwäsche in Deutschland – Zahlen, Daten, Fakten](#geldwäsche-in-deutschland--zahlen-daten-fakten)
+71. [Geldwäschebeauftragte leisten einen direkten Beitrag zur Sicherheit des Finanzsystems](#geldwäschebeauftragte-leisten-einen-direkten-beitrag-zur-sicherheit-des-finanzsystems)
+72. [Geldwäsche-Fakten aus der Polizeilichen Kriminalstatistik 2024](#geldwäschefakten-aus-der-polizeilichen-kriminalstatistik-2024)
+73. [Geldwäscheprävention 2026: Diese Fristen und Neuerungen müssen Verpflichtete kennen](#geldwäscheprävention-2026-diese-fristen-und-neuerungen-müssen-verpflichtete-kennen)
+74. [Geldwäscheprävention 2025: Ein halbes Jahr zwischen Fortschritten und Rückschlägen](#geldwäscheprävention-2025-ein-halbes-jahr-zwischen-fortschritten-und-rückschlägen)
+75. [Geschäftspartnerprüfungen: Der Schlüssel zu sicheren und vertrauenswürdigen Geschäftsbeziehungen](#geschäftspartnerprüfungen-der-schlüssel-zu-sicheren-und-vertrauenswürdigen-geschäftsbeziehungen)
+76. [GwG-Bußgelder in der Praxis: Was die BaFin wirklich ahndet – und was ab 2027 zählt](#gwgbußgelder-in-der-praxis-was-die-bafin-wirklich-ahndet--und-was-ab-2027-zählt)
+77. [GwGMeldV 2026: Was ändert sich bei Geldwäscheverdachtsmeldungen?](#gwgmeldv-2026-was-ändert-sich-bei-geldwäscheverdachtsmeldungen)
+78. [Übergangsregelungen: Hinweisgebersysteme  - Einrichtung interner Meldestellen](#übergangsregelungen-hinweisgebersysteme---einrichtung-interner-meldestellen)
+79. [Hinweisgebersysteme nach dem Hinweisgeberschutzgesetz (HinSchG)](#hinweisgebersysteme-nach-dem-hinweisgeberschutzgesetz-hinschg)
+80. [How to: goAML & Geldwäscheverdachtsmeldungen – Webinar-Zusammenfassung](#how-to-goaml--geldwäscheverdachtsmeldungen--webinarzusammenfassung)
+81. [How to: goAML & Geldwäsche Verdachtsmeldungen](#how-to-goaml--geldwäsche-verdachtsmeldungen)
+82. [Immobiliensektor: Behördenprüfungen und Kundensorgfaltspflichten richtig meistern](#immobiliensektor-behördenprüfungen-und-kundensorgfaltspflichten-richtig-meistern)
+83. [Die Realität ist deutlich komplexer als die Theorie. " - Interview mit einem Geldwäschebeauftragten](#die-realität-ist-deutlich-komplexer-als-die-theorie---interview-mit-einem-geldwäschebeauftragten)
+84. [Jahresrückblick und Jahresausblick - Geldwäscheprävention 2025-2027](#jahresrückblick-und-jahresausblick--geldwäscheprävention-20252027)
+85. [Kampf gegen Geldwäsche: „Goldesel“ auf dem Weg zum „Goldstandard“?](#kampf-gegen-geldwäsche-goldesel-auf-dem-weg-zum-goldstandard)
+86. [Kapitalverwaltungsgesellschaften: AML-Faktoren bei der Jahres-Abschlussprüfung](#kapitalverwaltungsgesellschaften-amlfaktoren-bei-der-jahresabschlussprüfung)
+87. [Know Your Customer" für freie Berufe: Herausforderungen und Lösungsansätze für Anwält:innen und Notar:innen](#know-your-customer-für-freie-berufe-herausforderungen-und-lösungsansätze-für-anwältinnen-und-notarinnen)
+88. [Know Your Customer (KYC) – oder was passieren kann, wenn man es nicht tut](#know-your-customer-kyc--oder-was-passieren-kann-wenn-man-es-nicht-tut)
+89. [Kryptowerte im Fokus: Die neuen BaFin-Auslegungshinweise zum Geldwäschegesetz](#kryptowerte-im-fokus-die-neuen-bafinauslegungshinweise-zum-geldwäschegesetz)
+90. [KYC bei Kapitalverwaltungsgesellschaften: Effektive Geldwäscheprävention im Fokus](#kyc-bei-kapitalverwaltungsgesellschaften-effektive-geldwäscheprävention-im-fokus)
+91. [KYC in der Praxis: Digitale Lösungen für effiziente Sorgfaltspflichten](#kyc-in-der-praxis-digitale-lösungen-für-effiziente-sorgfaltspflichten)
+92. [KYC leicht gemacht: Geldwäscheprävention ist digital](#kyc-leicht-gemacht-geldwäscheprävention-ist-digital)
+93. [KYC/AML API: Ergebnisberichte in Sekunden](#kycaml-api-ergebnisberichte-in-sekunden)
+94. [Machen Sie KI zu Ihrem Wettbewerbsvorteil – KI-Schulungen bei Kerberos](#machen-sie-ki-zu-ihrem-wettbewerbsvorteil--kischulungen-bei-kerberos)
+95. [“Ich habe das Gefühl, dass nicht ankommt, das reale Gefahren bestehen.” Interview mit mafianeindanke-Mitglied Eva Blöchl](#ich-habe-das-gefühl-dass-nicht-ankommt-das-reale-gefahren-bestehen-interview-mit-mafianeindankemitglied-eva-blöchl)
+96. [Make-or-Buy: Geldwäschebeauftragte für KVGen effizient organisieren](#makeorbuy-geldwäschebeauftragte-für-kvgen-effizient-organisieren)
+97. [Mehr Aufsicht, bessere Prävention? Was die BaFin-Offensive für Verpflichtete wirklich bedeutet](#mehr-aufsicht-bessere-prävention-was-die-bafinoffensive-für-verpflichtete-wirklich-bedeutet)
+98. [MiCA: Der neue EU-Regulierungsrahmen für Kryptowerte](#mica-der-neue-euregulierungsrahmen-für-kryptowerte)
+99. [MLRO-Strategien für deutsche Finanzdienstleister: CEO-Leitfaden 2025](#mlrostrategien-für-deutsche-finanzdienstleister-ceoleitfaden-2025)
+100. [Neue Auslegungs- und Anwendungshinweise der BaFin](#neue-auslegungs-und-anwendungshinweise-der-bafin)
+101. [Neue Auslegungs- und Anwendungshinweise zum Geldwäschegesetz für die Anwaltschaft](#neue-auslegungs-und-anwendungshinweise-zum-geldwäschegesetz-für-die-anwaltschaft)
+102. [Neue EU-Vorschriften zur Bekämpfung von Geldwäsche und Terrorismusfinanzierung: Ein erster Überblick](#neue-euvorschriften-zur-bekämpfung-von-geldwäsche-und-terrorismusfinanzierung-ein-erster-überblick)
+103. [Neue GwG-Meldeverordnung: Standardisierung von Verdachtsmeldungen ab Oktober 2025](#neue-gwgmeldeverordnung-standardisierung-von-verdachtsmeldungen-ab-oktober-2025)
+104. [Neues Datenschutzabkommen zwischen der EU und den USA beschlossen](#neues-datenschutzabkommen-zwischen-der-eu-und-den-usa-beschlossen)
+105. [Ongoing Monitoring nach Artikel 26 EU-AML VO: Was sich ab Juli 2027 ändert](#ongoing-monitoring-nach-artikel-26-euaml-vo-was-sich-ab-juli-2027-ändert)
+106. [Operation Chargeback: Wenn Compliance-Systeme versagen – Eine Analyse des AML-Experten Frank Lässig](#operation-chargeback-wenn-compliancesysteme-versagen--eine-analyse-des-amlexperten-frank-lässig)
+107. [Übergangsregelungen: Pflicht zur Registrierung im Meldeportal goAML](#übergangsregelungen-pflicht-zur-registrierung-im-meldeportal-goaml)
+108. [DEKRA-Zertifizierung zum KYC-Specialist: Anti-Geldwäsche-Experten teilen in neuer Weiterbildung Praxiswissen](#dekrazertifizierung-zum-kycspecialist-antigeldwäscheexperten-teilen-in-neuer-weiterbildung-praxiswissen)
+109. [Portrait: Daniel Thelesklaf, zukünftiger Leiter der Financial Intelligence Unit (FIU) in Deutschland](#portrait-daniel-thelesklaf-zukünftiger-leiter-der-financial-intelligence-unit-fiu-in-deutschland)
+110. [Präventionsmaßnahmen gegen Geldwäsche und Terrorismusfinanzierung](#präventionsmaßnahmen-gegen-geldwäsche-und-terrorismusfinanzierung)
+111. [Pressekonferenz: FIU stellt Jahresbericht 2024 vor](#pressekonferenz-fiu-stellt-jahresbericht-2024-vor)
+112. [Prüfungen im Nacken - darum lohnt sich Prävention](#prüfungen-im-nacken--darum-lohnt-sich-prävention)
+113. [Rückgang bei Geldwäsche-Verdachtsmeldungen: Was steckt dahinter?](#rückgang-bei-geldwäscheverdachtsmeldungen-was-steckt-dahinter)
+114. [Rechnungsversand per E-Mail: Neue Rechtslage nach OLG-Urteil](#rechnungsversand-per-email-neue-rechtslage-nach-olgurteil)
+115. [Registrieren lohnt sich! FIU-Jahresbericht 2025 - Learnings für Verpflichtete](#registrieren-lohnt-sich-fiujahresbericht-2025--learnings-für-verpflichtete)
+116. [Risikomanagement für Factoring & Leasing-Gesellschaften nach EU-AML-Verordnung](#risikomanagement-für-factoring--leasinggesellschaften-nach-euamlverordnung)
+117. [Die Standards kommen - aber rechtzeitig? RTS-Lücken auf dem Weg zum 10. Juli 2027](#die-standards-kommen--aber-rechtzeitig-rtslücken-auf-dem-weg-zum-10-juli-2027)
+118. [Russland-Sanktionen - 5 Tipps zur Risikoreduzierung](#russlandsanktionen--5-tipps-zur-risikoreduzierung)
+119. [Sanktionen und was sie bedeuten](#sanktionen-und-was-sie-bedeuten)
+120. [Sanktionscompliance ab Juli 2027: Was die EU-AML-VO neu von Ihnen verlangt](#sanktionscompliance-ab-juli-2027-was-die-euamlvo-neu-von-ihnen-verlangt)
+121. [Schleswig-Holstein: Bußgelder in der Geldwäscheaufsicht steigen um 115 Prozent](#schleswigholstein-bußgelder-in-der-geldwäscheaufsicht-steigen-um-115-prozent)
+122. [“Schutzmaßnahmen „auslaufen“ zu lassen, scheint mir gefährlich” - Interview mit dem Compliance Beauftragten der thyssenkrupp AG](#schutzmaßnahmen-auslaufen-zu-lassen-scheint-mir-gefährlich--interview-mit-dem-compliance-beauftragten-der-thyssenkrupp-ag)
+123. [Stärkung Ihrer Cyber-Abwehr](#stärkung-ihrer-cyberabwehr)
+124. [Terrorismusfinanzierung in der Risikoanalyse: Was Verpflichtete jetzt getrennt bewerten müssen](#terrorismusfinanzierung-in-der-risikoanalyse-was-verpflichtete-jetzt-getrennt-bewerten-müssen)
+125. [Transparenzregister, koordinierte Aufsicht, erweiterter Datenaustausch: Die systemischen GwG-Änderungen des ZFG-Referentenentwurfs](#transparenzregister-koordinierte-aufsicht-erweiterter-datenaustausch-die-systemischen-gwgänderungen-des-zfgreferentenentwurfs)
+126. [Transparenzregistereintragung: 1.415 Unternehmen am Pranger](#transparenzregistereintragung-1415-unternehmen-am-pranger)
+127. [Übergangsregelungen: Transparenzregister – Noch auf dem neuesten Stand?](#übergangsregelungen-transparenzregister--noch-auf-dem-neuesten-stand)
+128. [UBO-Identifizierung nach der EU-AML-Verordnung: Was sich ab Juli 2027 grundlegend ändert](#uboidentifizierung-nach-der-euamlverordnung-was-sich-ab-juli-2027-grundlegend-ändert)
+129. [„Unverzüglichkeit“ und „Vollständigkeit“ – Gemeinsame Orientierungshilfe der BaFin und FIU](#unverzüglichkeit-und-vollständigkeit--gemeinsame-orientierungshilfe-der-bafin-und-fiu)
+130. [US-Cloud-Anbieter im Fokus: Datenschutzrisiken und Handlungsempfehlungen](#uscloudanbieter-im-fokus-datenschutzrisiken-und-handlungsempfehlungen)
+131. [Verdachtsmeldungen nach § 43 GwG: Was die BaFin/FIU-Orientierungshilfe konkret bedeutet](#verdachtsmeldungen-nach--43-gwg-was-die-bafinfiuorientierungshilfe-konkret-bedeutet)
+132. [Vermögensentzug ohne Strafurteil: Was §§ 52a–52n ZFG-Referentenentwurf für Verpflichtete bedeuten](#vermögensentzug-ohne-strafurteil-was--52a52n-zfgreferentenentwurf-für-verpflichtete-bedeuten)
+133. [Verschärfte Meldepflichten bei Immobilientransaktionen - die wichtigsten Änderungen der GwGMeldV-Immobilien 2025](#verschärfte-meldepflichten-bei-immobilientransaktionen--die-wichtigsten-änderungen-der-gwgmeldvimmobilien-2025)
+134. [Verstöße gegen das Geldwäschegesetz - Bußgelder und Prüfungen von 2017-2022](#verstöße-gegen-das-geldwäschegesetz--bußgelder-und-prüfungen-von-20172022)
+135. [Vom Krisenherd zum Vertrauensturbo: Umgang mit Datenschutzbeschwerden](#vom-krisenherd-zum-vertrauensturbo-umgang-mit-datenschutzbeschwerden)
+136. [Von Sommerloch keine Spur - der Kampf gegen Finanzkriminalität in den Medien](#von-sommerloch-keine-spur--der-kampf-gegen-finanzkriminalität-in-den-medien)
+137. [Vonovia – Korruptionsskandal mit Vorbildcharakter](#vonovia--korruptionsskandal-mit-vorbildcharakter)
+138. [Warum sind Risikoanalysen nach dem Geldwäschegesetz (GwG) so wichtig?](#warum-sind-risikoanalysen-nach-dem-geldwäschegesetz-gwg-so-wichtig)
+139. [Weihnachtsgrüße von Christian Tsambikakis - Geschäftsführer](#weihnachtsgrüße-von-christian-tsambikakis--geschäftsführer)
+140. [Wer sich bei der FIU registrieren muss - und warum die Aufsicht bald mitzählen kann](#wer-sich-bei-der-fiu-registrieren-muss--und-warum-die-aufsicht-bald-mitzählen-kann)
+141. [Wie steht es um die Bekämpfung von Geldwäsche in Deutschland? Und warum?](#wie-steht-es-um-die-bekämpfung-von-geldwäsche-in-deutschland-und-warum)
+142. [Wiederkehrende Pflichten zur Geldwäscheprävention – Update Ende 2025](#wiederkehrende-pflichten-zur-geldwäscheprävention--update-ende-2025)
+143. [Wiederkehrende Pflichten zur Geldwäscheprävention](#wiederkehrende-pflichten-zur-geldwäscheprävention)
+144. [Zwischen Innovation und Risiko - Kryptowährungen im Fokus des Geldwäschebeauftragten](#zwischen-innovation-und-risiko--kryptowährungen-im-fokus-des-geldwäschebeauftragten)
 
 ---
 
@@ -332,17 +333,17 @@ Die drei Tage können nur abgekürzt werden, wenn eine Staatsanwaltschaft oder d
 
 **Autor:** Unknown  
 **Datum:**   
-**Wortanzahl:** 1,702  
+**Wortanzahl:** 1,712  
 
 ---
 
 # Blog Content Archive
 
-Automatisch gecrawlt am: 2026-10-14 07:27:05
+Automatisch gecrawlt am: 2026-10-15 07:17:54
 
 **Statistik:**
-- Gesamt Artikel: 139
-- Erfolgreich gecrawlt: 139
+- Gesamt Artikel: 140
+- Erfolgreich gecrawlt: 140
 - Fehlgeschlagen: 0
 
 **Quelle:** https://www.kerberos-compliance.com/wissen/blog
@@ -469,6 +470,7 @@ Automatisch gecrawlt am: 2026-10-14 07:27:05
 - [KYC in der Praxis: Digitale Lösungen für effiziente Sorgfaltspflichten](kyc-in-der-praxis-digitale-loesungen-fuer-effiziente-sorgfaltspflichten.md) -  ()
 - [EU-AML-Verordnung ab Juli 2027: Was Verpflichtete jetzt wissen müssen](eu-aml-verordnung-ab-juli-2027-was-verpflichtete-jetzt-wissen-muessen.md) -  ()
 - [Entwürfe für EU-Anti-Geldwäsche-Verordnung und -Richtlinie veröffentlicht](entwrfe-fr-eu-anti-geldwsche-verordnung-und-richtlinie-verffentlicht.md) -  ()
+- [EU-Geldwäscheverordnung 2027: Was Kanzleien jetzt umstellen sollten](eu-geldwaescheverordnung-2027-was-kanzleien-jetzt-umstellen-sollten.md) -  ()
 - [Compliance-Experte Frank Lässig über neue Geldwäsche-Pflichten, verstärkte Sorgfaltspflichten und warum die Praxis sich kaum ändert](eu-listet-russland-als-hochrisikoland.md) -  ()
 - [EU-Hochrisikoländer-Liste: Aktualisierung der Delegierten Verordnung (EU) 2025/1184](eu-hochrisikolaender-liste-aktualisierung-der-delegierten-verordnung-eu-20251184.md) -  ()
 - [Russland-Sanktionen - 5 Tipps zur Risikoreduzierung](russland-sanktionen.md) -  ()
@@ -3965,7 +3967,94 @@ Zusätzlich behält die EU sich und ihren Mitgliedsstaaten vor, weitere EU- oder
 
 ---
 
-## 47. EU-Hochrisikoländer-Liste: Aktualisierung der Delegierten Verordnung (EU) 2025/1184
+## 47. EU-Geldwäscheverordnung 2027: Was Kanzleien jetzt umstellen sollten
+
+**Autor:**   
+**Datum:**   
+**Wortanzahl:** 1,147  
+**Original:** https://www.kerberos-compliance.com/wissen/blog/eu-geldwaescheverordnung-2027-was-kanzleien-jetzt-umstellen-sollten  
+
+---
+
+# EU-Geldwäscheverordnung 2027: Was Kanzleien jetzt umstellen sollten
+
+**Autor:**   
+**Datum:**   
+**URL:** https://www.kerberos-compliance.com/wissen/blog/eu-geldwaescheverordnung-2027-was-kanzleien-jetzt-umstellen-sollten
+
+---
+
+Datum: 2026-10-14
+
+Ab dem 10. Juli 2027 gilt die EU-Geldwäscheverordnung (AMLR) unmittelbar in allen Mitgliedstaaten ( [Art. 90 AMLR](https://eur-lex.europa.eu/legal-content/DE/TXT/HTML/?uri=OJ:L_202401624#art_90) ). Für Kanzleien mit Kataloggeschäften bleibt das Grundgerüst der Geldwäscheprävention bestehen. Bei der Mandantenprüfung, den wirtschaftlichen Eigentümern und dem Geldwäschebeauftragten ändert sich aber einiges. Im gemeinsamen Webinar von Soldan und Kerberos haben Lena Pütz, Head of Projects und selbst externe Geldwäschebeauftragte, und Jan Wagner, Senior Associate Direct & Partner Sales, die wichtigsten Punkte eingeordnet.
+
+## Wen verpflichtet die AMLR in der Kanzlei?
+
+Verpflichtet sind Kanzleien, die Kataloggeschäfte betreuen. Der Katalog der erfassten Tätigkeiten bleibt dabei weitgehend gleich ( [Art. 3 Nr. 3 lit. b AMLR](https://eur-lex.europa.eu/legal-content/DE/TXT/HTML/?uri=OJ:L_202401624#art_3) ).
+
+Neu ist, wer die Pflichten trägt. Arbeiten Berufsträger als Mitarbeiter einer juristischen Person, gelten die Anforderungen für die juristische Person und nicht für sie persönlich ( [Art. 15 AMLR](https://eur-lex.europa.eu/legal-content/DE/TXT/HTML/?uri=OJ:L_202401624#art_15) ). In der Praxis heißt das: Die Kanzlei erstellt eine gemeinsame Risikoanalyse, nicht mehr jede Anwältin und jeder Anwalt eine eigene. Zuständigkeiten und Abläufe sollten Sie darauf jetzt ausrichten.
+
+## Welche Mandantendaten müssen Sie künftig erheben und aktualisieren?
+
+Etwas mehr als heute, und das in festen Abständen. Bei natürlichen Personen tritt der gewöhnliche Aufenthaltsort an die Stelle der Wohnanschrift, hinzu kommt gegebenenfalls die nationale Identifikationsnummer ( [Art. 22 Abs. 1 lit. a AMLR](https://eur-lex.europa.eu/legal-content/DE/TXT/HTML/?uri=OJ:L_202401624#022.001) ). Bei juristischen Personen erfassen Sie zusätzlich das Land der Gründung sowie die Namen nomineller Anteilseigner oder Direktoren samt Angabe dieses Status ( [Art. 22 Abs. 1 lit. b AMLR](https://eur-lex.europa.eu/legal-content/DE/TXT/HTML/?uri=OJ:L_202401624#022.001) ). So sollen Personen sichtbar werden, die nur vorgeschoben auftreten.
+
+Einmal erhoben heißt außerdem nicht für immer gültig. Bei erhöhtem Risiko müssen Sie die Daten spätestens nach einem Jahr aktualisieren, bei allen anderen Mandanten spätestens nach fünf Jahren ( [Art. 26 Abs. 2 AMLR](https://eur-lex.europa.eu/legal-content/DE/TXT/HTML/?uri=OJ:L_202401624#026.002) ). Längere Intervalle für Mandate mit geringem Risiko gibt es nicht mehr.
+
+## Wer gilt künftig als wirtschaftlicher Eigentümer?
+
+Jede natürliche Person, die direkt oder indirekt 25 % oder mehr der Anteile, Stimmrechte oder sonstigen Eigentumsbeteiligungen hält ( [Art. 52 Abs. 1 AMLR](https://eur-lex.europa.eu/legal-content/DE/TXT/HTML/?uri=OJ:L_202401624#052.001) ). Bisher musste die Beteiligung mehr als 25 % betragen. Halten vier Gesellschafter je 25 %, gibt es künftig also vier wirtschaftliche Eigentümer. Melden die Mitgliedstaaten Gesellschaftsarten mit erhöhtem Risiko, kann die EU-Kommission für diese zudem einen niedrigeren Schwellenwert festlegen, grundsätzlich höchstens 15 % ( [Art. 52 Abs. 2 AMLR](https://eur-lex.europa.eu/legal-content/DE/TXT/HTML/?uri=OJ:L_202401624#052.002) ).
+
+Indirekte Beteiligungen werden durchgerechnet: Entlang einer Kette wird multipliziert, parallele Beteiligungsstränge werden addiert ( [Art. 52 Abs. 1 AMLR](https://eur-lex.europa.eu/legal-content/DE/TXT/HTML/?uri=OJ:L_202401624#052.001) ).
+
+Auch die Datentiefe steigt. Für wirtschaftliche Eigentümer erfassen Sie unter anderem Wohnanschrift, Geburtsort und -datum, Staatsangehörigkeiten und die Nummer eines Ausweisdokuments ( [Art. 22 Abs. 2 AMLR](https://eur-lex.europa.eu/legal-content/DE/TXT/HTML/?uri=OJ:L_202401624#022.002) iVm [Art. 62 Abs. 1 AMLR](https://eur-lex.europa.eu/legal-content/DE/TXT/HTML/?uri=OJ:L_202401624#062.001) ). Ein Auszug aus dem Transparenzregister genügt dafür nicht. Sie fragen das Register zwar ab, müssen die Beteiligungskette aber selbst nachvollziehen und die Angaben mit weiteren zuverlässigen Quellen überprüfen ( [Art. 22 Abs. 7 AMLR](https://eur-lex.europa.eu/legal-content/DE/TXT/HTML/?uri=OJ:L_202401624#022.007) ).
+
+## Welche Prüfungen kommen bei PEPs und Sanktionen hinzu?
+
+Der Kreis der politisch exponierten Personen (PEPs) wird größer, und der Sanktionslistenabgleich wird fester Teil jeder Mandantenprüfung. Als PEPs nennt die Verordnung künftig ausdrücklich auch Leiter regionaler und lokaler Behörden in Gebietskörperschaften mit mindestens 50.000 Einwohnern. Bei Familienangehörigen zählen neben Ehe und eingetragener Partnerschaft auch Partner in einer „ähnlichen Vereinbarung“ ( [Art. 2 Abs. 1 Nr. 34 und 35 AMLR](https://eur-lex.europa.eu/legal-content/DE/TXT/HTML/?uri=OJ:L_202401624#002.001) ). Die Landrätin oder den Oberbürgermeister einer mittelgroßen Stadt erkennt kaum jemand am Namen. Deshalb lohnt sich hier der Abgleich mit einer Datenbank.
+
+Neben Geldwäsche und Terrorismusfinanzierung tritt das Sanktionsrecht als dritte Säule. Sie berücksichtigen das Risiko, dass Sanktionen umgangen werden, in Ihrer Risikoanalyse ( [Art. 10 Abs. 1 AMLR](https://eur-lex.europa.eu/legal-content/DE/TXT/HTML/?uri=OJ:L_202401624#010.001) ). Und bei jeder Mandantenprüfung klären Sie, ob Mandanten oder wirtschaftliche Eigentümer gezielten finanziellen Sanktionen unterliegen ( [Art. 20 Abs. 1 lit. d AMLR](https://eur-lex.europa.eu/legal-content/DE/TXT/HTML/?uri=OJ:L_202401624#020.001) ) – etwa wenn eine gelistete Person über eine zwischengeschaltete Gesellschaft eine Immobilie erwerben will.
+
+## Braucht jede Kanzlei einen Geldwäschebeauftragten?
+
+Ja, sofern sie verpflichtet ist. Heute müssen Kanzleien einen Geldwäschebeauftragten nur bestellen, wenn die Aufsicht das anordnet ( [§ 7 Abs. 3 GwG](https://www.gesetze-im-internet.de/gwg_2017/__7.html) ). In der Kammerpraxis betrifft das bislang meist erst größere Kanzleien ab 30 Berufsträgern. Ab Juli 2027 heißt es dagegen schlicht: „Verpflichtete haben über einen Geldwäschebeauftragten zu verfügen“ ( [Art. 11 Abs. 2 AMLR](https://eur-lex.europa.eu/legal-content/DE/TXT/HTML/?uri=OJ:L_202401624#011.002) ). Er setzt die Maßnahmen im Alltag um, ist Kontaktstelle für die Behörden und meldet Verdachtsfälle.
+
+Daneben benennen Sie ein Mitglied der Leitung als Compliance-Manager. Diese Person sorgt dafür, dass die Verordnung eingehalten wird und ausreichend Ressourcen bereitstehen ( [Art. 11 Abs. 1 AMLR](https://eur-lex.europa.eu/legal-content/DE/TXT/HTML/?uri=OJ:L_202401624#011.001) ). Rechtfertigen Art, Risiken und Größe der Kanzlei es, können beide Funktionen bei derselben Person liegen ( [Art. 11 Abs. 7 AMLR](https://eur-lex.europa.eu/legal-content/DE/TXT/HTML/?uri=OJ:L_202401624#011.007) ). Eine Stellvertretung schreibt die Verordnung nicht mehr vor.
+
+## Was sollten Sie jetzt vorbereiten?
+
+Am meisten Zeit kosten Datenfelder, Bestandsmandate und die Besetzung der Rollen. Diese Punkte helfen beim Start:
+
+- Risikoanalyse auf Kanzleiebene aufsetzen und das Sanktionsrisiko aufnehmen.
+- Mandantenformulare und Systeme um die neuen Datenfelder ergänzen.
+- Wiedervorlagen einrichten: jährlich bei erhöhtem Risiko, sonst spätestens nach fünf Jahren.
+- PEP-, Sanktions- und Hochrisikoland-Prüfung über aktuelle Datenbanken organisieren.
+- Geldwäschebeauftragten benennen und eine Person aus der Kanzleileitung als Compliance-Manager bestimmen. Externe Unterstützung ist möglich, auch durch einen externen Geldwäschebeauftragten. Zentrale Entscheidungen wie die Billigung der Risikobewertung und die Mandatsannahme dabei bei der Kanzlei ( [Art. 18 Abs. 3 AMLR](https://eur-lex.europa.eu/legal-content/DE/TXT/HTML/?uri=OJ:L_202401624#018.003) ).
+
+## Was heißt das für Ihre Kanzlei?
+
+Die AMLR ändert weniger das Ob als das Wie der Geldwäscheprävention – vor allem die Mandantenprüfung wird umfangreicher. Viele Details regeln technische Regulierungsstandards (RTS). Die EU-Geldwäschebehörde AMLA entwirft sie, die EU-Kommission erlässt sie, und einige sind noch in Arbeit. Wer Prozesse und Daten jetzt umstellt, geht mit Vorlauf in den Juli 2027.
+
+Sie müssen jedes Mandat mit Kataloggeschäft prüfen und dokumentieren. Der AML desk von Kerberos Compliance bietet hierfür die passende Unterstützung. Der Aufbau und Ablauf basiert auf der Erfahrung und täglichen Arbeit unserer eigenen Geldwäschebeauftragten (MLRO) und führt Sie Schritt für Schritt durch diese Prüfung. Sie laden die Ausweiskopie hoch, der AML desk liest die Daten aus und gleicht Mandanten mit PEP-, Sanktions- und Hochrisikoländerlisten ab. Jede Prüfung wird einzeln abgerechnet. Sie erhalten eine Einordnung mit Handlungsempfehlung, die Entscheidung über das Mandat treffen Sie. Wird eine Beteiligungsstruktur unübersichtlich, etwa bei mehreren zwischengeschalteten Holdings, prüfen unsere Experten sie auf Wunsch nach Aufwand – im selben System, ohne Anbieterwechsel.
+
+Sie entscheiden, wie viel Sie selbst machen: In AML-as-a-Service Plus begleiten unsere Experten Sie bei der Risikoanalyse und bei Auslegungsfragen, mit einem jährlichen Stundenkontingent. Im MLRO-as-a-Service stellen wir Ihnen einen unserer Geldwäschebeauftragten, der über den AML desk für Sie und mit Ihnen arbeitet.
+
+### Quellen:
+
+- Verordnung (EU) 2024/1624 (AMLR), Art. 2, 3, 10, 11, 15, 18, 20, 22, 26, 52, 62, 90 – [https://eur-lex.europa.eu/legal-content/DE/TXT/HTML/?uri=OJ:L_202401624](https://eur-lex.europa.eu/legal-content/DE/TXT/HTML/?uri=OJ:L_202401624)
+- Geldwäschegesetz (GwG), § 7 – [https://www.gesetze-im-internet.de/gwg_2017/__7.html](https://www.gesetze-im-internet.de/gwg_2017/__7.html)
+- AMLA – Regulatory Technical Standards – [https://www.amla.europa.eu/publications-and-data/regulatory-technical-standards](https://www.amla.europa.eu/publications-and-data/regulatory-technical-standards)
+
+## Kontakt aufnehmen
+
+Jan Wagner Associate Direct & Partner Sales [Jan.Wagner@kerberos-cms.com](mailto:Jan.Wagner@kerberos-cms.com) [+49 221 65078953](tel:+4922165078953)
+
+[Termin buchen](https://qrco.de/bfsMCR)
+
+Lena Pütz Head of Projects (Compliance) [lena.puetz@kerberos-cms.com](mailto:lena.puetz@kerberos-cms.com) +49 221 65088968
+
+---
+
+## 48. EU-Hochrisikoländer-Liste: Aktualisierung der Delegierten Verordnung (EU) 2025/1184
 
 **Autor:**   
 **Datum:**   
@@ -4044,7 +4133,7 @@ Mischa Wolf Manager Compliance Analytics
 
 ---
 
-## 48. Compliance-Experte Frank Lässig über neue Geldwäsche-Pflichten, verstärkte Sorgfaltspflichten und warum die Praxis sich kaum ändert
+## 49. Compliance-Experte Frank Lässig über neue Geldwäsche-Pflichten, verstärkte Sorgfaltspflichten und warum die Praxis sich kaum ändert
 
 **Autor:**   
 **Datum:**   
@@ -4155,7 +4244,7 @@ Frank Lässig Senior AML Compliance Manager
 
 ---
 
-## 49. EU Pläne für Anti-Geldwäsche Richtlinie - diese Punkte müssen in nationales Recht überführt werden
+## 50. EU Pläne für Anti-Geldwäsche Richtlinie - diese Punkte müssen in nationales Recht überführt werden
 
 **Autor:**   
 **Datum:**   
@@ -4247,7 +4336,7 @@ Die Staaten sollen weiterhin dazu angehalten werden, entsprechende Analysen durc
 
 ---
 
-## 50. Europaweite Prüfaktion 2025: Das Recht auf Löschung im Fokus der Datenschutzbehörden
+## 51. Europaweite Prüfaktion 2025: Das Recht auf Löschung im Fokus der Datenschutzbehörden
 
 **Autor:**   
 **Datum:**   
@@ -4355,7 +4444,7 @@ Lena Pütz Head of Projects (Compliance) [lena.puetz@kerberos-cms.com](mailto:le
 
 ---
 
-## 51. “Fakt ist, dass Geldwäscher auch Freie Berufe ausnutzen”
+## 52. “Fakt ist, dass Geldwäscher auch Freie Berufe ausnutzen”
 
 **Autor:**   
 **Datum:**   
@@ -4436,7 +4525,7 @@ Wie man sich vorbereiten kann, liegt auf der Hand: Nicht erst aktiv werden, wenn
 
 ---
 
-## 52. FATF Follow-Up Report: Aktueller Stand der Geldwäsche-Bekämpfung in Deutschland
+## 53. FATF Follow-Up Report: Aktueller Stand der Geldwäsche-Bekämpfung in Deutschland
 
 **Autor:**   
 **Datum:**   
@@ -4481,7 +4570,7 @@ Unter den Versäumnissen Deutschlands in der „technischen Compliance“, leide
 
 ---
 
-## 53. FATF-Update Oktober 2025: Vier Länder von der Grauen Liste gestrichen
+## 54. FATF-Update Oktober 2025: Vier Länder von der Grauen Liste gestrichen
 
 **Autor:**   
 **Datum:**   
@@ -4530,7 +4619,7 @@ Für Kerberos-Kunden: Die aktualisierten FATF- und EU-Listen werden automatisch 
 
 ---
 
-## 54. Final Countdown: Maßnahmen, die Sie bis Ende 2024 aktualisieren sollten
+## 55. Final Countdown: Maßnahmen, die Sie bis Ende 2024 aktualisieren sollten
 
 **Autor:**   
 **Datum:**   
@@ -4657,7 +4746,7 @@ Otis Benning Senior Associate Marketing
 
 ---
 
-## 55. FIU Jahresbericht 2023: Es gibt sie noch, die guten Nachrichten – oder?
+## 56. FIU Jahresbericht 2023: Es gibt sie noch, die guten Nachrichten – oder?
 
 **Autor:**   
 **Datum:**   
@@ -4746,7 +4835,7 @@ Die AMLA startete im Februar 2025 mit Sitz in Frankfurt. Ab 2027 übernimmt sie 
 
 ---
 
-## 56. Folgen des Ampel-Aus für die Geldwäschebekämpfung
+## 57. Folgen des Ampel-Aus für die Geldwäschebekämpfung
 
 **Autor:**   
 **Datum:**   
@@ -4825,7 +4914,7 @@ Frank Lässig Senior AML Compliance Manager
 
 ---
 
-## 57. Fußballklubs als Verpflichtete ab 2029: Was Profivereine jetzt für die Geldwäscheprävention vorbereiten sollten
+## 58. Fußballklubs als Verpflichtete ab 2029: Was Profivereine jetzt für die Geldwäscheprävention vorbereiten sollten
 
 **Autor:**   
 **Datum:**   
@@ -4880,7 +4969,7 @@ Lena Pütz Head of Projects (Compliance) [lena.puetz@kerberos-cms.com](mailto:le
 
 ---
 
-## 58. Galerie, Auktionshaus, Kunstspedition: Was die EU-AML-VO ab 2027 für den Kunstmarkt bedeutet
+## 59. Galerie, Auktionshaus, Kunstspedition: Was die EU-AML-VO ab 2027 für den Kunstmarkt bedeutet
 
 **Autor:**   
 **Datum:**   
@@ -4995,7 +5084,7 @@ Lena Pütz Head of Projects (Compliance) [lena.puetz@kerberos-cms.com](mailto:le
 
 ---
 
-## 59. Geldwäsche in Deutschland: Ein Monat zeigt alle Facetten
+## 60. Geldwäsche in Deutschland: Ein Monat zeigt alle Facetten
 
 **Autor:**   
 **Datum:**   
@@ -5056,7 +5145,7 @@ Otis Benning Senior Associate Marketing
 
 ---
 
-## 60. Geldwäsche im deutschen Immobiliensektor bleibt Milliardenproblem
+## 61. Geldwäsche im deutschen Immobiliensektor bleibt Milliardenproblem
 
 **Autor:**   
 **Datum:**   
@@ -5147,7 +5236,7 @@ Jan Wagner Associate Direct & Partner Sales [Jan.Wagner@kerberos-cms.com](mailto
 
 ---
 
-## 61. Geldwäsche im Immobiliensektor: Was Makler jetzt wissen müssen
+## 62. Geldwäsche im Immobiliensektor: Was Makler jetzt wissen müssen
 
 **Autor:**   
 **Datum:**   
@@ -5251,7 +5340,7 @@ Frank Lässig Senior AML Compliance Manager
 
 ---
 
-## 62. Geldwäsche treibt Immobilienpreise: Neue Studie belegt ökonomische Folgen
+## 63. Geldwäsche treibt Immobilienpreise: Neue Studie belegt ökonomische Folgen
 
 **Autor:**   
 **Datum:**   
@@ -5302,7 +5391,7 @@ Otis Benning Senior Associate Marketing
 
 ---
 
-## 63. Geldwäsche über den CO2-Handel - Interview
+## 64. Geldwäsche über den CO2-Handel - Interview
 
 **Autor:**   
 **Datum:**   
@@ -5367,7 +5456,7 @@ Otis Benning Senior Associate Marketing
 
 ---
 
-## 64. Geldwäschebeauftragte für KVGen: Zwischen steigenden Anforderungen und komplexen Strukturen
+## 65. Geldwäschebeauftragte für KVGen: Zwischen steigenden Anforderungen und komplexen Strukturen
 
 **Autor:**   
 **Datum:**   
@@ -5446,7 +5535,7 @@ Laura Schäfer Managerin AML Compliance
 
 ---
 
-## 65. Geldwäschebeauftragte: Schlüsselfiguren im Kampf gegen Finanzkriminalität
+## 66. Geldwäschebeauftragte: Schlüsselfiguren im Kampf gegen Finanzkriminalität
 
 **Autor:**   
 **Datum:**   
@@ -5491,7 +5580,7 @@ Otis Benning Senior Associate Marketing
 
 ---
 
-## 66. Geldwäscheprävention: Eine strategische Notwendigkeit für moderne Unternehmen
+## 67. Geldwäscheprävention: Eine strategische Notwendigkeit für moderne Unternehmen
 
 **Autor:**   
 **Datum:**   
@@ -5542,7 +5631,7 @@ Otis Benning Senior Associate Marketing
 
 ---
 
-## 67. Geldwäsche am Beispiel des Menschenhandels
+## 68. Geldwäsche am Beispiel des Menschenhandels
 
 **Autor:**   
 **Datum:**   
@@ -5613,7 +5702,7 @@ Mit der Integration der gewaschenen Gelder in den legalen Wirtschaftskreislauf, 
 
 ---
 
-## 68. Geldwäsche im Profisport - Interview mit Vorstandsvorsitzenden des Bundesverbands der Geldwäschebeauftragten e.V. Lena Olschewski
+## 69. Geldwäsche im Profisport - Interview mit Vorstandsvorsitzenden des Bundesverbands der Geldwäschebeauftragten e.V. Lena Olschewski
 
 **Autor:**   
 **Datum:**   
@@ -5660,7 +5749,7 @@ Für Geldwäschebeauftragte und Verpflichtete ist aus meiner Sicht vor allem ein
 
 ---
 
-## 69. Geldwäsche in Deutschland – Zahlen, Daten, Fakten
+## 70. Geldwäsche in Deutschland – Zahlen, Daten, Fakten
 
 **Autor:**   
 **Datum:**   
@@ -5727,7 +5816,7 @@ Im neu aufgesetzten Geldwäsche-Report 2021 gehen wir auf viele weitere interess
 
 ---
 
-## 70. Geldwäschebeauftragte leisten einen direkten Beitrag zur Sicherheit des Finanzsystems
+## 71. Geldwäschebeauftragte leisten einen direkten Beitrag zur Sicherheit des Finanzsystems
 
 **Autor:**   
 **Datum:**   
@@ -5776,7 +5865,7 @@ Ich sehe eine verstärkte Zusammenarbeit mit staatlichen Behörden, anderen Beru
 
 ---
 
-## 71. Geldwäsche-Fakten aus der Polizeilichen Kriminalstatistik 2024
+## 72. Geldwäsche-Fakten aus der Polizeilichen Kriminalstatistik 2024
 
 **Autor:**   
 **Datum:**   
@@ -5831,7 +5920,7 @@ Wie das ZDF im Januar berichtete, dauert die durchschnittliche Endbearbeitung vo
 
 ---
 
-## 72. Geldwäscheprävention 2026: Diese Fristen und Neuerungen müssen Verpflichtete kennen
+## 73. Geldwäscheprävention 2026: Diese Fristen und Neuerungen müssen Verpflichtete kennen
 
 **Autor:**   
 **Datum:**   
@@ -5966,7 +6055,7 @@ Otis Benning Senior Associate Marketing
 
 ---
 
-## 73. Geldwäscheprävention 2025: Ein halbes Jahr zwischen Fortschritten und Rückschlägen
+## 74. Geldwäscheprävention 2025: Ein halbes Jahr zwischen Fortschritten und Rückschlägen
 
 **Autor:**   
 **Datum:**   
@@ -6167,7 +6256,7 @@ Otis Benning Senior Associate Marketing
 
 ---
 
-## 74. Geschäftspartnerprüfungen: Der Schlüssel zu sicheren und vertrauenswürdigen Geschäftsbeziehungen
+## 75. Geschäftspartnerprüfungen: Der Schlüssel zu sicheren und vertrauenswürdigen Geschäftsbeziehungen
 
 **Autor:**   
 **Datum:**   
@@ -6229,7 +6318,7 @@ Otis Benning Senior Associate Marketing
 
 ---
 
-## 75. GwG-Bußgelder in der Praxis: Was die BaFin wirklich ahndet – und was ab 2027 zählt
+## 76. GwG-Bußgelder in der Praxis: Was die BaFin wirklich ahndet – und was ab 2027 zählt
 
 **Autor:**   
 **Datum:**   
@@ -6323,7 +6412,7 @@ Frank Lässig Senior AML Compliance Manager
 
 ---
 
-## 76. GwGMeldV 2026: Was ändert sich bei Geldwäscheverdachtsmeldungen?
+## 77. GwGMeldV 2026: Was ändert sich bei Geldwäscheverdachtsmeldungen?
 
 **Autor:**   
 **Datum:**   
@@ -6401,7 +6490,7 @@ Otis Benning Senior Associate Marketing
 
 ---
 
-## 77. Übergangsregelungen: Hinweisgebersysteme  - Einrichtung interner Meldestellen
+## 78. Übergangsregelungen: Hinweisgebersysteme  - Einrichtung interner Meldestellen
 
 **Autor:**   
 **Datum:**   
@@ -6432,7 +6521,7 @@ Mehr zum Thema Hinweisgebersystem [in unseren Webinaren](https://www.kerberos-co
 
 ---
 
-## 78. Hinweisgebersysteme nach dem Hinweisgeberschutzgesetz (HinSchG)
+## 79. Hinweisgebersysteme nach dem Hinweisgeberschutzgesetz (HinSchG)
 
 **Autor:**   
 **Datum:**   
@@ -6515,7 +6604,7 @@ Die Einrichtung interner Meldestellen können Sie auslagern. Hierfür steht Ihne
 
 ---
 
-## 79. How to: goAML & Geldwäscheverdachtsmeldungen – Webinar-Zusammenfassung
+## 80. How to: goAML & Geldwäscheverdachtsmeldungen – Webinar-Zusammenfassung
 
 **Autor:**   
 **Datum:**   
@@ -6687,7 +6776,7 @@ Lena Pütz Head of Projects (Compliance) [lena.puetz@kerberos-cms.com](mailto:le
 
 ---
 
-## 80. How to: goAML & Geldwäsche Verdachtsmeldungen
+## 81. How to: goAML & Geldwäsche Verdachtsmeldungen
 
 **Autor:**   
 **Datum:**   
@@ -6771,7 +6860,7 @@ Dann melde Sie sich gerne bei uns. [Unsere Expert:innen helfen Ihnen gerne weite
 
 ---
 
-## 81. Immobiliensektor: Behördenprüfungen und Kundensorgfaltspflichten richtig meistern
+## 82. Immobiliensektor: Behördenprüfungen und Kundensorgfaltspflichten richtig meistern
 
 **Autor:**   
 **Datum:**   
@@ -6886,7 +6975,7 @@ Frank Lässig Senior AML Compliance Manager
 
 ---
 
-## 82. Die Realität ist deutlich komplexer als die Theorie. " - Interview mit einem Geldwäschebeauftragten
+## 83. Die Realität ist deutlich komplexer als die Theorie. " - Interview mit einem Geldwäschebeauftragten
 
 **Autor:**   
 **Datum:**   
@@ -6948,7 +7037,7 @@ Otis Benning Senior Associate Marketing
 
 ---
 
-## 83. Jahresrückblick und Jahresausblick - Geldwäscheprävention 2025-2027
+## 84. Jahresrückblick und Jahresausblick - Geldwäscheprävention 2025-2027
 
 **Autor:**   
 **Datum:**   
@@ -7052,7 +7141,7 @@ Frank Lässig Senior AML Compliance Manager
 
 ---
 
-## 84. Kampf gegen Geldwäsche: „Goldesel“ auf dem Weg zum „Goldstandard“?
+## 85. Kampf gegen Geldwäsche: „Goldesel“ auf dem Weg zum „Goldstandard“?
 
 **Autor:**   
 **Datum:**   
@@ -7109,7 +7198,7 @@ Frank Lässig Senior AML Compliance Manager
 
 ---
 
-## 85. Kapitalverwaltungsgesellschaften: AML-Faktoren bei der Jahres-Abschlussprüfung
+## 86. Kapitalverwaltungsgesellschaften: AML-Faktoren bei der Jahres-Abschlussprüfung
 
 **Autor:**   
 **Datum:**   
@@ -7187,7 +7276,7 @@ Mögliche externe Reaktionen:
 
 ---
 
-## 86. Know Your Customer" für freie Berufe: Herausforderungen und Lösungsansätze für Anwält:innen und Notar:innen
+## 87. Know Your Customer" für freie Berufe: Herausforderungen und Lösungsansätze für Anwält:innen und Notar:innen
 
 **Autor:**   
 **Datum:**   
@@ -7285,7 +7374,7 @@ Sebastian Krolczik Head of Direct & Partner Sales [sebastian.krolczik@kerberos-c
 
 ---
 
-## 87. Know Your Customer (KYC) – oder was passieren kann, wenn man es nicht tut
+## 88. Know Your Customer (KYC) – oder was passieren kann, wenn man es nicht tut
 
 **Autor:**   
 **Datum:**   
@@ -7354,7 +7443,7 @@ Die Pflicht zur Überprüfung von Kund:innen muss auch bei sogenannten „jurist
 
 ---
 
-## 88. Kryptowerte im Fokus: Die neuen BaFin-Auslegungshinweise zum Geldwäschegesetz
+## 89. Kryptowerte im Fokus: Die neuen BaFin-Auslegungshinweise zum Geldwäschegesetz
 
 **Autor:**   
 **Datum:**   
@@ -7417,7 +7506,7 @@ Florian Peters Head of AML Compliance
 
 ---
 
-## 89. KYC bei Kapitalverwaltungsgesellschaften: Effektive Geldwäscheprävention im Fokus
+## 90. KYC bei Kapitalverwaltungsgesellschaften: Effektive Geldwäscheprävention im Fokus
 
 **Autor:**   
 **Datum:**   
@@ -7495,7 +7584,7 @@ Florian Peters Head of AML Compliance
 
 ---
 
-## 90. KYC in der Praxis: Digitale Lösungen für effiziente Sorgfaltspflichten
+## 91. KYC in der Praxis: Digitale Lösungen für effiziente Sorgfaltspflichten
 
 **Autor:**   
 **Datum:**   
@@ -7600,7 +7689,7 @@ Mischa Wolf Manager Compliance Analytics
 
 ---
 
-## 91. KYC leicht gemacht: Geldwäscheprävention ist digital
+## 92. KYC leicht gemacht: Geldwäscheprävention ist digital
 
 **Autor:**   
 **Datum:**   
@@ -7684,7 +7773,7 @@ Otis Benning Senior Associate Marketing
 
 ---
 
-## 92. KYC/AML API: Ergebnisberichte in Sekunden
+## 93. KYC/AML API: Ergebnisberichte in Sekunden
 
 **Autor:**   
 **Datum:**   
@@ -7752,7 +7841,7 @@ Otis Benning Senior Associate Marketing
 
 ---
 
-## 93. Machen Sie KI zu Ihrem Wettbewerbsvorteil – KI-Schulungen bei Kerberos
+## 94. Machen Sie KI zu Ihrem Wettbewerbsvorteil – KI-Schulungen bei Kerberos
 
 **Autor:**   
 **Datum:**   
@@ -7830,7 +7919,7 @@ Otis Benning Senior Associate Marketing
 
 ---
 
-## 94. “Ich habe das Gefühl, dass nicht ankommt, das reale Gefahren bestehen.” Interview mit mafianeindanke-Mitglied Eva Blöchl
+## 95. “Ich habe das Gefühl, dass nicht ankommt, das reale Gefahren bestehen.” Interview mit mafianeindanke-Mitglied Eva Blöchl
 
 **Autor:**   
 **Datum:**   
@@ -7899,7 +7988,7 @@ Otis Benning Senior Associate Marketing
 
 ---
 
-## 95. Make-or-Buy: Geldwäschebeauftragte für KVGen effizient organisieren
+## 96. Make-or-Buy: Geldwäschebeauftragte für KVGen effizient organisieren
 
 **Autor:**   
 **Datum:**   
@@ -7993,7 +8082,7 @@ Laura Schäfer Managerin AML Compliance
 
 ---
 
-## 96. Mehr Aufsicht, bessere Prävention? Was die BaFin-Offensive für Verpflichtete wirklich bedeutet
+## 97. Mehr Aufsicht, bessere Prävention? Was die BaFin-Offensive für Verpflichtete wirklich bedeutet
 
 **Autor:**   
 **Datum:**   
@@ -8060,7 +8149,7 @@ Frank Lässig Senior AML Compliance Manager
 
 ---
 
-## 97. MiCA: Der neue EU-Regulierungsrahmen für Kryptowerte
+## 98. MiCA: Der neue EU-Regulierungsrahmen für Kryptowerte
 
 **Autor:**   
 **Datum:**   
@@ -8269,7 +8358,7 @@ Otis Benning Senior Associate Marketing
 
 ---
 
-## 98. MLRO-Strategien für deutsche Finanzdienstleister: CEO-Leitfaden 2025
+## 99. MLRO-Strategien für deutsche Finanzdienstleister: CEO-Leitfaden 2025
 
 **Autor:**   
 **Datum:**   
@@ -8352,7 +8441,7 @@ Thomas Manzey Head of AML Compliance - Financial & Payment Services
 
 ---
 
-## 99. Neue Auslegungs- und Anwendungshinweise der BaFin
+## 100. Neue Auslegungs- und Anwendungshinweise der BaFin
 
 **Autor:**   
 **Datum:**   
@@ -8398,7 +8487,7 @@ Frank Lässig Senior AML Compliance Manager
 
 ---
 
-## 100. Neue Auslegungs- und Anwendungshinweise zum Geldwäschegesetz für die Anwaltschaft
+## 101. Neue Auslegungs- und Anwendungshinweise zum Geldwäschegesetz für die Anwaltschaft
 
 **Autor:**   
 **Datum:**   
@@ -8478,7 +8567,7 @@ Dr. Anna Bolz Senior Manager AML Compliance
 
 ---
 
-## 101. Neue EU-Vorschriften zur Bekämpfung von Geldwäsche und Terrorismusfinanzierung: Ein erster Überblick
+## 102. Neue EU-Vorschriften zur Bekämpfung von Geldwäsche und Terrorismusfinanzierung: Ein erster Überblick
 
 **Autor:**   
 **Datum:**   
@@ -8572,7 +8661,7 @@ Die finalen Texte des AML-Pakets müssen noch förmlich angenommen und verabschi
 
 ---
 
-## 102. Neue GwG-Meldeverordnung: Standardisierung von Verdachtsmeldungen ab Oktober 2025
+## 103. Neue GwG-Meldeverordnung: Standardisierung von Verdachtsmeldungen ab Oktober 2025
 
 **Autor:**   
 **Datum:**   
@@ -8649,7 +8738,7 @@ Otis Benning Senior Associate Marketing
 
 ---
 
-## 103. Neues Datenschutzabkommen zwischen der EU und den USA beschlossen
+## 104. Neues Datenschutzabkommen zwischen der EU und den USA beschlossen
 
 **Autor:**   
 **Datum:**   
@@ -8687,7 +8776,7 @@ Max Schrems hat mit seiner Organisation noyb [angekündigt](https://noyb.eu/de/e
 
 ---
 
-## 104. Ongoing Monitoring nach Artikel 26 EU-AML VO: Was sich ab Juli 2027 ändert
+## 105. Ongoing Monitoring nach Artikel 26 EU-AML VO: Was sich ab Juli 2027 ändert
 
 **Autor:**   
 **Datum:**   
@@ -8788,7 +8877,7 @@ Florian Peters Head of AML Compliance
 
 ---
 
-## 105. Operation Chargeback: Wenn Compliance-Systeme versagen – Eine Analyse des AML-Experten Frank Lässig
+## 106. Operation Chargeback: Wenn Compliance-Systeme versagen – Eine Analyse des AML-Experten Frank Lässig
 
 **Autor:**   
 **Datum:**   
@@ -8909,7 +8998,7 @@ Frank Lässig Senior AML Compliance Manager
 
 ---
 
-## 106. Übergangsregelungen: Pflicht zur Registrierung im Meldeportal goAML
+## 107. Übergangsregelungen: Pflicht zur Registrierung im Meldeportal goAML
 
 **Autor:**   
 **Datum:**   
@@ -8970,7 +9059,7 @@ Die beste Prüfungsvorbereitung heißt Kerberos:
 
 ---
 
-## 107. DEKRA-Zertifizierung zum KYC-Specialist: Anti-Geldwäsche-Experten teilen in neuer Weiterbildung Praxiswissen
+## 108. DEKRA-Zertifizierung zum KYC-Specialist: Anti-Geldwäsche-Experten teilen in neuer Weiterbildung Praxiswissen
 
 **Autor:**   
 **Datum:**   
@@ -9019,7 +9108,7 @@ Kerberos Compliance-Managementsysteme GmbH www.kerberos-compliance.com Im Zollha
 
 ---
 
-## 108. Portrait: Daniel Thelesklaf, zukünftiger Leiter der Financial Intelligence Unit (FIU) in Deutschland
+## 109. Portrait: Daniel Thelesklaf, zukünftiger Leiter der Financial Intelligence Unit (FIU) in Deutschland
 
 **Autor:**   
 **Datum:**   
@@ -9068,7 +9157,7 @@ Hierfür ist eine wirksame und pragmatische Zusammenarbeit mit den Partnerbehör
 
 ---
 
-## 109. Präventionsmaßnahmen gegen Geldwäsche und Terrorismusfinanzierung
+## 110. Präventionsmaßnahmen gegen Geldwäsche und Terrorismusfinanzierung
 
 **Autor:**   
 **Datum:**   
@@ -9091,7 +9180,7 @@ Veröffentlicht: 2025-05-21
 
 ---
 
-## 110. Pressekonferenz: FIU stellt Jahresbericht 2024 vor
+## 111. Pressekonferenz: FIU stellt Jahresbericht 2024 vor
 
 **Autor:**   
 **Datum:**   
@@ -9188,7 +9277,7 @@ Otis Benning Senior Associate Marketing
 
 ---
 
-## 111. Prüfungen im Nacken - darum lohnt sich Prävention
+## 112. Prüfungen im Nacken - darum lohnt sich Prävention
 
 **Autor:**   
 **Datum:**   
@@ -9253,7 +9342,7 @@ Der Bundesverband Deutscher Versicherungskaufleute (BVK) wies vor kurzem seine M
 
 ---
 
-## 112. Rückgang bei Geldwäsche-Verdachtsmeldungen: Was steckt dahinter?
+## 113. Rückgang bei Geldwäsche-Verdachtsmeldungen: Was steckt dahinter?
 
 **Autor:**   
 **Datum:**   
@@ -9325,7 +9414,7 @@ Otis Benning Senior Associate Marketing
 
 ---
 
-## 113. Rechnungsversand per E-Mail: Neue Rechtslage nach OLG-Urteil
+## 114. Rechnungsversand per E-Mail: Neue Rechtslage nach OLG-Urteil
 
 **Autor:**   
 **Datum:**   
@@ -9393,7 +9482,7 @@ Fatima Thönnes Manager GDPR Compliance
 
 ---
 
-## 114. Registrieren lohnt sich! FIU-Jahresbericht 2025 - Learnings für Verpflichtete
+## 115. Registrieren lohnt sich! FIU-Jahresbericht 2025 - Learnings für Verpflichtete
 
 **Autor:**   
 **Datum:**   
@@ -9486,7 +9575,7 @@ Otis Benning Senior Associate Marketing
 
 ---
 
-## 115. Risikomanagement für Factoring & Leasing-Gesellschaften nach EU-AML-Verordnung
+## 116. Risikomanagement für Factoring & Leasing-Gesellschaften nach EU-AML-Verordnung
 
 **Autor:**   
 **Datum:**   
@@ -9581,7 +9670,7 @@ Fabian Müller Manager AML Compliance
 
 ---
 
-## 116. Die Standards kommen - aber rechtzeitig? RTS-Lücken auf dem Weg zum 10. Juli 2027
+## 117. Die Standards kommen - aber rechtzeitig? RTS-Lücken auf dem Weg zum 10. Juli 2027
 
 **Autor:**   
 **Datum:**   
@@ -9698,7 +9787,7 @@ Thomas Manzey Head of AML Compliance - Financial & Payment Services
 
 ---
 
-## 117. Russland-Sanktionen - 5 Tipps zur Risikoreduzierung
+## 118. Russland-Sanktionen - 5 Tipps zur Risikoreduzierung
 
 **Autor:**   
 **Datum:**   
@@ -9757,7 +9846,7 @@ Wichtig bei Sanktionen zu beachten ist, dass sie auch dann gelten, wenn die Gesc
 
 ---
 
-## 118. Sanktionen und was sie bedeuten
+## 119. Sanktionen und was sie bedeuten
 
 **Autor:**   
 **Datum:**   
@@ -9876,7 +9965,7 @@ Am 16. Dezember 2022 verabschiedete die EU schon das neunte Sanktionspaket. Stan
 
 ---
 
-## 119. Sanktionscompliance ab Juli 2027: Was die EU-AML-VO neu von Ihnen verlangt
+## 120. Sanktionscompliance ab Juli 2027: Was die EU-AML-VO neu von Ihnen verlangt
 
 **Autor:**   
 **Datum:**   
@@ -9991,7 +10080,7 @@ Frank Lässig Senior AML Compliance Manager
 
 ---
 
-## 120. Schleswig-Holstein: Bußgelder in der Geldwäscheaufsicht steigen um 115 Prozent
+## 121. Schleswig-Holstein: Bußgelder in der Geldwäscheaufsicht steigen um 115 Prozent
 
 **Autor:**   
 **Datum:**   
@@ -10127,7 +10216,7 @@ Frank Lässig Senior AML Compliance Manager
 
 ---
 
-## 121. “Schutzmaßnahmen „auslaufen“ zu lassen, scheint mir gefährlich” - Interview mit dem Compliance Beauftragten der thyssenkrupp AG
+## 122. “Schutzmaßnahmen „auslaufen“ zu lassen, scheint mir gefährlich” - Interview mit dem Compliance Beauftragten der thyssenkrupp AG
 
 **Autor:**   
 **Datum:**   
@@ -10176,7 +10265,7 @@ Otis Benning Senior Associate Marketing
 
 ---
 
-## 122. Stärkung Ihrer Cyber-Abwehr
+## 123. Stärkung Ihrer Cyber-Abwehr
 
 **Autor:**   
 **Datum:**   
@@ -10215,7 +10304,7 @@ Bei Phishing-Simulationen ist auch das Thema Beschäftigtendatenschutz zu beacht
 
 ---
 
-## 123. Terrorismusfinanzierung in der Risikoanalyse: Was Verpflichtete jetzt getrennt bewerten müssen
+## 124. Terrorismusfinanzierung in der Risikoanalyse: Was Verpflichtete jetzt getrennt bewerten müssen
 
 **Autor:**   
 **Datum:**   
@@ -10329,7 +10418,7 @@ Fabian Müller Manager AML Compliance
 
 ---
 
-## 124. Transparenzregister, koordinierte Aufsicht, erweiterter Datenaustausch: Die systemischen GwG-Änderungen des ZFG-Referentenentwurfs
+## 125. Transparenzregister, koordinierte Aufsicht, erweiterter Datenaustausch: Die systemischen GwG-Änderungen des ZFG-Referentenentwurfs
 
 **Autor:**   
 **Datum:**   
@@ -10450,7 +10539,7 @@ Frank Lässig Senior AML Compliance Manager
 
 ---
 
-## 125. Transparenzregistereintragung: 1.415 Unternehmen am Pranger
+## 126. Transparenzregistereintragung: 1.415 Unternehmen am Pranger
 
 **Autor:**   
 **Datum:**   
@@ -10507,7 +10596,7 @@ Unseren Kund:innen stellen wir überdies auch einfache Video-Anleitungen für di
 
 ---
 
-## 126. Übergangsregelungen: Transparenzregister – Noch auf dem neuesten Stand?
+## 127. Übergangsregelungen: Transparenzregister – Noch auf dem neuesten Stand?
 
 **Autor:**   
 **Datum:**   
@@ -10538,7 +10627,7 @@ Sollten sie dies bislang nicht gemacht haben, wird es Zeit. Aus den veröffentli
 
 ---
 
-## 127. UBO-Identifizierung nach der EU-AML-Verordnung: Was sich ab Juli 2027 grundlegend ändert
+## 128. UBO-Identifizierung nach der EU-AML-Verordnung: Was sich ab Juli 2027 grundlegend ändert
 
 **Autor:**   
 **Datum:**   
@@ -10668,7 +10757,7 @@ Frank Lässig Senior AML Compliance Manager
 
 ---
 
-## 128. „Unverzüglichkeit“ und „Vollständigkeit“ – Gemeinsame Orientierungshilfe der BaFin und FIU
+## 129. „Unverzüglichkeit“ und „Vollständigkeit“ – Gemeinsame Orientierungshilfe der BaFin und FIU
 
 **Autor:**   
 **Datum:**   
@@ -10710,7 +10799,7 @@ Tobias Lequen Manager AML Compliance
 
 ---
 
-## 129. US-Cloud-Anbieter im Fokus: Datenschutzrisiken und Handlungsempfehlungen
+## 130. US-Cloud-Anbieter im Fokus: Datenschutzrisiken und Handlungsempfehlungen
 
 **Autor:**   
 **Datum:**   
@@ -10782,7 +10871,7 @@ Lena Pütz Head of Projects (Compliance) [lena.puetz@kerberos-cms.com](mailto:le
 
 ---
 
-## 130. Verdachtsmeldungen nach § 43 GwG: Was die BaFin/FIU-Orientierungshilfe konkret bedeutet
+## 131. Verdachtsmeldungen nach § 43 GwG: Was die BaFin/FIU-Orientierungshilfe konkret bedeutet
 
 **Autor:**   
 **Datum:**   
@@ -10884,7 +10973,7 @@ Maren Adam Principal AML Compliance
 
 ---
 
-## 131. Vermögensentzug ohne Strafurteil: Was §§ 52a–52n ZFG-Referentenentwurf für Verpflichtete bedeuten
+## 132. Vermögensentzug ohne Strafurteil: Was §§ 52a–52n ZFG-Referentenentwurf für Verpflichtete bedeuten
 
 **Autor:**   
 **Datum:**   
@@ -10996,7 +11085,7 @@ Laura Schäfer Managerin AML Compliance
 
 ---
 
-## 132. Verschärfte Meldepflichten bei Immobilientransaktionen - die wichtigsten Änderungen der GwGMeldV-Immobilien 2025
+## 133. Verschärfte Meldepflichten bei Immobilientransaktionen - die wichtigsten Änderungen der GwGMeldV-Immobilien 2025
 
 **Autor:**   
 **Datum:**   
@@ -11069,7 +11158,7 @@ Otis Benning Senior Associate Marketing
 
 ---
 
-## 133. Verstöße gegen das Geldwäschegesetz - Bußgelder und Prüfungen von 2017-2022
+## 134. Verstöße gegen das Geldwäschegesetz - Bußgelder und Prüfungen von 2017-2022
 
 **Autor:**   
 **Datum:**   
@@ -11122,7 +11211,7 @@ Vor diesem Hintergrund lassen sich die Forderungen der EU-Richtlinie zur Einrich
 
 ---
 
-## 134. Vom Krisenherd zum Vertrauensturbo: Umgang mit Datenschutzbeschwerden
+## 135. Vom Krisenherd zum Vertrauensturbo: Umgang mit Datenschutzbeschwerden
 
 **Autor:**   
 **Datum:**   
@@ -11213,7 +11302,7 @@ Sven Fus Senior Manager GDPR Compliance
 
 ---
 
-## 135. Von Sommerloch keine Spur - der Kampf gegen Finanzkriminalität in den Medien
+## 136. Von Sommerloch keine Spur - der Kampf gegen Finanzkriminalität in den Medien
 
 **Autor:**   
 **Datum:**   
@@ -11371,7 +11460,7 @@ Otis Benning Senior Associate Marketing
 
 ---
 
-## 136. Vonovia – Korruptionsskandal mit Vorbildcharakter
+## 137. Vonovia – Korruptionsskandal mit Vorbildcharakter
 
 **Autor:**   
 **Datum:**   
@@ -11452,7 +11541,7 @@ Hinweisgebersysteme zu betreiben ist unkompliziert. Kerberos bietet kostengünst
 
 ---
 
-## 137. Warum sind Risikoanalysen nach dem Geldwäschegesetz (GwG) so wichtig?
+## 138. Warum sind Risikoanalysen nach dem Geldwäschegesetz (GwG) so wichtig?
 
 **Autor:**   
 **Datum:**   
@@ -11504,7 +11593,7 @@ Daneben bieten insbesondere digitale Lösungen zur automatisierten Abfrage geldw
 
 ---
 
-## 138. Weihnachtsgrüße von Christian Tsambikakis - Geschäftsführer
+## 139. Weihnachtsgrüße von Christian Tsambikakis - Geschäftsführer
 
 **Autor:**   
 **Datum:**   
@@ -11539,7 +11628,7 @@ Christian Tsambikakis, Geschäftsführer
 
 ---
 
-## 139. Wer sich bei der FIU registrieren muss - und warum die Aufsicht bald mitzählen kann
+## 140. Wer sich bei der FIU registrieren muss - und warum die Aufsicht bald mitzählen kann
 
 **Autor:**   
 **Datum:**   
@@ -11607,7 +11696,7 @@ Otis Benning Senior Associate Marketing
 
 ---
 
-## 140. Wie steht es um die Bekämpfung von Geldwäsche in Deutschland? Und warum?
+## 141. Wie steht es um die Bekämpfung von Geldwäsche in Deutschland? Und warum?
 
 **Autor:**   
 **Datum:**   
@@ -11666,7 +11755,7 @@ Anhand der Ergebnisse des Follow-Up-Reports lassen sich also die gröbsten Herau
 
 ---
 
-## 141. Wiederkehrende Pflichten zur Geldwäscheprävention – Update Ende 2025
+## 142. Wiederkehrende Pflichten zur Geldwäscheprävention – Update Ende 2025
 
 **Autor:**   
 **Datum:**   
@@ -11751,7 +11840,7 @@ Otis Benning Senior Associate Marketing
 
 ---
 
-## 142. Wiederkehrende Pflichten zur Geldwäscheprävention
+## 143. Wiederkehrende Pflichten zur Geldwäscheprävention
 
 **Autor:**   
 **Datum:**   
@@ -11796,7 +11885,7 @@ Um die Zertifizierung als Geldwäschebeauftragte, soweit diese vorhanden ist, zu
 
 ---
 
-## 143. Zwischen Innovation und Risiko - Kryptowährungen im Fokus des Geldwäschebeauftragten
+## 144. Zwischen Innovation und Risiko - Kryptowährungen im Fokus des Geldwäschebeauftragten
 
 **Autor:**   
 **Datum:**   

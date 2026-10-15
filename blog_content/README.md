@@ -1,10 +1,10 @@
 # Blog Content Archive
 
-Automatisch gecrawlt am: 2026-10-14 07:27:05
+Automatisch gecrawlt am: 2026-10-15 07:17:54
 
 **Statistik:**
-- Gesamt Artikel: 139
-- Erfolgreich gecrawlt: 139
+- Gesamt Artikel: 140
+- Erfolgreich gecrawlt: 140
 - Fehlgeschlagen: 0
 
 **Quelle:** https://www.kerberos-compliance.com/wissen/blog
@@ -131,6 +131,7 @@ Automatisch gecrawlt am: 2026-10-14 07:27:05
 - [KYC in der Praxis: Digitale Lösungen für effiziente Sorgfaltspflichten](kyc-in-der-praxis-digitale-loesungen-fuer-effiziente-sorgfaltspflichten.md) -  ()
 - [EU-AML-Verordnung ab Juli 2027: Was Verpflichtete jetzt wissen müssen](eu-aml-verordnung-ab-juli-2027-was-verpflichtete-jetzt-wissen-muessen.md) -  ()
 - [Entwürfe für EU-Anti-Geldwäsche-Verordnung und -Richtlinie veröffentlicht](entwrfe-fr-eu-anti-geldwsche-verordnung-und-richtlinie-verffentlicht.md) -  ()
+- [EU-Geldwäscheverordnung 2027: Was Kanzleien jetzt umstellen sollten](eu-geldwaescheverordnung-2027-was-kanzleien-jetzt-umstellen-sollten.md) -  ()
 - [Compliance-Experte Frank Lässig über neue Geldwäsche-Pflichten, verstärkte Sorgfaltspflichten und warum die Praxis sich kaum ändert](eu-listet-russland-als-hochrisikoland.md) -  ()
 - [EU-Hochrisikoländer-Liste: Aktualisierung der Delegierten Verordnung (EU) 2025/1184](eu-hochrisikolaender-liste-aktualisierung-der-delegierten-verordnung-eu-20251184.md) -  ()
 - [Russland-Sanktionen - 5 Tipps zur Risikoreduzierung](russland-sanktionen.md) -  ()

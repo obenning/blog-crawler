@@ -1,8 +1,8 @@
 {
-  "crawled_at": "2026-10-14T07:27:05.531118",
+  "crawled_at": "2026-10-15T07:17:54.755084",
   "base_url": "https://www.kerberos-compliance.com/wissen/blog",
-  "total_articles": 139,
-  "successful": 139,
+  "total_articles": 140,
+  "successful": 140,
   "failed": 0,
   "articles": [
     {
@@ -844,6 +844,13 @@
       "author": "",
       "date": "",
       "url": "https://www.kerberos-compliance.com/wissen/blog/entwrfe-fr-eu-anti-geldwsche-verordnung-und-richtlinie-verffentlicht"
+    },
+    {
+      "filename": "eu-geldwaescheverordnung-2027-was-kanzleien-jetzt-umstellen-sollten.md",
+      "title": "EU-Geldwäscheverordnung 2027: Was Kanzleien jetzt umstellen sollten",
+      "author": "",
+      "date": "",
+      "url": "https://www.kerberos-compliance.com/wissen/blog/eu-geldwaescheverordnung-2027-was-kanzleien-jetzt-umstellen-sollten"
     },
     {
       "filename": "eu-listet-russland-als-hochrisikoland.md",
