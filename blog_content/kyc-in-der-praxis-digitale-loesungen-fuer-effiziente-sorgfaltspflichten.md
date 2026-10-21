@@ -4,7 +4,7 @@ author: ""
 date: ""
 url: "https://www.kerberos-compliance.com/wissen/blog/kyc-in-der-praxis-digitale-loesungen-fuer-effiziente-sorgfaltspflichten"
 excerpt: ""
-crawled_at: "2026-10-20T07:24:01.822552"
+crawled_at: "2026-10-21T07:24:50.158842"
 ---
 
 # KYC in der Praxis: Digitale Lösungen für effiziente Sorgfaltspflichten

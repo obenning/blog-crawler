@@ -4,7 +4,7 @@ author: ""
 date: ""
 url: "https://www.kerberos-compliance.com/wissen/blog/machen-sie-ki-zu-ihrem-wettbewerbsvorteil-ki-schulungen-bei-kerberos"
 excerpt: ""
-crawled_at: "2026-10-20T07:23:45.922391"
+crawled_at: "2026-10-21T07:24:34.934796"
 ---
 
 # Machen Sie KI zu Ihrem Wettbewerbsvorteil – KI-Schulungen bei Kerberos

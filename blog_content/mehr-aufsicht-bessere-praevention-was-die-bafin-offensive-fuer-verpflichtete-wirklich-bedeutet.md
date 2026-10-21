@@ -4,7 +4,7 @@ author: ""
 date: ""
 url: "https://www.kerberos-compliance.com/wissen/blog/mehr-aufsicht-bessere-praevention-was-die-bafin-offensive-fuer-verpflichtete-wirklich-bedeutet"
 excerpt: ""
-crawled_at: "2026-10-20T07:22:50.827391"
+crawled_at: "2026-10-21T07:23:43.126122"
 ---
 
 # Mehr Aufsicht, bessere Prävention? Was die BaFin-Offensive für Verpflichtete wirklich bedeutet

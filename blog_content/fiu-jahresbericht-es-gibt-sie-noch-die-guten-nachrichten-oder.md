@@ -4,7 +4,7 @@ author: ""
 date: ""
 url: "https://www.kerberos-compliance.com/wissen/blog/fiu-jahresbericht-es-gibt-sie-noch-die-guten-nachrichten-oder"
 excerpt: ""
-crawled_at: "2026-10-20T07:24:35.314980"
+crawled_at: "2026-10-21T07:25:23.819372"
 ---
 
 # FIU Jahresbericht 2023: Es gibt sie noch, die guten Nachrichten – oder?
@@ -86,3 +86,9 @@ BaFin fordert seit März 2025 getrennte Risikoanalysen für Geldwäsche und Terr
 Die AMLA startete im Februar 2025 mit Sitz in Frankfurt. Ab 2027 übernimmt sie die direkte Aufsicht über Hochrisiko-Institute. Was bedeutet „Supervisor of Supervisors"? RTS & Guidelines im Zeitplan bis 2027. Wie bereiten Sie sich auf AMLA-Prüfungen vor? Aufbau, Befugnisse und Auswirkungen für größere Institute.
 
 In diesem Webinar erfahren Makler, welche Pflichten nach dem Geldwäschegesetz heute schon für Sie gelten und wie sie sich auf ihre neuen Pflichten nach der EU-Anti-Geldwäsche-Verordnung ab dem 10. Juli 2027 vorbereiten.
+
+Ab dem 10.07.2027 gilt die AMLR. Für Kapitalverwaltungsgesellschaften bedeutet das klarere Governance, sauberes Investoren-KYC und feste Fristen bei langen Fondslaufzeiten. Das Webinar richtet sich an Geschäftsführung und Compliance Verantwortliche von KVGen.
+
+Die EU-Geldwäscheverordnung (AMLR) sieht für alle Verpflichteten die Bestellung von Geldwäschebeauftragten (GWBs) vor – noch gänzlich ohne Ausnahme. Die Anforderungen an und Verantwortung dieser Position sind hoch. Ob und wie Sie durch Auslagerung entlastet werden können, ist Inhalt dieses Webinars.
+
+Ihr Fonds steht, das Closing ist in Sicht, und die Geldwäscheprävention muss stehen, ohne dass Investoren wegen umständlichem KYC abspringen. Das Webinar richtet sich an Gründer:innen und Geschäftsführung kleiner VC-Verwalter.

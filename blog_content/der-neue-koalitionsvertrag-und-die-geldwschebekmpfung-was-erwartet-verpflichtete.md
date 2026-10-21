@@ -4,7 +4,7 @@ author: ""
 date: ""
 url: "https://www.kerberos-compliance.com/wissen/blog/der-neue-koalitionsvertrag-und-die-geldwschebekmpfung-was-erwartet-verpflichtete"
 excerpt: ""
-crawled_at: "2026-10-20T07:24:09.038822"
+crawled_at: "2026-10-21T07:24:57.457205"
 ---
 
 # Der neue Koalitionsvertrag und die Geldwäschebekämpfung – Was erwartet Verpflichtete?

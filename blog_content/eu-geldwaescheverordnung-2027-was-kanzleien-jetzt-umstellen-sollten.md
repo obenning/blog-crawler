@@ -4,7 +4,7 @@ author: ""
 date: ""
 url: "https://www.kerberos-compliance.com/wissen/blog/eu-geldwaescheverordnung-2027-was-kanzleien-jetzt-umstellen-sollten"
 excerpt: ""
-crawled_at: "2026-10-20T07:22:35.888065"
+crawled_at: "2026-10-21T07:23:30.959451"
 ---
 
 # EU-Geldwäscheverordnung 2027: Was Kanzleien jetzt umstellen sollten

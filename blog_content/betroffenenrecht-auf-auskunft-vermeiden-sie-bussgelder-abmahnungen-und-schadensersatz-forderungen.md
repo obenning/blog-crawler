@@ -4,7 +4,7 @@ author: ""
 date: ""
 url: "https://www.kerberos-compliance.com/wissen/blog/betroffenenrecht-auf-auskunft-vermeiden-sie-bussgelder-abmahnungen-und-schadensersatz-forderungen"
 excerpt: ""
-crawled_at: "2026-10-20T07:25:50.753778"
+crawled_at: "2026-10-21T07:26:38.609010"
 ---
 
 # Betroffenenrecht auf Auskunft: Vermeiden Sie Bußgelder, Abmahnungen und Schadensersatz-Forderungen!

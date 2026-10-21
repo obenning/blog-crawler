@@ -4,7 +4,7 @@ author: ""
 date: ""
 url: "https://www.kerberos-compliance.com/wissen/blog/compliance-fort-bildungsangebote-fuer-2025"
 excerpt: ""
-crawled_at: "2026-10-20T07:24:31.044245"
+crawled_at: "2026-10-21T07:25:19.456647"
 ---
 
 # Compliance (Fort-)Bildungsangebote für 2025
@@ -36,6 +36,12 @@ BaFin fordert seit März 2025 getrennte Risikoanalysen für Geldwäsche und Terr
 Die AMLA startete im Februar 2025 mit Sitz in Frankfurt. Ab 2027 übernimmt sie die direkte Aufsicht über Hochrisiko-Institute. Was bedeutet „Supervisor of Supervisors"? RTS & Guidelines im Zeitplan bis 2027. Wie bereiten Sie sich auf AMLA-Prüfungen vor? Aufbau, Befugnisse und Auswirkungen für größere Institute.
 
 In diesem Webinar erfahren Makler, welche Pflichten nach dem Geldwäschegesetz heute schon für Sie gelten und wie sie sich auf ihre neuen Pflichten nach der EU-Anti-Geldwäsche-Verordnung ab dem 10. Juli 2027 vorbereiten.
+
+Ab dem 10.07.2027 gilt die AMLR. Für Kapitalverwaltungsgesellschaften bedeutet das klarere Governance, sauberes Investoren-KYC und feste Fristen bei langen Fondslaufzeiten. Das Webinar richtet sich an Geschäftsführung und Compliance Verantwortliche von KVGen.
+
+Die EU-Geldwäscheverordnung (AMLR) sieht für alle Verpflichteten die Bestellung von Geldwäschebeauftragten (GWBs) vor – noch gänzlich ohne Ausnahme. Die Anforderungen an und Verantwortung dieser Position sind hoch. Ob und wie Sie durch Auslagerung entlastet werden können, ist Inhalt dieses Webinars.
+
+Ihr Fonds steht, das Closing ist in Sicht, und die Geldwäscheprävention muss stehen, ohne dass Investoren wegen umständlichem KYC abspringen. Das Webinar richtet sich an Gründer:innen und Geschäftsführung kleiner VC-Verwalter.
 
 Weitere Webinare kommen im Laufe der Zeit dazu. Folgen Sie uns auf [LinkedIn](https://www.linkedin.com/company/kerberos-compliance) , Abonnieren Sie unseren [Newsletter](https://www.kerberos-compliance.com/wissen/newsletter-anmeldung) oder besuchen Sie unsere Website um über unser aktuelles Angebot informiert zu bleiben.
 
