@@ -4,7 +4,7 @@ author: ""
 date: ""
 url: "https://www.kerberos-compliance.com/wissen/blog/aml-behoerdenpruefungen-bei-sportwetten-vermittlern-so-bereiten-sie-sich-optimal-vor"
 excerpt: ""
-crawled_at: "2026-10-25T07:30:45.945337"
+crawled_at: "2026-10-26T07:41:00.337258"
 ---
 
 # AML-Behördenprüfungen bei Sportwetten-Vermittlern: So bereiten Sie sich optimal vor

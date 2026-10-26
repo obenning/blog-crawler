@@ -4,7 +4,7 @@ author: ""
 date: ""
 url: "https://www.kerberos-compliance.com/wissen/blog/us-cloud-anbieter-im-fokus-datenschutzrisiken-und-handlungsempfehlungen"
 excerpt: ""
-crawled_at: "2026-10-25T07:30:47.262194"
+crawled_at: "2026-10-26T07:41:02.035254"
 ---
 
 # US-Cloud-Anbieter im Fokus: Datenschutzrisiken und Handlungsempfehlungen

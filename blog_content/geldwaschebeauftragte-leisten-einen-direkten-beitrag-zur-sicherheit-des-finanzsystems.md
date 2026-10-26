@@ -4,7 +4,7 @@ author: ""
 date: ""
 url: "https://www.kerberos-compliance.com/wissen/blog/geldwaschebeauftragte-leisten-einen-direkten-beitrag-zur-sicherheit-des-finanzsystems"
 excerpt: ""
-crawled_at: "2026-10-25T07:32:32.374112"
+crawled_at: "2026-10-26T07:42:44.955084"
 ---
 
 # Geldwäschebeauftragte leisten einen direkten Beitrag zur Sicherheit des Finanzsystems

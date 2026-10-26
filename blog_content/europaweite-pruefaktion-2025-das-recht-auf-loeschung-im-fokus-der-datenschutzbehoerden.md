@@ -4,7 +4,7 @@ author: ""
 date: ""
 url: "https://www.kerberos-compliance.com/wissen/blog/europaweite-pruefaktion-2025-das-recht-auf-loeschung-im-fokus-der-datenschutzbehoerden"
 excerpt: ""
-crawled_at: "2026-10-25T07:30:56.042450"
+crawled_at: "2026-10-26T07:41:11.014811"
 ---
 
 # Europaweite Prüfaktion 2025: Das Recht auf Löschung im Fokus der Datenschutzbehörden

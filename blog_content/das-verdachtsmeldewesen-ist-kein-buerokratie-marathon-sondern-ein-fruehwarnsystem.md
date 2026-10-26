@@ -4,7 +4,7 @@ author: ""
 date: ""
 url: "https://www.kerberos-compliance.com/wissen/blog/das-verdachtsmeldewesen-ist-kein-buerokratie-marathon-sondern-ein-fruehwarnsystem"
 excerpt: ""
-crawled_at: "2026-10-25T07:30:01.550211"
+crawled_at: "2026-10-26T07:40:15.463087"
 ---
 
 # "Das Verdachtsmeldewesen ist kein Bürokratie-Marathon, sondern ein Frühwarnsystem"

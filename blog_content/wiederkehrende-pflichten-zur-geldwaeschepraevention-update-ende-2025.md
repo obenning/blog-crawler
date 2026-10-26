@@ -4,7 +4,7 @@ author: ""
 date: ""
 url: "https://www.kerberos-compliance.com/wissen/blog/wiederkehrende-pflichten-zur-geldwaeschepraevention-update-ende-2025"
 excerpt: ""
-crawled_at: "2026-10-25T07:30:02.885040"
+crawled_at: "2026-10-26T07:40:17.020998"
 ---
 
 # Wiederkehrende Pflichten zur Geldwäscheprävention – Update Ende 2025

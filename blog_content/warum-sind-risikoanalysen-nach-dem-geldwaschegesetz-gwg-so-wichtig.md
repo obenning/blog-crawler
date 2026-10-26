@@ -4,7 +4,7 @@ author: ""
 date: ""
 url: "https://www.kerberos-compliance.com/wissen/blog/warum-sind-risikoanalysen-nach-dem-geldwaschegesetz-gwg-so-wichtig"
 excerpt: ""
-crawled_at: "2026-10-25T07:32:46.557042"
+crawled_at: "2026-10-26T07:42:58.331504"
 ---
 
 # Warum sind Risikoanalysen nach dem Geldwäschegesetz (GwG) so wichtig?

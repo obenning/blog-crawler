@@ -4,7 +4,7 @@ author: ""
 date: ""
 url: "https://www.kerberos-compliance.com/wissen/blog/geldwaeschebeauftragte-fuer-kvgen-zwischen-steigenden-anforderungen-und-komplexen-strukturen"
 excerpt: ""
-crawled_at: "2026-10-25T07:30:13.758630"
+crawled_at: "2026-10-26T07:40:27.314163"
 ---
 
 # Geldwäschebeauftragte für KVGen: Zwischen steigenden Anforderungen und komplexen Strukturen

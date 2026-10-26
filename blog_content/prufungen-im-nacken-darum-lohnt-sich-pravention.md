@@ -4,7 +4,7 @@ author: ""
 date: ""
 url: "https://www.kerberos-compliance.com/wissen/blog/prufungen-im-nacken-darum-lohnt-sich-pravention"
 excerpt: ""
-crawled_at: "2026-10-25T07:32:26.333279"
+crawled_at: "2026-10-26T07:42:38.807208"
 ---
 
 # Prüfungen im Nacken - darum lohnt sich Prävention
