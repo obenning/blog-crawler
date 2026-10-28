@@ -4,7 +4,7 @@ author: ""
 date: ""
 url: "https://www.kerberos-compliance.com/wissen/blog/folgen-des-ampel-aus-fuer-die-geldwaeschebekaempfung"
 excerpt: ""
-crawled_at: "2026-10-27T07:39:09.285748"
+crawled_at: "2026-10-28T08:13:07.539820"
 ---
 
 # Folgen des Ampel-Aus für die Geldwäschebekämpfung

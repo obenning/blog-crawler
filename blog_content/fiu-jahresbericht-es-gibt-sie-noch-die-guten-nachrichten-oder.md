@@ -4,7 +4,7 @@ author: ""
 date: ""
 url: "https://www.kerberos-compliance.com/wissen/blog/fiu-jahresbericht-es-gibt-sie-noch-die-guten-nachrichten-oder"
 excerpt: ""
-crawled_at: "2026-10-27T07:39:07.945085"
+crawled_at: "2026-10-28T08:13:05.808961"
 ---
 
 # FIU Jahresbericht 2023: Es gibt sie noch, die guten Nachrichten – oder?
@@ -90,7 +90,5 @@ Eine besondere Herausforderung für den Kunstsektor stellt seit jeher die Käufe
 In diesem Webinar erfahren Makler, welche Pflichten nach dem Geldwäschegesetz heute schon für Sie gelten und wie sie sich auf ihre neuen Pflichten nach der EU-Anti-Geldwäsche-Verordnung ab dem 10. Juli 2027 vorbereiten.
 
 Ab dem 10.07.2027 gilt die AMLR. Für Kapitalverwaltungsgesellschaften bedeutet das klarere Governance, sauberes Investoren-KYC und feste Fristen bei langen Fondslaufzeiten. Das Webinar richtet sich an Geschäftsführung und Compliance Verantwortliche von KVGen.
-
-Die EU-Geldwäscheverordnung (AMLR) sieht für alle Verpflichteten die Bestellung von Geldwäschebeauftragten (GWBs) vor – noch gänzlich ohne Ausnahme. Die Anforderungen an und Verantwortung dieser Position sind hoch. Ob und wie Sie durch Auslagerung entlastet werden können, ist Inhalt dieses Webinars.
 
 Ihr Fonds steht, das Closing ist in Sicht, und die Geldwäscheprävention muss stehen, ohne dass Investoren wegen umständlichem KYC abspringen. Das Webinar richtet sich an Gründer:innen und Geschäftsführung kleiner VC-Verwalter.
