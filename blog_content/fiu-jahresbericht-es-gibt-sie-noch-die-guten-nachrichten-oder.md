@@ -4,7 +4,7 @@ author: ""
 date: ""
 url: "https://www.kerberos-compliance.com/wissen/blog/fiu-jahresbericht-es-gibt-sie-noch-die-guten-nachrichten-oder"
 excerpt: ""
-crawled_at: "2026-10-28T08:13:05.808961"
+crawled_at: "2026-10-29T08:20:09.499886"
 ---
 
 # FIU Jahresbericht 2023: Es gibt sie noch, die guten Nachrichten – oder?
@@ -80,8 +80,6 @@ Hierzu schreibt der Leiter der FIU im Vorwort des Jahresberichts 2023: „Ich se
 Auch wir von Kerberos sind hier aktiv – beispielsweise durch regelmäßige Informationsangebote für Verpflichtete zur effektiven Abgabe von Verdachtsmeldungen sowie der Einhaltung weiterer Pflichten nach dem Geldwäschegesetz.
 
 Alle aktuellen Webinar-Angebote finden Sie hier: [Unsere Veranstaltungen](https://www.kerberos-compliance.com/wissen/veranstaltungen)
-
-BaFin fordert seit März 2025 getrennte Risikoanalysen für Geldwäsche und Terrorismusfinanzierung. Die AMLA-Guidelines kommen im Juli 2027. Neue Risikobereiche (Crowdfunding, NPOs), risikobasierter Ansatz in der Praxis und Update bestehender Risikoanalysen für Compliance-Beauftragte.
 
 Die AMLA startete im Februar 2025 mit Sitz in Frankfurt. Ab 2027 übernimmt sie die direkte Aufsicht über Hochrisiko-Institute. Was bedeutet „Supervisor of Supervisors"? RTS & Guidelines im Zeitplan bis 2027. Wie bereiten Sie sich auf AMLA-Prüfungen vor? Aufbau, Befugnisse und Auswirkungen für größere Institute.
 
