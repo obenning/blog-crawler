@@ -4,7 +4,7 @@ author: ""
 date: ""
 url: "https://www.kerberos-compliance.com/wissen/blog/eu-geldwaescheverordnung-2027-was-kanzleien-jetzt-umstellen-sollten"
 excerpt: ""
-crawled_at: "2026-10-29T08:18:00.863351"
+crawled_at: "2026-10-30T08:25:40.749190"
 ---
 
 # EU-Geldwäscheverordnung 2027: Was Kanzleien jetzt umstellen sollten
@@ -77,7 +77,7 @@ Sie entscheiden, wie viel Sie selbst machen: In AML-as-a-Service Plus begleiten 
 
 ## Kontakt aufnehmen
 
-Jan Wagner Associate Direct & Partner Sales [Jan.Wagner@kerberos-cms.com](mailto:Jan.Wagner@kerberos-cms.com) [+49 221 65078953](tel:+4922165078953)
+Jan Wagner Senior Associate Direct & Partner Sales [Jan.Wagner@kerberos-cms.com](mailto:Jan.Wagner@kerberos-cms.com) [+49 221 65078953](tel:+4922165078953)
 
 [Termin buchen](https://qrco.de/bfsMCR)
 

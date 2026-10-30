@@ -4,7 +4,7 @@ author: ""
 date: ""
 url: "https://www.kerberos-compliance.com/wissen/blog/immobiliensektor-behrdenprfungen-und-kundensorgfaltspflichten-richtig-meistern"
 excerpt: ""
-crawled_at: "2026-10-29T08:19:43.844115"
+crawled_at: "2026-10-30T08:27:19.822387"
 ---
 
 # Immobiliensektor: Behördenprüfungen und Kundensorgfaltspflichten richtig meistern
@@ -111,7 +111,7 @@ Die professionelle Umsetzung der Geldwäscheprävention gehört heute zum Qualit
 
 Die aktuelle Studie der Universität Trier belegt zudem erstmals wissenschaftlich: Effektive Geldwäschebekämpfung trägt zu einem gesünderen Immobilienmarkt bei und hilft, preistreibende Effekte zu reduzieren. So profitieren nicht nur Sie als Marktteilnehmer:in von mehr Rechtssicherheit, sondern auch Ihre Kund:innen von einem faireren Preisniveau.
 
-Jan Wagner Associate Direct & Partner Sales [Jan.Wagner@kerberos-cms.com](mailto:Jan.Wagner@kerberos-cms.com) [+49 221 65078953](tel:+4922165078953)
+Jan Wagner Senior Associate Direct & Partner Sales [Jan.Wagner@kerberos-cms.com](mailto:Jan.Wagner@kerberos-cms.com) [+49 221 65078953](tel:+4922165078953)
 
 [Termin buchen](https://qrco.de/bfsMCR)
 

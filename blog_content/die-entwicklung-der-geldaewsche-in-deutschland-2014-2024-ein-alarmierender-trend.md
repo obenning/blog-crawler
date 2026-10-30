@@ -4,7 +4,7 @@ author: ""
 date: ""
 url: "https://www.kerberos-compliance.com/wissen/blog/die-entwicklung-der-geldaewsche-in-deutschland-2014-2024-ein-alarmierender-trend"
 excerpt: ""
-crawled_at: "2026-10-29T08:19:42.132086"
+crawled_at: "2026-10-30T08:27:18.180770"
 ---
 
 # Die Entwicklung der Geldwäsche in Deutschland 2014-2024: Ein alarmierender Trend
@@ -55,7 +55,7 @@ Bei Kerberos unterstützen wir Unternehmen dabei, diesen Herausforderungen mit i
 
 Möchten Sie erfahren, wie Ihre Branche konkret betroffen ist und welche maßgeschneiderten Lösungen wir anbieten können? [Kontaktieren Sie uns für eine unverbindliche Beratung.](https://www.kerberos-compliance.com/unternehmen/kontakt)
 
-Jan Wagner Associate Direct & Partner Sales [Jan.Wagner@kerberos-cms.com](mailto:Jan.Wagner@kerberos-cms.com) [+49 221 65078953](tel:+4922165078953)
+Jan Wagner Senior Associate Direct & Partner Sales [Jan.Wagner@kerberos-cms.com](mailto:Jan.Wagner@kerberos-cms.com) [+49 221 65078953](tel:+4922165078953)
 
 [Termin buchen](https://qrco.de/bfsMCR)
 

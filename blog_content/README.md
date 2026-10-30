@@ -1,10 +1,10 @@
 # Blog Content Archive
 
-Automatisch gecrawlt am: 2026-10-29 08:21:43
+Automatisch gecrawlt am: 2026-10-30 08:29:13
 
 **Statistik:**
-- Gesamt Artikel: 140
-- Erfolgreich gecrawlt: 140
+- Gesamt Artikel: 141
+- Erfolgreich gecrawlt: 141
 - Fehlgeschlagen: 0
 
 **Quelle:** https://www.kerberos-compliance.com/wissen/blog
@@ -112,6 +112,7 @@ Automatisch gecrawlt am: 2026-10-29 08:21:43
 - [Entwürfe für EU-Anti-Geldwäsche-Verordnung und -Richtlinie veröffentlicht](entwrfe-fr-eu-anti-geldwsche-verordnung-und-richtlinie-verffentlicht.md) -  ()
 - [Geldwäsche im deutschen Immobiliensektor bleibt Milliardenproblem](geldwaesche-im-deutschen-immobiliensektor-bleibt-milliardenproblem.md) -  ()
 - [Weihnachtsgrüße von Christian Tsambikakis - Geschäftsführer](weihnachtsgruesse-von-christian-tsambikakis-geschaeftsfuehrer.md) -  ()
+- [Risikoanalyse 2027: Warum Ihre Einstufung und die der Aufsicht auseinanderlaufen können](risikoanalyse-2027-warum-ihre-einstufung-und-die-der-aufsicht-auseinanderlaufen-koennen.md) -  ()
 - [Portrait: Daniel Thelesklaf, zukünftiger Leiter der Financial Intelligence Unit (FIU) in Deutschland](portrait-daniel-thelesklaf.md) -  ()
 - [In meinen Gesprächen höre ich fast immer, dass Geldwäscheprävention und das Gesetz Unsinn sind](blog-post-title-two-stplb.md) -  ()
 - [Vom Krisenherd zum Vertrauensturbo: Umgang mit Datenschutzbeschwerden](vom-krisenherd-zum-vertrauensturbo-umgang-mit-datenschutzbeschwerden.md) -  ()

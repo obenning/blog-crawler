@@ -4,7 +4,7 @@ author: ""
 date: ""
 url: "https://www.kerberos-compliance.com/wissen/blog/geldwaesche-im-immobiliensektor-was-makler-jetzt-wissen-muessen"
 excerpt: ""
-crawled_at: "2026-10-29T08:18:31.912124"
+crawled_at: "2026-10-30T08:26:10.147377"
 ---
 
 # Geldwäsche im Immobiliensektor: Was Makler jetzt wissen müssen
@@ -94,7 +94,7 @@ So konzentrieren Sie sich auf Ihr Kerngeschäft, während wir die Compliance-Pfl
 
 Folgen Sie Kerberos auf [LinkedIn](https://www.linkedin.com/company/kerberos-compliance/) und abonnieren Sie den [Newsletter](https://www.kerberos-compliance.com/wissen/newsletter-anmeldung) für aktuelle Updates zu GwG-Pflichten, AMLA-Verordnung und praxisnahen Compliance-Themen.
 
-Jan Wagner Associate Direct & Partner Sales [Jan.Wagner@kerberos-cms.com](mailto:Jan.Wagner@kerberos-cms.com) [+49 221 65078953](tel:+4922165078953)
+Jan Wagner Senior Associate Direct & Partner Sales [Jan.Wagner@kerberos-cms.com](mailto:Jan.Wagner@kerberos-cms.com) [+49 221 65078953](tel:+4922165078953)
 
 [Termin buchen](https://qrco.de/bfsMCR)
 

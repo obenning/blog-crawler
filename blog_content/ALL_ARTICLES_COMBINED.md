@@ -1,8 +1,8 @@
 # 📚 Kerberos Compliance Blog - Alle Artikel
 
-**Generiert:** 29.10.2026 08:21
-**Anzahl Artikel:** 144
-**Gesamtwortanzahl:** 125,671
+**Generiert:** 30.10.2026 08:29
+**Anzahl Artikel:** 145
+**Gesamtwortanzahl:** 126,808
 
 ---
 
@@ -123,35 +123,36 @@
 113. [Rückgang bei Geldwäsche-Verdachtsmeldungen: Was steckt dahinter?](#rückgang-bei-geldwäscheverdachtsmeldungen-was-steckt-dahinter)
 114. [Rechnungsversand per E-Mail: Neue Rechtslage nach OLG-Urteil](#rechnungsversand-per-email-neue-rechtslage-nach-olgurteil)
 115. [Registrieren lohnt sich! FIU-Jahresbericht 2025 - Learnings für Verpflichtete](#registrieren-lohnt-sich-fiujahresbericht-2025--learnings-für-verpflichtete)
-116. [Risikomanagement für Factoring & Leasing-Gesellschaften nach EU-AML-Verordnung](#risikomanagement-für-factoring--leasinggesellschaften-nach-euamlverordnung)
-117. [Die Standards kommen - aber rechtzeitig? RTS-Lücken auf dem Weg zum 10. Juli 2027](#die-standards-kommen--aber-rechtzeitig-rtslücken-auf-dem-weg-zum-10-juli-2027)
-118. [Russland-Sanktionen - 5 Tipps zur Risikoreduzierung](#russlandsanktionen--5-tipps-zur-risikoreduzierung)
-119. [Sanktionen und was sie bedeuten](#sanktionen-und-was-sie-bedeuten)
-120. [Sanktionscompliance ab Juli 2027: Was die EU-AML-VO neu von Ihnen verlangt](#sanktionscompliance-ab-juli-2027-was-die-euamlvo-neu-von-ihnen-verlangt)
-121. [Schleswig-Holstein: Bußgelder in der Geldwäscheaufsicht steigen um 115 Prozent](#schleswigholstein-bußgelder-in-der-geldwäscheaufsicht-steigen-um-115-prozent)
-122. [“Schutzmaßnahmen „auslaufen“ zu lassen, scheint mir gefährlich” - Interview mit dem Compliance Beauftragten der thyssenkrupp AG](#schutzmaßnahmen-auslaufen-zu-lassen-scheint-mir-gefährlich--interview-mit-dem-compliance-beauftragten-der-thyssenkrupp-ag)
-123. [Stärkung Ihrer Cyber-Abwehr](#stärkung-ihrer-cyberabwehr)
-124. [Terrorismusfinanzierung in der Risikoanalyse: Was Verpflichtete jetzt getrennt bewerten müssen](#terrorismusfinanzierung-in-der-risikoanalyse-was-verpflichtete-jetzt-getrennt-bewerten-müssen)
-125. [Transparenzregister, koordinierte Aufsicht, erweiterter Datenaustausch: Die systemischen GwG-Änderungen des ZFG-Referentenentwurfs](#transparenzregister-koordinierte-aufsicht-erweiterter-datenaustausch-die-systemischen-gwgänderungen-des-zfgreferentenentwurfs)
-126. [Transparenzregistereintragung: 1.415 Unternehmen am Pranger](#transparenzregistereintragung-1415-unternehmen-am-pranger)
-127. [Übergangsregelungen: Transparenzregister – Noch auf dem neuesten Stand?](#übergangsregelungen-transparenzregister--noch-auf-dem-neuesten-stand)
-128. [UBO-Identifizierung nach der EU-AML-Verordnung: Was sich ab Juli 2027 grundlegend ändert](#uboidentifizierung-nach-der-euamlverordnung-was-sich-ab-juli-2027-grundlegend-ändert)
-129. [„Unverzüglichkeit“ und „Vollständigkeit“ – Gemeinsame Orientierungshilfe der BaFin und FIU](#unverzüglichkeit-und-vollständigkeit--gemeinsame-orientierungshilfe-der-bafin-und-fiu)
-130. [US-Cloud-Anbieter im Fokus: Datenschutzrisiken und Handlungsempfehlungen](#uscloudanbieter-im-fokus-datenschutzrisiken-und-handlungsempfehlungen)
-131. [Verdachtsmeldungen nach § 43 GwG: Was die BaFin/FIU-Orientierungshilfe konkret bedeutet](#verdachtsmeldungen-nach--43-gwg-was-die-bafinfiuorientierungshilfe-konkret-bedeutet)
-132. [Vermögensentzug ohne Strafurteil: Was §§ 52a–52n ZFG-Referentenentwurf für Verpflichtete bedeuten](#vermögensentzug-ohne-strafurteil-was--52a52n-zfgreferentenentwurf-für-verpflichtete-bedeuten)
-133. [Verschärfte Meldepflichten bei Immobilientransaktionen - die wichtigsten Änderungen der GwGMeldV-Immobilien 2025](#verschärfte-meldepflichten-bei-immobilientransaktionen--die-wichtigsten-änderungen-der-gwgmeldvimmobilien-2025)
-134. [Verstöße gegen das Geldwäschegesetz - Bußgelder und Prüfungen von 2017-2022](#verstöße-gegen-das-geldwäschegesetz--bußgelder-und-prüfungen-von-20172022)
-135. [Vom Krisenherd zum Vertrauensturbo: Umgang mit Datenschutzbeschwerden](#vom-krisenherd-zum-vertrauensturbo-umgang-mit-datenschutzbeschwerden)
-136. [Von Sommerloch keine Spur - der Kampf gegen Finanzkriminalität in den Medien](#von-sommerloch-keine-spur--der-kampf-gegen-finanzkriminalität-in-den-medien)
-137. [Vonovia – Korruptionsskandal mit Vorbildcharakter](#vonovia--korruptionsskandal-mit-vorbildcharakter)
-138. [Warum sind Risikoanalysen nach dem Geldwäschegesetz (GwG) so wichtig?](#warum-sind-risikoanalysen-nach-dem-geldwäschegesetz-gwg-so-wichtig)
-139. [Weihnachtsgrüße von Christian Tsambikakis - Geschäftsführer](#weihnachtsgrüße-von-christian-tsambikakis--geschäftsführer)
-140. [Wer sich bei der FIU registrieren muss - und warum die Aufsicht bald mitzählen kann](#wer-sich-bei-der-fiu-registrieren-muss--und-warum-die-aufsicht-bald-mitzählen-kann)
-141. [Wie steht es um die Bekämpfung von Geldwäsche in Deutschland? Und warum?](#wie-steht-es-um-die-bekämpfung-von-geldwäsche-in-deutschland-und-warum)
-142. [Wiederkehrende Pflichten zur Geldwäscheprävention – Update Ende 2025](#wiederkehrende-pflichten-zur-geldwäscheprävention--update-ende-2025)
-143. [Wiederkehrende Pflichten zur Geldwäscheprävention](#wiederkehrende-pflichten-zur-geldwäscheprävention)
-144. [Zwischen Innovation und Risiko - Kryptowährungen im Fokus des Geldwäschebeauftragten](#zwischen-innovation-und-risiko--kryptowährungen-im-fokus-des-geldwäschebeauftragten)
+116. [Risikoanalyse 2027: Warum Ihre Einstufung und die der Aufsicht auseinanderlaufen können](#risikoanalyse-2027-warum-ihre-einstufung-und-die-der-aufsicht-auseinanderlaufen-können)
+117. [Risikomanagement für Factoring & Leasing-Gesellschaften nach EU-AML-Verordnung](#risikomanagement-für-factoring--leasinggesellschaften-nach-euamlverordnung)
+118. [Die Standards kommen - aber rechtzeitig? RTS-Lücken auf dem Weg zum 10. Juli 2027](#die-standards-kommen--aber-rechtzeitig-rtslücken-auf-dem-weg-zum-10-juli-2027)
+119. [Russland-Sanktionen - 5 Tipps zur Risikoreduzierung](#russlandsanktionen--5-tipps-zur-risikoreduzierung)
+120. [Sanktionen und was sie bedeuten](#sanktionen-und-was-sie-bedeuten)
+121. [Sanktionscompliance ab Juli 2027: Was die EU-AML-VO neu von Ihnen verlangt](#sanktionscompliance-ab-juli-2027-was-die-euamlvo-neu-von-ihnen-verlangt)
+122. [Schleswig-Holstein: Bußgelder in der Geldwäscheaufsicht steigen um 115 Prozent](#schleswigholstein-bußgelder-in-der-geldwäscheaufsicht-steigen-um-115-prozent)
+123. [“Schutzmaßnahmen „auslaufen“ zu lassen, scheint mir gefährlich” - Interview mit dem Compliance Beauftragten der thyssenkrupp AG](#schutzmaßnahmen-auslaufen-zu-lassen-scheint-mir-gefährlich--interview-mit-dem-compliance-beauftragten-der-thyssenkrupp-ag)
+124. [Stärkung Ihrer Cyber-Abwehr](#stärkung-ihrer-cyberabwehr)
+125. [Terrorismusfinanzierung in der Risikoanalyse: Was Verpflichtete jetzt getrennt bewerten müssen](#terrorismusfinanzierung-in-der-risikoanalyse-was-verpflichtete-jetzt-getrennt-bewerten-müssen)
+126. [Transparenzregister, koordinierte Aufsicht, erweiterter Datenaustausch: Die systemischen GwG-Änderungen des ZFG-Referentenentwurfs](#transparenzregister-koordinierte-aufsicht-erweiterter-datenaustausch-die-systemischen-gwgänderungen-des-zfgreferentenentwurfs)
+127. [Transparenzregistereintragung: 1.415 Unternehmen am Pranger](#transparenzregistereintragung-1415-unternehmen-am-pranger)
+128. [Übergangsregelungen: Transparenzregister – Noch auf dem neuesten Stand?](#übergangsregelungen-transparenzregister--noch-auf-dem-neuesten-stand)
+129. [UBO-Identifizierung nach der EU-AML-Verordnung: Was sich ab Juli 2027 grundlegend ändert](#uboidentifizierung-nach-der-euamlverordnung-was-sich-ab-juli-2027-grundlegend-ändert)
+130. [„Unverzüglichkeit“ und „Vollständigkeit“ – Gemeinsame Orientierungshilfe der BaFin und FIU](#unverzüglichkeit-und-vollständigkeit--gemeinsame-orientierungshilfe-der-bafin-und-fiu)
+131. [US-Cloud-Anbieter im Fokus: Datenschutzrisiken und Handlungsempfehlungen](#uscloudanbieter-im-fokus-datenschutzrisiken-und-handlungsempfehlungen)
+132. [Verdachtsmeldungen nach § 43 GwG: Was die BaFin/FIU-Orientierungshilfe konkret bedeutet](#verdachtsmeldungen-nach--43-gwg-was-die-bafinfiuorientierungshilfe-konkret-bedeutet)
+133. [Vermögensentzug ohne Strafurteil: Was §§ 52a–52n ZFG-Referentenentwurf für Verpflichtete bedeuten](#vermögensentzug-ohne-strafurteil-was--52a52n-zfgreferentenentwurf-für-verpflichtete-bedeuten)
+134. [Verschärfte Meldepflichten bei Immobilientransaktionen - die wichtigsten Änderungen der GwGMeldV-Immobilien 2025](#verschärfte-meldepflichten-bei-immobilientransaktionen--die-wichtigsten-änderungen-der-gwgmeldvimmobilien-2025)
+135. [Verstöße gegen das Geldwäschegesetz - Bußgelder und Prüfungen von 2017-2022](#verstöße-gegen-das-geldwäschegesetz--bußgelder-und-prüfungen-von-20172022)
+136. [Vom Krisenherd zum Vertrauensturbo: Umgang mit Datenschutzbeschwerden](#vom-krisenherd-zum-vertrauensturbo-umgang-mit-datenschutzbeschwerden)
+137. [Von Sommerloch keine Spur - der Kampf gegen Finanzkriminalität in den Medien](#von-sommerloch-keine-spur--der-kampf-gegen-finanzkriminalität-in-den-medien)
+138. [Vonovia – Korruptionsskandal mit Vorbildcharakter](#vonovia--korruptionsskandal-mit-vorbildcharakter)
+139. [Warum sind Risikoanalysen nach dem Geldwäschegesetz (GwG) so wichtig?](#warum-sind-risikoanalysen-nach-dem-geldwäschegesetz-gwg-so-wichtig)
+140. [Weihnachtsgrüße von Christian Tsambikakis - Geschäftsführer](#weihnachtsgrüße-von-christian-tsambikakis--geschäftsführer)
+141. [Wer sich bei der FIU registrieren muss - und warum die Aufsicht bald mitzählen kann](#wer-sich-bei-der-fiu-registrieren-muss--und-warum-die-aufsicht-bald-mitzählen-kann)
+142. [Wie steht es um die Bekämpfung von Geldwäsche in Deutschland? Und warum?](#wie-steht-es-um-die-bekämpfung-von-geldwäsche-in-deutschland-und-warum)
+143. [Wiederkehrende Pflichten zur Geldwäscheprävention – Update Ende 2025](#wiederkehrende-pflichten-zur-geldwäscheprävention--update-ende-2025)
+144. [Wiederkehrende Pflichten zur Geldwäscheprävention](#wiederkehrende-pflichten-zur-geldwäscheprävention)
+145. [Zwischen Innovation und Risiko - Kryptowährungen im Fokus des Geldwäschebeauftragten](#zwischen-innovation-und-risiko--kryptowährungen-im-fokus-des-geldwäschebeauftragten)
 
 ---
 
@@ -333,17 +334,17 @@ Die drei Tage können nur abgekürzt werden, wenn eine Staatsanwaltschaft oder d
 
 **Autor:** Unknown  
 **Datum:**   
-**Wortanzahl:** 1,712  
+**Wortanzahl:** 1,726  
 
 ---
 
 # Blog Content Archive
 
-Automatisch gecrawlt am: 2026-10-29 08:21:43
+Automatisch gecrawlt am: 2026-10-30 08:29:13
 
 **Statistik:**
-- Gesamt Artikel: 140
-- Erfolgreich gecrawlt: 140
+- Gesamt Artikel: 141
+- Erfolgreich gecrawlt: 141
 - Fehlgeschlagen: 0
 
 **Quelle:** https://www.kerberos-compliance.com/wissen/blog
@@ -451,6 +452,7 @@ Automatisch gecrawlt am: 2026-10-29 08:21:43
 - [Entwürfe für EU-Anti-Geldwäsche-Verordnung und -Richtlinie veröffentlicht](entwrfe-fr-eu-anti-geldwsche-verordnung-und-richtlinie-verffentlicht.md) -  ()
 - [Geldwäsche im deutschen Immobiliensektor bleibt Milliardenproblem](geldwaesche-im-deutschen-immobiliensektor-bleibt-milliardenproblem.md) -  ()
 - [Weihnachtsgrüße von Christian Tsambikakis - Geschäftsführer](weihnachtsgruesse-von-christian-tsambikakis-geschaeftsfuehrer.md) -  ()
+- [Risikoanalyse 2027: Warum Ihre Einstufung und die der Aufsicht auseinanderlaufen können](risikoanalyse-2027-warum-ihre-einstufung-und-die-der-aufsicht-auseinanderlaufen-koennen.md) -  ()
 - [Portrait: Daniel Thelesklaf, zukünftiger Leiter der Financial Intelligence Unit (FIU) in Deutschland](portrait-daniel-thelesklaf.md) -  ()
 - [In meinen Gesprächen höre ich fast immer, dass Geldwäscheprävention und das Gesetz Unsinn sind](blog-post-title-two-stplb.md) -  ()
 - [Vom Krisenherd zum Vertrauensturbo: Umgang mit Datenschutzbeschwerden](vom-krisenherd-zum-vertrauensturbo-umgang-mit-datenschutzbeschwerden.md) -  ()
@@ -3022,7 +3024,7 @@ Frank Lässig Senior AML Compliance Manager
 
 **Autor:**   
 **Datum:**   
-**Wortanzahl:** 609  
+**Wortanzahl:** 610  
 **Original:** https://www.kerberos-compliance.com/wissen/blog/die-entwicklung-der-geldaewsche-in-deutschland-2014-2024-ein-alarmierender-trend  
 
 ---
@@ -3075,7 +3077,7 @@ Bei Kerberos unterstützen wir Unternehmen dabei, diesen Herausforderungen mit i
 
 Möchten Sie erfahren, wie Ihre Branche konkret betroffen ist und welche maßgeschneiderten Lösungen wir anbieten können? [Kontaktieren Sie uns für eine unverbindliche Beratung.](https://www.kerberos-compliance.com/unternehmen/kontakt)
 
-Jan Wagner Associate Direct & Partner Sales [Jan.Wagner@kerberos-cms.com](mailto:Jan.Wagner@kerberos-cms.com) [+49 221 65078953](tel:+4922165078953)
+Jan Wagner Senior Associate Direct & Partner Sales [Jan.Wagner@kerberos-cms.com](mailto:Jan.Wagner@kerberos-cms.com) [+49 221 65078953](tel:+4922165078953)
 
 [Termin buchen](https://qrco.de/bfsMCR)
 
@@ -3977,7 +3979,7 @@ Zusätzlich behält die EU sich und ihren Mitgliedsstaaten vor, weitere EU- oder
 
 **Autor:**   
 **Datum:**   
-**Wortanzahl:** 1,147  
+**Wortanzahl:** 1,148  
 **Original:** https://www.kerberos-compliance.com/wissen/blog/eu-geldwaescheverordnung-2027-was-kanzleien-jetzt-umstellen-sollten  
 
 ---
@@ -4052,7 +4054,7 @@ Sie entscheiden, wie viel Sie selbst machen: In AML-as-a-Service Plus begleiten 
 
 ## Kontakt aufnehmen
 
-Jan Wagner Associate Direct & Partner Sales [Jan.Wagner@kerberos-cms.com](mailto:Jan.Wagner@kerberos-cms.com) [+49 221 65078953](tel:+4922165078953)
+Jan Wagner Senior Associate Direct & Partner Sales [Jan.Wagner@kerberos-cms.com](mailto:Jan.Wagner@kerberos-cms.com) [+49 221 65078953](tel:+4922165078953)
 
 [Termin buchen](https://qrco.de/bfsMCR)
 
@@ -5161,7 +5163,7 @@ Otis Benning Senior Associate Marketing
 
 **Autor:**   
 **Datum:**   
-**Wortanzahl:** 1,062  
+**Wortanzahl:** 1,063  
 **Original:** https://www.kerberos-compliance.com/wissen/blog/geldwaesche-im-deutschen-immobiliensektor-bleibt-milliardenproblem  
 
 ---
@@ -5248,7 +5250,7 @@ Die Immobilienbranche muss sich auf deutlich höhere Compliance-Kosten einstelle
 
 Die Frankfurter AMLA-Ansiedlung positioniert Deutschland als Schlüsselakteur der europäischen AML-Aufsicht – eine Chance, die regulatorische Auslegung und Umsetzung maßgeblich zu beeinflussen. Entscheidend wird sein, ob die politischen und wirtschaftlichen Akteure diese historische Gelegenheit zur grundlegenden Reform nutzen oder ob Deutschland weiterhin als bevorzugtes Ziel internationaler Geldwäscher fungiert.
 
-Jan Wagner Associate Direct & Partner Sales [Jan.Wagner@kerberos-cms.com](mailto:Jan.Wagner@kerberos-cms.com) [+49 221 65078953](tel:+4922165078953)
+Jan Wagner Senior Associate Direct & Partner Sales [Jan.Wagner@kerberos-cms.com](mailto:Jan.Wagner@kerberos-cms.com) [+49 221 65078953](tel:+4922165078953)
 
 [Termin buchen](https://qrco.de/bfsMCR)
 
@@ -5258,7 +5260,7 @@ Jan Wagner Associate Direct & Partner Sales [Jan.Wagner@kerberos-cms.com](mailto
 
 **Autor:**   
 **Datum:**   
-**Wortanzahl:** 1,040  
+**Wortanzahl:** 1,041  
 **Original:** https://www.kerberos-compliance.com/wissen/blog/geldwaesche-im-immobiliensektor-was-makler-jetzt-wissen-muessen  
 
 ---
@@ -5350,7 +5352,7 @@ So konzentrieren Sie sich auf Ihr Kerngeschäft, während wir die Compliance-Pfl
 
 Folgen Sie Kerberos auf [LinkedIn](https://www.linkedin.com/company/kerberos-compliance/) und abonnieren Sie den [Newsletter](https://www.kerberos-compliance.com/wissen/newsletter-anmeldung) für aktuelle Updates zu GwG-Pflichten, AMLA-Verordnung und praxisnahen Compliance-Themen.
 
-Jan Wagner Associate Direct & Partner Sales [Jan.Wagner@kerberos-cms.com](mailto:Jan.Wagner@kerberos-cms.com) [+49 221 65078953](tel:+4922165078953)
+Jan Wagner Senior Associate Direct & Partner Sales [Jan.Wagner@kerberos-cms.com](mailto:Jan.Wagner@kerberos-cms.com) [+49 221 65078953](tel:+4922165078953)
 
 [Termin buchen](https://qrco.de/bfsMCR)
 
@@ -6882,7 +6884,7 @@ Dann melde Sie sich gerne bei uns. [Unsere Expert:innen helfen Ihnen gerne weite
 
 **Autor:**   
 **Datum:**   
-**Wortanzahl:** 927  
+**Wortanzahl:** 928  
 **Original:** https://www.kerberos-compliance.com/wissen/blog/immobiliensektor-behrdenprfungen-und-kundensorgfaltspflichten-richtig-meistern  
 
 ---
@@ -6991,7 +6993,7 @@ Die professionelle Umsetzung der Geldwäscheprävention gehört heute zum Qualit
 
 Die aktuelle Studie der Universität Trier belegt zudem erstmals wissenschaftlich: Effektive Geldwäschebekämpfung trägt zu einem gesünderen Immobilienmarkt bei und hilft, preistreibende Effekte zu reduzieren. So profitieren nicht nur Sie als Marktteilnehmer:in von mehr Rechtssicherheit, sondern auch Ihre Kund:innen von einem faireren Preisniveau.
 
-Jan Wagner Associate Direct & Partner Sales [Jan.Wagner@kerberos-cms.com](mailto:Jan.Wagner@kerberos-cms.com) [+49 221 65078953](tel:+4922165078953)
+Jan Wagner Senior Associate Direct & Partner Sales [Jan.Wagner@kerberos-cms.com](mailto:Jan.Wagner@kerberos-cms.com) [+49 221 65078953](tel:+4922165078953)
 
 [Termin buchen](https://qrco.de/bfsMCR)
 
@@ -9599,7 +9601,95 @@ Otis Benning Senior Associate Marketing
 
 ---
 
-## 116. Risikomanagement für Factoring & Leasing-Gesellschaften nach EU-AML-Verordnung
+## 116. Risikoanalyse 2027: Warum Ihre Einstufung und die der Aufsicht auseinanderlaufen können
+
+**Autor:**   
+**Datum:**   
+**Wortanzahl:** 1,118  
+**Original:** https://www.kerberos-compliance.com/wissen/blog/risikoanalyse-2027-warum-ihre-einstufung-und-die-der-aufsicht-auseinanderlaufen-koennen  
+
+---
+
+# Risikoanalyse 2027: Warum Ihre Einstufung und die der Aufsicht auseinanderlaufen können
+
+**Autor:**   
+**Datum:**   
+**URL:** https://www.kerberos-compliance.com/wissen/blog/risikoanalyse-2027-warum-ihre-einstufung-und-die-der-aufsicht-auseinanderlaufen-koennen
+
+---
+
+Datum: 2026-10-29
+
+Ab dem 10. Juli 2027 gilt die EU-AML-Verordnung unmittelbar ( [Art. 90 EU-AML-VO](https://eur-lex.europa.eu/legal-content/DE/TXT/HTML/?uri=OJ:L_202401624#art_90) ). Wie Ihre unternehmensweite Risikoanalyse dann aussehen muss, prägen zwei Texte der AMLA: eine Leitlinie, die sich an Sie als Verpflichtete richtet, und technische Regulierungsstandards (RTS), nach denen Ihre Aufsicht Ihr Risikoprofil berechnet. Beide denken in denselben drei Stufen – inhärentes Risiko, Sicherungsmaßnahmen (Kontrollen), Restrisiko –, kommen methodisch aber nicht zur Deckung.
+
+## Wie bewertet die Aufsicht künftig Ihr Risiko?
+
+Die Aufsicht bewertet Sie künftig im Kern nach festen Rechenregeln. Die Methodik dafür legt die AMLA in RTS fest ( [Art. 40 Abs. 2 AMLD6](https://eur-lex.europa.eu/legal-content/DE/TXT/HTML/?uri=OJ:L_202401640#040.002) ). Ihr Unternehmen liefert vorgegebene Datenpunkte, aus denen die Aufsicht ein inhärentes Risiko und eine Bewertung Ihrer Kontrollqualität errechnet, jeweils auf einer Skala von 1 bis 4. Aus beiden Werten ergibt sich Ihr Restrisiko, das einer von vier Klassen zugeordnet wird: gering, mittel, erheblich oder hoch.
+
+Was gute Maßnahmen dabei bewirken, zeigt ein bewusst extremes Beispiel aus dem Finanzsektor: Angenommen, die Aufsicht setzt Ihr inhärentes Risiko mit 4 an und bewertet Ihre Maßnahmen mit 1, der bestmöglichen Note. Das arithmetische Mittel ergibt 2,50 – und genau dort beginnt die Klasse „erheblich". Selbst perfekte Kontrollen senken das Ergebnis in diesem Fall also nur um eine Stufe. Im Nichtfinanzsektor wirken Maßnahmen nach dem aktuellen Entwurf noch schwächer, weil dort ein gewichtetes Mittel zugunsten des inhärenten Risikos gelten soll.
+
+Aus diesem Risikoprofil leitet die Aufsicht ab, wie oft und wie intensiv sie Sie prüft. Wann das greift, ist gestaffelt: Für den Finanzsektor liegt der Abschlussbericht der AMLA seit Dezember 2025 vor. Angenommen ist der Standard noch nicht, gelten soll er ab dem 31.12.2027. Für den Nichtfinanzsektor sieht der Entwurf grundsätzlich den 31.12.2028 vor, für Profifußballvereine und Spielervermittler ein Jahr später.
+
+## Was verlangt die Leitlinie von Ihrer eigenen Risikoanalyse?
+
+Die Leitlinie nach [Art. 10 Abs. 4 EU-AML-VO](https://eur-lex.europa.eu/legal-content/DE/TXT/HTML/?uri=OJ:L_202401624#010.004) legt Mindestinhalte fest, schreibt aber keine Rechenmethode vor. Der Konsultationsentwurf vom 16.04.2026 – die finale Fassung wird bis Jahresende erwartet – verlangt vier Bausteine:
+
+- einen Überblick über Ihr Geschäft – Struktur, Kunden, Produkte, Vertriebswege, Geografie und Auslagerungen,
+- die Ermittlung und Bewertung der inhärenten Risiken über Kunden, Produkte, Vertriebswege und Geografie hinweg,
+- die Bewertung Ihrer Sicherungsmaßnahmen nach Angemessenheit und Wirksamkeit,
+- das Restrisiko je Einzelrisiko und als Gesamtexposition.
+Anspruchsvoll ist vor allem der dritte Baustein: Es genügt nicht, dass eine Maßnahme existiert – Sie müssen belegen, dass sie wirkt, etwa mit Berichten der Revision, des Wirtschaftsprüfers oder eines externen Audits. Neu ist zudem das Sanktionsrisiko: Nach [Art. 10 Abs. 1 EU-AML-VO](https://eur-lex.europa.eu/legal-content/DE/TXT/HTML/?uri=OJ:L_202401624#010.001) bewerten Sie auch das Risiko, dass gezielte finanzielle Sanktionen nicht umgesetzt oder umgangen werden – nach dem Leitlinienentwurf entweder als Teil der Risikoanalyse oder in einer eigenen Bewertung.
+
+Bei Skala, Klassen und Gewichtung haben Sie Spielraum: Wichtigere Faktoren erhalten mehr Gewicht, aber keiner darf das Ergebnis unverhältnismäßig bestimmen, und die Begründung gehört in Ihre Methodik (Rn. 15 f. der Leitlinie). Formal ist die Leitlinie kein Gesetz, doch Verpflichtete sollen alle erforderlichen Anstrengungen unternehmen, ihr nachzukommen ( [Art. 54 Abs. 3 AMLA-VO](https://eur-lex.europa.eu/legal-content/DE/TXT/HTML/?uri=OJ:L_202401620#054.003) ). Wer abweicht, muss das gut begründen.
+
+## Wo passen Leitlinie und RTS nicht zusammen?
+
+Verbunden sind beide Texte über die Daten, nicht über die Berechnung: Nach Rn. 23 der Leitlinie sollen Sie mindestens die Datenpunkte der RTS heranziehen. Deren Skala, Gewichte und Formel übernimmt die Leitlinie aber nicht. Daraus ergeben sich drei Bruchstellen:
+
+- Gewichtung: Die RTS geben Risikokategorien mit höherer Bewertung mehr Gewicht. Die Leitlinie will dagegen verhindern, dass ein einzelner Faktor das Ergebnis dominiert. Zwar setzen beide auf unterschiedlichen Ebenen an – die RTS bei Risikokategorien, die Leitlinie bei einzelnen Faktoren –, die Richtung ist aber gegenläufig.
+- Restrisiko: Die Aufsicht rechnet mit fester Formel, die Leitlinie verlangt eine begründete Wertung – und betont, dass sich hohe Risiken nie vollständig wegkontrollieren lassen.
+- Kalibrierung: Die Gewichte der einzelnen Datenpunkte sind noch nicht bekannt, Ihr aufsichtliches Profil lässt sich also heute nicht nachrechnen.
+
+## Sollten Sie die Methodik der Aufsicht einfach übernehmen?
+
+Eins zu eins geht das nicht, ohne der Leitlinie zu widersprechen – und es fehlen schlicht die Gewichte. Abweichende Ergebnisse haben trotzdem Folgen: Kommt Ihre Analyse auf ein geringes Restrisiko, die Aufsicht dagegen auf ein erhebliches, wird der Prüfer wissen wollen, wie Sie zu Ihrer Einstufung kommen. Wir empfehlen einen Mittelweg: Übernehmen Sie die vierstufige Skala der RTS und bewerten Sie quantitativ. So denken Sie in derselben Logik wie die Aufsicht, statt aus einem drei-, fünf- oder sechsstufigen System übersetzen zu müssen – auch wenn Ihr „mittel" damit noch nicht das der Aufsicht ist. Die eigentliche Brücke ist Ihre Gewichtungsdokumentation, denn nur sie erklärt, warum Ihr Ergebnis vom Zahlenbild der Aufsicht abweicht.
+
+Trennen Sie außerdem zwei Rhythmen: Die RTS regeln, wann die Aufsicht Sie bewertet, nicht, wann Sie aktualisieren. [Art. 10 Abs. 2 EU-AML-VO](https://eur-lex.europa.eu/legal-content/DE/TXT/HTML/?uri=OJ:L_202401624#010.002) verlangt regelmäßige Überprüfungen und zusätzliche bei erheblichen Ereignissen. Wir raten zu einem jährlichen Turnus und zu einer Ad-hoc-Prüfung, etwa bei neuen Produkten.
+
+## Checkliste: Risikoanalyse 2027 vorbereiten
+
+- Klären Sie, welche RTS für Sie gelten: der vorgelegte Standard für den Finanzsektor oder der Entwurf für den Nichtfinanzsektor.
+- Richten Sie Datenstruktur und Skala an den RTS aus.
+- Begründen und dokumentieren Sie jede Gewichtungsentscheidung.
+- Belegen Sie die Wirksamkeit Ihrer Maßnahmen mit Revisions-, Prüfer- oder Audit-Berichten.
+- Bewerten Sie Ihr Sanktionsrisiko ( [Art. 10 Abs. 1 EU-AML-VO](https://eur-lex.europa.eu/legal-content/DE/TXT/HTML/?uri=OJ:L_202401624#010.001) ).
+
+## Wie wir Sie unterstützen
+
+Ihre Risiken zu ermitteln und zu bewerten, ist schon heute Pflicht ( [§ 5 Abs. 1 GwG](https://www.gesetze-im-internet.de/gwg_2017/__5.html) ). Unsere Expert:innen unterstützen Sie bei der Erstellung Ihrer AMLR-konformen Risikoanalyse – im AML desk über einen Fragebogen über den datenbasiert und plausibilitätsgeprüft wird – oder eng begleitet und persönlich als extern bestellte Geldwäschebeauftragte. Welches Modell für Sie am besten passt, klären wir gerne in einem unverbindlichen Beratungsgespräch.
+
+Schicken Sie uns gerne eine unverbindliche Anfrage über das Kontaktformular.
+
+## Fazit
+
+Ab Juli 2027 bewerten Sie sich nach neuen Regeln selbst. Zusätzlich bewertet Sie voraussichtlich die Aufsicht: im Finanzsektor ab Ende 2027, im Nichtfinanzsektor ab Ende 2028. Beide Ergebnisse müssen nebeneinander bestehen können. Warten Sie nicht auf die finalen Texte – die Gewichtungsdokumentation ist der aufwendigste Teil und wird in jedem Fall gebraucht. Der 10. Juli 2027 ist der natürliche Stichtag, Ihre Risikoanalyse neu aufzusetzen.
+
+### Quellen:
+
+- [VO (EU) 2024/1624 (EU-AML-VO), Art. 10, 90 – EUR-Lex](https://eur-lex.europa.eu/legal-content/DE/TXT/HTML/?uri=OJ:L_202401624)
+- [RL (EU) 2024/1640 (AMLD6), Art. 40 – EUR-Lex](https://eur-lex.europa.eu/legal-content/DE/TXT/HTML/?uri=OJ:L_202401640)
+- [VO (EU) 2024/1620 (AMLA-VO), Art. 54 – EUR-Lex](https://eur-lex.europa.eu/legal-content/DE/TXT/HTML/?uri=OJ:L_202401620)
+- [§ 5 GwG – Risikoanalyse](https://www.gesetze-im-internet.de/gwg_2017/__5.html)
+- [AMLA, Consultation Paper: Draft Guidelines on Business-wide risk assessment under Article 10(4) AMLR, 16.04.2026](https://www.amla.europa.eu/publications-and-data)
+- [AMLA, Final Report Draft RTS nach Art. 40 Abs. 2 AMLD (Finanzsektor), Dezember 2025, und Consultation Paper Draft RTS Nichtfinanzsektor](https://www.amla.europa.eu/policy/regulatory-instruments_en)
+
+## Kontakt aufnehmen
+
+Frank Lässig Senior AML Compliance Manager
+
+---
+
+## 117. Risikomanagement für Factoring & Leasing-Gesellschaften nach EU-AML-Verordnung
 
 **Autor:**   
 **Datum:**   
@@ -9694,7 +9784,7 @@ Fabian Müller Manager AML Compliance
 
 ---
 
-## 117. Die Standards kommen - aber rechtzeitig? RTS-Lücken auf dem Weg zum 10. Juli 2027
+## 118. Die Standards kommen - aber rechtzeitig? RTS-Lücken auf dem Weg zum 10. Juli 2027
 
 **Autor:**   
 **Datum:**   
@@ -9811,7 +9901,7 @@ Thomas Manzey Head of AML Compliance - Financial & Payment Services
 
 ---
 
-## 118. Russland-Sanktionen - 5 Tipps zur Risikoreduzierung
+## 119. Russland-Sanktionen - 5 Tipps zur Risikoreduzierung
 
 **Autor:**   
 **Datum:**   
@@ -9870,7 +9960,7 @@ Wichtig bei Sanktionen zu beachten ist, dass sie auch dann gelten, wenn die Gesc
 
 ---
 
-## 119. Sanktionen und was sie bedeuten
+## 120. Sanktionen und was sie bedeuten
 
 **Autor:**   
 **Datum:**   
@@ -9989,7 +10079,7 @@ Am 16. Dezember 2022 verabschiedete die EU schon das neunte Sanktionspaket. Stan
 
 ---
 
-## 120. Sanktionscompliance ab Juli 2027: Was die EU-AML-VO neu von Ihnen verlangt
+## 121. Sanktionscompliance ab Juli 2027: Was die EU-AML-VO neu von Ihnen verlangt
 
 **Autor:**   
 **Datum:**   
@@ -10104,7 +10194,7 @@ Frank Lässig Senior AML Compliance Manager
 
 ---
 
-## 121. Schleswig-Holstein: Bußgelder in der Geldwäscheaufsicht steigen um 115 Prozent
+## 122. Schleswig-Holstein: Bußgelder in der Geldwäscheaufsicht steigen um 115 Prozent
 
 **Autor:**   
 **Datum:**   
@@ -10240,7 +10330,7 @@ Frank Lässig Senior AML Compliance Manager
 
 ---
 
-## 122. “Schutzmaßnahmen „auslaufen“ zu lassen, scheint mir gefährlich” - Interview mit dem Compliance Beauftragten der thyssenkrupp AG
+## 123. “Schutzmaßnahmen „auslaufen“ zu lassen, scheint mir gefährlich” - Interview mit dem Compliance Beauftragten der thyssenkrupp AG
 
 **Autor:**   
 **Datum:**   
@@ -10289,7 +10379,7 @@ Otis Benning Senior Associate Marketing
 
 ---
 
-## 123. Stärkung Ihrer Cyber-Abwehr
+## 124. Stärkung Ihrer Cyber-Abwehr
 
 **Autor:**   
 **Datum:**   
@@ -10328,7 +10418,7 @@ Bei Phishing-Simulationen ist auch das Thema Beschäftigtendatenschutz zu beacht
 
 ---
 
-## 124. Terrorismusfinanzierung in der Risikoanalyse: Was Verpflichtete jetzt getrennt bewerten müssen
+## 125. Terrorismusfinanzierung in der Risikoanalyse: Was Verpflichtete jetzt getrennt bewerten müssen
 
 **Autor:**   
 **Datum:**   
@@ -10442,7 +10532,7 @@ Fabian Müller Manager AML Compliance
 
 ---
 
-## 125. Transparenzregister, koordinierte Aufsicht, erweiterter Datenaustausch: Die systemischen GwG-Änderungen des ZFG-Referentenentwurfs
+## 126. Transparenzregister, koordinierte Aufsicht, erweiterter Datenaustausch: Die systemischen GwG-Änderungen des ZFG-Referentenentwurfs
 
 **Autor:**   
 **Datum:**   
@@ -10563,7 +10653,7 @@ Frank Lässig Senior AML Compliance Manager
 
 ---
 
-## 126. Transparenzregistereintragung: 1.415 Unternehmen am Pranger
+## 127. Transparenzregistereintragung: 1.415 Unternehmen am Pranger
 
 **Autor:**   
 **Datum:**   
@@ -10620,7 +10710,7 @@ Unseren Kund:innen stellen wir überdies auch einfache Video-Anleitungen für di
 
 ---
 
-## 127. Übergangsregelungen: Transparenzregister – Noch auf dem neuesten Stand?
+## 128. Übergangsregelungen: Transparenzregister – Noch auf dem neuesten Stand?
 
 **Autor:**   
 **Datum:**   
@@ -10651,7 +10741,7 @@ Sollten sie dies bislang nicht gemacht haben, wird es Zeit. Aus den veröffentli
 
 ---
 
-## 128. UBO-Identifizierung nach der EU-AML-Verordnung: Was sich ab Juli 2027 grundlegend ändert
+## 129. UBO-Identifizierung nach der EU-AML-Verordnung: Was sich ab Juli 2027 grundlegend ändert
 
 **Autor:**   
 **Datum:**   
@@ -10781,7 +10871,7 @@ Frank Lässig Senior AML Compliance Manager
 
 ---
 
-## 129. „Unverzüglichkeit“ und „Vollständigkeit“ – Gemeinsame Orientierungshilfe der BaFin und FIU
+## 130. „Unverzüglichkeit“ und „Vollständigkeit“ – Gemeinsame Orientierungshilfe der BaFin und FIU
 
 **Autor:**   
 **Datum:**   
@@ -10823,7 +10913,7 @@ Tobias Lequen Manager AML Compliance
 
 ---
 
-## 130. US-Cloud-Anbieter im Fokus: Datenschutzrisiken und Handlungsempfehlungen
+## 131. US-Cloud-Anbieter im Fokus: Datenschutzrisiken und Handlungsempfehlungen
 
 **Autor:**   
 **Datum:**   
@@ -10895,7 +10985,7 @@ Lena Pütz Head of Projects (Compliance) [lena.puetz@kerberos-cms.com](mailto:le
 
 ---
 
-## 131. Verdachtsmeldungen nach § 43 GwG: Was die BaFin/FIU-Orientierungshilfe konkret bedeutet
+## 132. Verdachtsmeldungen nach § 43 GwG: Was die BaFin/FIU-Orientierungshilfe konkret bedeutet
 
 **Autor:**   
 **Datum:**   
@@ -10997,7 +11087,7 @@ Maren Adam Principal AML Compliance
 
 ---
 
-## 132. Vermögensentzug ohne Strafurteil: Was §§ 52a–52n ZFG-Referentenentwurf für Verpflichtete bedeuten
+## 133. Vermögensentzug ohne Strafurteil: Was §§ 52a–52n ZFG-Referentenentwurf für Verpflichtete bedeuten
 
 **Autor:**   
 **Datum:**   
@@ -11109,7 +11199,7 @@ Laura Schäfer Managerin AML Compliance
 
 ---
 
-## 133. Verschärfte Meldepflichten bei Immobilientransaktionen - die wichtigsten Änderungen der GwGMeldV-Immobilien 2025
+## 134. Verschärfte Meldepflichten bei Immobilientransaktionen - die wichtigsten Änderungen der GwGMeldV-Immobilien 2025
 
 **Autor:**   
 **Datum:**   
@@ -11182,7 +11272,7 @@ Otis Benning Senior Associate Marketing
 
 ---
 
-## 134. Verstöße gegen das Geldwäschegesetz - Bußgelder und Prüfungen von 2017-2022
+## 135. Verstöße gegen das Geldwäschegesetz - Bußgelder und Prüfungen von 2017-2022
 
 **Autor:**   
 **Datum:**   
@@ -11235,7 +11325,7 @@ Vor diesem Hintergrund lassen sich die Forderungen der EU-Richtlinie zur Einrich
 
 ---
 
-## 135. Vom Krisenherd zum Vertrauensturbo: Umgang mit Datenschutzbeschwerden
+## 136. Vom Krisenherd zum Vertrauensturbo: Umgang mit Datenschutzbeschwerden
 
 **Autor:**   
 **Datum:**   
@@ -11326,7 +11416,7 @@ Sven Fus Senior Manager GDPR Compliance
 
 ---
 
-## 136. Von Sommerloch keine Spur - der Kampf gegen Finanzkriminalität in den Medien
+## 137. Von Sommerloch keine Spur - der Kampf gegen Finanzkriminalität in den Medien
 
 **Autor:**   
 **Datum:**   
@@ -11484,7 +11574,7 @@ Otis Benning Senior Associate Marketing
 
 ---
 
-## 137. Vonovia – Korruptionsskandal mit Vorbildcharakter
+## 138. Vonovia – Korruptionsskandal mit Vorbildcharakter
 
 **Autor:**   
 **Datum:**   
@@ -11565,7 +11655,7 @@ Hinweisgebersysteme zu betreiben ist unkompliziert. Kerberos bietet kostengünst
 
 ---
 
-## 138. Warum sind Risikoanalysen nach dem Geldwäschegesetz (GwG) so wichtig?
+## 139. Warum sind Risikoanalysen nach dem Geldwäschegesetz (GwG) so wichtig?
 
 **Autor:**   
 **Datum:**   
@@ -11617,7 +11707,7 @@ Daneben bieten insbesondere digitale Lösungen zur automatisierten Abfrage geldw
 
 ---
 
-## 139. Weihnachtsgrüße von Christian Tsambikakis - Geschäftsführer
+## 140. Weihnachtsgrüße von Christian Tsambikakis - Geschäftsführer
 
 **Autor:**   
 **Datum:**   
@@ -11652,7 +11742,7 @@ Christian Tsambikakis, Geschäftsführer
 
 ---
 
-## 140. Wer sich bei der FIU registrieren muss - und warum die Aufsicht bald mitzählen kann
+## 141. Wer sich bei der FIU registrieren muss - und warum die Aufsicht bald mitzählen kann
 
 **Autor:**   
 **Datum:**   
@@ -11720,7 +11810,7 @@ Otis Benning Senior Associate Marketing
 
 ---
 
-## 141. Wie steht es um die Bekämpfung von Geldwäsche in Deutschland? Und warum?
+## 142. Wie steht es um die Bekämpfung von Geldwäsche in Deutschland? Und warum?
 
 **Autor:**   
 **Datum:**   
@@ -11779,7 +11869,7 @@ Anhand der Ergebnisse des Follow-Up-Reports lassen sich also die gröbsten Herau
 
 ---
 
-## 142. Wiederkehrende Pflichten zur Geldwäscheprävention – Update Ende 2025
+## 143. Wiederkehrende Pflichten zur Geldwäscheprävention – Update Ende 2025
 
 **Autor:**   
 **Datum:**   
@@ -11864,7 +11954,7 @@ Otis Benning Senior Associate Marketing
 
 ---
 
-## 143. Wiederkehrende Pflichten zur Geldwäscheprävention
+## 144. Wiederkehrende Pflichten zur Geldwäscheprävention
 
 **Autor:**   
 **Datum:**   
@@ -11909,7 +11999,7 @@ Um die Zertifizierung als Geldwäschebeauftragte, soweit diese vorhanden ist, zu
 
 ---
 
-## 144. Zwischen Innovation und Risiko - Kryptowährungen im Fokus des Geldwäschebeauftragten
+## 145. Zwischen Innovation und Risiko - Kryptowährungen im Fokus des Geldwäschebeauftragten
 
 **Autor:**   
 **Datum:**   

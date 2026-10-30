@@ -1,8 +1,8 @@
 {
-  "crawled_at": "2026-10-29T08:21:43.189005",
+  "crawled_at": "2026-10-30T08:29:13.320701",
   "base_url": "https://www.kerberos-compliance.com/wissen/blog",
-  "total_articles": 140,
-  "successful": 140,
+  "total_articles": 141,
+  "successful": 141,
   "failed": 0,
   "articles": [
     {
@@ -711,6 +711,13 @@
       "author": "",
       "date": "",
       "url": "https://www.kerberos-compliance.com/wissen/blog/weihnachtsgruesse-von-christian-tsambikakis-geschaeftsfuehrer"
+    },
+    {
+      "filename": "risikoanalyse-2027-warum-ihre-einstufung-und-die-der-aufsicht-auseinanderlaufen-koennen.md",
+      "title": "Risikoanalyse 2027: Warum Ihre Einstufung und die der Aufsicht auseinanderlaufen können",
+      "author": "",
+      "date": "",
+      "url": "https://www.kerberos-compliance.com/wissen/blog/risikoanalyse-2027-warum-ihre-einstufung-und-die-der-aufsicht-auseinanderlaufen-koennen"
     },
     {
       "filename": "portrait-daniel-thelesklaf.md",

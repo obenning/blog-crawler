@@ -4,7 +4,7 @@ author: ""
 date: ""
 url: "https://www.kerberos-compliance.com/wissen/blog/geldwaesche-im-deutschen-immobiliensektor-bleibt-milliardenproblem"
 excerpt: ""
-crawled_at: "2026-10-29T08:19:25.439419"
+crawled_at: "2026-10-30T08:27:01.344607"
 ---
 
 # Geldwäsche im deutschen Immobiliensektor bleibt Milliardenproblem
@@ -89,6 +89,6 @@ Die Immobilienbranche muss sich auf deutlich höhere Compliance-Kosten einstelle
 
 Die Frankfurter AMLA-Ansiedlung positioniert Deutschland als Schlüsselakteur der europäischen AML-Aufsicht – eine Chance, die regulatorische Auslegung und Umsetzung maßgeblich zu beeinflussen. Entscheidend wird sein, ob die politischen und wirtschaftlichen Akteure diese historische Gelegenheit zur grundlegenden Reform nutzen oder ob Deutschland weiterhin als bevorzugtes Ziel internationaler Geldwäscher fungiert.
 
-Jan Wagner Associate Direct & Partner Sales [Jan.Wagner@kerberos-cms.com](mailto:Jan.Wagner@kerberos-cms.com) [+49 221 65078953](tel:+4922165078953)
+Jan Wagner Senior Associate Direct & Partner Sales [Jan.Wagner@kerberos-cms.com](mailto:Jan.Wagner@kerberos-cms.com) [+49 221 65078953](tel:+4922165078953)
 
 [Termin buchen](https://qrco.de/bfsMCR)
