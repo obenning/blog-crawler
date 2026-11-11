@@ -4,7 +4,7 @@ author: ""
 date: ""
 url: "https://www.kerberos-compliance.com/wissen/blog/eu-geldwaescheverordnung-2027-was-kanzleien-jetzt-umstellen-sollten"
 excerpt: ""
-crawled_at: "2026-11-10T09:33:26.144516"
+crawled_at: "2026-11-11T09:09:12.989759"
 ---
 
 # EU-Geldwäscheverordnung 2027: Was Kanzleien jetzt umstellen sollten
@@ -74,9 +74,6 @@ Sie entscheiden, wie viel Sie selbst machen: In AML-as-a-Service Plus begleiten 
 - Verordnung (EU) 2024/1624 (AMLR), Art. 2, 3, 10, 11, 15, 18, 20, 22, 26, 52, 62, 90 – [https://eur-lex.europa.eu/legal-content/DE/TXT/HTML/?uri=OJ:L_202401624](https://eur-lex.europa.eu/legal-content/DE/TXT/HTML/?uri=OJ:L_202401624)
 - Geldwäschegesetz (GwG), § 7 – [https://www.gesetze-im-internet.de/gwg_2017/__7.html](https://www.gesetze-im-internet.de/gwg_2017/__7.html)
 - AMLA – Regulatory Technical Standards – [https://www.amla.europa.eu/publications-and-data/regulatory-technical-standards](https://www.amla.europa.eu/publications-and-data/regulatory-technical-standards)
-
-## Kontakt aufnehmen
-
 Jan Wagner Senior Associate Direct & Partner Sales [Jan.Wagner@kerberos-cms.com](mailto:Jan.Wagner@kerberos-cms.com) [+49 221 65078953](tel:+4922165078953)
 
 [Termin buchen](https://qrco.de/bfsMCR)

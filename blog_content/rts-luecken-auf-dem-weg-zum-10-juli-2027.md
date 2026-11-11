@@ -4,7 +4,7 @@ author: ""
 date: ""
 url: "https://www.kerberos-compliance.com/wissen/blog/rts-luecken-auf-dem-weg-zum-10-juli-2027"
 excerpt: ""
-crawled_at: "2026-11-10T09:33:32.722038"
+crawled_at: "2026-11-11T09:09:18.717080"
 ---
 
 # Die Standards kommen - aber rechtzeitig? RTS-Lücken auf dem Weg zum 10. Juli 2027
@@ -106,8 +106,6 @@ Viertens: das Treffen und das Dokumentieren von klaren Entscheidungen durch die 
 Grundsätzlich sollte sich auch gefragt werden, ob mit Inkrafttreten der Verordnung interne Prozesse ausgelagert werden können. Die Zentralisierung der Geldwäscheprävention über das AML-Paket birgt für Verpflichtete auch Vorteile. Das gerade in Deutschland vorherrschende Klein-Klein in der Auslegung und Anwendbarkeit der Vorgaben des Geldwäschegesetzes fällt größtenteils weg. Allgemeingültige – wenn auch weiterhin branchenspezifische – Vorgaben schaffen mehr Raum für zentrale Lösungen.
 
 Kerberos Compliance steht Ihnen hier mit Software und Expertise zur Verfügung. Von einfachen Lösungen zur Kundenidentifizierung bis hin zur Stellung von Geldwäschebeauftragten – alles koordiniert über eine zentrale Plattform: Dem AML desk.
-
-## Kontakt aufnehmen
 
 Nadin Dósa Trainee AML Compliance - Financial & Payment Services
 

@@ -4,7 +4,7 @@ author: ""
 date: ""
 url: "https://www.kerberos-compliance.com/wissen/blog/amlr-ab-2027-welche-geldwaesche-pflichten-kraftfahrzeughaendler-treffen"
 excerpt: ""
-crawled_at: "2026-11-10T09:33:37.664449"
+crawled_at: "2026-11-11T09:09:23.050840"
 ---
 
 # AMLR ab 2027: Welche Geldwäsche-Pflichten Kraftfahrzeughändler treffen
@@ -50,8 +50,6 @@ Und sobald sich die Rechtslage weiter konkretisiert, lohnt sich ein erneuter Bli
 ## Sie fragen sich, was die AMLR für Sie bedeutet?
 
 Kerberos begleitet Kraftfahrzeughändler durch den Übergang von GwG zu AMLR – von der ersten Einordnung bis zur praktischen Umsetzung. Wir behalten die weitere Entwicklung für Sie im Blick und übersetzen sie in konkrete Schritte für Ihr Autohaus. [Sprechen Sie uns an](https://kerberos-compliance.com/) – wir schauen gemeinsam, was die AMLR aktuell und künftig für Sie bedeutet.
-
-## Kontakt aufnehmen
 
 Linn Sowa Associate AML Compliance
 

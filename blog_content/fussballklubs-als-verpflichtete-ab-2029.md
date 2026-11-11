@@ -4,7 +4,7 @@ author: ""
 date: ""
 url: "https://www.kerberos-compliance.com/wissen/blog/fussballklubs-als-verpflichtete-ab-2029"
 excerpt: ""
-crawled_at: "2026-11-10T09:33:29.625242"
+crawled_at: "2026-11-11T09:09:15.664548"
 ---
 
 # Fußballklubs als Verpflichtete ab 2029: Was Profivereine jetzt für die Geldwäscheprävention vorbereiten sollten
@@ -46,7 +46,5 @@ Kundendaten aktualisieren Sie bei erhöhtem Risiko spätestens nach einem Jahr, 
 ## Fazit
 
 Bis Juli 2029 ist Zeit, aber nicht unbegrenzt: Daten, Prozesse und Verantwortliche müssen rechtzeitig stehen. Wir unterstützen Verpflichtete über unsere Plattform - dem AML desk – durch die Erfahrung unserer Experten und digitale Prozesse zur Erfüllung Ihrer Pflichten: Standardschritte führen wir Sie im AML desk digital strukturiert durch; bei Auslegungsfragen können Sie unsere Experten hinzuziehen. Auch die Auslagerung des Geldwäschebeauftragten an Kerberos Compliance ist möglich.
-
-## Kontakt aufnehmen
 
 Lena Pütz Head of Projects (Compliance) [lena.puetz@kerberos-cms.com](mailto:lena.puetz@kerberos-cms.com) +49 221 65088968

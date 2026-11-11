@@ -4,7 +4,7 @@ author: ""
 date: ""
 url: "https://www.kerberos-compliance.com/wissen/blog/wer-sich-bei-der-fiu-registrieren-muss"
 excerpt: ""
-crawled_at: "2026-11-10T09:33:31.207565"
+crawled_at: "2026-11-11T09:09:17.252812"
 ---
 
 # Wer sich bei der FIU registrieren muss - und warum die Aufsicht bald mitzählen kann
@@ -59,7 +59,5 @@ Damit sind Sie auf jede Prüfung vorbereitet.
 ## Fazit
 
 Die Registrierungspflicht bei der FIU ist keine neue Vorschrift - neu ist, dass sie absehbar durchsetzbar wird. Mit dem geplanten Bußgeldtatbestand und der Datenschnittstelle zwischen FIU und Aufsicht verschiebt sich eine bislang eher formale Pflicht in Richtung einer tatsächlich geprüften. Wer die eigene Registrierung heute klärt, reduziert das Risiko, bei einer künftigen Prüfung als nicht registriert aufzufallen. Der AML desk verbindet dafür die strukturierte Erfassung Ihrer Registrierungspflichten mit der Einschätzung unserer Experten, wo der Gesetzgebungsprozess noch in Bewegung ist - aus einer Hand.
-
-## Kontakt aufnehmen
 
 Otis Benning Senior Associate Marketing

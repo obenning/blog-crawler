@@ -4,7 +4,7 @@ author: ""
 date: ""
 url: "https://www.kerberos-compliance.com/wissen/blog/eu-aml-verordnung-was-sich-fuer-steuerberater-aendert"
 excerpt: ""
-crawled_at: "2026-11-10T09:33:36.057756"
+crawled_at: "2026-11-11T09:09:21.496511"
 ---
 
 # EU-AML-Verordnung: Was sich für Steuerberater bei UBO-Prüfung, Sanktionsrecht und Geldwäschebeauftragten konkret ändert
@@ -64,7 +64,4 @@ Der AML desk unterstützt Verpflichtete und Geldwäschebeauftragte bei der Umset
 
 - Verordnung (EU) 2024/1624 (EU-AML-Verordnung / AML Single Rulebook), Art. 3, 9, 10, 15, 20, 22, 62: [eur-lex.europa.eu](http://eur-lex.europa.eu)
 - Kerberos-Webinar „Steuerberater: Änderungen durch die EU-AML-Verordnung" vom 14.07.2026, Referentin Lena Pütz (Head of Projects, Kerberos Compliance)
-
-## Kontakt aufnehmen
-
 Lena Pütz Head of Projects (Compliance) [lena.puetz@kerberos-cms.com](mailto:lena.puetz@kerberos-cms.com) +49 221 65088968

@@ -4,7 +4,7 @@ author: ""
 date: ""
 url: "https://www.kerberos-compliance.com/wissen/blog/eu-aml-verordnung-2027-was-steuerberater-jetzt-vorbereiten-muessen"
 excerpt: ""
-crawled_at: "2026-11-10T09:33:45.594530"
+crawled_at: "2026-11-11T09:09:29.920806"
 ---
 
 # EU-AML-Verordnung 2027: Was Steuerberater jetzt vorbereiten müssen
@@ -80,9 +80,6 @@ Kerberos unterstützt Sie dabei: mit der Anpassung Ihrer bestehenden Compliance-
 - AMLA RTS-Entwurf zu Art. 28(1) AMLR – Customer Due Diligence (Konsultation offen, Stand März 2026): [amla.europa.eu/publications-and-data](https://www.amla.europa.eu/publications-and-data)
 - AMLA RTS-Entwurf zu Art. 10 AMLR – Business-Wide Risk Assessment: [amla.europa.eu/publications-and-data/regulatory-technical-standards](https://www.amla.europa.eu/publications-and-data/regulatory-technical-standards)
 - Geldwäschegesetz (GwG) aktuelle Fassung (Feb. 2026): [gesetze-im-internet.de/gwg_2017](https://www.gesetze-im-internet.de/gwg_2017/)
-
-## Kontakt aufnehmen
-
 Frank Lässig Senior AML Compliance Manager
 
 Lena Pütz Head of Projects (Compliance) [lena.puetz@kerberos-cms.com](mailto:lena.puetz@kerberos-cms.com) +49 221 65088968

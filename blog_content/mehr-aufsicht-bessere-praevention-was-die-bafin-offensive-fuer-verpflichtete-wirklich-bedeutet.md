@@ -4,7 +4,7 @@ author: ""
 date: ""
 url: "https://www.kerberos-compliance.com/wissen/blog/mehr-aufsicht-bessere-praevention-was-die-bafin-offensive-fuer-verpflichtete-wirklich-bedeutet"
 excerpt: ""
-crawled_at: "2026-11-10T09:33:42.430841"
+crawled_at: "2026-11-11T09:09:27.277031"
 ---
 
 # Mehr Aufsicht, bessere Prävention? Was die BaFin-Offensive für Verpflichtete wirklich bedeutet
@@ -58,7 +58,5 @@ Mehr Behördenstellen sind ein notwendiger Baustein. Aber kein hinreichender. Di
 Genau hier setzt Kerberos an. Wir unterstützen Verpflichtete auf operationeller Ebene: bei der Risikoanalyse, den Sorgfaltspflichten, der Dokumentation und dem gesamten Compliance-Management-System. Nicht als Ersatz für die Aufsicht, sondern als Brücke zwischen regulatorischer Anforderung und unternehmerischer Realität.
 
 Sie möchten wissen, ob Ihr Unternehmen für die verschärfte Aufsichtslage vorbereitet ist? [Sprechen Sie mit unseren Compliance-Experten](https://www.kerberos-compliance.com/kontakt) – wir beraten Sie praxisnah und auf Augenhöhe.
-
-## Kontakt aufnehmen
 
 Frank Lässig Senior AML Compliance Manager

@@ -1,8 +1,8 @@
 # 📚 Kerberos Compliance Blog - Alle Artikel
 
-**Generiert:** 10.11.2026 09:37
+**Generiert:** 11.11.2026 09:12
 **Anzahl Artikel:** 145
-**Gesamtwortanzahl:** 126,808
+**Gesamtwortanzahl:** 126,760
 
 ---
 
@@ -340,7 +340,7 @@ Die drei Tage können nur abgekürzt werden, wenn eine Staatsanwaltschaft oder d
 
 # Blog Content Archive
 
-Automatisch gecrawlt am: 2026-11-10 09:37:07
+Automatisch gecrawlt am: 2026-11-11 09:12:37
 
 **Statistik:**
 - Gesamt Artikel: 141
@@ -1098,7 +1098,7 @@ Es wird sich bei den meisten Kunden bei der UBO-Anzahl nicht viel ändern. Aller
 
 **Autor:**   
 **Datum:**   
-**Wortanzahl:** 1,340  
+**Wortanzahl:** 1,337  
 **Original:** https://www.kerberos-compliance.com/wissen/blog/amla-guidelines-zur-risikoanalyse-neue-pflichten-fuer-alle-verpflichteten  
 
 ---
@@ -1215,8 +1215,6 @@ Digital. Bezahlbar. Auf dem neuesten regulatorischen Stand.
 
 [Sprechen Sie uns an!](https://www.kerberos-compliance.com/unternehmen/kontakt)
 
-## Kontakt aufnehmen
-
 Frank Lässig Senior AML Compliance Manager
 
 ---
@@ -1303,7 +1301,7 @@ Frank Lässig Senior AML Compliance Manager
 
 **Autor:**   
 **Datum:**   
-**Wortanzahl:** 604  
+**Wortanzahl:** 601  
 **Original:** https://www.kerberos-compliance.com/wissen/blog/amlr-ab-2027-welche-geldwaesche-pflichten-kraftfahrzeughaendler-treffen  
 
 ---
@@ -1352,8 +1350,6 @@ Und sobald sich die Rechtslage weiter konkretisiert, lohnt sich ein erneuter Bli
 
 Kerberos begleitet Kraftfahrzeughändler durch den Übergang von GwG zu AMLR – von der ersten Einordnung bis zur praktischen Umsetzung. Wir behalten die weitere Entwicklung für Sie im Blick und übersetzen sie in konkrete Schritte für Ihr Autohaus. [Sprechen Sie uns an](https://kerberos-compliance.com/) – wir schauen gemeinsam, was die AMLR aktuell und künftig für Sie bedeutet.
 
-## Kontakt aufnehmen
-
 Linn Sowa Associate AML Compliance
 
 Frank Lässig Senior AML Compliance Manager
@@ -1364,7 +1360,7 @@ Frank Lässig Senior AML Compliance Manager
 
 **Autor:**   
 **Datum:**   
-**Wortanzahl:** 1,146  
+**Wortanzahl:** 1,143  
 **Original:** https://www.kerberos-compliance.com/wissen/blog/bafin-aufsicht-bei-kvgen  
 
 ---
@@ -1434,8 +1430,6 @@ In der Praxis begleiten wir diese Gap-Analyse direkt über den AML desk: Dort we
 Die erste Runde der BaFin-Aufsichtsgespräche hat KVGen sensibilisiert. Was jetzt kommt, ist technisch anspruchsvoller: neue Berechnungsmethoden, erweiterte PEP-Listen, engere Nachweispflichten – und eine europäische Behörde, die beginnt, selbst zu fragen. Wer die Gap-Analyse jetzt angeht, vermeidet kurzfristigen Handlungsdruck, wenn die nächste Prüfwelle kommt.
 
 Kerberos Compliance unterstützt Sie dabei – über den AML desk und unsere AML-Experten – bei der Gap-Analyse, bei der Übernahme der MLRO-Funktion und bei der Vorbereitung auf regulatorische Prüfverfahren. Sprechen Sie uns an.
-
-## Kontakt aufnehmen
 
 Florian Peters Head of AML Compliance
 
@@ -3412,7 +3406,7 @@ Otis Benning Senior Associate Marketing
 
 **Autor:**   
 **Datum:**   
-**Wortanzahl:** 1,106  
+**Wortanzahl:** 1,103  
 **Original:** https://www.kerberos-compliance.com/wissen/blog/eu-aml-verordnung-2027-was-steuerberater-jetzt-vorbereiten-muessen  
 
 ---
@@ -3490,9 +3484,6 @@ Kerberos unterstützt Sie dabei: mit der Anpassung Ihrer bestehenden Compliance-
 - AMLA RTS-Entwurf zu Art. 28(1) AMLR – Customer Due Diligence (Konsultation offen, Stand März 2026): [amla.europa.eu/publications-and-data](https://www.amla.europa.eu/publications-and-data)
 - AMLA RTS-Entwurf zu Art. 10 AMLR – Business-Wide Risk Assessment: [amla.europa.eu/publications-and-data/regulatory-technical-standards](https://www.amla.europa.eu/publications-and-data/regulatory-technical-standards)
 - Geldwäschegesetz (GwG) aktuelle Fassung (Feb. 2026): [gesetze-im-internet.de/gwg_2017](https://www.gesetze-im-internet.de/gwg_2017/)
-
-## Kontakt aufnehmen
-
 Frank Lässig Senior AML Compliance Manager
 
 Lena Pütz Head of Projects (Compliance) [lena.puetz@kerberos-cms.com](mailto:lena.puetz@kerberos-cms.com) +49 221 65088968
@@ -3706,7 +3697,7 @@ Frank Lässig Senior AML Compliance Manager
 
 **Autor:**   
 **Datum:**   
-**Wortanzahl:** 910  
+**Wortanzahl:** 907  
 **Original:** https://www.kerberos-compliance.com/wissen/blog/eu-aml-verordnung-was-sich-fuer-steuerberater-aendert  
 
 ---
@@ -3768,9 +3759,6 @@ Der AML desk unterstützt Verpflichtete und Geldwäschebeauftragte bei der Umset
 
 - Verordnung (EU) 2024/1624 (EU-AML-Verordnung / AML Single Rulebook), Art. 3, 9, 10, 15, 20, 22, 62: [eur-lex.europa.eu](http://eur-lex.europa.eu)
 - Kerberos-Webinar „Steuerberater: Änderungen durch die EU-AML-Verordnung" vom 14.07.2026, Referentin Lena Pütz (Head of Projects, Kerberos Compliance)
-
-## Kontakt aufnehmen
-
 Lena Pütz Head of Projects (Compliance) [lena.puetz@kerberos-cms.com](mailto:lena.puetz@kerberos-cms.com) +49 221 65088968
 
 ---
@@ -3979,7 +3967,7 @@ Zusätzlich behält die EU sich und ihren Mitgliedsstaaten vor, weitere EU- oder
 
 **Autor:**   
 **Datum:**   
-**Wortanzahl:** 1,148  
+**Wortanzahl:** 1,145  
 **Original:** https://www.kerberos-compliance.com/wissen/blog/eu-geldwaescheverordnung-2027-was-kanzleien-jetzt-umstellen-sollten  
 
 ---
@@ -4051,9 +4039,6 @@ Sie entscheiden, wie viel Sie selbst machen: In AML-as-a-Service Plus begleiten 
 - Verordnung (EU) 2024/1624 (AMLR), Art. 2, 3, 10, 11, 15, 18, 20, 22, 26, 52, 62, 90 – [https://eur-lex.europa.eu/legal-content/DE/TXT/HTML/?uri=OJ:L_202401624](https://eur-lex.europa.eu/legal-content/DE/TXT/HTML/?uri=OJ:L_202401624)
 - Geldwäschegesetz (GwG), § 7 – [https://www.gesetze-im-internet.de/gwg_2017/__7.html](https://www.gesetze-im-internet.de/gwg_2017/__7.html)
 - AMLA – Regulatory Technical Standards – [https://www.amla.europa.eu/publications-and-data/regulatory-technical-standards](https://www.amla.europa.eu/publications-and-data/regulatory-technical-standards)
-
-## Kontakt aufnehmen
-
 Jan Wagner Senior Associate Direct & Partner Sales [Jan.Wagner@kerberos-cms.com](mailto:Jan.Wagner@kerberos-cms.com) [+49 221 65078953](tel:+4922165078953)
 
 [Termin buchen](https://qrco.de/bfsMCR)
@@ -4932,7 +4917,7 @@ Frank Lässig Senior AML Compliance Manager
 
 **Autor:**   
 **Datum:**   
-**Wortanzahl:** 748  
+**Wortanzahl:** 745  
 **Original:** https://www.kerberos-compliance.com/wissen/blog/fussballklubs-als-verpflichtete-ab-2029  
 
 ---
@@ -4976,8 +4961,6 @@ Kundendaten aktualisieren Sie bei erhöhtem Risiko spätestens nach einem Jahr, 
 ## Fazit
 
 Bis Juli 2029 ist Zeit, aber nicht unbegrenzt: Daten, Prozesse und Verantwortliche müssen rechtzeitig stehen. Wir unterstützen Verpflichtete über unsere Plattform - dem AML desk – durch die Erfahrung unserer Experten und digitale Prozesse zur Erfüllung Ihrer Pflichten: Standardschritte führen wir Sie im AML desk digital strukturiert durch; bei Auslegungsfragen können Sie unsere Experten hinzuziehen. Auch die Auslagerung des Geldwäschebeauftragten an Kerberos Compliance ist möglich.
-
-## Kontakt aufnehmen
 
 Lena Pütz Head of Projects (Compliance) [lena.puetz@kerberos-cms.com](mailto:lena.puetz@kerberos-cms.com) +49 221 65088968
 
@@ -8112,7 +8095,7 @@ Laura Schäfer Managerin AML Compliance
 
 **Autor:**   
 **Datum:**   
-**Wortanzahl:** 842  
+**Wortanzahl:** 839  
 **Original:** https://www.kerberos-compliance.com/wissen/blog/mehr-aufsicht-bessere-praevention-was-die-bafin-offensive-fuer-verpflichtete-wirklich-bedeutet  
 
 ---
@@ -8168,8 +8151,6 @@ Mehr Behördenstellen sind ein notwendiger Baustein. Aber kein hinreichender. Di
 Genau hier setzt Kerberos an. Wir unterstützen Verpflichtete auf operationeller Ebene: bei der Risikoanalyse, den Sorgfaltspflichten, der Dokumentation und dem gesamten Compliance-Management-System. Nicht als Ersatz für die Aufsicht, sondern als Brücke zwischen regulatorischer Anforderung und unternehmerischer Realität.
 
 Sie möchten wissen, ob Ihr Unternehmen für die verschärfte Aufsichtslage vorbereitet ist? [Sprechen Sie mit unseren Compliance-Experten](https://www.kerberos-compliance.com/kontakt) – wir beraten Sie praxisnah und auf Augenhöhe.
-
-## Kontakt aufnehmen
 
 Frank Lässig Senior AML Compliance Manager
 
@@ -8806,7 +8787,7 @@ Max Schrems hat mit seiner Organisation noyb [angekündigt](https://noyb.eu/de/e
 
 **Autor:**   
 **Datum:**   
-**Wortanzahl:** 1,200  
+**Wortanzahl:** 1,197  
 **Original:** https://www.kerberos-compliance.com/wissen/blog/ongoing-monitoring-nach-artikel-26-eu-aml-vo-was-sich-ab-juli-2027-aendert  
 
 ---
@@ -8894,8 +8875,6 @@ AMLA-Leitlinien zu Art. 26 AMLR (Erlass nach Art. 26 Abs. 5 AMLR bis 10.07.2026 
 Webinar Kerberos Compliance, „Continuous Monitoring nach Artikel 26 EU-AMLR" mit Thomas Manzey (Head of AML Compliance – Financial & Payment Services) und Florian Peters (Head of AML Compliance – Investment Industries & Capital Markets), 06.05.2026
 
 Sie haben Fragen zur Umsetzung oder benötigen externe Unterstützung beim Aufbau Ihres pKYC-Prozesses? [Sprechen Sie uns an.](https://www.kerberos-compliance.com/unternehmen/kontakt)
-
-## Kontakt aufnehmen
 
 Thomas Manzey Head of AML Compliance - Financial & Payment Services
 
@@ -9512,7 +9491,7 @@ Fatima Thönnes Manager GDPR Compliance
 
 **Autor:**   
 **Datum:**   
-**Wortanzahl:** 1,007  
+**Wortanzahl:** 1,004  
 **Original:** https://www.kerberos-compliance.com/wissen/blog/registrieren-lohnt-sich-fiu-jahresbericht-2025-learnings-fuer-verpflichtete  
 
 ---
@@ -9595,8 +9574,6 @@ Kurz zusammengefasst also: Eine goAML-Registrierung lohnt sich.
 - Schulen Sie Ihre Mitarbeitenden regelmäßig auf die Risiken und Gefahren der Geldwäsche, Terrorismusfinanzierung und Sanktionsumgehung - auch mithilfe der durch die FIU bereitgestellten Typologiepapiere (interner Bereich für Verpflichtete)
 Sollten Sie hierbei sowie bei der Erfüllung weiterer Pflichten Unterstützung benötigen, kontaktieren Sie uns.
 
-## Kontakt aufnehmen
-
 Otis Benning Senior Associate Marketing
 
 ---
@@ -9605,7 +9582,7 @@ Otis Benning Senior Associate Marketing
 
 **Autor:**   
 **Datum:**   
-**Wortanzahl:** 1,118  
+**Wortanzahl:** 1,115  
 **Original:** https://www.kerberos-compliance.com/wissen/blog/risikoanalyse-2027-warum-ihre-einstufung-und-die-der-aufsicht-auseinanderlaufen-koennen  
 
 ---
@@ -9682,9 +9659,6 @@ Ab Juli 2027 bewerten Sie sich nach neuen Regeln selbst. Zusätzlich bewertet Si
 - [§ 5 GwG – Risikoanalyse](https://www.gesetze-im-internet.de/gwg_2017/__5.html)
 - [AMLA, Consultation Paper: Draft Guidelines on Business-wide risk assessment under Article 10(4) AMLR, 16.04.2026](https://www.amla.europa.eu/publications-and-data)
 - [AMLA, Final Report Draft RTS nach Art. 40 Abs. 2 AMLD (Finanzsektor), Dezember 2025, und Consultation Paper Draft RTS Nichtfinanzsektor](https://www.amla.europa.eu/policy/regulatory-instruments_en)
-
-## Kontakt aufnehmen
-
 Frank Lässig Senior AML Compliance Manager
 
 ---
@@ -9788,7 +9762,7 @@ Fabian Müller Manager AML Compliance
 
 **Autor:**   
 **Datum:**   
-**Wortanzahl:** 1,730  
+**Wortanzahl:** 1,727  
 **Original:** https://www.kerberos-compliance.com/wissen/blog/rts-luecken-auf-dem-weg-zum-10-juli-2027  
 
 ---
@@ -9892,8 +9866,6 @@ Viertens: das Treffen und das Dokumentieren von klaren Entscheidungen durch die 
 Grundsätzlich sollte sich auch gefragt werden, ob mit Inkrafttreten der Verordnung interne Prozesse ausgelagert werden können. Die Zentralisierung der Geldwäscheprävention über das AML-Paket birgt für Verpflichtete auch Vorteile. Das gerade in Deutschland vorherrschende Klein-Klein in der Auslegung und Anwendbarkeit der Vorgaben des Geldwäschegesetzes fällt größtenteils weg. Allgemeingültige – wenn auch weiterhin branchenspezifische – Vorgaben schaffen mehr Raum für zentrale Lösungen.
 
 Kerberos Compliance steht Ihnen hier mit Software und Expertise zur Verfügung. Von einfachen Lösungen zur Kundenidentifizierung bis hin zur Stellung von Geldwäschebeauftragten – alles koordiniert über eine zentrale Plattform: Dem AML desk.
-
-## Kontakt aufnehmen
 
 Nadin Dósa Trainee AML Compliance - Financial & Payment Services
 
@@ -10083,7 +10055,7 @@ Am 16. Dezember 2022 verabschiedete die EU schon das neunte Sanktionspaket. Stan
 
 **Autor:**   
 **Datum:**   
-**Wortanzahl:** 1,595  
+**Wortanzahl:** 1,592  
 **Original:** https://www.kerberos-compliance.com/wissen/blog/sanktionscompliance-ab-juli-2027  
 
 ---
@@ -10185,9 +10157,6 @@ Quellen:
 - [EuGH, Urteil vom 12.03.2026, C-84/24 – EUR-Lex](https://eur-lex.europa.eu/legal-content/DE/TXT/HTML/?uri=CELEX:62024CJ0084)
 - [BGBl. 2026 I Nr. 27 (AWG-Novelle, Gesetz vom 03.02.2026)](https://www.recht.bund.de/bgbl/1/2026/27/VO.html) · [BT-Drs. 21/3637 (Beschlussempfehlung Wirtschaftsausschuss)](https://dserver.bundestag.de/btd/21/036/2103637.pdf)
 - [Bundesbank: Merkblatt zur Einhaltung von Finanzsanktionen (Stand Juni 2024)](https://www.bundesbank.de/resource/blob/843142/1bf4bcbf0319c8d0bb8269841f0f9c4a/472B63F073F071307366337C94F8C870/merkblatt-einhaltung-data.pdf) · [Bundesbank: FAQ Finanzsanktionen (Stand Juni 2026)](https://www.bundesbank.de/resource/blob/886614/d23c7002f5aed9e9fdcea61c19a4092a/mL/faq-finanzsanktionen-data.pdf)
-
-## Kontakt aufnehmen
-
 Fabian Müller Manager AML Compliance
 
 Frank Lässig Senior AML Compliance Manager
@@ -10422,7 +10391,7 @@ Bei Phishing-Simulationen ist auch das Thema Beschäftigtendatenschutz zu beacht
 
 **Autor:**   
 **Datum:**   
-**Wortanzahl:** 1,095  
+**Wortanzahl:** 1,092  
 **Original:** https://www.kerberos-compliance.com/wissen/blog/terrorismusfinanzierung-in-der-risikoanalyse-was-verpflichtete-jetzt-getrennt-bewerten-muessen  
 
 ---
@@ -10523,9 +10492,6 @@ Wenn Sie Unterstützung bei der Überarbeitung Ihrer Risikoanalyse benötigen od
 - BaFin: TF-Präventionsmaßnahmen zunehmend im Fokus (06.02.2024)
 - BaFin: Erfahrungen aus Sonderprüfungen (13.01.2025)
 - BaFin: Risiken im Fokus 2026
-
-## Kontakt aufnehmen
-
 Maren Adam Principal AML Compliance
 
 Fabian Müller Manager AML Compliance
@@ -10745,7 +10711,7 @@ Sollten sie dies bislang nicht gemacht haben, wird es Zeit. Aus den veröffentli
 
 **Autor:**   
 **Datum:**   
-**Wortanzahl:** 1,344  
+**Wortanzahl:** 1,341  
 **Original:** https://www.kerberos-compliance.com/wissen/blog/ubo-identifizierung-nach-der-eu-aml-verordnung-was-sich-ab-juli-2027-grundlegend-aendert  
 
 ---
@@ -10862,9 +10828,6 @@ Kerberos Compliance begleitet Verpflichtete bei der Vorbereitung auf die EU-AML-
 
 - [Verordnung (EU) 2024/1624 des Europäischen Parlaments und des Rates vom 31. Mai 2024 (AML Single Rulebook), Art. 22, 51–54, 57, 62, 63](https://eur-lex.europa.eu/legal-content/DE/TXT/HTML/?uri=OJ:L_202401624)
 - [Geldwäschegesetz (GwG) in der Fassung vom Februar 2026, § 3, § 10](https://www.gesetze-im-internet.de/gwg_2017/)
-
-## Kontakt aufnehmen
-
 Laura Schäfer Managerin AML Compliance
 
 Frank Lässig Senior AML Compliance Manager
@@ -11746,7 +11709,7 @@ Christian Tsambikakis, Geschäftsführer
 
 **Autor:**   
 **Datum:**   
-**Wortanzahl:** 750  
+**Wortanzahl:** 747  
 **Original:** https://www.kerberos-compliance.com/wissen/blog/wer-sich-bei-der-fiu-registrieren-muss  
 
 ---
@@ -11803,8 +11766,6 @@ Damit sind Sie auf jede Prüfung vorbereitet.
 ## Fazit
 
 Die Registrierungspflicht bei der FIU ist keine neue Vorschrift - neu ist, dass sie absehbar durchsetzbar wird. Mit dem geplanten Bußgeldtatbestand und der Datenschnittstelle zwischen FIU und Aufsicht verschiebt sich eine bislang eher formale Pflicht in Richtung einer tatsächlich geprüften. Wer die eigene Registrierung heute klärt, reduziert das Risiko, bei einer künftigen Prüfung als nicht registriert aufzufallen. Der AML desk verbindet dafür die strukturierte Erfassung Ihrer Registrierungspflichten mit der Einschätzung unserer Experten, wo der Gesetzgebungsprozess noch in Bewegung ist - aus einer Hand.
-
-## Kontakt aufnehmen
 
 Otis Benning Senior Associate Marketing
 

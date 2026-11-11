@@ -4,7 +4,7 @@ author: ""
 date: ""
 url: "https://www.kerberos-compliance.com/wissen/blog/risikoanalyse-2027-warum-ihre-einstufung-und-die-der-aufsicht-auseinanderlaufen-koennen"
 excerpt: ""
-crawled_at: "2026-11-10T09:33:24.537991"
+crawled_at: "2026-11-11T09:09:11.541536"
 ---
 
 # Risikoanalyse 2027: Warum Ihre Einstufung und die der Aufsicht auseinanderlaufen können
@@ -79,7 +79,4 @@ Ab Juli 2027 bewerten Sie sich nach neuen Regeln selbst. Zusätzlich bewertet Si
 - [§ 5 GwG – Risikoanalyse](https://www.gesetze-im-internet.de/gwg_2017/__5.html)
 - [AMLA, Consultation Paper: Draft Guidelines on Business-wide risk assessment under Article 10(4) AMLR, 16.04.2026](https://www.amla.europa.eu/publications-and-data)
 - [AMLA, Final Report Draft RTS nach Art. 40 Abs. 2 AMLD (Finanzsektor), Dezember 2025, und Consultation Paper Draft RTS Nichtfinanzsektor](https://www.amla.europa.eu/policy/regulatory-instruments_en)
-
-## Kontakt aufnehmen
-
 Frank Lässig Senior AML Compliance Manager

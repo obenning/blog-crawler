@@ -4,7 +4,7 @@ author: ""
 date: ""
 url: "https://www.kerberos-compliance.com/wissen/blog/registrieren-lohnt-sich-fiu-jahresbericht-2025-learnings-fuer-verpflichtete"
 excerpt: ""
-crawled_at: "2026-11-10T09:33:34.397509"
+crawled_at: "2026-11-11T09:09:19.940272"
 ---
 
 # Registrieren lohnt sich! FIU-Jahresbericht 2025 - Learnings für Verpflichtete
@@ -84,7 +84,5 @@ Kurz zusammengefasst also: Eine goAML-Registrierung lohnt sich.
 - Sorgen Sie in Ihrem Unternehmen für einheitliche, dokumentierte und sichere Meldewege
 - Schulen Sie Ihre Mitarbeitenden regelmäßig auf die Risiken und Gefahren der Geldwäsche, Terrorismusfinanzierung und Sanktionsumgehung - auch mithilfe der durch die FIU bereitgestellten Typologiepapiere (interner Bereich für Verpflichtete)
 Sollten Sie hierbei sowie bei der Erfüllung weiterer Pflichten Unterstützung benötigen, kontaktieren Sie uns.
-
-## Kontakt aufnehmen
 
 Otis Benning Senior Associate Marketing

@@ -4,7 +4,7 @@ author: ""
 date: ""
 url: "https://www.kerberos-compliance.com/wissen/blog/bafin-aufsicht-bei-kvgen"
 excerpt: ""
-crawled_at: "2026-11-10T09:33:39.346068"
+crawled_at: "2026-11-11T09:09:24.559021"
 ---
 
 # BaFin-Aufsicht bei KVGen: Was sich 2026 verändert hat – und was 2027 konkret kommt
@@ -72,7 +72,5 @@ In der Praxis begleiten wir diese Gap-Analyse direkt über den AML desk: Dort we
 Die erste Runde der BaFin-Aufsichtsgespräche hat KVGen sensibilisiert. Was jetzt kommt, ist technisch anspruchsvoller: neue Berechnungsmethoden, erweiterte PEP-Listen, engere Nachweispflichten – und eine europäische Behörde, die beginnt, selbst zu fragen. Wer die Gap-Analyse jetzt angeht, vermeidet kurzfristigen Handlungsdruck, wenn die nächste Prüfwelle kommt.
 
 Kerberos Compliance unterstützt Sie dabei – über den AML desk und unsere AML-Experten – bei der Gap-Analyse, bei der Übernahme der MLRO-Funktion und bei der Vorbereitung auf regulatorische Prüfverfahren. Sprechen Sie uns an.
-
-## Kontakt aufnehmen
 
 Florian Peters Head of AML Compliance

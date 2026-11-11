@@ -4,7 +4,7 @@ author: ""
 date: ""
 url: "https://www.kerberos-compliance.com/wissen/blog/sanktionscompliance-ab-juli-2027"
 excerpt: ""
-crawled_at: "2026-11-10T09:33:28.068614"
+crawled_at: "2026-11-11T09:09:14.062389"
 ---
 
 # Sanktionscompliance ab Juli 2027: Was die EU-AML-VO neu von Ihnen verlangt
@@ -104,9 +104,6 @@ Quellen:
 - [EuGH, Urteil vom 12.03.2026, C-84/24 – EUR-Lex](https://eur-lex.europa.eu/legal-content/DE/TXT/HTML/?uri=CELEX:62024CJ0084)
 - [BGBl. 2026 I Nr. 27 (AWG-Novelle, Gesetz vom 03.02.2026)](https://www.recht.bund.de/bgbl/1/2026/27/VO.html) · [BT-Drs. 21/3637 (Beschlussempfehlung Wirtschaftsausschuss)](https://dserver.bundestag.de/btd/21/036/2103637.pdf)
 - [Bundesbank: Merkblatt zur Einhaltung von Finanzsanktionen (Stand Juni 2024)](https://www.bundesbank.de/resource/blob/843142/1bf4bcbf0319c8d0bb8269841f0f9c4a/472B63F073F071307366337C94F8C870/merkblatt-einhaltung-data.pdf) · [Bundesbank: FAQ Finanzsanktionen (Stand Juni 2026)](https://www.bundesbank.de/resource/blob/886614/d23c7002f5aed9e9fdcea61c19a4092a/mL/faq-finanzsanktionen-data.pdf)
-
-## Kontakt aufnehmen
-
 Fabian Müller Manager AML Compliance
 
 Frank Lässig Senior AML Compliance Manager

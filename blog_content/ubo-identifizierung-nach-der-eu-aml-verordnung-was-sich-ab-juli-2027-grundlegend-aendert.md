@@ -4,7 +4,7 @@ author: ""
 date: ""
 url: "https://www.kerberos-compliance.com/wissen/blog/ubo-identifizierung-nach-der-eu-aml-verordnung-was-sich-ab-juli-2027-grundlegend-aendert"
 excerpt: ""
-crawled_at: "2026-11-10T09:33:40.897924"
+crawled_at: "2026-11-11T09:09:25.795650"
 ---
 
 # UBO-Identifizierung nach der EU-AML-Verordnung: Was sich ab Juli 2027 grundlegend ändert
@@ -119,9 +119,6 @@ Kerberos Compliance begleitet Verpflichtete bei der Vorbereitung auf die EU-AML-
 
 - [Verordnung (EU) 2024/1624 des Europäischen Parlaments und des Rates vom 31. Mai 2024 (AML Single Rulebook), Art. 22, 51–54, 57, 62, 63](https://eur-lex.europa.eu/legal-content/DE/TXT/HTML/?uri=OJ:L_202401624)
 - [Geldwäschegesetz (GwG) in der Fassung vom Februar 2026, § 3, § 10](https://www.gesetze-im-internet.de/gwg_2017/)
-
-## Kontakt aufnehmen
-
 Laura Schäfer Managerin AML Compliance
 
 Frank Lässig Senior AML Compliance Manager
