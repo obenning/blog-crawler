@@ -4,7 +4,7 @@ author: ""
 date: ""
 url: "https://www.kerberos-compliance.com/wissen/blog/mafianeindanke-mitglied-eva-bloechl-im-interview"
 excerpt: ""
-crawled_at: "2026-11-12T09:39:05.636772"
+crawled_at: "2026-11-13T09:24:08.665048"
 ---
 
 # “Ich habe das Gefühl, dass nicht ankommt, das reale Gefahren bestehen.” Interview mit mafianeindanke-Mitglied Eva Blöchl
