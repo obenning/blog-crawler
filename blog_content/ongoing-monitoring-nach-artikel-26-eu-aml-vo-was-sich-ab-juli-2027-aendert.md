@@ -4,7 +4,7 @@ author: ""
 date: ""
 url: "https://www.kerberos-compliance.com/wissen/blog/ongoing-monitoring-nach-artikel-26-eu-aml-vo-was-sich-ab-juli-2027-aendert"
 excerpt: ""
-crawled_at: "2026-11-14T08:50:24.824369"
+crawled_at: "2026-11-15T09:05:28.748913"
 ---
 
 # Ongoing Monitoring nach Artikel 26 EU-AML VO: Was sich ab Juli 2027 ändert

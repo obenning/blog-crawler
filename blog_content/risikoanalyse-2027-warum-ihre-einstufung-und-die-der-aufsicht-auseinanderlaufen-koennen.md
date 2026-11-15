@@ -4,7 +4,7 @@ author: ""
 date: ""
 url: "https://www.kerberos-compliance.com/wissen/blog/risikoanalyse-2027-warum-ihre-einstufung-und-die-der-aufsicht-auseinanderlaufen-koennen"
 excerpt: ""
-crawled_at: "2026-11-14T08:50:04.954249"
+crawled_at: "2026-11-15T09:05:08.617341"
 ---
 
 # Risikoanalyse 2027: Warum Ihre Einstufung und die der Aufsicht auseinanderlaufen können

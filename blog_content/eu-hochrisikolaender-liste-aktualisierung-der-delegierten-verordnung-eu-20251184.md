@@ -4,7 +4,7 @@ author: ""
 date: ""
 url: "https://www.kerberos-compliance.com/wissen/blog/eu-hochrisikolaender-liste-aktualisierung-der-delegierten-verordnung-eu-20251184"
 excerpt: ""
-crawled_at: "2026-11-14T08:51:20.419055"
+crawled_at: "2026-11-15T09:06:20.778059"
 ---
 
 # EU-Hochrisikoländer-Liste: Aktualisierung der Delegierten Verordnung (EU) 2025/1184
