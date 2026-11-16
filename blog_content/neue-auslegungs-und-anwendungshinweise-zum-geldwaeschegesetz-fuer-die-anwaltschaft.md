@@ -4,7 +4,7 @@ author: ""
 date: ""
 url: "https://www.kerberos-compliance.com/wissen/blog/neue-auslegungs-und-anwendungshinweise-zum-geldwaeschegesetz-fuer-die-anwaltschaft"
 excerpt: ""
-crawled_at: "2026-11-15T09:07:18.607380"
+crawled_at: "2026-11-16T09:23:48.397145"
 ---
 
 # Neue Auslegungs- und Anwendungshinweise zum Geldwäschegesetz für die Anwaltschaft
@@ -74,4 +74,4 @@ In der zweiten und dritten Lesung im Bundestag wurde die Änderung des §73a BRA
 
 Autor:in:
 
-Dr. Anna Bolz Senior Manager AML Compliance
+Dr. Anna Bolz Head of AML Compliance - Real Economy & Regulated Markets (Finance)

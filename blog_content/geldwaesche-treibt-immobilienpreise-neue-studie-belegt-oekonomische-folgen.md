@@ -4,7 +4,7 @@ author: ""
 date: ""
 url: "https://www.kerberos-compliance.com/wissen/blog/geldwaesche-treibt-immobilienpreise-neue-studie-belegt-oekonomische-folgen"
 excerpt: ""
-crawled_at: "2026-11-15T09:06:52.398955"
+crawled_at: "2026-11-16T09:23:17.750143"
 ---
 
 # Geldwäsche treibt Immobilienpreise: Neue Studie belegt ökonomische Folgen

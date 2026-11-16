@@ -4,7 +4,7 @@ author: ""
 date: ""
 url: "https://www.kerberos-compliance.com/wissen/blog/verste-gegen-das-geldwschegesetz-bugelder-und-prfungen-von-2017-2022"
 excerpt: ""
-crawled_at: "2026-11-15T09:07:38.302694"
+crawled_at: "2026-11-16T09:24:09.948050"
 ---
 
 # Verstöße gegen das Geldwäschegesetz - Bußgelder und Prüfungen von 2017-2022

@@ -4,7 +4,7 @@ author: ""
 date: ""
 url: "https://www.kerberos-compliance.com/wissen/blog/how-to-goaml-amp-geldwaescheverdachtsmeldungen"
 excerpt: ""
-crawled_at: "2026-11-15T09:06:03.158896"
+crawled_at: "2026-11-16T09:22:21.173214"
 ---
 
 # How to: goAML & Geldwäscheverdachtsmeldungen – Webinar-Zusammenfassung
@@ -164,6 +164,6 @@ Interessiert an weiteren Webinaren und Compliance-Lösungen für den Kunstmarkt?
 
 Lena Pütz und Dr. Anna Bolz sind Compliance-Expertinnen bei Kerberos und verfügen über umfassende Erfahrung in der Geldwäscheprävention im Nichtfinanzsektor – mit besonderem Fokus auf den Kunst- und Antiquitätenhandel.
 
-Dr. Anna Bolz Senior Manager AML Compliance
+Dr. Anna Bolz Head of AML Compliance - Real Economy & Regulated Markets (Finance)
 
 Lena Pütz Head of Projects (Compliance) [lena.puetz@kerberos-cms.com](mailto:lena.puetz@kerberos-cms.com) +49 221 65088968

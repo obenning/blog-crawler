@@ -4,7 +4,7 @@ author: ""
 date: ""
 url: "https://www.kerberos-compliance.com/wissen/blog/das-muessen-rechtsanwaelte-und-kanzleien-zur-ihren-pflichten-nach-dem-geldwaeschegesetz-wissen"
 excerpt: ""
-crawled_at: "2026-11-15T09:07:29.270994"
+crawled_at: "2026-11-16T09:23:59.725058"
 ---
 
 # Das müssen Rechtsanwälte und Kanzleien zur Ihren Pflichten nach dem Geldwäschegesetz wissen.
@@ -88,4 +88,4 @@ Mit dem [MLRO-as-a-Service](https://www.kerberos-compliance.com/loesungen/geldwa
 
 Autor:in
 
-Dr. Anna Bolz Senior Manager AML Compliance
+Dr. Anna Bolz Head of AML Compliance - Real Economy & Regulated Markets (Finance)

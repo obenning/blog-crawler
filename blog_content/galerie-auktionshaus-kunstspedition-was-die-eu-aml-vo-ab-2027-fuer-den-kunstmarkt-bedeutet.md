@@ -4,7 +4,7 @@ author: ""
 date: ""
 url: "https://www.kerberos-compliance.com/wissen/blog/galerie-auktionshaus-kunstspedition-was-die-eu-aml-vo-ab-2027-fuer-den-kunstmarkt-bedeutet"
 excerpt: ""
-crawled_at: "2026-11-15T09:05:35.395670"
+crawled_at: "2026-11-16T09:21:49.196278"
 ---
 
 # Galerie, Auktionshaus, Kunstspedition: Was die EU-AML-VO ab 2027 für den Kunstmarkt bedeutet
@@ -107,6 +107,6 @@ GwG § 7 Abs. 1 – Geldwäschebeauftragter und Stellvertreter (aktuelle Fassung
 
 AMLA – RTS-Konsultationen (Nichtfinanzsektor, Stand März 2026):‍ https://www.amla.europa.eu/publications-and-data/regulatory-technical-standards‍  ‍
 
-Dr. Anna Bolz Senior Manager AML Compliance
+Dr. Anna Bolz Head of AML Compliance - Real Economy & Regulated Markets (Finance)
 
 Lena Pütz Head of Projects (Compliance) [lena.puetz@kerberos-cms.com](mailto:lena.puetz@kerberos-cms.com) +49 221 65088968

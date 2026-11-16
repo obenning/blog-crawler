@@ -4,7 +4,7 @@ author: ""
 date: ""
 url: "https://www.kerberos-compliance.com/wissen/blog/das-verdachtsmeldewesen-ist-kein-buerokratie-marathon-sondern-ein-fruehwarnsystem"
 excerpt: ""
-crawled_at: "2026-11-15T09:05:52.771911"
+crawled_at: "2026-11-16T09:22:09.473107"
 ---
 
 # "Das Verdachtsmeldewesen ist kein Bürokratie-Marathon, sondern ein Frühwarnsystem"
@@ -81,4 +81,4 @@ Beides. Einerseits zeigt es, dass das Eckpunktepapier wirkt und die Qualität de
 
 Otis Benning Senior Associate Marketing
 
-Dr. Anna Bolz Senior Manager AML Compliance
+Dr. Anna Bolz Head of AML Compliance - Real Economy & Regulated Markets (Finance)

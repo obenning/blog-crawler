@@ -1,5 +1,5 @@
 {
-  "generated": "2026-11-15T09:08:32.215574",
+  "generated": "2026-11-16T09:25:10.353266",
   "total_articles": 144,
   "articles": [
     {
@@ -270,7 +270,7 @@
       "url": "https://www.kerberos-compliance.com/wissen/blog/das-muessen-rechtsanwaelte-und-kanzleien-zur-ihren-pflichten-nach-dem-geldwaeschegesetz-wissen",
       "excerpt": "# Das müssen Rechtsanwälte und Kanzleien zur Ihren Pflichten nach dem Geldwäschegesetz wissen.\n\n**Autor:**   \n**Datum:**   \n**URL:** https://www.kerberos-compliance.com/wissen/blog/das-muessen-rechtsa...",
       "raw_url": "https://raw.githubusercontent.com/obenning/blog-crawler/main/blog_content/das-muessen-rechtsanwaelte-und-kanzleien-zur-ihren-pflichten-nach-dem-geldwaeschegesetz-wissen.md",
-      "word_count": 747
+      "word_count": 754
     },
     {
       "filename": "das-recht-auf-loeschung-nach-der-dsgvo-praxisleitfaden-fuer-unternehmen.md",
@@ -290,7 +290,7 @@
       "url": "https://www.kerberos-compliance.com/wissen/blog/das-verdachtsmeldewesen-ist-kein-buerokratie-marathon-sondern-ein-fruehwarnsystem",
       "excerpt": "# \"Das Verdachtsmeldewesen ist kein Bürokratie-Marathon, sondern ein Frühwarnsystem\"\n\n**Autor:**   \n**Datum:**   \n**URL:** https://www.kerberos-compliance.com/wissen/blog/das-verdachtsmeldewesen-ist-k...",
       "raw_url": "https://raw.githubusercontent.com/obenning/blog-crawler/main/blog_content/das-verdachtsmeldewesen-ist-kein-buerokratie-marathon-sondern-ein-fruehwarnsystem.md",
-      "word_count": 1418
+      "word_count": 1425
     },
     {
       "filename": "der-blinde-fleck-der-geldwaschepravention.md",
@@ -580,7 +580,7 @@
       "url": "https://www.kerberos-compliance.com/wissen/blog/galerie-auktionshaus-kunstspedition-was-die-eu-aml-vo-ab-2027-fuer-den-kunstmarkt-bedeutet",
       "excerpt": "# Galerie, Auktionshaus, Kunstspedition: Was die EU-AML-VO ab 2027 für den Kunstmarkt bedeutet\n\n**Autor:**   \n**Datum:**   \n**URL:** https://www.kerberos-compliance.com/wissen/blog/galerie-auktionshau...",
       "raw_url": "https://raw.githubusercontent.com/obenning/blog-crawler/main/blog_content/galerie-auktionshaus-kunstspedition-was-die-eu-aml-vo-ab-2027-fuer-den-kunstmarkt-bedeutet.md",
-      "word_count": 1320
+      "word_count": 1327
     },
     {
       "filename": "geldaewsche-in-deutschland-oktober-2025.md",
@@ -790,7 +790,7 @@
       "url": "https://www.kerberos-compliance.com/wissen/blog/how-to-goaml-amp-geldwaescheverdachtsmeldungen",
       "excerpt": "# How to: goAML & Geldwäscheverdachtsmeldungen – Webinar-Zusammenfassung\n\n**Autor:**   \n**Datum:**   \n**URL:** https://www.kerberos-compliance.com/wissen/blog/how-to-goaml-amp-geldwaescheverdachtsmeld...",
       "raw_url": "https://raw.githubusercontent.com/obenning/blog-crawler/main/blog_content/how-to-goaml-amp-geldwaescheverdachtsmeldungen.md",
-      "word_count": 1382
+      "word_count": 1389
     },
     {
       "filename": "how-to-goaml-geldwasche-verdachtsmeldungen.md",
@@ -1000,7 +1000,7 @@
       "url": "https://www.kerberos-compliance.com/wissen/blog/neue-auslegungs-und-anwendungshinweise-zum-geldwaeschegesetz-fuer-die-anwaltschaft",
       "excerpt": "# Neue Auslegungs- und Anwendungshinweise zum Geldwäschegesetz für die Anwaltschaft\n\n**Autor:**   \n**Datum:**   \n**URL:** https://www.kerberos-compliance.com/wissen/blog/neue-auslegungs-und-anwendungs...",
       "raw_url": "https://raw.githubusercontent.com/obenning/blog-crawler/main/blog_content/neue-auslegungs-und-anwendungshinweise-zum-geldwaeschegesetz-fuer-die-anwaltschaft.md",
-      "word_count": 1215
+      "word_count": 1222
     },
     {
       "filename": "neue-eu-vorschriften-zur-bekmpfung-von-geldwsche.md",
