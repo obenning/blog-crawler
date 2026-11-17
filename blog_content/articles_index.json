@@ -1,6 +1,6 @@
 {
-  "generated": "2026-11-16T09:25:10.353266",
-  "total_articles": 144,
+  "generated": "2026-11-17T10:32:22.655720",
+  "total_articles": 145,
   "articles": [
     {
       "filename": "21-jahriger-sohn-von-clanchef-abou-chaker-ersteigert-villen-fur-uber-7-millionen-euro.md",
@@ -201,6 +201,16 @@
       "excerpt": "# \"In meinen Gesprächen höre ich fast immer, dass Geldwäscheprävention und das Gesetz Unsinn sind\"\n\n**Autor:**   \n**Datum:**   \n**URL:** https://www.kerberos-compliance.com/wissen/blog/blog-post-title...",
       "raw_url": "https://raw.githubusercontent.com/obenning/blog-crawler/main/blog_content/blog-post-title-two-stplb.md",
       "word_count": 711
+    },
+    {
+      "filename": "bundestag-beschliesst-zollfinanzgerechtigkeitsgesetz.md",
+      "title": "Bundestag beschließt Zollfinanzgerechtigkeitsgesetz: Was sich im GwG für Verpflichtete ändert",
+      "author": "",
+      "date": "",
+      "url": "https://www.kerberos-compliance.com/wissen/blog/bundestag-beschliesst-zollfinanzgerechtigkeitsgesetz",
+      "excerpt": "# Bundestag beschließt Zollfinanzgerechtigkeitsgesetz: Was sich im GwG für Verpflichtete ändert\n\n**Autor:**   \n**Datum:**   \n**URL:** https://www.kerberos-compliance.com/wissen/blog/bundestag-beschlie...",
+      "raw_url": "https://raw.githubusercontent.com/obenning/blog-crawler/main/blog_content/bundestag-beschliesst-zollfinanzgerechtigkeitsgesetz.md",
+      "word_count": 1193
     },
     {
       "filename": "burokratie-braucht-burokrat-innen-wie-geldwaschebeauftragte-unternehmen-schutzen.md",
