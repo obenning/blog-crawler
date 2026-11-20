@@ -4,7 +4,7 @@ author: ""
 date: ""
 url: "https://www.kerberos-compliance.com/wissen/blog/sanktionscompliance-ab-juli-2027"
 excerpt: ""
-crawled_at: "2026-11-19T10:05:47.855681"
+crawled_at: "2026-11-20T09:53:54.693885"
 ---
 
 # Sanktionscompliance ab Juli 2027: Was die EU-AML-VO neu von Ihnen verlangt

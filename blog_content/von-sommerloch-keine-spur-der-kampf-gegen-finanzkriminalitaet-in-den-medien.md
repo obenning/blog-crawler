@@ -4,7 +4,7 @@ author: ""
 date: ""
 url: "https://www.kerberos-compliance.com/wissen/blog/von-sommerloch-keine-spur-der-kampf-gegen-finanzkriminalitaet-in-den-medien"
 excerpt: ""
-crawled_at: "2026-11-19T10:08:11.824845"
+crawled_at: "2026-11-20T09:56:03.249686"
 ---
 
 # Von Sommerloch keine Spur - der Kampf gegen Finanzkriminalität in den Medien
