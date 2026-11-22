@@ -4,7 +4,7 @@ author: ""
 date: ""
 url: "https://www.kerberos-compliance.com/wissen/blog/fussballklubs-als-verpflichtete-ab-2029"
 excerpt: ""
-crawled_at: "2026-11-21T09:30:28.715995"
+crawled_at: "2026-11-22T09:36:23.082878"
 ---
 
 # Fußballklubs als Verpflichtete ab 2029: Was Profivereine jetzt für die Geldwäscheprävention vorbereiten sollten
