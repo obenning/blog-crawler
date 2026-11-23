@@ -4,7 +4,7 @@ author: ""
 date: ""
 url: "https://www.kerberos-compliance.com/wissen/blog/verdachtsmeldungen-nach-43-gwg-was-die-bafin-fiu-orientierungshilfe-konkret-bedeutet"
 excerpt: ""
-crawled_at: "2026-11-22T09:36:41.720077"
+crawled_at: "2026-11-23T10:34:41.502665"
 ---
 
 # Verdachtsmeldungen nach § 43 GwG: Was die BaFin/FIU-Orientierungshilfe konkret bedeutet
