@@ -4,7 +4,7 @@ author: ""
 date: ""
 url: "https://www.kerberos-compliance.com/wissen/blog/geldwaesche-im-deutschen-immobiliensektor-bleibt-milliardenproblem"
 excerpt: ""
-crawled_at: "2026-11-23T10:35:38"
+crawled_at: "2026-11-24T12:18:23.975083"
 ---
 
 # Geldwäsche im deutschen Immobiliensektor bleibt Milliardenproblem
@@ -25,7 +25,13 @@ In diesem Webinar erfahren Makler, welche Pflichten nach dem Geldwäschegesetz h
 
 Ab dem 10.07.2027 gilt die AMLR. Für Kapitalverwaltungsgesellschaften bedeutet das klarere Governance, sauberes Investoren-KYC und feste Fristen bei langen Fondslaufzeiten. Das Webinar richtet sich an Geschäftsführung und Compliance Verantwortliche von KVGen.
 
+Klein, aber verpflichtet: Auch die Ein-Personen-Kanzlei muss das Geldwäschegesetz einhalten, und ab Juli 2027 gilt zusätzlich die EU-Geldwäscheverordnung. Wir zeigen, wann ein Mandat die Pflichten auslöst, auch in der Strafverteidigung und bei der Hilfe in Steuersachen. Wir klären, welche Erleichterungen es heute gibt und welches Mindestprogramm immer bleibt. Dazu gehören die Rolle von Leitung, Compliance-Manager und Geldwäschebeauftragtem in einer Person, Honorar und Zahlungswege sowie die Grenzen der Verschwiegenheit. Sie erhalten einen Fahrplan in zehn Schritten bis Juli 2027.
+
 Ihr Fonds steht, das Closing ist in Sicht, und die Geldwäscheprävention muss stehen, ohne dass Investoren wegen umständlichem KYC abspringen. Das Webinar richtet sich an Gründer:innen und Geschäftsführung kleiner VC-Verwalter.
+
+Fremdgeld auf dem Anwaltskonto ist ein Schutzinstrument und zugleich ein Einfallstor für Geldwäsche. In diesem Webinar klären wir, wann die Führung eines Anderkontos unter das Geldwäschegesetz fällt, heute und ab dem 10.07.2027. Wir gehen durch, was berufsrechtlich immer gilt, etwa beim Sammelanderkonto, und was bei Bargeld und Drittzahlern zu beachten ist. Sie erfahren, woran Sie Auffälligkeiten erkennen und wie Sie Prüfung, Dokumentation und Meldeweg sauber festhalten. Mit sechs Alltagsfällen und einer Checkliste mit zwölf Prüfpunkten.
+
+Das Geldwäschegesetz gilt heute, ab dem 10.07.2027 gilt die EU-Geldwäscheverordnung (AMLR). In diesem Webinar stellen wir die Pflichten für Rechtsanwält:innen gegenüber: Wer ist verpflichtet, was gilt für Risikoanalyse, Compliance-Funktion, Identifizierung, wirtschaftlich Berechtigte und Verdachtsmeldung, und was ändert sich? Wir ordnen außerdem die deutsche Umsetzung ein und geben Ihnen eine Checkliste „To-dos bis zum 10.07.2027“ mit.
 
 Die Geldwäsche in Deutschland erreicht ein geschätztes Volumen von bis zu 100 Milliarden Euro jährlich und stellt damit eine der große Bedrohungen für die Marktintegrität dar. Trotz verschärfter Gesetze und verstärkter Kontrollen seit 2023 bleiben auch im Immobiliensektor erhebliche Schwachstellen bestehen, die umfassende Reformen erfordern. Die Branche steht vor der Herausforderung, zwischen beruflichen Vertraulichkeitspflichten und präventiven Meldepflichten zu navigieren, während sie gleichzeitig mit komplexen internationalen Eigentümerstrukturen und unzureichenden technologischen Lösungen konfrontiert ist. Die geplante Harmonisierung der EU-Vorschriften bis 2027 versprechen eine grundlegende Neuausrichtung der deutschen Anti-Geldwäsche-Strategie.
 

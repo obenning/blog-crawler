@@ -4,7 +4,7 @@ author: ""
 date: ""
 url: "https://www.kerberos-compliance.com/wissen/blog/compliance-fort-bildungsangebote-fuer-2025"
 excerpt: ""
-crawled_at: "2026-11-23T10:36:16.932758"
+crawled_at: "2026-11-24T12:18:59.598311"
 ---
 
 # Compliance (Fort-)Bildungsangebote für 2025
@@ -39,7 +39,13 @@ In diesem Webinar erfahren Makler, welche Pflichten nach dem Geldwäschegesetz h
 
 Ab dem 10.07.2027 gilt die AMLR. Für Kapitalverwaltungsgesellschaften bedeutet das klarere Governance, sauberes Investoren-KYC und feste Fristen bei langen Fondslaufzeiten. Das Webinar richtet sich an Geschäftsführung und Compliance Verantwortliche von KVGen.
 
+Klein, aber verpflichtet: Auch die Ein-Personen-Kanzlei muss das Geldwäschegesetz einhalten, und ab Juli 2027 gilt zusätzlich die EU-Geldwäscheverordnung. Wir zeigen, wann ein Mandat die Pflichten auslöst, auch in der Strafverteidigung und bei der Hilfe in Steuersachen. Wir klären, welche Erleichterungen es heute gibt und welches Mindestprogramm immer bleibt. Dazu gehören die Rolle von Leitung, Compliance-Manager und Geldwäschebeauftragtem in einer Person, Honorar und Zahlungswege sowie die Grenzen der Verschwiegenheit. Sie erhalten einen Fahrplan in zehn Schritten bis Juli 2027.
+
 Ihr Fonds steht, das Closing ist in Sicht, und die Geldwäscheprävention muss stehen, ohne dass Investoren wegen umständlichem KYC abspringen. Das Webinar richtet sich an Gründer:innen und Geschäftsführung kleiner VC-Verwalter.
+
+Fremdgeld auf dem Anwaltskonto ist ein Schutzinstrument und zugleich ein Einfallstor für Geldwäsche. In diesem Webinar klären wir, wann die Führung eines Anderkontos unter das Geldwäschegesetz fällt, heute und ab dem 10.07.2027. Wir gehen durch, was berufsrechtlich immer gilt, etwa beim Sammelanderkonto, und was bei Bargeld und Drittzahlern zu beachten ist. Sie erfahren, woran Sie Auffälligkeiten erkennen und wie Sie Prüfung, Dokumentation und Meldeweg sauber festhalten. Mit sechs Alltagsfällen und einer Checkliste mit zwölf Prüfpunkten.
+
+Das Geldwäschegesetz gilt heute, ab dem 10.07.2027 gilt die EU-Geldwäscheverordnung (AMLR). In diesem Webinar stellen wir die Pflichten für Rechtsanwält:innen gegenüber: Wer ist verpflichtet, was gilt für Risikoanalyse, Compliance-Funktion, Identifizierung, wirtschaftlich Berechtigte und Verdachtsmeldung, und was ändert sich? Wir ordnen außerdem die deutsche Umsetzung ein und geben Ihnen eine Checkliste „To-dos bis zum 10.07.2027“ mit.
 
 Weitere Webinare kommen im Laufe der Zeit dazu. Folgen Sie uns auf [LinkedIn](https://www.linkedin.com/company/kerberos-compliance) , Abonnieren Sie unseren [Newsletter](https://www.kerberos-compliance.com/wissen/newsletter-anmeldung) oder besuchen Sie unsere Website um über unser aktuelles Angebot informiert zu bleiben.
 

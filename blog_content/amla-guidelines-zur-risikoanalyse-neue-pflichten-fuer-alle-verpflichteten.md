@@ -4,7 +4,7 @@ author: ""
 date: ""
 url: "https://www.kerberos-compliance.com/wissen/blog/amla-guidelines-zur-risikoanalyse-neue-pflichten-fuer-alle-verpflichteten"
 excerpt: ""
-crawled_at: "2026-11-23T10:34:39.022094"
+crawled_at: "2026-11-24T12:17:24.523967"
 ---
 
 # AMLA-Guidelines zur Risikoanalyse: Neue Pflichten für alle Verpflichteten
