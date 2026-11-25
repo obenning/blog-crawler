@@ -4,7 +4,7 @@ author: ""
 date: ""
 url: "https://www.kerberos-compliance.com/wissen/blog/bundestag-beschliesst-zollfinanzgerechtigkeitsgesetz"
 excerpt: ""
-crawled_at: "2026-11-24T12:16:59.467962"
+crawled_at: "2026-11-25T11:03:32.096561"
 ---
 
 # Bundestag beschließt Zollfinanzgerechtigkeitsgesetz: Was sich im GwG für Verpflichtete ändert

@@ -1,8 +1,8 @@
 # 📚 Kerberos Compliance Blog - Alle Artikel
 
-**Generiert:** 24.11.2026 12:20
+**Generiert:** 25.11.2026 11:07
 **Anzahl Artikel:** 146
-**Gesamtwortanzahl:** 128,833
+**Gesamtwortanzahl:** 128,785
 
 ---
 
@@ -341,7 +341,7 @@ Die drei Tage können nur abgekürzt werden, wenn eine Staatsanwaltschaft oder d
 
 # Blog Content Archive
 
-Automatisch gecrawlt am: 2026-11-24 12:20:32
+Automatisch gecrawlt am: 2026-11-25 11:07:02
 
 **Statistik:**
 - Gesamt Artikel: 142
@@ -2415,7 +2415,7 @@ Vielen Dank.
 
 **Autor:**   
 **Datum:**   
-**Wortanzahl:** 624  
+**Wortanzahl:** 600  
 **Original:** https://www.kerberos-compliance.com/wissen/blog/compliance-fort-bildungsangebote-fuer-2025  
 
 ---
@@ -2433,8 +2433,6 @@ Immobilienmakler, Kapitalverwaltungsgesellschaften, Güterhändler, Compliance-V
 ## (Re-)Zertifizierungen:
 
 Lassen Sie sich zum/zur DEKRA-zertifizierten Geldwäschebeauftragten ausbilden oder Rezertifizieren. Übernehme Sie in Ihrem Unternehmen die Verantwortung für die Umsetzung und Einhaltung der gesetzlichen Maßnahmen zur Geldwäscheprävention. Unsere viertägigen Kurse finden Online statt und werden von Praxis-Expert:innen von Kerberos, Verpflichteten und der Strafverfolgung angeleitet. Unsere Termine:
-
-Lassen Sie sich in 4 Tagen zum DEKRA-zertifizierten Geldwäschebeauftragten ausbilden. Profitieren Sie von einem breiten Netzwerk aus Compliance-Expert:innen aus der Praxis. [→ Jetzt buchen](https://www.kerberos-compliance.com/loesungen/zertifizierungen/geldwaschebeauftragte/16-11-2026)
 
 Frischen Sie Ihre Zertifizierung zum Geldwäschebeauftragten innerhalb nur eines Tages auf. Lassen Sie sich von Kerberos Rezertifizieren, unabhängig davon, wo Sie Ihre Erstzertifizierung vorgenommen haben. [→ Jetzt buchen](https://www.kerberos-compliance.com/loesungen/zertifizierungen/geldwaschebeauftragte/26-11-2026)
 
@@ -3414,7 +3412,7 @@ Die Verordnung gilt drei Tage nach Veröffentlichung im Europäischen Amtsblatt.
 
 **Autor:**   
 **Datum:**   
-**Wortanzahl:** 695  
+**Wortanzahl:** 671  
 **Original:** https://www.kerberos-compliance.com/wissen/blog/erfahrungsbericht-ich-bin-zertifizierte-geldwschebeauftragte-geworden  
 
 ---
@@ -3432,8 +3430,6 @@ Veröffentlicht: 2024-10-28
 Kerberos bietet neben der Auslagerung von Geldwäschebeauftragten sowie deren Stellvertreter:innen ebenso die Möglichkeit an, sich zu [Geldwäschebeauftragten Aus- und Fortbilden](https://www.kerberos-compliance.com/loesungen/zertifizierungen) zu lassen. Hierfür kooperiert Kerberos sowohl mit der DEKRA, als Zertifizierungspartner, als auch mit externen Expert:innen, die Schulungsteilnehmenden ein praxisnahes Bild aus unterschiedlichen Perspektiven vermitteln.
 
 Auch Mitarbeitende von Kerberos, die als externe Geldwäschebeauftragte für Kund:innen eingesetzt werden, durchlaufen diese Zertifizierung – sowie Auffrischungsschulungen. Was die Schulung besonders macht, berichtet eine frisch zertifizierte Geldwäschebeauftragte und Schulungsteilnehmerin.
-
-Lassen Sie sich in 4 Tagen zum DEKRA-zertifizierten Geldwäschebeauftragten ausbilden. Profitieren Sie von einem breiten Netzwerk aus Compliance-Expert:innen aus der Praxis. [→ Jetzt buchen](https://www.kerberos-compliance.com/loesungen/zertifizierungen/geldwaschebeauftragte/16-11-2026)
 
 Frischen Sie Ihre Zertifizierung zum Geldwäschebeauftragten innerhalb nur eines Tages auf. Lassen Sie sich von Kerberos Rezertifizieren, unabhängig davon, wo Sie Ihre Erstzertifizierung vorgenommen haben. [→ Jetzt buchen](https://www.kerberos-compliance.com/loesungen/zertifizierungen/geldwaschebeauftragte/26-11-2026)
 
