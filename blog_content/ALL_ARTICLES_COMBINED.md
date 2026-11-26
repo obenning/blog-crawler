@@ -1,6 +1,6 @@
 # 📚 Kerberos Compliance Blog - Alle Artikel
 
-**Generiert:** 25.11.2026 11:07
+**Generiert:** 26.11.2026 10:44
 **Anzahl Artikel:** 146
 **Gesamtwortanzahl:** 128,785
 
@@ -341,7 +341,7 @@ Die drei Tage können nur abgekürzt werden, wenn eine Staatsanwaltschaft oder d
 
 # Blog Content Archive
 
-Automatisch gecrawlt am: 2026-11-25 11:07:02
+Automatisch gecrawlt am: 2026-11-26 10:44:57
 
 **Statistik:**
 - Gesamt Artikel: 142
@@ -2450,9 +2450,9 @@ In diesem Webinar erfahren Makler, welche Pflichten nach dem Geldwäschegesetz h
 
 Ab dem 10.07.2027 gilt die AMLR. Für Kapitalverwaltungsgesellschaften bedeutet das klarere Governance, sauberes Investoren-KYC und feste Fristen bei langen Fondslaufzeiten. Das Webinar richtet sich an Geschäftsführung und Compliance Verantwortliche von KVGen.
 
-Klein, aber verpflichtet: Auch die Ein-Personen-Kanzlei muss das Geldwäschegesetz einhalten, und ab Juli 2027 gilt zusätzlich die EU-Geldwäscheverordnung. Wir zeigen, wann ein Mandat die Pflichten auslöst, auch in der Strafverteidigung und bei der Hilfe in Steuersachen. Wir klären, welche Erleichterungen es heute gibt und welches Mindestprogramm immer bleibt. Dazu gehören die Rolle von Leitung, Compliance-Manager und Geldwäschebeauftragtem in einer Person, Honorar und Zahlungswege sowie die Grenzen der Verschwiegenheit. Sie erhalten einen Fahrplan in zehn Schritten bis Juli 2027.
-
 Ihr Fonds steht, das Closing ist in Sicht, und die Geldwäscheprävention muss stehen, ohne dass Investoren wegen umständlichem KYC abspringen. Das Webinar richtet sich an Gründer:innen und Geschäftsführung kleiner VC-Verwalter.
+
+Klein, aber verpflichtet: Auch die Ein-Personen-Kanzlei muss das Geldwäschegesetz einhalten, und ab Juli 2027 gilt zusätzlich die EU-Geldwäscheverordnung. Wir zeigen, wann ein Mandat die Pflichten auslöst, auch in der Strafverteidigung und bei der Hilfe in Steuersachen. Wir klären, welche Erleichterungen es heute gibt und welches Mindestprogramm immer bleibt. Dazu gehören die Rolle von Leitung, Compliance-Manager und Geldwäschebeauftragtem in einer Person, Honorar und Zahlungswege sowie die Grenzen der Verschwiegenheit. Sie erhalten einen Fahrplan in zehn Schritten bis Juli 2027.
 
 Fremdgeld auf dem Anwaltskonto ist ein Schutzinstrument und zugleich ein Einfallstor für Geldwäsche. In diesem Webinar klären wir, wann die Führung eines Anderkontos unter das Geldwäschegesetz fällt, heute und ab dem 10.07.2027. Wir gehen durch, was berufsrechtlich immer gilt, etwa beim Sammelanderkonto, und was bei Bargeld und Drittzahlern zu beachten ist. Sie erfahren, woran Sie Auffälligkeiten erkennen und wie Sie Prüfung, Dokumentation und Meldeweg sauber festhalten. Mit sechs Alltagsfällen und einer Checkliste mit zwölf Prüfpunkten.
 
@@ -4914,9 +4914,9 @@ In diesem Webinar erfahren Makler, welche Pflichten nach dem Geldwäschegesetz h
 
 Ab dem 10.07.2027 gilt die AMLR. Für Kapitalverwaltungsgesellschaften bedeutet das klarere Governance, sauberes Investoren-KYC und feste Fristen bei langen Fondslaufzeiten. Das Webinar richtet sich an Geschäftsführung und Compliance Verantwortliche von KVGen.
 
-Klein, aber verpflichtet: Auch die Ein-Personen-Kanzlei muss das Geldwäschegesetz einhalten, und ab Juli 2027 gilt zusätzlich die EU-Geldwäscheverordnung. Wir zeigen, wann ein Mandat die Pflichten auslöst, auch in der Strafverteidigung und bei der Hilfe in Steuersachen. Wir klären, welche Erleichterungen es heute gibt und welches Mindestprogramm immer bleibt. Dazu gehören die Rolle von Leitung, Compliance-Manager und Geldwäschebeauftragtem in einer Person, Honorar und Zahlungswege sowie die Grenzen der Verschwiegenheit. Sie erhalten einen Fahrplan in zehn Schritten bis Juli 2027.
-
 Ihr Fonds steht, das Closing ist in Sicht, und die Geldwäscheprävention muss stehen, ohne dass Investoren wegen umständlichem KYC abspringen. Das Webinar richtet sich an Gründer:innen und Geschäftsführung kleiner VC-Verwalter.
+
+Klein, aber verpflichtet: Auch die Ein-Personen-Kanzlei muss das Geldwäschegesetz einhalten, und ab Juli 2027 gilt zusätzlich die EU-Geldwäscheverordnung. Wir zeigen, wann ein Mandat die Pflichten auslöst, auch in der Strafverteidigung und bei der Hilfe in Steuersachen. Wir klären, welche Erleichterungen es heute gibt und welches Mindestprogramm immer bleibt. Dazu gehören die Rolle von Leitung, Compliance-Manager und Geldwäschebeauftragtem in einer Person, Honorar und Zahlungswege sowie die Grenzen der Verschwiegenheit. Sie erhalten einen Fahrplan in zehn Schritten bis Juli 2027.
 
 Fremdgeld auf dem Anwaltskonto ist ein Schutzinstrument und zugleich ein Einfallstor für Geldwäsche. In diesem Webinar klären wir, wann die Führung eines Anderkontos unter das Geldwäschegesetz fällt, heute und ab dem 10.07.2027. Wir gehen durch, was berufsrechtlich immer gilt, etwa beim Sammelanderkonto, und was bei Bargeld und Drittzahlern zu beachten ist. Sie erfahren, woran Sie Auffälligkeiten erkennen und wie Sie Prüfung, Dokumentation und Meldeweg sauber festhalten. Mit sechs Alltagsfällen und einer Checkliste mit zwölf Prüfpunkten.
 
@@ -5259,9 +5259,9 @@ In diesem Webinar erfahren Makler, welche Pflichten nach dem Geldwäschegesetz h
 
 Ab dem 10.07.2027 gilt die AMLR. Für Kapitalverwaltungsgesellschaften bedeutet das klarere Governance, sauberes Investoren-KYC und feste Fristen bei langen Fondslaufzeiten. Das Webinar richtet sich an Geschäftsführung und Compliance Verantwortliche von KVGen.
 
-Klein, aber verpflichtet: Auch die Ein-Personen-Kanzlei muss das Geldwäschegesetz einhalten, und ab Juli 2027 gilt zusätzlich die EU-Geldwäscheverordnung. Wir zeigen, wann ein Mandat die Pflichten auslöst, auch in der Strafverteidigung und bei der Hilfe in Steuersachen. Wir klären, welche Erleichterungen es heute gibt und welches Mindestprogramm immer bleibt. Dazu gehören die Rolle von Leitung, Compliance-Manager und Geldwäschebeauftragtem in einer Person, Honorar und Zahlungswege sowie die Grenzen der Verschwiegenheit. Sie erhalten einen Fahrplan in zehn Schritten bis Juli 2027.
-
 Ihr Fonds steht, das Closing ist in Sicht, und die Geldwäscheprävention muss stehen, ohne dass Investoren wegen umständlichem KYC abspringen. Das Webinar richtet sich an Gründer:innen und Geschäftsführung kleiner VC-Verwalter.
+
+Klein, aber verpflichtet: Auch die Ein-Personen-Kanzlei muss das Geldwäschegesetz einhalten, und ab Juli 2027 gilt zusätzlich die EU-Geldwäscheverordnung. Wir zeigen, wann ein Mandat die Pflichten auslöst, auch in der Strafverteidigung und bei der Hilfe in Steuersachen. Wir klären, welche Erleichterungen es heute gibt und welches Mindestprogramm immer bleibt. Dazu gehören die Rolle von Leitung, Compliance-Manager und Geldwäschebeauftragtem in einer Person, Honorar und Zahlungswege sowie die Grenzen der Verschwiegenheit. Sie erhalten einen Fahrplan in zehn Schritten bis Juli 2027.
 
 Fremdgeld auf dem Anwaltskonto ist ein Schutzinstrument und zugleich ein Einfallstor für Geldwäsche. In diesem Webinar klären wir, wann die Führung eines Anderkontos unter das Geldwäschegesetz fällt, heute und ab dem 10.07.2027. Wir gehen durch, was berufsrechtlich immer gilt, etwa beim Sammelanderkonto, und was bei Bargeld und Drittzahlern zu beachten ist. Sie erfahren, woran Sie Auffälligkeiten erkennen und wie Sie Prüfung, Dokumentation und Meldeweg sauber festhalten. Mit sechs Alltagsfällen und einer Checkliste mit zwölf Prüfpunkten.
 
@@ -6990,9 +6990,9 @@ In diesem Webinar erfahren Makler, welche Pflichten nach dem Geldwäschegesetz h
 
 Ab dem 10.07.2027 gilt die AMLR. Für Kapitalverwaltungsgesellschaften bedeutet das klarere Governance, sauberes Investoren-KYC und feste Fristen bei langen Fondslaufzeiten. Das Webinar richtet sich an Geschäftsführung und Compliance Verantwortliche von KVGen.
 
-Klein, aber verpflichtet: Auch die Ein-Personen-Kanzlei muss das Geldwäschegesetz einhalten, und ab Juli 2027 gilt zusätzlich die EU-Geldwäscheverordnung. Wir zeigen, wann ein Mandat die Pflichten auslöst, auch in der Strafverteidigung und bei der Hilfe in Steuersachen. Wir klären, welche Erleichterungen es heute gibt und welches Mindestprogramm immer bleibt. Dazu gehören die Rolle von Leitung, Compliance-Manager und Geldwäschebeauftragtem in einer Person, Honorar und Zahlungswege sowie die Grenzen der Verschwiegenheit. Sie erhalten einen Fahrplan in zehn Schritten bis Juli 2027.
-
 Ihr Fonds steht, das Closing ist in Sicht, und die Geldwäscheprävention muss stehen, ohne dass Investoren wegen umständlichem KYC abspringen. Das Webinar richtet sich an Gründer:innen und Geschäftsführung kleiner VC-Verwalter.
+
+Klein, aber verpflichtet: Auch die Ein-Personen-Kanzlei muss das Geldwäschegesetz einhalten, und ab Juli 2027 gilt zusätzlich die EU-Geldwäscheverordnung. Wir zeigen, wann ein Mandat die Pflichten auslöst, auch in der Strafverteidigung und bei der Hilfe in Steuersachen. Wir klären, welche Erleichterungen es heute gibt und welches Mindestprogramm immer bleibt. Dazu gehören die Rolle von Leitung, Compliance-Manager und Geldwäschebeauftragtem in einer Person, Honorar und Zahlungswege sowie die Grenzen der Verschwiegenheit. Sie erhalten einen Fahrplan in zehn Schritten bis Juli 2027.
 
 Fremdgeld auf dem Anwaltskonto ist ein Schutzinstrument und zugleich ein Einfallstor für Geldwäsche. In diesem Webinar klären wir, wann die Führung eines Anderkontos unter das Geldwäschegesetz fällt, heute und ab dem 10.07.2027. Wir gehen durch, was berufsrechtlich immer gilt, etwa beim Sammelanderkonto, und was bei Bargeld und Drittzahlern zu beachten ist. Sie erfahren, woran Sie Auffälligkeiten erkennen und wie Sie Prüfung, Dokumentation und Meldeweg sauber festhalten. Mit sechs Alltagsfällen und einer Checkliste mit zwölf Prüfpunkten.
 

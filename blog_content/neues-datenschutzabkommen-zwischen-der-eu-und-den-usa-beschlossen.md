@@ -4,7 +4,7 @@ author: ""
 date: ""
 url: "https://www.kerberos-compliance.com/wissen/blog/neues-datenschutzabkommen-zwischen-der-eu-und-den-usa-beschlossen"
 excerpt: ""
-crawled_at: "2026-11-25T11:06:44.854824"
+crawled_at: "2026-11-26T10:44:40.103336"
 ---
 
 # Neues Datenschutzabkommen zwischen der EU und den USA beschlossen
