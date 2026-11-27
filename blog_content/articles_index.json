@@ -1,5 +1,5 @@
 {
-  "generated": "2026-11-26T10:44:57.879544",
+  "generated": "2026-11-27T10:46:21.155618",
   "total_articles": 145,
   "articles": [
     {
@@ -260,7 +260,7 @@
       "url": "https://www.kerberos-compliance.com/wissen/blog/compliance-fort-bildungsangebote-fuer-2025",
       "excerpt": "# Compliance (Fort-)Bildungsangebote für 2025\n\n**Autor:**   \n**Datum:**   \n**URL:** https://www.kerberos-compliance.com/wissen/blog/compliance-fort-bildungsangebote-fuer-2025\n\n---\n\nImmobilienmakler, K...",
       "raw_url": "https://raw.githubusercontent.com/obenning/blog-crawler/main/blog_content/compliance-fort-bildungsangebote-fuer-2025.md",
-      "word_count": 600
+      "word_count": 572
     },
     {
       "filename": "das-eu-aml-paket-neue-herausforderungen-fuer-die-geldwaeschepraevention.md",
@@ -390,7 +390,7 @@
       "url": "https://www.kerberos-compliance.com/wissen/blog/erfahrungsbericht-ich-bin-zertifizierte-geldwschebeauftragte-geworden",
       "excerpt": "# Erfahrungsbericht: Ich bin zertifizierte Geldwäschebeauftragte (geworden)\n\n**Autor:**   \n**Datum:**   \n**URL:** https://www.kerberos-compliance.com/wissen/blog/erfahrungsbericht-ich-bin-zertifiziert...",
       "raw_url": "https://raw.githubusercontent.com/obenning/blog-crawler/main/blog_content/erfahrungsbericht-ich-bin-zertifizierte-geldwschebeauftragte-geworden.md",
-      "word_count": 671
+      "word_count": 643
     },
     {
       "filename": "eu-aml-verordnung-2027-so-begleitet-kerberos-compliance-ihre-vorbereitung.md",

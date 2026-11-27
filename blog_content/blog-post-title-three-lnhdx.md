@@ -4,7 +4,7 @@ author: ""
 date: ""
 url: "https://www.kerberos-compliance.com/wissen/blog/blog-post-title-three-lnhdx"
 excerpt: ""
-crawled_at: "2026-11-26T10:44:32.743548"
+crawled_at: "2026-11-27T10:45:57.704047"
 ---
 
 # Wie Sie die Wirtschaft retten (müssen) und Christian Lindner glücklich machen
